@@ -1,70 +1,50 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746396144000,
+    "generated": 1746399720000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.73,
-        "place": "1 km SSE of Yorba Linda, CA",
-        "time": 1746394273880,
-        "updated": 1746394490480,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144768",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144768.geojson",
-        "title": "M 1.7 - 1 km SSE of Yorba Linda, CA"
+        "mag": 2,
+        "place": "54 km S of Whites City, New Mexico",
+        "time": 1746398301562,
+        "updated": 1746399199004,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isls",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isls.geojson",
+        "title": "M 2.0 - 54 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8096667,
-          33.8771667,
-          2.46
+          -104.357,
+          31.684,
+          4.6439
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.24,
-        "place": "4 km WNW of The Geysers, CA",
-        "time": 1746393435780,
-        "updated": 1746394338900,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176491",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176491.geojson",
-        "title": "M 0.2 - 4 km WNW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "24 km SSE of Minto, Alaska",
+        "time": 1746397349930,
+        "updated": 1746397449733,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pfvclt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pfvclt.geojson",
+        "title": "M 1.1 - 24 km SSE of Minto, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.802169799805,
-          38.7916679382324,
-          5.8899998664856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "44 km NW of Lake Minchumina, Alaska",
-        "time": 1746392750782,
-        "updated": 1746392919994,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pf6bfq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pf6bfq.geojson",
-        "title": "M 1.6 - 44 km NW of Lake Minchumina, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.9136,
-          64.1795,
+          -149.186,
+          64.9461,
           0
         ]
       }

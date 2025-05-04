@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746396139000,
+    "generated": 1746399748000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 189
+    "count": 184
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "54 km S of Whites City, New Mexico",
+        "time": 1746398301562,
+        "updated": 1746399199004,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isls",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isls.geojson",
+        "title": "M 2.0 - 54 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.357,
+          31.684,
+          4.6439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "24 km SSE of Minto, Alaska",
+        "time": 1746397349930,
+        "updated": 1746397449733,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pfvclt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pfvclt.geojson",
+        "title": "M 1.1 - 24 km SSE of Minto, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.186,
+          64.9461,
+          0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -46,6 +86,26 @@
           -122.802169799805,
           38.7916679382324,
           5.8899998664856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "102 km ESE of Iwaki, Japan",
+        "time": 1746393291293,
+        "updated": 1746397510040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px58",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px58.geojson",
+        "title": "M 4.4 - 102 km ESE of Iwaki, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0025,
+          36.8325,
+          35
         ]
       }
     },
@@ -95,7 +155,7 @@
         "mag": 1.35,
         "place": "8 km WNW of Cobb, CA",
         "time": 1746392309890,
-        "updated": 1746393437736,
+        "updated": 1746396440075,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176476",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176476.geojson",
         "title": "M 1.4 - 8 km WNW of Cobb, CA"
@@ -455,7 +515,7 @@
         "mag": 2.6,
         "place": "58 km S of Whites City, New Mexico",
         "time": 1746380469765,
-        "updated": 1746389181049,
+        "updated": 1746398386457,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isco",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isco.geojson",
         "title": "M 2.6 - 58 km S of Whites City, New Mexico"
@@ -3275,7 +3335,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746392627217,
+        "updated": 1746399628840,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -3626,166 +3686,6 @@
           -148.3672,
           61.5458,
           20.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "99 km ESE of Chignik, Alaska",
-        "time": 1746313216851,
-        "updated": 1746313356258,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nssoyd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nssoyd.geojson",
-        "title": "M 2.3 - 99 km ESE of Chignik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.8836,
-          56.015,
-          2.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "18 km ESE of Livengood, Alaska",
-        "time": 1746312795479,
-        "updated": 1746394174040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nsim6z",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nsim6z.geojson",
-        "title": "M 2.5 - 18 km ESE of Livengood, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.183,
-          65.4472,
-          3.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "32 km WSW of Denali Park, Alaska",
-        "time": 1746311728322,
-        "updated": 1746311848679,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nsesao",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nsesao.geojson",
-        "title": "M 1.5 - 32 km WSW of Denali Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.5192,
-          63.6266,
-          57.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "2 km NW of The Geysers, CA",
-        "time": 1746311338900,
-        "updated": 1746314240990,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176121",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176121.geojson",
-        "title": "M 0.7 - 2 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.77116394043,
-          38.787166595459,
-          1.23000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "14 km NNE of Willow, Alaska",
-        "time": 1746311173006,
-        "updated": 1746311332589,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nscto4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nscto4.geojson",
-        "title": "M 1.2 - 14 km NNE of Willow, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9093,
-          61.8635,
-          44.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.17,
-        "place": "9 km N of Hollister, CA",
-        "time": 1746311058460,
-        "updated": 1746313036859,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176116",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176116.geojson",
-        "title": "M 1.2 - 9 km N of Hollister, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.40983581543,
-          36.9259986877441,
-          15.460000038147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.66,
-        "place": "21 km NNW of Borrego Springs, CA",
-        "time": 1746311039330,
-        "updated": 1746311252528,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144264",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144264.geojson",
-        "title": "M 0.7 - 21 km NNW of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4306667,
-          33.4388333,
-          11.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6500000000000001,
-        "place": "9 km SSW of Saint Paul, Oregon",
-        "time": 1746310566660,
-        "updated": 1746336811830,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62092622",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62092622.geojson",
-        "title": "M 1.7 - 9 km SSW of Saint Paul, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.03916666666667,
-          45.143166666666666,
-          23.31
         ]
       }
     }
