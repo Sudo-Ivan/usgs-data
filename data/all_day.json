@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746368587000,
+    "generated": 1746368804000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 194
+    "count": 192
   },
   "features": [
     {
@@ -4575,11 +4575,11 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746368378334,
+        "updated": 1746368689028,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
-        "felt": 1622,
+        "felt": 1623,
         "cdi": 5.3,
         "mmi": 6.687,
         "alert": "green",
@@ -7688,86 +7688,6 @@
         ]
       },
       "id": "nc75175966"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "17 km NE of Yerington, Nevada",
-        "time": 1746282313700,
-        "updated": 1746282444771,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897181",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897181.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 10,
-        "net": "nn",
-        "code": "00897181",
-        "ids": ",nn00897181,",
-        "sources": ",nn,",
-        "types": ",origin,phase-data,",
-        "nst": 9,
-        "dmin": 0.083,
-        "rms": 0.197,
-        "gap": 85.28,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 0.8 - 17 km NE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0158,
-          39.0878,
-          9
-        ]
-      },
-      "id": "nn00897181"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "7 km N of Houston, Alaska",
-        "time": 1746282220315,
-        "updated": 1746282356337,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nnkrsf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nnkrsf.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 68,
-        "net": "ak",
-        "code": "0255nnkrsf",
-        "ids": ",ak0255nnkrsf,",
-        "sources": ",ak,",
-        "types": ",origin,phase-data,",
-        "nst": null,
-        "dmin": null,
-        "rms": 0.65,
-        "gap": null,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 2.1 - 7 km N of Houston, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.8182,
-          61.6993,
-          32
-        ]
-      },
-      "id": "ak0255nnkrsf"
     }
   ],
   "bbox": [
