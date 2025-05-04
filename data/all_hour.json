@@ -1,71 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746378120000,
+    "generated": 1746381744000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.68,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1746377773670,
-        "updated": 1746377871176,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176391",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176391.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+        "mag": 1.78,
+        "place": "16 km NE of Yountville, CA",
+        "time": 1746381544420,
+        "updated": 1746381641466,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176411",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176411.geojson",
+        "title": "M 1.8 - 16 km NE of Yountville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.795669555664,
-          38.837833404541,
-          1.89999997615814
+          -122.230003356934,
+          38.5046653747559,
+          -0.280000001192093
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.55,
-        "place": "3 km SSW of Yorba Linda, CA",
-        "time": 1746377172760,
-        "updated": 1746377401269,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144712",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144712.geojson",
-        "title": "M 1.6 - 3 km SSW of Yorba Linda, CA"
+        "mag": 0.73,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1746380516280,
+        "updated": 1746381436474,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176401",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176401.geojson",
+        "title": "M 0.7 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.819,
-          33.8646667,
-          6.08
+          -122.846168518066,
+          38.8308334350586,
+          1.6599999666214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.15,
-        "place": "2 km S of Julian, CA",
-        "time": 1746376430010,
-        "updated": 1746377049340,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144696.geojson",
-        "title": "M 1.2 - 2 km S of Julian, CA"
+        "mag": 2.6,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746380469765,
+        "updated": 1746381446886,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isco",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isco.geojson",
+        "title": "M 2.6 - 58 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.6051667,
-          33.059,
-          12.73
+          -104.46,
+          31.655,
+          6.6638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746379653570,
+        "updated": 1746381436546,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176396",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176396.geojson",
+        "title": "M 0.4 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.818000793457,
+          38.8230018615723,
+          3.54999995231628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.48,
+        "place": "63 km N of Culebra, Puerto Rico",
+        "time": 1746379452420,
+        "updated": 1746381584483,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124002",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124002.geojson",
+        "title": "M 3.5 - 63 km N of Culebra, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2286,
+          18.8713,
+          44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "27 km SW of Amorgós, Greece",
+        "time": 1746379437728,
+        "updated": 1746380982040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4a",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4a.geojson",
+        "title": "M 4.3 - 27 km SW of Amorgós, Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6562,
+          36.6737,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "71 km SE of Denali National Park, Alaska",
+        "time": 1746379169758,
+        "updated": 1746379295589,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pcvjf3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pcvjf3.geojson",
+        "title": "M 1.8 - 71 km SE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.6,
+          63.1441,
+          104.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "34 km NW of Skwentna, Alaska",
+        "time": 1746378905029,
+        "updated": 1746379071412,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pcumna",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pcumna.geojson",
+        "title": "M 1.7 - 34 km NW of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.8064,
+          62.2367,
+          84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.4,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746378886701,
+        "updated": 1746381345040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isbs",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isbs.geojson",
+        "title": "M 2.4 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.457,
+          31.655,
+          3.9995
         ]
       }
     }
