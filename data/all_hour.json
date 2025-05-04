@@ -1,31 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746370920000,
+    "generated": 1746374580000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 1
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.63,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746370343460,
-        "updated": 1746370561600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144672.geojson",
-        "title": "M 1.6 - 16 km WSW of Johannesburg, CA"
+        "mag": 2,
+        "place": "31 km WSW of Denali National Park, Alaska",
+        "time": 1746374302839,
+        "updated": 1746374417880,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pbx0ln",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pbx0ln.geojson",
+        "title": "M 2.0 - 31 km WSW of Denali National Park, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.804,
-          35.344,
-          7.28
+          -152.3318,
+          63.4537,
+          11.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "22 km WNW of Clam Gulch, Alaska",
+        "time": 1746374097082,
+        "updated": 1746374169756,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pbw8do",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pbw8do.geojson",
+        "title": "M 1.6 - 22 km WNW of Clam Gulch, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7876,
+          60.294,
+          34.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "274 km SSE of Ushuaia, Argentina",
+        "time": 1746372325572,
+        "updated": 1746374574040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3t",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3t.geojson",
+        "title": "M 4.5 - 274 km SSE of Ushuaia, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7361,
+          -57.1164,
+          10
         ]
       }
     }
