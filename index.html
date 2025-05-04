@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>USGS Earthquake Data</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.5.0/ol.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@10.5.0/dist/ol.js"></script>
 </head>
 <body>
     <header>
@@ -34,6 +36,11 @@
                     </select>
                 </div>
             </div>
+        </section>
+
+        <section id="map-section">
+            <h2>Earthquake Map</h2>
+            <div id="map" class="map"></div>
         </section>
 
         <section id="live-data">
