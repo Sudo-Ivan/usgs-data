@@ -4,18 +4,109 @@ const magnitudeSelect = document.getElementById('magnitude');
 const lastUpdateSpan = document.getElementById('lastUpdate');
 const earthquakeCountSpan = document.getElementById('earthquake-count');
 
-// Initialize map
+// Initialize map with layer switcher
 const map = new ol.Map({
     target: 'map',
     layers: [
         new ol.layer.Tile({
+            title: 'OpenStreetMap',
+            type: 'base',
+            visible: true,
             source: new ol.source.OSM()
+        }),
+        new ol.layer.Tile({
+            title: 'OpenTopoMap',
+            type: 'base',
+            visible: false,
+            source: new ol.source.XYZ({
+                url: 'https://{a-c}.tile.opentopomap.org/{z}/{x}/{y}.png',
+                attributions: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap (CC-BY-SA)'
+            })
+        }),
+        new ol.layer.Tile({
+            title: 'Stamen Terrain',
+            type: 'base',
+            visible: false,
+            source: new ol.source.XYZ({
+                url: 'https://stamen-tiles-{a-d}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png',
+                attributions: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
+            })
+        }),
+        new ol.layer.Tile({
+            title: 'CartoDB Dark',
+            type: 'base',
+            visible: false,
+            source: new ol.source.XYZ({
+                url: 'https://{a-d}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
+                attributions: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+            })
         })
     ],
     view: new ol.View({
         center: ol.proj.fromLonLat([0, 0]),
         zoom: 2
     })
+});
+
+// Add layer switcher
+const mapElement = document.getElementById('map');
+const layerSwitcher = document.createElement('div');
+layerSwitcher.className = 'layer-switcher';
+layerSwitcher.innerHTML = `
+    <button class="layer-switcher-button" title="Change Map Style">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+        </svg>
+    </button>
+    <div class="layer-switcher-menu">
+        <div class="layer-option" data-layer="OpenStreetMap">
+            <input type="radio" name="layer" id="osm" value="OpenStreetMap" checked>
+            <label for="osm">OpenStreetMap</label>
+        </div>
+        <div class="layer-option" data-layer="OpenTopoMap">
+            <input type="radio" name="layer" id="topo" value="OpenTopoMap">
+            <label for="topo">OpenTopoMap</label>
+        </div>
+        <div class="layer-option" data-layer="Stamen Terrain">
+            <input type="radio" name="layer" id="stamen" value="Stamen Terrain">
+            <label for="stamen">Stamen Terrain</label>
+        </div>
+        <div class="layer-option" data-layer="CartoDB Dark">
+            <input type="radio" name="layer" id="carto" value="CartoDB Dark">
+            <label for="carto">CartoDB Dark</label>
+        </div>
+    </div>
+`;
+mapElement.appendChild(layerSwitcher);
+
+// Handle layer switching
+const layerButton = layerSwitcher.querySelector('.layer-switcher-button');
+const layerMenu = layerSwitcher.querySelector('.layer-switcher-menu');
+const layerOptions = layerSwitcher.querySelectorAll('.layer-option');
+
+layerButton.addEventListener('click', function(e) {
+    e.stopPropagation();
+    layerMenu.classList.toggle('active');
+});
+
+// Close menu when clicking outside
+mapElement.addEventListener('click', function(e) {
+    if (!layerSwitcher.contains(e.target)) {
+        layerMenu.classList.remove('active');
+    }
+});
+
+layerOptions.forEach(option => {
+    option.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const selectedLayer = this.dataset.layer;
+        map.getLayers().forEach(layer => {
+            if (layer.get('type') === 'base') {
+                layer.setVisible(layer.get('title') === selectedLayer);
+            }
+        });
+        layerMenu.classList.remove('active');
+    });
 });
 
 // Create vector layer for earthquakes with optimized hit detection
