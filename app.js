@@ -23,6 +23,10 @@ async function loadEarthquakes() {
         const dataFile = getDataFile();
         const response = await fetch(dataFile);
         
+        if (response.status === 404) {
+            throw new Error('This feed combination is not available');
+        }
+        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -41,7 +45,7 @@ async function loadEarthquakes() {
         console.error('Error loading earthquake data:', error);
         earthquakeList.innerHTML = `
             <div class="error">
-                <p>Error loading earthquake data. Please try again later.</p>
+                <p>Error loading earthquake data. Please try a different feed combination.</p>
                 <p>Details: ${error.message}</p>
             </div>`;
         lastUpdateSpan.textContent = 'Error';
