@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USGS Earthquake Data</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>USGS Earthquake Data</h1>
+        <p>Updated hourly from USGS Earthquake Hazards Program</p>
+        <div class="last-update">Last updated: <span id="lastUpdate">Loading...</span></div>
+    </header>
+
+    <main>
+        <section id="feed-selector">
+            <h2>Select Data Feed</h2>
+            <div class="feed-controls">
+                <div class="time-range">
+                    <label for="timeRange">Time Range:</label>
+                    <select id="timeRange">
+                        <option value="hour">Past Hour</option>
+                        <option value="day">Past Day</option>
+                        <option value="week">Past 7 Days</option>
+                        <option value="month">Past 30 Days</option>
+                    </select>
+                </div>
+                <div class="magnitude">
+                    <label for="magnitude">Magnitude:</label>
+                    <select id="magnitude">
+                        <option value="all">All Earthquakes</option>
+                        <option value="significant">Significant Earthquakes</option>
+                        <option value="4.5">M4.5+ Earthquakes</option>
+                        <option value="2.5">M2.5+ Earthquakes</option>
+                        <option value="1.0">M1.0+ Earthquakes</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <section id="live-data">
+            <h2>Earthquake Data</h2>
+            <div class="data-info">
+                <span id="earthquake-count">Loading...</span> earthquakes found
+            </div>
+            <div id="earthquake-list"></div>
+        </section>
+
+        <section id="api-docs">
+            <h2>API Usage</h2>
+            <div class="endpoint">
+                <h3>Static Data Files</h3>
+                <p>Data is available as static JSON files in the following format:</p>
+                <code>data/{feedType}_{timeRange}.json</code>
+                <p>Where:</p>
+                <ul>
+                    <li><code>feedType</code>: all, significant, 4.5_plus, 2.5_plus, 1.0_plus</li>
+                    <li><code>timeRange</code>: hour, day, week, month</li>
+                </ul>
+                <p>Example: <code>data/all_hour.json</code></p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data source: <a href="https://earthquake.usgs.gov/" target="_blank">USGS Earthquake Hazards Program</a></p>
+        <p>Data is updated hourly via GitHub Actions</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html> 
