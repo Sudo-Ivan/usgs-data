@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746366775000,
+    "generated": 1746367314000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 7
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "4 km NW of The Geysers, CA",
+        "time": 1746366866670,
+        "updated": 1746366966021,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176351",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176351.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 2,
+        "net": "nc",
+        "code": "75176351",
+        "ids": ",nc75176351,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 6,
+        "dmin": 0.005468,
+        "rms": 0.03,
+        "gap": 106,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.4 - 4 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.794830322266,
+          38.7923316955566,
+          7.96999979019165
+        ]
+      },
+      "id": "nc75176351"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -95,7 +135,7 @@
         "mag": 0.85,
         "place": "6 km NNW of The Geysers, CA",
         "time": 1746365469770,
-        "updated": 1746365565717,
+        "updated": 1746367038827,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176341",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176341.geojson",
@@ -110,7 +150,7 @@
         "code": "75176341",
         "ids": ",nc75176341,",
         "sources": ",nc,",
-        "types": ",nearby-cities,origin,phase-data,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
         "nst": 7,
         "dmin": 0.007165,
         "rms": 0.01,
