@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746374533000,
+    "generated": 1746378095000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1751
+    "count": 1746
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.68,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746377773670,
+        "updated": 1746377871176,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176391",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176391.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795669555664,
+          38.837833404541,
+          1.89999997615814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.55,
+        "place": "3 km SSW of Yorba Linda, CA",
+        "time": 1746377172760,
+        "updated": 1746377401269,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144712",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144712.geojson",
+        "title": "M 1.6 - 3 km SSW of Yorba Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819,
+          33.8646667,
+          6.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.15,
+        "place": "2 km S of Julian, CA",
+        "time": 1746376430010,
+        "updated": 1746377049340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144696",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144696.geojson",
+        "title": "M 1.2 - 2 km S of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6051667,
+          33.059,
+          12.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "150 km WNW of Tobelo, Indonesia",
+        "time": 1746374403968,
+        "updated": 1746376598040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3z",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3z.geojson",
+        "title": "M 4.3 - 150 km WNW of Tobelo, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7552,
+          2.2282,
+          56.952
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,6 +106,26 @@
           -152.3318,
           63.4537,
           11.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "58 km WNW of Cartagena, Chile",
+        "time": 1746374171401,
+        "updated": 1746376709765,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3w.geojson",
+        "title": "M 4.5 - 58 km WNW of Cartagena, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2049,
+          -33.3915,
+          26.088
         ]
       }
     },
@@ -52,20 +152,60 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.7,
-        "place": "57 km NNE of Calama, Chile",
-        "time": 1746370769868,
-        "updated": 1746372287040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3i",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3i.geojson",
-        "title": "M 4.7 - 57 km NNE of Calama, Chile"
+        "mag": 4.5,
+        "place": "274 km SSE of Ushuaia, Argentina",
+        "time": 1746372325572,
+        "updated": 1746374574040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3t",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3t.geojson",
+        "title": "M 4.5 - 274 km SSE of Ushuaia, Argentina"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.6671,
-          -21.9964,
-          112.804
+          -66.7361,
+          -57.1164,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.97,
+        "place": "11 km NW of San Rafael del Yuma, Dominican Republic",
+        "time": 1746372179690,
+        "updated": 1746377727040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124001",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124001.geojson",
+        "title": "M 4.0 - 11 km NW of San Rafael del Yuma, Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7408,
+          18.5125,
+          134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "52 km NNE of Calama, Chile",
+        "time": 1746370769609,
+        "updated": 1746375317040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3i.geojson",
+        "title": "M 4.6 - 52 km NNE of Calama, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6558,
+          -22.0526,
+          106.563
         ]
       }
     },
@@ -875,7 +1015,7 @@
         "mag": 3,
         "place": "68 km ENE of San Vicente, Mexico",
         "time": 1746354296529,
-        "updated": 1746357012203,
+        "updated": 1746378091323,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px27",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px27.geojson",
         "title": "M 3.0 - 68 km ENE of San Vicente, Mexico"
@@ -1415,7 +1555,7 @@
         "mag": 5.63,
         "place": "88 km NE of Cruz Bay, U.S. Virgin Islands",
         "time": 1746341904280,
-        "updated": 1746372617534,
+        "updated": 1746377679150,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124000",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124000.geojson",
         "title": "M 5.6 - 88 km NE of Cruz Bay, U.S. Virgin Islands"
@@ -2175,7 +2315,7 @@
         "mag": 2.9,
         "place": "57 km S of Whites City, New Mexico",
         "time": 1746329085861,
-        "updated": 1746372363868,
+        "updated": 1746377539114,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025irao",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025irao.geojson",
         "title": "M 2.9 - 57 km S of Whites City, New Mexico"
@@ -2455,7 +2595,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746373877942,
+        "updated": 1746377220044,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -15935,7 +16075,7 @@
         "mag": 3.94,
         "place": "4 km WNW of Independence, Utah",
         "time": 1746079878930,
-        "updated": 1746368259397,
+        "updated": 1746374588515,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106731",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106731.geojson",
         "title": "M 3.9 - 4 km WNW of Independence, Utah"
@@ -34786,246 +34926,6 @@
           -109.873666666667,
           44.6766666666667,
           8.72
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.86,
-        "place": "5 km N of Beaumont, CA",
-        "time": 1745772871100,
-        "updated": 1745877466749,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41136912",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41136912.geojson",
-        "title": "M 0.9 - 5 km N of Beaumont, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9806667,
-          33.9711667,
-          6.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.5,
-        "place": "58 km N of Namuac, Philippines",
-        "time": 1745772864060,
-        "updated": 1745861039792,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pvfb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pvfb.geojson",
-        "title": "M 5.5 - 58 km N of Namuac, Philippines"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.1873,
-          19.1387,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "69 km W of Cantwell, Alaska",
-        "time": 1745772094177,
-        "updated": 1745772228890,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255drneg9",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255drneg9.geojson",
-        "title": "M 2.1 - 69 km W of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.3466,
-          63.3883,
-          141.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "2 km NNE of Fairbanks, Alaska",
-        "time": 1745771828627,
-        "updated": 1745771943514,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255drmhm6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255drmhm6.geojson",
-        "title": "M 0.8 - 2 km NNE of Fairbanks, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.6956,
-          64.862,
-          15.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "47 km NE of Chase, Alaska",
-        "time": 1745771660721,
-        "updated": 1745772880040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255drlvcr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255drlvcr.geojson",
-        "title": "M 2.5 - 47 km NE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.463,
-          62.7534,
-          56.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "50 km NE of Chase, Alaska",
-        "time": 1745771659380,
-        "updated": 1745796104621,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255drlwjn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255drlwjn.geojson",
-        "title": "M 2.6 - 50 km NE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.4367,
-          62.7836,
-          72.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.86,
-        "place": "45 km WNW of Petrolia, CA",
-        "time": 1745771546220,
-        "updated": 1745774540285,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75172656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75172656.geojson",
-        "title": "M 2.9 - 45 km WNW of Petrolia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.820335388184,
-          40.3525009155273,
-          8.48999977111816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.84,
-        "place": "5 km S of Banning, CA",
-        "time": 1745771519210,
-        "updated": 1745877087710,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41136880",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41136880.geojson",
-        "title": "M 0.8 - 5 km S of Banning, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.869,
-          33.882,
-          15.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.03,
-        "place": "32 km N of Alder Springs, CA",
-        "time": 1745771340910,
-        "updated": 1745773639192,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75172651",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75172651.geojson",
-        "title": "M 2.0 - 32 km N of Alder Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.79467010498,
-          39.9305000305176,
-          5.44000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "3 km E of Hubbardston, Massachusetts",
-        "time": 1745771276387,
-        "updated": 1745990895007,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pw10",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pw10.geojson",
-        "title": "M 1.8 - 3 km E of Hubbardston, Massachusetts"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.9584,
-          42.4792,
-          8.211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "61 km WNW of Happy Valley, Alaska",
-        "time": 1745770815162,
-        "updated": 1745770890546,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255driuy4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255driuy4.geojson",
-        "title": "M 1.6 - 61 km WNW of Happy Valley, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.803,
-          60.0922,
-          101.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.14,
-        "place": "63 km W of Tyonek, Alaska",
-        "time": 1745769770630,
-        "updated": 1745968660870,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93589096",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93589096.geojson",
-        "title": "M 0.1 - 63 km W of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.3135,
-          61.1405,
-          3.96
         ]
       }
     }
