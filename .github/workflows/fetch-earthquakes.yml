@@ -9,9 +9,9 @@ jobs:
   fetch-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required for pushing changes
+      contents: write  # Required for pushing changes and creating releases
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@85e6279cec87321a52edac9c87bce653a07cf6c2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -30,4 +30,27 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update earthquake data" && git push) 
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update earthquake data" && git push)
+
+      - name: Create Release
+        if: success()
+        uses: softprops/action-gh-release@39ba0b9d81217c984acfad95ddcc7db226387497
+        with:
+          name: Earthquake Data - ${{ formatDate(utcNow(), 'DD MMM YYYY - HH:mm') }}
+          body: |
+            Latest earthquake data from USGS.
+            
+            ## Data Files
+            - `all_hour.json`: All earthquakes in the past hour
+            - `all_day.json`: All earthquakes in the past day
+            - `all_week.json`: All earthquakes in the past week
+            - `all_month.json`: All earthquakes in the past month
+            - `significant_hour.json`: Significant earthquakes in the past hour
+            - `significant_day.json`: Significant earthquakes in the past day
+            - `significant_week.json`: Significant earthquakes in the past week
+            - `significant_month.json`: Significant earthquakes in the past month
+          files: |
+            data/*.json
+          draft: false
+          prerelease: false
+          generate_release_notes: true 
