@@ -1,191 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746381744000,
+    "generated": 1746385344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.78,
-        "place": "16 km NE of Yountville, CA",
-        "time": 1746381544420,
-        "updated": 1746381641466,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176411",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176411.geojson",
-        "title": "M 1.8 - 16 km NE of Yountville, CA"
+        "mag": 1.4,
+        "place": "27 km WSW of Trapper Creek, Alaska",
+        "time": 1746384653132,
+        "updated": 1746384783113,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pdno0x",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pdno0x.geojson",
+        "title": "M 1.4 - 27 km WSW of Trapper Creek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.230003356934,
-          38.5046653747559,
-          -0.280000001192093
+          -150.729,
+          62.2409,
+          60.8
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.73,
+        "mag": 0.69,
         "place": "10 km NW of The Geysers, CA",
-        "time": 1746380516280,
-        "updated": 1746381436474,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176401",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176401.geojson",
+        "time": 1746382857160,
+        "updated": 1746384737826,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176416",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176416.geojson",
         "title": "M 0.7 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.846168518066,
-          38.8308334350586,
-          1.6599999666214
+          -122.857498168945,
+          38.8279991149902,
+          2.49000000953674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1746380469765,
-        "updated": 1746381446886,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isco",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isco.geojson",
-        "title": "M 2.6 - 58 km S of Whites City, New Mexico"
+        "mag": 1.28,
+        "place": "4 km ESE of Placentia, CA",
+        "time": 1746382403890,
+        "updated": 1746382636660,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144744",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144744.geojson",
+        "title": "M 1.3 - 4 km ESE of Placentia, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.46,
-          31.655,
-          6.6638
+          -117.8333333,
+          33.8586667,
+          5.56
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.39,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746379653570,
-        "updated": 1746381436546,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176396",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176396.geojson",
-        "title": "M 0.4 - 7 km NW of The Geysers, CA"
+        "mag": 4.5,
+        "place": "26 km N of Ntungamo, Uganda",
+        "time": 1746382297811,
+        "updated": 1746384285120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4g",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4g.geojson",
+        "title": "M 4.5 - 26 km N of Ntungamo, Uganda"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.818000793457,
-          38.8230018615723,
-          3.54999995231628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.48,
-        "place": "63 km N of Culebra, Puerto Rico",
-        "time": 1746379452420,
-        "updated": 1746381584483,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124002",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124002.geojson",
-        "title": "M 3.5 - 63 km N of Culebra, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.2286,
-          18.8713,
-          44
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "27 km SW of Amorgós, Greece",
-        "time": 1746379437728,
-        "updated": 1746380982040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4a.geojson",
-        "title": "M 4.3 - 27 km SW of Amorgós, Greece"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.6562,
-          36.6737,
+          29.6247,
+          -0.6412,
           10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "71 km SE of Denali National Park, Alaska",
-        "time": 1746379169758,
-        "updated": 1746379295589,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pcvjf3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pcvjf3.geojson",
-        "title": "M 1.8 - 71 km SE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.6,
-          63.1441,
-          104.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "34 km NW of Skwentna, Alaska",
-        "time": 1746378905029,
-        "updated": 1746379071412,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pcumna",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pcumna.geojson",
-        "title": "M 1.7 - 34 km NW of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.8064,
-          62.2367,
-          84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1746378886701,
-        "updated": 1746381345040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isbs",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isbs.geojson",
-        "title": "M 2.4 - 58 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.457,
-          31.655,
-          3.9995
         ]
       }
     }
