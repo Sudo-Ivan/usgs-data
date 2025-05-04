@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746369112000,
+    "generated": 1746369532000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1763
+    "count": 1761
   },
   "features": [
     {
@@ -4575,11 +4575,11 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746368689028,
+        "updated": 1746369511805,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
-        "felt": 1623,
+        "felt": 1625,
         "cdi": 5.3,
         "mmi": 6.687,
         "alert": "green",
@@ -70448,86 +70448,6 @@
         ]
       },
       "id": "uw62089187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.11,
-        "place": "1 km S of Campanilla, Puerto Rico",
-        "time": 1745764453420,
-        "updated": 1745770082661,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71480693",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71480693.geojson",
-        "felt": 1,
-        "cdi": 1,
-        "mmi": null,
-        "alert": null,
-        "status": "reviewed",
-        "tsunami": 0,
-        "sig": 149,
-        "net": "pr",
-        "code": "71480693",
-        "ids": ",pr71480693,",
-        "sources": ",pr,",
-        "types": ",dyfi,origin,phase-data,",
-        "nst": 9,
-        "dmin": 0.146,
-        "rms": 0.14,
-        "gap": 180,
-        "magType": "md",
-        "type": "earthquake",
-        "title": "M 3.1 - 1 km S of Campanilla, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.2386666666667,
-          18.4051666666667,
-          118.5
-        ]
-      },
-      "id": "pr71480693"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1745764402490,
-        "updated": 1745870837231,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41136752",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41136752.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "reviewed",
-        "tsunami": 0,
-        "sig": 20,
-        "net": "ci",
-        "code": "41136752",
-        "ids": ",ci41136752,",
-        "sources": ",ci,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 21,
-        "dmin": 0.0724,
-        "rms": 0.17,
-        "gap": 115,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 1.1 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.801,
-          35.33,
-          6.38
-        ]
-      },
-      "id": "ci41136752"
     }
   ],
   "bbox": [
