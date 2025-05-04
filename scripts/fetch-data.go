@@ -1,12 +1,15 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
 	"os"
 	"path/filepath"
+	"sync"
+	"time"
 )
 
 type EarthquakeData struct {
@@ -37,9 +40,31 @@ type EarthquakeData struct {
 	} `json:"features"`
 }
 
+type fetchResult struct {
+	data     *EarthquakeData
+	filename string
+	err      error
+}
+
 func fetchData(feedType, timeRange string) (*EarthquakeData, error) {
 	url := fmt.Sprintf("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/%s_%s.geojson", feedType, timeRange)
-	resp, err := http.Get(url)
+
+	// Create a context with timeout
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	// Create request with context
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
+	if err != nil {
+		return nil, fmt.Errorf("error creating request: %v", err)
+	}
+
+	// Create HTTP client with timeout
+	client := &http.Client{
+		Timeout: 10 * time.Second,
+	}
+
+	resp, err := client.Do(req)
 	if err != nil {
 		return nil, fmt.Errorf("error fetching data: %v", err)
 	}
@@ -83,23 +108,43 @@ func main() {
 	feedTypes := []string{"all", "significant"}
 	timeRanges := []string{"hour", "day", "week", "month"}
 
+	// Create channels for results and errors
+	results := make(chan fetchResult, len(feedTypes)*len(timeRanges))
+	var wg sync.WaitGroup
+
+	// Start goroutines for each feed type and time range
 	for _, feedType := range feedTypes {
 		for _, timeRange := range timeRanges {
-			filename := fmt.Sprintf("data/%s_%s.json", feedType, timeRange)
-			fmt.Printf("Fetching %s_%s...\n", feedType, timeRange)
+			wg.Add(1)
+			go func(ft, tr string) {
+				defer wg.Done()
+				filename := fmt.Sprintf("data/%s_%s.json", ft, tr)
+				fmt.Printf("Fetching %s_%s...\n", ft, tr)
 
-			data, err := fetchData(feedType, timeRange)
-			if err != nil {
-				fmt.Printf("Error fetching %s_%s: %v\n", feedType, timeRange, err)
-				continue
-			}
-
-			if err := saveData(data, filename); err != nil {
-				fmt.Printf("Error saving %s: %v\n", filename, err)
-				continue
-			}
-
-			fmt.Printf("Saved %s (%d earthquakes)\n", filename, data.Metadata.Count)
+				data, err := fetchData(ft, tr)
+				results <- fetchResult{data: data, filename: filename, err: err}
+			}(feedType, timeRange)
 		}
+	}
+
+	// Close results channel when all goroutines are done
+	go func() {
+		wg.Wait()
+		close(results)
+	}()
+
+	// Process results as they come in
+	for result := range results {
+		if result.err != nil {
+			fmt.Printf("Error fetching %s: %v\n", result.filename, result.err)
+			continue
+		}
+
+		if err := saveData(result.data, result.filename); err != nil {
+			fmt.Printf("Error saving %s: %v\n", result.filename, err)
+			continue
+		}
+
+		fmt.Printf("Saved %s (%d earthquakes)\n", result.filename, result.data.Metadata.Count)
 	}
 }
