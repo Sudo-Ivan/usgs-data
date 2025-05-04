@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746369535000,
+    "generated": 1746370418000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 1
   },
   "features": [
     {
@@ -16,27 +16,8 @@
         "place": "4 km NW of The Geysers, CA",
         "time": 1746366866670,
         "updated": 1746368238960,
-        "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176351",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176351.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 2,
-        "net": "nc",
-        "code": "75176351",
-        "ids": ",nc75176351,",
-        "sources": ",nc,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 6,
-        "dmin": 0.005468,
-        "rms": 0.03,
-        "gap": 106,
-        "magType": "md",
-        "type": "earthquake",
         "title": "M 0.4 - 4 km NW of The Geysers, CA"
       },
       "geometry": {
@@ -46,56 +27,7 @@
           38.7923316955566,
           7.96999979019165
         ]
-      },
-      "id": "nc75176351"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746366018110,
-        "updated": 1746368160367,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144664",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144664.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "reviewed",
-        "tsunami": 0,
-        "sig": 34,
-        "net": "ci",
-        "code": "41144664",
-        "ids": ",ci41144664,",
-        "sources": ",ci,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 35,
-        "dmin": 0.07936,
-        "rms": 0.18,
-        "gap": 36,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 1.5 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8075,
-          35.3405,
-          8.83
-        ]
-      },
-      "id": "ci41144664"
+      }
     }
-  ],
-  "bbox": [
-    -122.79483032227,
-    35.3405,
-    7.9699997901917,
-    -117.8075,
-    38.792331695557,
-    8.83
   ]
 }
