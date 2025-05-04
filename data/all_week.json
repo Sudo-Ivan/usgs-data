@@ -1,14 +1,34 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746370412000,
+    "generated": 1746370561000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1758
+    "count": 1759
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.73,
+        "place": "16 km WSW of Johannesburg, CA",
+        "time": 1746370343420,
+        "updated": 1746370560350,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144672",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144672.geojson",
+        "title": "M 1.7 - 16 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8079987,
+          35.3414993,
+          8.92
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2295,7 +2315,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746370152968,
+        "updated": 1746370472241,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -3355,7 +3375,7 @@
         "mag": 1.26,
         "place": "5 km WSW of Anza, CA",
         "time": 1746294622620,
-        "updated": 1746370382233,
+        "updated": 1746370444390,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144040",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144040.geojson",
         "title": "M 1.3 - 5 km WSW of Anza, CA"
@@ -3535,7 +3555,7 @@
         "mag": 1.81,
         "place": "14 km ENE of Ridgecrest, CA",
         "time": 1746289833370,
-        "updated": 1746290470250,
+        "updated": 1746370507300,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143976",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143976.geojson",
         "title": "M 1.8 - 14 km ENE of Ridgecrest, CA"
@@ -3655,7 +3675,7 @@
         "mag": 1.32,
         "place": "3 km N of Lytle Creek, CA",
         "time": 1746287093370,
-        "updated": 1746287306046,
+        "updated": 1746370447512,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143928",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143928.geojson",
         "title": "M 1.3 - 3 km N of Lytle Creek, CA"
@@ -3695,7 +3715,7 @@
         "mag": 1.65,
         "place": "6 km SE of Lake Los Angeles, CA",
         "time": 1746286438920,
-        "updated": 1746287091440,
+        "updated": 1746370511200,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143920",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143920.geojson",
         "title": "M 1.7 - 6 km SE of Lake Los Angeles, CA"
@@ -3955,7 +3975,7 @@
         "mag": 0.76,
         "place": "6 km WSW of Anza, CA",
         "time": 1746281345060,
-        "updated": 1746281613319,
+        "updated": 1746370514020,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143872",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143872.geojson",
         "title": "M 0.8 - 6 km WSW of Anza, CA"
