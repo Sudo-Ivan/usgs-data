@@ -9,6 +9,7 @@ A static site for viewing USGS earthquake data with an interactive map.
 - Static data files updated hourly.
 - Multiple time ranges (hour, day, week, month)
 - Data stored historically using git history.
+- Fast data fetching using Go.
 
 ## Data Files
 
@@ -32,7 +33,7 @@ Example: `data/all_hour.json`
 ## Data Updates
 
 Data is automatically updated every hour using GitHub Actions. The workflow:
-1. Fetches latest earthquake data from USGS
+1. Fetches latest earthquake data from USGS using Go
 2. Saves data as static JSON files
 3. Commits and pushes changes to the repository
 

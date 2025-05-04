@@ -18,16 +18,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
         with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install
+          go-version: '1.24'
 
       - name: Fetch earthquake data
-        run: node scripts/fetch-data.js
+        run: go run scripts/fetch-data.go
 
       - name: Configure Git
         run: |
