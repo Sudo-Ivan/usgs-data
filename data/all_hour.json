@@ -1,131 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746392520000,
+    "generated": 1746396144000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.35,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1746392309890,
-        "updated": 1746392405739,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176476",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176476.geojson",
-        "title": "M 1.4 - 8 km WNW of Cobb, CA"
+        "mag": 1.73,
+        "place": "1 km SSE of Yorba Linda, CA",
+        "time": 1746394273880,
+        "updated": 1746394490480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144768",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144768.geojson",
+        "title": "M 1.7 - 1 km SSE of Yorba Linda, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.808670043945,
-          38.8338317871094,
-          2.25999999046326
+          -117.8096667,
+          33.8771667,
+          2.46
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.35,
-        "place": "15 km NE of Napa, CA",
-        "time": 1746392176590,
-        "updated": 1746392270864,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176471",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176471.geojson",
-        "title": "M 1.4 - 15 km NE of Napa, CA"
+        "mag": 0.24,
+        "place": "4 km WNW of The Geysers, CA",
+        "time": 1746393435780,
+        "updated": 1746394338900,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176491",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176491.geojson",
+        "title": "M 0.2 - 4 km WNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.16967010498,
-          38.3943328857422,
-          4.80999994277954
+          -122.802169799805,
+          38.7916679382324,
+          5.8899998664856
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "87 km NW of Karluk, Alaska",
-        "time": 1746392086278,
-        "updated": 1746392182846,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pevdkj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pevdkj.geojson",
-        "title": "M 1.4 - 87 km NW of Karluk, Alaska"
+        "mag": 1.6,
+        "place": "44 km NW of Lake Minchumina, Alaska",
+        "time": 1746392750782,
+        "updated": 1746392919994,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pf6bfq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pf6bfq.geojson",
+        "title": "M 1.6 - 44 km NW of Lake Minchumina, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.3596,
-          58.185,
-          1.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.63,
-        "place": "8 km ESE of Chickasha, Oklahoma",
-        "time": 1746391433049,
-        "updated": 1746391840570,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ishx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025ishx.geojson",
-        "title": "M 1.6 - 8 km ESE of Chickasha, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.84754181,
-          35.02920532,
-          2.19904232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "66 km WNW of Ninilchik, Alaska",
-        "time": 1746391262445,
-        "updated": 1746391399691,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255peshv7",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255peshv7.geojson",
-        "title": "M 2.3 - 66 km WNW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.835,
-          60.1979,
-          117.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "27 km SSE of Mina, Nevada",
-        "time": 1746389878561,
-        "updated": 1746390041781,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897215",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897215.geojson",
-        "title": "M 1.5 - 27 km SSE of Mina, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9891,
-          38.1645,
-          8.8
+          -152.9136,
+          64.1795,
+          0
         ]
       }
     }

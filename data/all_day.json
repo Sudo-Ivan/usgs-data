@@ -1,21 +1,101 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746392547000,
+    "generated": 1746396139000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 191
+    "count": 189
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.73,
+        "place": "1 km SSE of Yorba Linda, CA",
+        "time": 1746394273880,
+        "updated": 1746394490480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144768",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144768.geojson",
+        "title": "M 1.7 - 1 km SSE of Yorba Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8096667,
+          33.8771667,
+          2.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.24,
+        "place": "4 km WNW of The Geysers, CA",
+        "time": 1746393435780,
+        "updated": 1746394338900,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176491",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176491.geojson",
+        "title": "M 0.2 - 4 km WNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.802169799805,
+          38.7916679382324,
+          5.8899998664856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "44 km NW of Lake Minchumina, Alaska",
+        "time": 1746392750782,
+        "updated": 1746392919994,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pf6bfq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pf6bfq.geojson",
+        "title": "M 1.6 - 44 km NW of Lake Minchumina, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.9136,
+          64.1795,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.44,
+        "place": "8 km NW of The Geysers, CA",
+        "time": 1746392501280,
+        "updated": 1746393736767,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176481",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176481.geojson",
+        "title": "M 0.4 - 8 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.827163696289,
+          38.8213348388672,
+          0.509999990463257
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.35,
         "place": "8 km WNW of Cobb, CA",
         "time": 1746392309890,
-        "updated": 1746392405739,
+        "updated": 1746393437736,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176476",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176476.geojson",
         "title": "M 1.4 - 8 km WNW of Cobb, CA"
@@ -35,7 +115,7 @@
         "mag": 1.35,
         "place": "15 km NE of Napa, CA",
         "time": 1746392176590,
-        "updated": 1746392270864,
+        "updated": 1746395538965,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176471",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176471.geojson",
         "title": "M 1.4 - 15 km NE of Napa, CA"
@@ -295,7 +375,7 @@
         "mag": 4.5,
         "place": "26 km N of Ntungamo, Uganda",
         "time": 1746382297811,
-        "updated": 1746390450756,
+        "updated": 1746393028939,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4g",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4g.geojson",
         "title": "M 4.5 - 26 km N of Ntungamo, Uganda"
@@ -3195,7 +3275,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746392308813,
+        "updated": 1746392627217,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -3575,7 +3655,7 @@
         "mag": 2.5,
         "place": "18 km ESE of Livengood, Alaska",
         "time": 1746312795479,
-        "updated": 1746312905336,
+        "updated": 1746394174040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nsim6z",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nsim6z.geojson",
         "title": "M 2.5 - 18 km ESE of Livengood, Alaska"
@@ -3706,126 +3786,6 @@
           -123.03916666666667,
           45.143166666666666,
           23.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "32 km NW of Lima, Montana",
-        "time": 1746309075780,
-        "updated": 1746310463030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90081398",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90081398.geojson",
-        "title": "M 0.8 - 32 km NW of Lima, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.828666666667,
-          44.8706666666667,
-          11.09
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1746308703430,
-        "updated": 1746310640588,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176096",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176096.geojson",
-        "title": "M 0.7 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.783836364746,
-          38.8348350524902,
-          2.9300000667572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "13 km ESE of Lincoln, Montana",
-        "time": 1746307799610,
-        "updated": 1746310191780,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90081388",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90081388.geojson",
-        "title": "M 1.1 - 13 km ESE of Lincoln, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.520833333333,
-          46.8988333333333,
-          11.38
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "50 km SSW of Cantwell, Alaska",
-        "time": 1746307648616,
-        "updated": 1746307759382,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nrrmzh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nrrmzh.geojson",
-        "title": "M 1.7 - 50 km SSW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.3607,
-          62.9757,
-          69.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "63 km NNE of Pototano, Indonesia",
-        "time": 1746307586077,
-        "updated": 1746310323040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pwyv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pwyv.geojson",
-        "title": "M 4.5 - 63 km NNE of Pototano, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.7102,
-          -7.8887,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "Banda Sea",
-        "time": 1746306827179,
-        "updated": 1746309537040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pwys",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pwys.geojson",
-        "title": "M 4.4 - Banda Sea"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.9592,
-          -6.8264,
-          120.086
         ]
       }
     }
