@@ -5,12 +5,12 @@ const https = require('https');
 const BASE_URL = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary';
 const DATA_DIR = path.join(__dirname, '../data');
 
-// Valid feed combinations based on USGS API
+// Valid feed combinations based on USGS API documentation
 const FEEDS = {
-    hour: ['all', 'significant', '4.5_plus', '2.5_plus', '1.0_plus'],
-    day: ['all', 'significant', '4.5_plus', '2.5_plus', '1.0_plus'],
-    week: ['all', 'significant', '4.5_plus', '2.5_plus', '1.0_plus'],
-    month: ['all', 'significant', '4.5_plus', '2.5_plus', '1.0_plus']
+    hour: ['all', 'significant'],
+    day: ['all', 'significant'],
+    week: ['all', 'significant'],
+    month: ['all', 'significant']
 };
 
 async function fetchData(url) {

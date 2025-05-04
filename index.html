@@ -27,13 +27,10 @@
                     </select>
                 </div>
                 <div class="magnitude">
-                    <label for="magnitude">Magnitude:</label>
+                    <label for="magnitude">Feed Type:</label>
                     <select id="magnitude">
                         <option value="all">All Earthquakes</option>
                         <option value="significant">Significant Earthquakes</option>
-                        <option value="4.5">M4.5+ Earthquakes</option>
-                        <option value="2.5">M2.5+ Earthquakes</option>
-                        <option value="1.0">M1.0+ Earthquakes</option>
                     </select>
                 </div>
             </div>
@@ -55,7 +52,7 @@
                 <code>data/{feedType}_{timeRange}.json</code>
                 <p>Where:</p>
                 <ul>
-                    <li><code>feedType</code>: all, significant, 4.5_plus, 2.5_plus, 1.0_plus</li>
+                    <li><code>feedType</code>: all, significant</li>
                     <li><code>timeRange</code>: hour, day, week, month</li>
                 </ul>
                 <p>Example: <code>data/all_hour.json</code></p>
