@@ -3,10 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USGS Earthquake Data</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' https://cdn.jsdelivr.net; img-src 'self' https://*.tile.openstreetmap.org data:; connect-src 'self'">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-Frame-Options" content="DENY">
+    <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+    
+    <!-- Primary Meta Tags -->
+    <title>USGS Earthquake Data Viewer</title>
+    <meta name="title" content="USGS Earthquake Data Viewer">
+    <meta name="description" content="Real-time earthquake data visualization with interactive map. View latest earthquakes from USGS with magnitude, location, and depth information.">
+    <meta name="keywords" content="earthquake, USGS, seismic, map, visualization, real-time, data, natural disasters">
+    <meta name="author" content="USGS Data Viewer">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 hour">
+    <meta name="generator" content="GitHub Actions">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://usgs-data.vercel.app/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://usgs-data.vercel.app/">
+    <meta property="og:title" content="USGS Earthquake Data Viewer">
+    <meta property="og:description" content="Real-time earthquake data visualization with interactive map. View latest earthquakes from USGS with magnitude, location, and depth information.">
+    <meta property="og:site_name" content="USGS Data Viewer">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://usgs-data.vercel.app/">
+    <meta property="twitter:title" content="USGS Earthquake Data Viewer">
+    <meta property="twitter:description" content="Real-time earthquake data visualization with interactive map. View latest earthquakes from USGS with magnitude, location, and depth information.">
+    
+    <!-- Styles -->
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.5.0/ol.css">
-    <script src="https://cdn.jsdelivr.net/npm/ol@10.5.0/dist/ol.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.5.0/ol.css" 
+          integrity="sha384-Jpg1uvTciFJuHq+90Ly0/2SKRT9yS5OhbIN5FuFoFWji9fc44ok8xxO88CJi8Z5W" 
+          crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/ol@10.5.0/dist/ol.js" 
+            integrity="sha384-u+OabxywjjSbE8bk5/vzOJr/EjSmmSMXZyO23SBE3nKt3fQHO2Y/GDD30ovgAGLi" 
+            crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
