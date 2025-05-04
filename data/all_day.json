@@ -1,14 +1,74 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746385339000,
+    "generated": 1746388939000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 192
+    "count": 188
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.53,
+        "place": "17 km WSW of Toms Place, CA",
+        "time": 1746386906290,
+        "updated": 1746388338229,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176441",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176441.geojson",
+        "title": "M 1.5 - 17 km WSW of Toms Place, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.84033203125,
+          37.4791679382324,
+          -0.200000002980232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.01,
+        "place": "13 km ESE of Pinnacles, CA",
+        "time": 1746386783970,
+        "updated": 1746388039195,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176431",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176431.geojson",
+        "title": "M 2.0 - 13 km ESE of Pinnacles, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.997497558594,
+          36.501335144043,
+          7.51999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "133 km WNW of Hihifo, Tonga",
+        "time": 1746384793189,
+        "updated": 1746385893040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4i.geojson",
+        "title": "M 4.5 - 133 km WNW of Hihifo, Tonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.9147,
+          -15.4337,
+          233.848
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -75,7 +135,7 @@
         "mag": 4.5,
         "place": "26 km N of Ntungamo, Uganda",
         "time": 1746382297811,
-        "updated": 1746384285120,
+        "updated": 1746385782963,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4g",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4g.geojson",
         "title": "M 4.5 - 26 km N of Ntungamo, Uganda"
@@ -212,6 +272,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.75,
+        "place": "6 km WSW of Anza, CA",
+        "time": 1746379473790,
+        "updated": 1746385736067,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144736.geojson",
+        "title": "M 0.8 - 6 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7281667,
+          33.5331667,
+          4.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 3.48,
         "place": "63 km N of Culebra, Puerto Rico",
         "time": 1746379452420,
@@ -235,7 +315,7 @@
         "mag": 4.3,
         "place": "27 km SW of Amorgós, Greece",
         "time": 1746379437728,
-        "updated": 1746380982040,
+        "updated": 1746385666873,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px4a",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px4a.geojson",
         "title": "M 4.3 - 27 km SW of Amorgós, Greece"
@@ -455,7 +535,7 @@
         "mag": 1.6,
         "place": "22 km WNW of Clam Gulch, Alaska",
         "time": 1746374097082,
-        "updated": 1746374169756,
+        "updated": 1746388167486,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pbw8do",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pbw8do.geojson",
         "title": "M 1.6 - 22 km WNW of Clam Gulch, Alaska"
@@ -575,7 +655,7 @@
         "mag": 4.4,
         "place": "64 km WNW of Cartagena, Chile",
         "time": 1746368726769,
-        "updated": 1746371016040,
+        "updated": 1746385765019,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px3e",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px3e.geojson",
         "title": "M 4.4 - 64 km WNW of Cartagena, Chile"
@@ -1015,7 +1095,7 @@
         "mag": 5.1,
         "place": "71 km SE of Malango, Solomon Islands",
         "time": 1746359404452,
-        "updated": 1746362351493,
+        "updated": 1746385581361,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px2i",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px2i.geojson",
         "title": "M 5.1 - 71 km SE of Malango, Solomon Islands"
@@ -1895,7 +1975,7 @@
         "mag": 5.63,
         "place": "88 km NE of Cruz Bay, U.S. Virgin Islands",
         "time": 1746341904280,
-        "updated": 1746382902783,
+        "updated": 1746386188095,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124000",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124000.geojson",
         "title": "M 5.6 - 88 km NE of Cruz Bay, U.S. Virgin Islands"
@@ -2955,7 +3035,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746385109435,
+        "updated": 1746388885495,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -3686,166 +3766,6 @@
           -67.5971,
           -56.8254,
           10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "50 km WNW of Nanwalek, Alaska",
-        "time": 1746302223780,
-        "updated": 1746302369861,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nqr5ca",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nqr5ca.geojson",
-        "title": "M 1.8 - 50 km WNW of Nanwalek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.7858,
-          59.468,
-          72.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "27 km ENE of Knik River, Alaska",
-        "time": 1746301831389,
-        "updated": 1746301937754,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255nqppg5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255nqppg5.geojson",
-        "title": "M 2.2 - 27 km ENE of Knik River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.4196,
-          61.5398,
-          3.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.57,
-        "place": "4 km WSW of Anza, CA",
-        "time": 1746301813010,
-        "updated": 1746370181561,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144160",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144160.geojson",
-        "title": "M 0.6 - 4 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7168333,
-          33.5376667,
-          5.26
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.26,
-        "place": "3 km NNE of Lytle Creek, CA",
-        "time": 1746301643310,
-        "updated": 1746301851507,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144144",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144144.geojson",
-        "title": "M 1.3 - 3 km NNE of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4926667,
-          34.2833333,
-          12.62
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.75,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1746301173480,
-        "updated": 1746304635912,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176061",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176061.geojson",
-        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.807334899902,
-          38.8294982910156,
-          1.92999994754791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "20 km NNE of Yerington, Nevada",
-        "time": 1746301171556,
-        "updated": 1746301296266,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897186",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897186.geojson",
-        "title": "M 0.9 - 20 km NNE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0624,
-          39.1504,
-          9.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.18,
-        "place": "3 km SW of San Juan Bautista, CA",
-        "time": 1746301020320,
-        "updated": 1746303439779,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176056",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176056.geojson",
-        "title": "M 2.2 - 3 km SW of San Juan Bautista, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.555335998535,
-          36.8213348388672,
-          5.44000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1746300068780,
-        "updated": 1746301641553,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176051",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176051.geojson",
-        "title": "M 0.8 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.782836914062,
-          38.7953338623047,
-          3.27999997138977
         ]
       }
     }
