@@ -1,51 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746388944000,
+    "generated": 1746392520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.53,
-        "place": "17 km WSW of Toms Place, CA",
-        "time": 1746386906290,
-        "updated": 1746388338229,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176441",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176441.geojson",
-        "title": "M 1.5 - 17 km WSW of Toms Place, CA"
+        "mag": 1.35,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746392309890,
+        "updated": 1746392405739,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176476",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176476.geojson",
+        "title": "M 1.4 - 8 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.84033203125,
-          37.4791679382324,
-          -0.200000002980232
+          -122.808670043945,
+          38.8338317871094,
+          2.25999999046326
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.01,
-        "place": "13 km ESE of Pinnacles, CA",
-        "time": 1746386783970,
-        "updated": 1746388039195,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176431",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176431.geojson",
-        "title": "M 2.0 - 13 km ESE of Pinnacles, CA"
+        "mag": 1.35,
+        "place": "15 km NE of Napa, CA",
+        "time": 1746392176590,
+        "updated": 1746392270864,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176471",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176471.geojson",
+        "title": "M 1.4 - 15 km NE of Napa, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.997497558594,
-          36.501335144043,
-          7.51999998092651
+          -122.16967010498,
+          38.3943328857422,
+          4.80999994277954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "87 km NW of Karluk, Alaska",
+        "time": 1746392086278,
+        "updated": 1746392182846,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pevdkj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pevdkj.geojson",
+        "title": "M 1.4 - 87 km NW of Karluk, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.3596,
+          58.185,
+          1.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.63,
+        "place": "8 km ESE of Chickasha, Oklahoma",
+        "time": 1746391433049,
+        "updated": 1746391840570,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ishx",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025ishx.geojson",
+        "title": "M 1.6 - 8 km ESE of Chickasha, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84754181,
+          35.02920532,
+          2.19904232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "66 km WNW of Ninilchik, Alaska",
+        "time": 1746391262445,
+        "updated": 1746391399691,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255peshv7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255peshv7.geojson",
+        "title": "M 2.3 - 66 km WNW of Ninilchik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.835,
+          60.1979,
+          117.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "27 km SSE of Mina, Nevada",
+        "time": 1746389878561,
+        "updated": 1746390041781,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897215",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897215.geojson",
+        "title": "M 1.5 - 27 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9891,
+          38.1645,
+          8.8
         ]
       }
     }
