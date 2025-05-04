@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746368822000,
+    "generated": 1746369115000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 2
   },
   "features": [
     {
@@ -88,134 +88,14 @@
         ]
       },
       "id": "ci41144664"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.95,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746365491380,
-        "updated": 1746368173153,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144656.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "reviewed",
-        "tsunami": 0,
-        "sig": 14,
-        "net": "ci",
-        "code": "41144656",
-        "ids": ",ci41144656,",
-        "sources": ",ci,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 26,
-        "dmin": 0.08857,
-        "rms": 0.15,
-        "gap": 64,
-        "magType": "ml",
-        "type": "earthquake",
-        "title": "M 1.0 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8093333,
-          35.351,
-          8.75
-        ]
-      },
-      "id": "ci41144656"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.85,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746365469770,
-        "updated": 1746367038827,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176341",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176341.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 11,
-        "net": "nc",
-        "code": "75176341",
-        "ids": ",nc75176341,",
-        "sources": ",nc,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 7,
-        "dmin": 0.007165,
-        "rms": 0.01,
-        "gap": 99,
-        "magType": "md",
-        "type": "earthquake",
-        "title": "M 0.9 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.801002502441,
-          38.8223342895508,
-          2.85999989509583
-        ]
-      },
-      "id": "nc75176341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.86,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746365393750,
-        "updated": 1746366440757,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176336",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176336.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "automatic",
-        "tsunami": 0,
-        "sig": 11,
-        "net": "nc",
-        "code": "75176336",
-        "ids": ",nc75176336,",
-        "sources": ",nc,",
-        "types": ",nearby-cities,origin,phase-data,scitech-link,",
-        "nst": 16,
-        "dmin": 0.01587,
-        "rms": 0.02,
-        "gap": 58,
-        "magType": "md",
-        "type": "earthquake",
-        "title": "M 0.9 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.80249786377,
-          38.8228340148926,
-          2.55999994277954
-        ]
-      },
-      "id": "nc75176336"
     }
   ],
   "bbox": [
-    -122.80249786377,
+    -122.79483032227,
     35.3405,
-    2.5599999427795,
+    7.9699997901917,
     -117.8075,
-    38.822834014893,
+    38.792331695557,
     8.83
   ]
 }
