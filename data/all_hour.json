@@ -1,51 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746421344000,
+    "generated": 1746425014000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1,
-        "place": "22 km NNE of Yerington, Nevada",
-        "time": 1746420733933,
-        "updated": 1746420863728,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897221",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897221.geojson",
-        "title": "M 1.0 - 22 km NNE of Yerington, Nevada"
+        "mag": 1.19,
+        "place": "20 km NE of Thermal, CA",
+        "time": 1746423660590,
+        "updated": 1746423903976,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144888",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144888.geojson",
+        "title": "M 1.2 - 20 km NE of Thermal, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.0459,
-          39.1686,
-          10.7
+          -115.9698333,
+          33.7471667,
+          5.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.66,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1746418854230,
-        "updated": 1746419839706,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176616",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176616.geojson",
-        "title": "M 0.7 - 8 km WNW of Cobb, CA"
+        "mag": 1.49,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1746423300680,
+        "updated": 1746423527442,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144880",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144880.geojson",
+        "title": "M 1.5 - 15 km W of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.809829711914,
-          38.8356666564941,
-          1.96000003814697
+          -117.7991667,
+          35.3571667,
+          7.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "53 km NNE of Keeler, California",
+        "time": 1746421912254,
+        "updated": 1746422055113,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897222",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897222.geojson",
+        "title": "M 1.5 - 53 km NNE of Keeler, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5999,
+          36.9158,
+          1.6
         ]
       }
     }
