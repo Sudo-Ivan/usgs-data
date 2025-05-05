@@ -1,51 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746399720000,
+    "generated": 1746403824000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
-        "place": "54 km S of Whites City, New Mexico",
-        "time": 1746398301562,
-        "updated": 1746399199004,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isls",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isls.geojson",
-        "title": "M 2.0 - 54 km S of Whites City, New Mexico"
+        "mag": 3.68,
+        "place": "92 km NE of Cruz Bay, U.S. Virgin Islands",
+        "time": 1746402069660,
+        "updated": 1746403679531,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025124003",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025124003.geojson",
+        "title": "M 3.7 - 92 km NE of Cruz Bay, U.S. Virgin Islands"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.357,
-          31.684,
-          4.6439
+          -64.1711,
+          18.9231,
+          25
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.1,
-        "place": "24 km SSE of Minto, Alaska",
-        "time": 1746397349930,
-        "updated": 1746397449733,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255pfvclt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255pfvclt.geojson",
-        "title": "M 1.1 - 24 km SSE of Minto, Alaska"
+        "mag": 2.4,
+        "place": "53 km S of Whites City, New Mexico",
+        "time": 1746401994319,
+        "updated": 1746402789850,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isns",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isns.geojson",
+        "title": "M 2.4 - 53 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.186,
-          64.9461,
-          0
+          -104.4,
+          31.692,
+          9.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.58,
+        "place": "4 km W of Cobb, CA",
+        "time": 1746401296070,
+        "updated": 1746402739760,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176516",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176516.geojson",
+        "title": "M 0.6 - 4 km W of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.767501831055,
+          38.8183326721191,
+          2.0699999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "55 km WNW of Cartagena, Chile",
+        "time": 1746401262367,
+        "updated": 1746402736040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px5r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px5r.geojson",
+        "title": "M 4.0 - 55 km WNW of Cartagena, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.181,
+          -33.4251,
+          22.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "217 km SSE of Ushuaia, Argentina",
+        "time": 1746401066332,
+        "updated": 1746402809040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px5s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px5s.geojson",
+        "title": "M 4.5 - 217 km SSE of Ushuaia, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4212,
+          -56.6975,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746400991010,
+        "updated": 1746402136694,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176511",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176511.geojson",
+        "title": "M 0.8 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.801002502441,
+          38.8311653137207,
+          1.76999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.23,
+        "place": "8 km NNE of Delta, B.C., MX",
+        "time": 1746400510900,
+        "updated": 1746400720394,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144784",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144784.geojson",
+        "title": "M 2.2 - 8 km NNE of Delta, B.C., MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1751667,
+          32.4265,
+          13.04
         ]
       }
     }
