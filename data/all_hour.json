@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746412359000,
+    "generated": 1746415200000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.9,
-        "place": "9 km SSE of Salamanca, Chile",
-        "time": 1746411468129,
-        "updated": 1746412226183,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6k.geojson",
-        "title": "M 4.9 - 9 km SSE of Salamanca, Chile"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9243,
-          -31.8613,
-          103.602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.19,
+        "mag": 1.13,
         "place": "2 km S of Yorba Linda, CA",
-        "time": 1746410845300,
-        "updated": 1746412248626,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144816.geojson",
-        "title": "M 2.2 - 2 km S of Yorba Linda, CA"
+        "time": 1746414697260,
+        "updated": 1746414915684,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144832",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144832.geojson",
+        "title": "M 1.1 - 2 km S of Yorba Linda, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8168333,
-          33.8671667,
-          5.1
+          -117.8161667,
+          33.869,
+          3.27
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "57 km S of Whites City, New Mexico",
-        "time": 1746409664222,
-        "updated": 1746410727180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isry",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isry.geojson",
-        "title": "M 2.1 - 57 km S of Whites City, New Mexico"
+        "mag": 1.58,
+        "place": "2 km ESE of The Geysers, CA",
+        "time": 1746414581070,
+        "updated": 1746414676330,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176586",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176586.geojson",
+        "title": "M 1.6 - 2 km ESE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.32,
-          31.66,
-          4.5001
+          -122.731163024902,
+          38.7718315124512,
+          0.819999992847443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.13,
+        "place": "2 km ESE of The Geysers, CA",
+        "time": 1746414570230,
+        "updated": 1746414666407,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176581",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176581.geojson",
+        "title": "M 1.1 - 2 km ESE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.731163024902,
+          38.7708320617676,
+          0.959999978542328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "35 km WNW of Tatitlek, Alaska",
+        "time": 1746414537380,
+        "updated": 1746414604663,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qs0ip6",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qs0ip6.geojson",
+        "title": "M 2.6 - 35 km WNW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2772,
+          60.9877,
+          29.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.71,
+        "place": "16 km W of Johannesburg, CA",
+        "time": 1746414431660,
+        "updated": 1746415073460,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144824",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144824.geojson",
+        "title": "M 1.7 - 16 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8063333,
+          35.3575,
+          7.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.3,
+        "place": "23 km WNW of Indian Springs, Nevada",
+        "time": 1746412988042,
+        "updated": 1746413103527,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897220",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897220.geojson",
+        "title": "M 0.3 - 23 km WNW of Indian Springs, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8974,
+          36.6846,
+          0.3
         ]
       }
     }
