@@ -1,14 +1,74 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746417811000,
+    "generated": 1746421402000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 179
+    "count": 168
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "22 km NNE of Yerington, Nevada",
+        "time": 1746420733933,
+        "updated": 1746420863728,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897221",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897221.geojson",
+        "title": "M 1.0 - 22 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0459,
+          39.1686,
+          10.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.66,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746418854230,
+        "updated": 1746419839706,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176616",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176616.geojson",
+        "title": "M 0.7 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.809829711914,
+          38.8356666564941,
+          1.96000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6,
+        "place": "southern East Pacific Rise",
+        "time": 1746417340806,
+        "updated": 1746419402056,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6v",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6v.geojson",
+        "title": "M 6.0 - southern East Pacific Rise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4288,
+          -35.2752,
+          10
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -55,7 +115,7 @@
         "mag": 0.26,
         "place": "7 km NW of The Geysers, CA",
         "time": 1746416475130,
-        "updated": 1746416571573,
+        "updated": 1746418336509,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176611",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176611.geojson",
         "title": "M 0.3 - 7 km NW of The Geysers, CA"
@@ -75,7 +135,7 @@
         "mag": 0.67,
         "place": "7 km NW of The Geysers, CA",
         "time": 1746416373320,
-        "updated": 1746416471541,
+        "updated": 1746418038475,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176606",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176606.geojson",
         "title": "M 0.7 - 7 km NW of The Geysers, CA"
@@ -155,7 +215,7 @@
         "mag": 1.57,
         "place": "3 km SE of The Geysers, CA",
         "time": 1746415622980,
-        "updated": 1746416846348,
+        "updated": 1746419237634,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176591",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176591.geojson",
         "title": "M 1.6 - 3 km SE of The Geysers, CA"
@@ -215,7 +275,7 @@
         "mag": 1.58,
         "place": "2 km ESE of The Geysers, CA",
         "time": 1746414581070,
-        "updated": 1746415638206,
+        "updated": 1746418037475,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176586",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176586.geojson",
         "title": "M 1.6 - 2 km ESE of The Geysers, CA"
@@ -255,7 +315,7 @@
         "mag": 2.6,
         "place": "35 km WNW of Tatitlek, Alaska",
         "time": 1746414537380,
-        "updated": 1746416960040,
+        "updated": 1746420584854,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qs0ip6",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qs0ip6.geojson",
         "title": "M 2.6 - 35 km WNW of Tatitlek, Alaska"
@@ -315,7 +375,7 @@
         "mag": 4.9,
         "place": "9 km SSE of Salamanca, Chile",
         "time": 1746411468129,
-        "updated": 1746417639533,
+        "updated": 1746418750841,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6k",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6k.geojson",
         "title": "M 4.9 - 9 km SSE of Salamanca, Chile"
@@ -335,7 +395,7 @@
         "mag": 2.19,
         "place": "2 km S of Yorba Linda, CA",
         "time": 1746410845300,
-        "updated": 1746417154973,
+        "updated": 1746418900177,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144816",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144816.geojson",
         "title": "M 2.2 - 2 km S of Yorba Linda, CA"
@@ -3306,286 +3366,6 @@
           -116.7206667,
           33.533,
           6.13
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.16,
-        "place": "17 km WSW of Johannesburg, CA",
-        "time": 1746334921570,
-        "updated": 1746335130817,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144464",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144464.geojson",
-        "title": "M 1.2 - 17 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.812,
-          35.3321667,
-          4.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "44 km NNW of Valdez, Alaska",
-        "time": 1746334524411,
-        "updated": 1746334629538,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255p5clx5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255p5clx5.geojson",
-        "title": "M 1.4 - 44 km NNW of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.5729,
-          61.5109,
-          28.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "276 km SSE of Ushuaia, Argentina",
-        "time": 1746334407095,
-        "updated": 1746335230040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px11",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px11.geojson",
-        "title": "M 4.9 - 276 km SSE of Ushuaia, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.4218,
-          -57.2416,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "10 km E of Toyah, Texas",
-        "time": 1746334289007,
-        "updated": 1746334802127,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025irdj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025irdj.geojson",
-        "title": "M 1.7 - 10 km E of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.683,
-          31.323,
-          6.8737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746333993330,
-        "updated": 1746335536312,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176201",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176201.geojson",
-        "title": "M 1.5 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.805335998535,
-          38.8206672668457,
-          1.71000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "44 km NNE of Larsen Bay, Alaska",
-        "time": 1746333541280,
-        "updated": 1746333653326,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255p594og",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255p594og.geojson",
-        "title": "M 1.8 - 44 km NNE of Larsen Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.6803,
-          57.9088,
-          38.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.3,
-        "place": "Drake Passage",
-        "time": 1746333487290,
-        "updated": 1746334466040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px0y",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px0y.geojson",
-        "title": "M 5.3 - Drake Passage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.7432,
-          -57.5197,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "59 km S of Whites City, New Mexico",
-        "time": 1746333450273,
-        "updated": 1746337695002,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ircy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ircy.geojson",
-        "title": "M 1.6 - 59 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.468,
-          31.641,
-          6.8587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.06,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746333340250,
-        "updated": 1746370059549,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144456",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144456.geojson",
-        "title": "M 1.1 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8145,
-          35.3576667,
-          7.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.69,
-        "place": "6 km SSW of Progreso, B.C., MX",
-        "time": 1746332711100,
-        "updated": 1746332927338,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144448",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144448.geojson",
-        "title": "M 1.7 - 6 km SSW of Progreso, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5988333,
-          32.5231667,
-          9.44
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1746332550110,
-        "updated": 1746370127600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144440",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144440.geojson",
-        "title": "M 1.1 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7236667,
-          33.5276667,
-          5.93
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "Mariana Islands region",
-        "time": 1746332502950,
-        "updated": 1746333708040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px0x",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px0x.geojson",
-        "title": "M 4.4 - Mariana Islands region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.025,
-          19.0114,
-          91.568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.65,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746332296520,
-        "updated": 1746332967940,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144424",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144424.geojson",
-        "title": "M 2.7 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8098333,
-          35.3556667,
-          7.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.05,
-        "place": "8 km S of Llano, CA",
-        "time": 1746331582840,
-        "updated": 1746370093882,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144416",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144416.geojson",
-        "title": "M 1.1 - 8 km S of Llano, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7703333,
-          34.419,
-          5.77
         ]
       }
     }

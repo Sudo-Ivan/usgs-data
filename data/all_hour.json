@@ -1,291 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746417840000,
+    "generated": 1746421344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 14
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "68 km ENE of McCarthy, Alaska",
-        "time": 1746417262130,
-        "updated": 1746417416381,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qsaax4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qsaax4.geojson",
-        "title": "M 1.7 - 68 km ENE of McCarthy, Alaska"
+        "mag": 1,
+        "place": "22 km NNE of Yerington, Nevada",
+        "time": 1746420733933,
+        "updated": 1746420863728,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897221",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897221.geojson",
+        "title": "M 1.0 - 22 km NNE of Yerington, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -141.7587,
-          61.6947,
-          1.2
+          -119.0459,
+          39.1686,
+          10.7
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.09,
-        "place": "6 km NNW of Cabazon, CA",
-        "time": 1746416604640,
-        "updated": 1746416816686,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144848",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144848.geojson",
-        "title": "M 1.1 - 6 km NNW of Cabazon, CA"
+        "mag": 0.66,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746418854230,
+        "updated": 1746419839706,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176616",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176616.geojson",
+        "title": "M 0.7 - 8 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.8186667,
-          33.97,
-          16.95
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.26,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746416475130,
-        "updated": 1746416571573,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176611",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176611.geojson",
-        "title": "M 0.3 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.824165344238,
-          38.8186683654785,
-          1.87999999523163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.67,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746416373320,
-        "updated": 1746416471541,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176606",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176606.geojson",
-        "title": "M 0.7 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.822830200195,
-          38.8185005187988,
-          2.33999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1746416132020,
-        "updated": 1746416361843,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144840",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144840.geojson",
-        "title": "M 1.1 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7253333,
-          33.5278333,
-          5.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "48 km W of Mentone, Texas",
-        "time": 1746416053222,
-        "updated": 1746416826156,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isvm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isvm.geojson",
-        "title": "M 1.8 - 48 km W of Mentone, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.114,
-          31.739,
-          5.2905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1746415937010,
-        "updated": 1746417136385,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176596",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176596.geojson",
-        "title": "M 1.1 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.811996459961,
-          38.8098335266113,
-          3.16000008583069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.57,
-        "place": "3 km SE of The Geysers, CA",
-        "time": 1746415622980,
-        "updated": 1746416846348,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176591",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176591.geojson",
-        "title": "M 1.6 - 3 km SE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731002807617,
-          38.7611656188965,
-          0.839999973773956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.2,
-        "place": "8 km SSE of Capachica, Peru",
-        "time": 1746414781595,
-        "updated": 1746417259040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6p.geojson",
-        "title": "M 4.2 - 8 km SSE of Capachica, Peru"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.8042,
-          -15.7166,
-          243.086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "2 km S of Yorba Linda, CA",
-        "time": 1746414697260,
-        "updated": 1746414915684,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144832.geojson",
-        "title": "M 1.1 - 2 km S of Yorba Linda, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8161667,
-          33.869,
-          3.27
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.58,
-        "place": "2 km ESE of The Geysers, CA",
-        "time": 1746414581070,
-        "updated": 1746415638206,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176586",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176586.geojson",
-        "title": "M 1.6 - 2 km ESE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731163024902,
-          38.7718315124512,
-          0.819999992847443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "2 km ESE of The Geysers, CA",
-        "time": 1746414570230,
-        "updated": 1746416846434,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176581",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176581.geojson",
-        "title": "M 1.1 - 2 km ESE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731163024902,
-          38.7708320617676,
-          0.959999978542328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "35 km WNW of Tatitlek, Alaska",
-        "time": 1746414537380,
-        "updated": 1746416960040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qs0ip6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qs0ip6.geojson",
-        "title": "M 2.6 - 35 km WNW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.2772,
-          60.9877,
-          29.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.71,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746414431660,
-        "updated": 1746415073460,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144824",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144824.geojson",
-        "title": "M 1.7 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8063333,
-          35.3575,
-          7.57
+          -122.809829711914,
+          38.8356666564941,
+          1.96000003814697
         ]
       }
     }
