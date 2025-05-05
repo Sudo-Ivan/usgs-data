@@ -1,21 +1,101 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746428597000,
+    "generated": 1746432198000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1660
+    "count": 1654
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "5 km SSE of Coso Junction, CA",
+        "time": 1746431851520,
+        "updated": 1746432056334,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144920",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144920.geojson",
+        "title": "M 1.2 - 5 km SSE of Coso Junction, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9355,
+          36.0048333,
+          0.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.51,
+        "place": "16 km S of Tres Pinos, CA",
+        "time": 1746428855540,
+        "updated": 1746430935935,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176631",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176631.geojson",
+        "title": "M 1.5 - 16 km S of Tres Pinos, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30883026123,
+          36.6455001831055,
+          6.38000011444092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.95,
+        "place": "16 km W of Johannesburg, CA",
+        "time": 1746428841580,
+        "updated": 1746429046981,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144912",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144912.geojson",
+        "title": "M 1.0 - 16 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8106667,
+          35.3556667,
+          7.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "38 km NNW of Chase, Alaska",
+        "time": 1746428721014,
+        "updated": 1746428808853,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qudj5x",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qudj5x.geojson",
+        "title": "M 1.6 - 38 km NNW of Chase, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.3189,
+          62.7752,
+          82.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.8,
         "place": "20 km WNW of Central, Alaska",
         "time": 1746428314232,
-        "updated": 1746428414788,
+        "updated": 1746429169762,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qu3hj3",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qu3hj3.geojson",
         "title": "M 1.8 - 20 km WNW of Central, Alaska"
@@ -1455,7 +1535,7 @@
         "mag": 2.6,
         "place": "58 km S of Whites City, New Mexico",
         "time": 1746380469765,
-        "updated": 1746411210487,
+        "updated": 1746431799724,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isco",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isco.geojson",
         "title": "M 2.6 - 58 km S of Whites City, New Mexico"
@@ -2755,7 +2835,7 @@
         "mag": 2.68,
         "place": "13 km E of Julian, CA",
         "time": 1746352091300,
-        "updated": 1746416026199,
+        "updated": 1746429223765,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144576",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144576.geojson",
         "title": "M 2.7 - 13 km E of Julian, CA"
@@ -4295,7 +4375,7 @@
         "mag": 5.4,
         "place": "59 km S of Whites City, New Mexico",
         "time": 1746323225553,
-        "updated": 1746422507580,
+        "updated": 1746428746214,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iqwk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iqwk.geojson",
         "title": "M 5.4 - 59 km S of Whites City, New Mexico"
@@ -33006,206 +33086,6 @@
           -152.697333333333,
           60.6433333333333,
           5.29
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "41 km ESE of Pedro Bay, Alaska",
-        "time": 1745827251998,
-        "updated": 1745937642108,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255fa6j30",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255fa6j30.geojson",
-        "title": "M 2.5 - 41 km ESE of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.4225,
-          59.6414,
-          113.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1745826522354,
-        "updated": 1745846104714,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025igjm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025igjm.geojson",
-        "title": "M 1.9 - 58 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.489,
-          31.653,
-          5.4846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "35 km SSW of Los Ybanez, Texas",
-        "time": 1745826184649,
-        "updated": 1745852203259,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025igjf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025igjf.geojson",
-        "title": "M 2.2 - 35 km SSW of Los Ybanez, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.102,
-          32.444,
-          6.6162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.62,
-        "place": "8 km SSW of Idyllwild, CA",
-        "time": 1745825882070,
-        "updated": 1745848272693,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41137840",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41137840.geojson",
-        "title": "M 0.6 - 8 km SSW of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7368333,
-          33.6673333,
-          17.58
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.87,
-        "place": "9 km NNW of The Geysers, CA",
-        "time": 1745825851800,
-        "updated": 1745831539581,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75173101",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75173101.geojson",
-        "title": "M 0.9 - 9 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.823333740234,
-          38.8344993591309,
-          4.07000017166138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.01,
-        "place": "19 km W of Sitka, Alaska",
-        "time": 1745825793380,
-        "updated": 1745953374380,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93589881",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93589881.geojson",
-        "title": "M 0.0 - 19 km W of Sitka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -135.643666666667,
-          57.0645,
-          7.82
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.05,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1745825292930,
-        "updated": 1745848286694,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41137832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41137832.geojson",
-        "title": "M 1.1 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8076667,
-          35.3276667,
-          7.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "3 km SW of Cobb, CA",
-        "time": 1745825122190,
-        "updated": 1745825838965,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75173096",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75173096.geojson",
-        "title": "M 0.7 - 3 km SW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.736000061035,
-          38.7994995117188,
-          0.740000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.14,
-        "place": "12 km ESE of Anza, CA",
-        "time": 1745824013990,
-        "updated": 1745848387110,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41137824",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41137824.geojson",
-        "title": "M 1.1 - 12 km ESE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.563,
-          33.5023333,
-          11.71
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.24,
-        "place": "36 km W of El Sauzal, B.C., MX",
-        "time": 1745823865150,
-        "updated": 1745952408363,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41137816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41137816.geojson",
-        "title": "M 2.2 - 36 km W of El Sauzal, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0605,
-          31.8403333,
-          20.32
         ]
       }
     }

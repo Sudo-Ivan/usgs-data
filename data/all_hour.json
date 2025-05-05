@@ -1,71 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746428597000,
+    "generated": 1746432180000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "20 km WNW of Central, Alaska",
-        "time": 1746428314232,
-        "updated": 1746428414788,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qu3hj3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qu3hj3.geojson",
-        "title": "M 1.8 - 20 km WNW of Central, Alaska"
+        "mag": 1.2,
+        "place": "5 km SSE of Coso Junction, CA",
+        "time": 1746431851520,
+        "updated": 1746432056334,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144920",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144920.geojson",
+        "title": "M 1.2 - 5 km SSE of Coso Junction, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -145.2171,
-          65.6378,
-          0
+          -117.9355,
+          36.0048333,
+          0.97
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.49,
-        "place": "4 km ESE of Placentia, CA",
-        "time": 1746428016500,
-        "updated": 1746428246894,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144904",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144904.geojson",
-        "title": "M 1.5 - 4 km ESE of Placentia, CA"
+        "mag": 1.51,
+        "place": "16 km S of Tres Pinos, CA",
+        "time": 1746428855540,
+        "updated": 1746430935935,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176631",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176631.geojson",
+        "title": "M 1.5 - 16 km S of Tres Pinos, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8331667,
-          33.8565,
-          5.61
+          -121.30883026123,
+          36.6455001831055,
+          6.38000011444092
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "55 km S of Whites City, New Mexico",
-        "time": 1746425554849,
-        "updated": 1746426500598,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itas",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itas.geojson",
-        "title": "M 1.8 - 55 km S of Whites City, New Mexico"
+        "mag": 0.95,
+        "place": "16 km W of Johannesburg, CA",
+        "time": 1746428841580,
+        "updated": 1746429046981,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144912",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144912.geojson",
+        "title": "M 1.0 - 16 km W of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.415,
-          31.672,
-          6.6707
+          -117.8106667,
+          35.3556667,
+          7.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "38 km NNW of Chase, Alaska",
+        "time": 1746428721014,
+        "updated": 1746428808853,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qudj5x",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qudj5x.geojson",
+        "title": "M 1.6 - 38 km NNW of Chase, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.3189,
+          62.7752,
+          82.2
         ]
       }
     }
