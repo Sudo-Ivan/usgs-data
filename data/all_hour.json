@@ -1,71 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746453744000,
+    "generated": 1746457344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.76,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746452634040,
-        "updated": 1746452729090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176766",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176766.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+        "mag": 1.2,
+        "place": "11 km NW of Healdsburg, CA",
+        "time": 1746455683870,
+        "updated": 1746456437763,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176806",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176806.geojson",
+        "title": "M 1.2 - 11 km NW of Healdsburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.824996948242,
-          38.8165016174316,
-          2.5699999332428
+          -122.971664428711,
+          38.6648330688477,
+          4.23999977111816
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.8,
-        "place": "Kermadec Islands region",
-        "time": 1746451286294,
-        "updated": 1746453256040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px8w",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px8w.geojson",
-        "title": "M 4.8 - Kermadec Islands region"
+        "mag": 1.5,
+        "place": "55 km S of Whites City, New Mexico",
+        "time": 1746455364287,
+        "updated": 1746456194754,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itrx",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itrx.geojson",
+        "title": "M 1.5 - 55 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -176.6961,
-          -28.4189,
-          47.607
+          -104.412,
+          31.674,
+          9.3397
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.9,
-        "place": "Kermadec Islands region",
-        "time": 1746450951038,
-        "updated": 1746452823040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px8u",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px8u.geojson",
-        "title": "M 4.9 - Kermadec Islands region"
+        "mag": 0.8,
+        "place": "18 km ESE of Julian, CA",
+        "time": 1746455176030,
+        "updated": 1746455398035,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145056",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145056.geojson",
+        "title": "M 0.8 - 18 km ESE of Julian, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -176.6441,
-          -28.3915,
-          37.285
+          -116.4116667,
+          33.0385,
+          6.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.82,
+        "place": "10 km WSW of Petrolia, CA",
+        "time": 1746454954460,
+        "updated": 1746456138728,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176796",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176796.geojson",
+        "title": "M 1.8 - 10 km WSW of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.379669189453,
+          40.2765007019043,
+          20.9599990844727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.85,
+        "place": "2 km NW of The Geysers, CA",
+        "time": 1746454798360,
+        "updated": 1746456779040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176791",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176791.geojson",
+        "title": "M 2.9 - 2 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.777000427246,
+          38.7921676635742,
+          2.98000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.51,
+        "place": "1 km SW of Pāhala, Hawaii",
+        "time": 1746454661880,
+        "updated": 1746455870040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74666162",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74666162.geojson",
+        "title": "M 2.5 - 1 km SW of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.488662719727,
+          19.1889991760254,
+          31.8999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "53 km E of Khorugh, Tajikistan",
+        "time": 1746454257828,
+        "updated": 1746455391040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px93",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px93.geojson",
+        "title": "M 4.3 - 53 km E of Khorugh, Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1541,
+          37.5508,
+          177.284
         ]
       }
     }
