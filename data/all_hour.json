@@ -1,151 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746450624000,
+    "generated": 1746453744000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.5,
-        "place": "2 km  of The Geysers, CA",
-        "time": 1746449228940,
-        "updated": 1746449323406,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176746",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176746.geojson",
-        "title": "M 0.5 - 2 km  of The Geysers, CA"
+        "mag": 0.76,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746452634040,
+        "updated": 1746452729090,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176766",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176766.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.761001586914,
-          38.7919998168945,
-          2.49000000953674
+          -122.824996948242,
+          38.8165016174316,
+          2.5699999332428
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "33 km NW of Toyah, Texas",
-        "time": 1746448779644,
-        "updated": 1746449187953,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itnq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itnq.geojson",
-        "title": "M 1.7 - 33 km NW of Toyah, Texas"
+        "mag": 4.8,
+        "place": "Kermadec Islands region",
+        "time": 1746451286294,
+        "updated": 1746453256040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px8w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px8w.geojson",
+        "title": "M 4.8 - Kermadec Islands region"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.011,
-          31.556,
-          5.6448
+          -176.6961,
+          -28.4189,
+          47.607
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.2,
-        "place": "41 km SSW of South Van Horn, Alaska",
-        "time": 1746448199609,
-        "updated": 1746448297573,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qxhxco",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qxhxco.geojson",
-        "title": "M 2.2 - 41 km SSW of South Van Horn, Alaska"
+        "mag": 4.9,
+        "place": "Kermadec Islands region",
+        "time": 1746450951038,
+        "updated": 1746452823040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px8u",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px8u.geojson",
+        "title": "M 4.9 - Kermadec Islands region"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.0364,
-          64.4491,
-          3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "31 km SE of Malaga, New Mexico",
-        "time": 1746447855501,
-        "updated": 1746448643089,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itna",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itna.geojson",
-        "title": "M 1.8 - 31 km SE of Malaga, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.81,
-          32.05,
-          4.4847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "2 km NNW of The Geysers, CA",
-        "time": 1746447661490,
-        "updated": 1746448638889,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176726",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176726.geojson",
-        "title": "M 1.1 - 2 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.767166137695,
-          38.792667388916,
-          3.80999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "55 km NW of Toyah, Texas",
-        "time": 1746447552640,
-        "updated": 1746448162032,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itmw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itmw.geojson",
-        "title": "M 1.8 - 55 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.197,
-          31.673,
-          6.4416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.91,
-        "place": "19 km ENE of Cruz Bay, U.S. Virgin Islands",
-        "time": 1746447234590,
-        "updated": 1746448978180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481458",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481458.geojson",
-        "title": "M 2.9 - 19 km ENE of Cruz Bay, U.S. Virgin Islands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.629,
-          18.4088333333333,
-          13.19
+          -176.6441,
+          -28.3915,
+          37.285
         ]
       }
     }
