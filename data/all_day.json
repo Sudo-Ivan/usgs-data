@@ -1,14 +1,174 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746435742000,
+    "generated": 1746439339000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 153
+    "count": 158
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.08,
+        "place": "5 km WSW of Norco, CA",
+        "time": 1746438987250,
+        "updated": 1746439222864,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145000",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145000.geojson",
+        "title": "M 2.1 - 5 km WSW of Norco, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6016667,
+          33.913,
+          5.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.5,
+        "place": "43 km SSW of Cantwell, Alaska",
+        "time": 1746438557950,
+        "updated": 1746438917384,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qvttm6",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qvttm6.geojson",
+        "title": "M 3.5 - 43 km SSW of Cantwell, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2963,
+          63.0335,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.6,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746438151702,
+        "updated": 1746439227846,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ithp",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ithp.geojson",
+        "title": "M 3.6 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.458,
+          31.655,
+          6.7664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1746436979310,
+        "updated": 1746438136715,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176671",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176671.geojson",
+        "title": "M 0.8 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.841331481934,
+          38.8213348388672,
+          2.01999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1746435904660,
+        "updated": 1746437538656,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176666",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176666.geojson",
+        "title": "M 0.4 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80883026123,
+          38.8183326721191,
+          3.63000011444092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "60 km S of Whites City, New Mexico",
+        "time": 1746435733065,
+        "updated": 1746436729127,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itgj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itgj.geojson",
+        "title": "M 1.6 - 60 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.473,
+          31.637,
+          3.5885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.35,
+        "place": "13 km WSW of Searles Valley, CA",
+        "time": 1746435720810,
+        "updated": 1746435928547,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144992",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144992.geojson",
+        "title": "M 1.4 - 13 km WSW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.542,
+          35.723,
+          6.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "Drake Passage",
+        "time": 1746434993043,
+        "updated": 1746437180040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px7t",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px7t.geojson",
+        "title": "M 4.6 - Drake Passage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9846,
+          -57.4967,
+          10
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -95,7 +255,7 @@
         "mag": 5.8,
         "place": "3 km NNW of Mariano Matamoros, Mexico",
         "time": 1746433693648,
-        "updated": 1746435565899,
+        "updated": 1746437684340,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px7i",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px7i.geojson",
         "title": "M 5.8 - 3 km NNW of Mariano Matamoros, Mexico"
@@ -155,7 +315,7 @@
         "mag": 2.01,
         "place": "12 km WSW of Wilkerson, CA",
         "time": 1746432754940,
-        "updated": 1746433640224,
+        "updated": 1746436039487,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176646",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176646.geojson",
         "title": "M 2.0 - 12 km WSW of Wilkerson, CA"
@@ -1715,7 +1875,7 @@
         "mag": 2.6,
         "place": "58 km S of Whites City, New Mexico",
         "time": 1746380469765,
-        "updated": 1746431799724,
+        "updated": 1746439190525,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isco",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isco.geojson",
         "title": "M 2.6 - 58 km S of Whites City, New Mexico"
@@ -3006,66 +3166,6 @@
           -118.2055,
           34.0203333,
           15.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.68,
-        "place": "13 km E of Julian, CA",
-        "time": 1746352091300,
-        "updated": 1746429223765,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144576",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144576.geojson",
-        "title": "M 2.7 - 13 km E of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4688333,
-          33.1006667,
-          10.89
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746351619380,
-        "updated": 1746353841373,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176256",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176256.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.819664001465,
-          38.8134994506836,
-          2.90000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "31 km ESE of Susitna North, Alaska",
-        "time": 1746350003133,
-        "updated": 1746350111053,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255p82rrt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255p82rrt.geojson",
-        "title": "M 1.1 - 31 km ESE of Susitna North, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.3078,
-          62.0332,
-          22
         ]
       }
     }
