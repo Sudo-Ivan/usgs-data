@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746511382000,
+    "generated": 1746514943000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 209
+    "count": 213
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.99,
+        "place": "5 km SE of Lytle Creek, CA",
+        "time": 1746514617970,
+        "updated": 1746514840906,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145640",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145640.geojson",
+        "title": "M 1.0 - 5 km SE of Lytle Creek, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4615,
+          34.231,
+          8.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.98,
+        "place": "6 km E of Nuevo, CA",
+        "time": 1746513719710,
+        "updated": 1746514279907,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145632",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145632.geojson",
+        "title": "M 1.0 - 6 km E of Nuevo, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0766667,
+          33.8086667,
+          16.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "59 km W of Anchor Point, Alaska",
+        "time": 1746513517319,
+        "updated": 1746513650469,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255shijxv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255shijxv.geojson",
+        "title": "M 2.0 - 59 km W of Anchor Point, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8916,
+          59.8187,
+          100.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "69 km S of Kavieng, Papua New Guinea",
+        "time": 1746513466532,
+        "updated": 1746514617040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxfv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxfv.geojson",
+        "title": "M 4.8 - 69 km S of Kavieng, Papua New Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7879,
+          -3.2005,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.42,
+        "place": "5 km W of Millbrae, CA",
+        "time": 1746513296410,
+        "updated": 1746514040319,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177156",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177156.geojson",
+        "title": "M 1.4 - 5 km W of Millbrae, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43766784668,
+          37.5861663818359,
+          9.82999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "22 km NNW of Willow, Alaska",
+        "time": 1746512461370,
+        "updated": 1746512551837,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255shetzt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255shetzt.geojson",
+        "title": "M 1.9 - 22 km NNW of Willow, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.2419,
+          61.9285,
+          53.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "67 km WNW of Tyonek, Alaska",
+        "time": 1746512435393,
+        "updated": 1746512549380,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sheowj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sheowj.geojson",
+        "title": "M 1.1 - 67 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3644,
+          61.2025,
+          117.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -135,7 +275,7 @@
         "mag": 1.25,
         "place": "7 km WNW of Cobb, CA",
         "time": 1746507947480,
-        "updated": 1746508936780,
+        "updated": 1746511644970,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177151",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177151.geojson",
         "title": "M 1.3 - 7 km WNW of Cobb, CA"
@@ -635,7 +775,7 @@
         "mag": 3.3,
         "place": "6 km W of Chapareillan, France",
         "time": 1746495607873,
-        "updated": 1746510589739,
+        "updated": 1746514681613,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxek",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxek.geojson",
         "title": "M 3.3 - 6 km W of Chapareillan, France"
@@ -2452,6 +2592,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.48,
+        "place": "4 km SE of Lea Hill, Washington",
+        "time": 1746465993430,
+        "updated": 1746512099280,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62093997",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62093997.geojson",
+        "title": "M 1.5 - 4 km SE of Lea Hill, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14916666666667,
+          47.2935,
+          22.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.7,
         "place": "3 km  of The Geysers, CA",
         "time": 1746464758770,
@@ -4106,86 +4266,6 @@
           -150.3666,
           62.9487,
           84.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "150 km WSW of Adak, Alaska",
-        "time": 1746428465481,
-        "updated": 1746457360885,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qucn3l",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qucn3l.geojson",
-        "title": "M 2.2 - 150 km WSW of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -178.7535,
-          51.5564,
-          67.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.49,
-        "place": "4 km ESE of Placentia, CA",
-        "time": 1746428016500,
-        "updated": 1746428246894,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144904",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144904.geojson",
-        "title": "M 1.5 - 4 km ESE of Placentia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8331667,
-          33.8565,
-          5.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "21 km SE of Midland, Texas",
-        "time": 1746426220136,
-        "updated": 1746449572268,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itbd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itbd.geojson",
-        "title": "M 1.4 - 21 km SE of Midland, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.911,
-          31.861,
-          6.8604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1746425554810,
-        "updated": 1746451262102,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itas",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itas.geojson",
-        "title": "M 1.8 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.415,
-          31.67,
-          6.8433
         ]
       }
     }
