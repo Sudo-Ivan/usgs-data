@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746568947000,
+    "generated": 1746572517000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 218
+    "count": 211
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.63,
+        "place": "24 km NNW of Searles Valley, CA",
+        "time": 1746572028500,
+        "updated": 1746572252841,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146288",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146288.geojson",
+        "title": "M 1.6 - 24 km NNW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.489,
+          35.9728333,
+          4.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1746571655980,
+        "updated": 1746571750118,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177471",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177471.geojson",
+        "title": "M 0.7 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.845169067383,
+          38.8245010375977,
+          1.80999994277954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.43,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1746570951220,
+        "updated": 1746571163567,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146280",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146280.geojson",
+        "title": "M 1.4 - 15 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7996667,
+          35.3525,
+          6.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.29,
+        "place": "4 km E of Ontario, CA",
+        "time": 1746570385750,
+        "updated": 1746570592705,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146272",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146272.geojson",
+        "title": "M 1.3 - 4 km E of Ontario, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.585,
+          34.0471667,
+          13.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "23 km NNE of Yerington, Nevada",
+        "time": 1746568988393,
+        "updated": 1746569121352,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897304",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897304.geojson",
+        "title": "M 1.2 - 23 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0409,
+          39.1699,
+          3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.97,
         "place": "3 km WNW of Anderson Springs, CA",
         "time": 1746568330320,
-        "updated": 1746568426950,
+        "updated": 1746571338630,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177451",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177451.geojson",
         "title": "M 1.0 - 3 km WNW of Anderson Springs, CA"
@@ -35,7 +135,7 @@
         "mag": 1.39,
         "place": "2 km E of Oakland, CA",
         "time": 1746568082970,
-        "updated": 1746568180777,
+        "updated": 1746571078041,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177446",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177446.geojson",
         "title": "M 1.4 - 2 km E of Oakland, CA"
@@ -46,6 +146,26 @@
           -122.205497741699,
           37.8001670837402,
           10.2299995422363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.93,
+        "place": "9 km S of Ellensburg, Washington",
+        "time": 1746567655360,
+        "updated": 1746570258440,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094937",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094937.geojson",
+        "title": "M 1.9 Explosion - 9 km S of Ellensburg, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5665,
+          46.9115,
+          -0.87
         ]
       }
     },
@@ -226,26 +346,6 @@
           -179.5763,
           -22.3286,
           582.581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "9 km SSW of Boulder City, Nevada",
-        "time": 1746565107344,
-        "updated": 1746565281325,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897297",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897297.geojson",
-        "title": "M 1.7 - 9 km SSW of Boulder City, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.8651,
-          35.8996,
-          10.3
         ]
       }
     },
@@ -446,6 +546,26 @@
           -119.0432,
           39.1519,
           9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.52,
+        "place": "5 km S of Port Ludlow, Washington",
+        "time": 1746557288960,
+        "updated": 1746569635670,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094847",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094847.geojson",
+        "title": "M 1.5 - 5 km S of Port Ludlow, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6935,
+          47.877,
+          8.28
         ]
       }
     },
@@ -695,7 +815,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746568777083,
+        "updated": 1746572113806,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -946,6 +1066,26 @@
           -150.4392,
           63.1758,
           119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.65,
+        "place": "7 km NE of Marrowstone, Washington",
+        "time": 1746546561250,
+        "updated": 1746570476140,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094732",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094732.geojson",
+        "title": "M 0.7 Explosion - 7 km NE of Marrowstone, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.617,
+          48.102666666666664,
+          -0.62
         ]
       }
     },
@@ -1272,20 +1412,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9221017360687256,
-        "place": "17 km SW of Nile, Washington",
-        "time": 1746535815680,
-        "updated": 1746536052120,
+        "mag": 2.09,
+        "place": "16 km WSW of Nile, Washington",
+        "time": 1746535815830,
+        "updated": 1746569159980,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094697",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094697.geojson",
-        "title": "M 1.9 - 17 km SW of Nile, Washington"
+        "title": "M 2.1 - 16 km WSW of Nile, Washington"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.11983489990234,
-          46.72650146484375,
-          -0.959999978542328
+          -121.13083333333333,
+          46.74916666666667,
+          4.37
         ]
       }
     },
@@ -4086,286 +4226,6 @@
           -122.22416666666666,
           46.97,
           -0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "93 km SW of Modisi, Indonesia",
-        "time": 1746485853219,
-        "updated": 1746490808040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxdu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxdu.geojson",
-        "title": "M 4.9 - 93 km SW of Modisi, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.7543,
-          -0.0463,
-          120.847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.61,
-        "place": "9 km SW of New Harmony, Utah",
-        "time": 1746485578010,
-        "updated": 1746538415610,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107041",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107041.geojson",
-        "title": "M 1.6 - 9 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.394833333333,
-          37.4283333333333,
-          5.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "28 km WSW of Skwentna, Alaska",
-        "time": 1746485105774,
-        "updated": 1746485264219,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r3jkpd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r3jkpd.geojson",
-        "title": "M 1.6 - 28 km WSW of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.8685,
-          61.858,
-          86.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "284 km S of Ushuaia, Argentina",
-        "time": 1746484991627,
-        "updated": 1746492845040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxdq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxdq.geojson",
-        "title": "M 4.5 - 284 km S of Ushuaia, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.3058,
-          -57.3658,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.32,
-        "place": "15 km SSE of Pinnacles, CA",
-        "time": 1746484277590,
-        "updated": 1746490640608,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177036",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177036.geojson",
-        "title": "M 1.3 - 15 km SSE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.023498535156,
-          36.4318351745605,
-          8.35000038146973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "9 km ENE of Pine Valley, Utah",
-        "time": 1746484223480,
-        "updated": 1746540933050,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107036",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107036.geojson",
-        "title": "M 1.2 - 9 km ENE of Pine Valley, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.408166666667,
-          37.422,
-          1.82
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.16,
-        "place": "8 km WSW of New Harmony, Utah",
-        "time": 1746484104920,
-        "updated": 1746540825730,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003273",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003273.geojson",
-        "title": "M 1.2 - 8 km WSW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.39,
-          37.4441666666667,
-          12.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746483879040,
-        "updated": 1746483976076,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177031",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177031.geojson",
-        "title": "M 1.1 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.807662963867,
-          38.818000793457,
-          3.00999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1746483668630,
-        "updated": 1746483766648,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177016",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177016.geojson",
-        "title": "M 1.1 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.807830810547,
-          38.8165016174316,
-          3.10999989509583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.39,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1746483431150,
-        "updated": 1746484937981,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177011",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177011.geojson",
-        "title": "M 0.4 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.820831298828,
-          38.803165435791,
-          12.3000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.83,
-        "place": "10 km SW of New Harmony, Utah",
-        "time": 1746483079890,
-        "updated": 1746484939030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107026",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107026.geojson",
-        "title": "M 0.8 - 10 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.4045,
-          37.4258333333333,
-          1.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "9 km SW of New Harmony, Utah",
-        "time": 1746482836840,
-        "updated": 1746484746830,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107021",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107021.geojson",
-        "title": "M 1.3 - 9 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.392333333333,
-          37.4306666666667,
-          5.43
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "18 km E of Clear, Alaska",
-        "time": 1746482683151,
-        "updated": 1746482788129,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r3av8b",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r3av8b.geojson",
-        "title": "M 1.3 - 18 km E of Clear, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.8131,
-          64.261,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.26,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746482576460,
-        "updated": 1746487339239,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176991",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176991.geojson",
-        "title": "M 1.3 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.807334899902,
-          38.8171653747559,
-          3.07999992370605
         ]
       }
     }
