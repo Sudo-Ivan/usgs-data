@@ -1,131 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746537085000,
+    "generated": 1746540159000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9221017360687256,
-        "place": "17 km SW of Nile, Washington",
-        "time": 1746535815680,
-        "updated": 1746536052120,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094697",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094697.geojson",
-        "title": "M 1.9 - 17 km SW of Nile, Washington"
+        "mag": 1.5,
+        "place": "3 km SSW of Houston, Alaska",
+        "time": 1746539095485,
+        "updated": 1746539234893,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255slpwvg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255slpwvg.geojson",
+        "title": "M 1.5 - 3 km SSW of Houston, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.11983489990234,
-          46.72650146484375,
-          -0.959999978542328
+          -149.8492,
+          61.6058,
+          57.6
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "40 km SSE of Denali National Park, Alaska",
-        "time": 1746535666190,
-        "updated": 1746535809862,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sl53p7",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sl53p7.geojson",
-        "title": "M 1.4 - 40 km SSE of Denali National Park, Alaska"
+        "mag": 2.1,
+        "place": "20 km W of Volcano, Hawaii",
+        "time": 1746537820590,
+        "updated": 1746538080780,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74666702",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74666702.geojson",
+        "title": "M 2.1 - 20 km W of Volcano, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.3405,
-          63.2246,
-          0
+          -155.426330566406,
+          19.4506664276123,
+          0.5
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.06,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746535286270,
-        "updated": 1746535944390,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145744",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145744.geojson",
-        "title": "M 2.1 - 16 km WSW of Johannesburg, CA"
+        "mag": 0.33,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746537599400,
+        "updated": 1746538636001,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177291",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177291.geojson",
+        "title": "M 0.3 - 8 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.81,
-          35.3315,
-          6.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.92,
-        "place": "4 km W of Cobb, CA",
-        "time": 1746534518060,
-        "updated": 1746535642638,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177276",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177276.geojson",
-        "title": "M 0.9 - 4 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.767501831055,
-          38.8219985961914,
-          2.57999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "50 km N of Valdez, Alaska",
-        "time": 1746534181293,
-        "updated": 1746534314460,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255skzv1t",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255skzv1t.geojson",
-        "title": "M 1.7 - 50 km N of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.3333,
-          61.5801,
-          20.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "8 km NW of Fritz Creek, Alaska",
-        "time": 1746534054292,
-        "updated": 1746534168481,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255skzbzp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255skzbzp.geojson",
-        "title": "M 1.7 - 8 km NW of Fritz Creek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.3824,
-          59.7931,
-          27.8
+          -122.80916595459,
+          38.8398323059082,
+          12.6700000762939
         ]
       }
     }
