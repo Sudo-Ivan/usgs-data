@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746558133000,
+    "generated": 1746561747000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 228
+    "count": 220
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.79,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746561610890,
+        "updated": 1746561706232,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177426",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177426.geojson",
+        "title": "M 0.8 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.816329956055,
+          38.8343315124512,
+          1.78999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "37 km W of Tatitlek, Alaska",
+        "time": 1746559692908,
+        "updated": 1746560824040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sp6zre",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sp6zre.geojson",
+        "title": "M 2.7 - 37 km W of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3655,
+          60.9206,
+          12.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "35 km WNW of Petersville, Alaska",
+        "time": 1746559389409,
+        "updated": 1746559510684,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sp5wws",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sp5wws.geojson",
+        "title": "M 1.4 - 35 km WNW of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4007,
+          62.6304,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "33 km NNE of Chase, Alaska",
+        "time": 1746558372835,
+        "updated": 1746558814278,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sp2a03",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sp2a03.geojson",
+        "title": "M 1.7 - 33 km NNE of Chase, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8538,
+          62.7256,
+          64.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "20 km NNE of Yerington, Nevada",
+        "time": 1746558173301,
+        "updated": 1746558300701,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897286",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897286.geojson",
+        "title": "M 1.2 - 20 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.045,
+          39.1439,
+          11.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -35,7 +135,7 @@
         "mag": 2.61,
         "place": "9 km NW of Dunnigan, CA",
         "time": 1746556428530,
-        "updated": 1746556937063,
+        "updated": 1746560845496,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177401",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177401.geojson",
         "title": "M 2.6 - 9 km NW of Dunnigan, CA"
@@ -46,6 +146,26 @@
           -122.055335998535,
           38.9339981079102,
           0.00999999977648258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.4,
+        "place": "247 km SE of Chiniak, Alaska",
+        "time": 1746555502178,
+        "updated": 1746560471442,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxje",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxje.geojson",
+        "title": "M 3.4 - 247 km SE of Chiniak, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2116,
+          56.1518,
+          10
         ]
       }
     },
@@ -235,7 +355,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746557928160,
+        "updated": 1746561612734,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -4132,6 +4252,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.33,
+        "place": "3 km WNW of Langford, Canada",
+        "time": 1746477669010,
+        "updated": 1746560221910,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094177",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094177.geojson",
+        "title": "M 0.3 Explosion - 3 km WNW of Langford, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.54433333333333,
+          48.45616666666667,
+          -0.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.8,
         "place": "64 km S of Cantwell, Alaska",
         "time": 1746477213466,
@@ -4266,306 +4406,6 @@
           -122.733497619629,
           38.8023338317871,
           0.990000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.21,
-        "place": "9 km SW of New Harmony, Utah",
-        "time": 1746475228450,
-        "updated": 1746478395840,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106986",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106986.geojson",
-        "title": "M 2.2 - 9 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.393666666667,
-          37.4293333333333,
-          9.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746475138910,
-        "updated": 1746476836080,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176941",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176941.geojson",
-        "title": "M 1.1 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.803001403809,
-          38.8158340454102,
-          2.64000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.86,
-        "place": "10 km SW of New Harmony, Utah",
-        "time": 1746475003620,
-        "updated": 1746478841590,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106981",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106981.geojson",
-        "title": "M 0.9 - 10 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.400333333333,
-          37.4236666666667,
-          0.76
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.95,
-        "place": "4 km NW of Cabazon, CA",
-        "time": 1746474726340,
-        "updated": 1746539577888,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145320",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145320.geojson",
-        "title": "M 1.0 - 4 km NW of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8261667,
-          33.9396667,
-          7.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.17,
-        "place": "8 km SW of New Harmony, Utah",
-        "time": 1746474689080,
-        "updated": 1746477616560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106976",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106976.geojson",
-        "title": "M 1.2 - 8 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.379833333333,
-          37.429,
-          8.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.04,
-        "place": "10 km SW of New Harmony, Utah",
-        "time": 1746474596110,
-        "updated": 1746476852470,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106971",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106971.geojson",
-        "title": "M 1.0 - 10 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.4015,
-          37.423,
-          0.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "central Mid-Atlantic Ridge",
-        "time": 1746474541057,
-        "updated": 1746475927040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxbz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxbz.geojson",
-        "title": "M 4.7 - central Mid-Atlantic Ridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.7526,
-          8.7122,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.32,
-        "place": "9 km SW of New Harmony, Utah",
-        "time": 1746474200920,
-        "updated": 1746476633970,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106966",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106966.geojson",
-        "title": "M 2.3 - 9 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.393333333333,
-          37.428,
-          5.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "9 km WNW of Tatitlek, Alaska",
-        "time": 1746473775335,
-        "updated": 1746473902949,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r1pd6l",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r1pd6l.geojson",
-        "title": "M 2.1 - 9 km WNW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.8411,
-          60.8844,
-          20.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.49,
-        "place": "7 km ESE of Chula Vista, CA",
-        "time": 1746473442870,
-        "updated": 1746473743878,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145304",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145304.geojson",
-        "title": "M 1.5 - 7 km ESE of Chula Vista, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9828333,
-          32.6021667,
-          3.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.54,
-        "place": "4 km NW of Rosamond, CA",
-        "time": 1746473389510,
-        "updated": 1746473655373,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145296",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145296.geojson",
-        "title": "M 1.5 - 4 km NW of Rosamond, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1931667,
-          34.8941667,
-          9.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "5 km E of Butte, Montana",
-        "time": 1746472701870,
-        "updated": 1746488849790,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90082093",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90082093.geojson",
-        "title": "M 1.5 Quarry Blast - 5 km E of Butte, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.4675,
-          46.0008333333333,
-          -2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "62 km W of Salamatof, Alaska",
-        "time": 1746472678851,
-        "updated": 1746472818398,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r1ldru",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r1ldru.geojson",
-        "title": "M 2.2 - 62 km W of Salamatof, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.4553,
-          60.5514,
-          90.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "38 km SSW of Los Ybanez, Texas",
-        "time": 1746472640394,
-        "updated": 1746542110922,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iubb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iubb.geojson",
-        "title": "M 1.7 - 38 km SSW of Los Ybanez, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.136,
-          32.429,
-          6.8604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.58,
-        "place": "7 km SW of New Harmony, Utah",
-        "time": 1746472363910,
-        "updated": 1746474100390,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106961",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106961.geojson",
-        "title": "M 1.6 - 7 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.382166666667,
-          37.4398333333333,
-          10.71
         ]
       }
     }
