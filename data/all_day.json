@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746498653000,
+    "generated": 1746501503000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 207
+    "count": 205
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "18 km WSW of Skwentna, Alaska",
+        "time": 1746500606291,
+        "updated": 1746500707599,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sfiq7l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sfiq7l.geojson",
+        "title": "M 2.5 - 18 km WSW of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.726,
+          61.9422,
+          108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.27,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1746500142410,
+        "updated": 1746501440839,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177121",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177121.geojson",
+        "title": "M 0.3 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807662963867,
+          38.8175010681152,
+          3.39000010490417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.36,
+        "place": "9 km WSW of Morongo Valley, CA",
+        "time": 1746500010430,
+        "updated": 1746500649340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145568",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145568.geojson",
+        "title": "M 1.4 - 9 km WSW of Morongo Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6615,
+          34.0075,
+          13.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "6 km WSW of Anza, CA",
+        "time": 1746499538730,
+        "updated": 1746499806170,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145552",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145552.geojson",
+        "title": "M 0.8 - 6 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7316667,
+          33.5255,
+          4.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "7 km WSW of Four Mile Road, Alaska",
+        "time": 1746498881547,
+        "updated": 1746498985926,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sf3yze",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sf3yze.geojson",
+        "title": "M 1.3 - 7 km WSW of Four Mile Road, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.257,
+          64.5806,
+          15.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -126,6 +226,26 @@
           -104.3726,
           31.6768,
           7.644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.3,
+        "place": "6 km W of Chapareillan, France",
+        "time": 1746495607873,
+        "updated": 1746498942040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxek",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxek.geojson",
+        "title": "M 3.3 - 6 km W of Chapareillan, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9087,
+          45.4673,
+          5
         ]
       }
     },
@@ -375,7 +495,7 @@
         "mag": 3.6,
         "place": "2 km NW of Four Mile Road, Alaska",
         "time": 1746490653397,
-        "updated": 1746494510216,
+        "updated": 1746499438589,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sdtfwd",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sdtfwd.geojson",
         "title": "M 3.6 - 2 km NW of Four Mile Road, Alaska"
@@ -3986,166 +4106,6 @@
           -122.731002807617,
           38.7611656188965,
           0.839999973773956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.2,
-        "place": "8 km SSE of Capachica, Peru",
-        "time": 1746414781595,
-        "updated": 1746417259040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6p.geojson",
-        "title": "M 4.2 - 8 km SSE of Capachica, Peru"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.8042,
-          -15.7166,
-          243.086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "2 km S of Yorba Linda, CA",
-        "time": 1746414697260,
-        "updated": 1746414915684,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144832.geojson",
-        "title": "M 1.1 - 2 km S of Yorba Linda, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8161667,
-          33.869,
-          3.27
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.58,
-        "place": "2 km ESE of The Geysers, CA",
-        "time": 1746414581070,
-        "updated": 1746418037475,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176586",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176586.geojson",
-        "title": "M 1.6 - 2 km ESE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731163024902,
-          38.7718315124512,
-          0.819999992847443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "2 km ESE of The Geysers, CA",
-        "time": 1746414570230,
-        "updated": 1746416846434,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176581",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176581.geojson",
-        "title": "M 1.1 - 2 km ESE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731163024902,
-          38.7708320617676,
-          0.959999978542328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.7,
-        "place": "37 km WNW of Tatitlek, Alaska",
-        "time": 1746414538089,
-        "updated": 1746457405106,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qs0ip6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qs0ip6.geojson",
-        "title": "M 2.7 - 37 km WNW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.2965,
-          61.0069,
-          9.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.71,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746414431660,
-        "updated": 1746452360710,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144824",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144824.geojson",
-        "title": "M 1.7 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8063333,
-          35.3575,
-          7.57
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "33 km WSW of Ackerly, Texas",
-        "time": 1746413971552,
-        "updated": 1746472524610,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isuh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isuh.geojson",
-        "title": "M 1.5 - 33 km WSW of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.042,
-          32.411,
-          6.8115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "15 km NW of Indian Springs, Nevada",
-        "time": 1746412987460,
-        "updated": 1746451098396,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897220",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897220.geojson",
-        "title": "M 0.7 - 15 km NW of Indian Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.787,
-          36.6698,
-          2
         ]
       }
     }
