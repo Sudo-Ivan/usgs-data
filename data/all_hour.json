@@ -1,71 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746540159000,
+    "generated": 1746543790000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "3 km SSW of Houston, Alaska",
-        "time": 1746539095485,
-        "updated": 1746539234893,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255slpwvg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255slpwvg.geojson",
-        "title": "M 1.5 - 3 km SSW of Houston, Alaska"
+        "mag": 2,
+        "place": "23 km N of Skwentna, Alaska",
+        "time": 1746543124748,
+        "updated": 1746543269560,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255smcyai",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255smcyai.geojson",
+        "title": "M 2.0 - 23 km N of Skwentna, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.8492,
-          61.6058,
-          57.6
+          -151.3841,
+          62.2049,
+          82.8
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "20 km W of Volcano, Hawaii",
-        "time": 1746537820590,
-        "updated": 1746538080780,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74666702",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74666702.geojson",
-        "title": "M 2.1 - 20 km W of Volcano, Hawaii"
+        "mag": 1.73,
+        "place": "6 km ESE of Boonville, CA",
+        "time": 1746542884970,
+        "updated": 1746542979086,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177306",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177306.geojson",
+        "title": "M 1.7 - 6 km ESE of Boonville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.426330566406,
-          19.4506664276123,
-          0.5
+          -123.297164916992,
+          39.0023345947266,
+          4.73000001907349
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.33,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1746537599400,
-        "updated": 1746538636001,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177291",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177291.geojson",
-        "title": "M 0.3 - 8 km WNW of Cobb, CA"
+        "mag": 0.75,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746541765330,
+        "updated": 1746542838475,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177296",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177296.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.80916595459,
-          38.8398323059082,
-          12.6700000762939
+          -122.805335998535,
+          38.8228340148926,
+          3.19000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "75 km SSE of Biak, Indonesia",
+        "time": 1746541211207,
+        "updated": 1746543160040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxht",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxht.geojson",
+        "title": "M 4.6 - 75 km SSE of Biak, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3595,
+          -1.7991,
+          27.354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.85,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1746540345470,
+        "updated": 1746540557862,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145792",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145792.geojson",
+        "title": "M 0.9 - 5 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7223333,
+          33.5296667,
+          4.86
         ]
       }
     }
