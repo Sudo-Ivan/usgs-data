@@ -1,12 +1,33 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746550955000,
+    "generated": 1746554569000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson",
     "title": "USGS Significant Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 0
+    "count": 1
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.96,
+        "place": "8 km S of Dillwyn, Virginia",
+        "time": 1746551297790,
+        "updated": 1746554472445,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
+        "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4691666666667,
+          37.4638333333333,
+          7.98
+        ]
+      }
+    }
+  ]
 }
