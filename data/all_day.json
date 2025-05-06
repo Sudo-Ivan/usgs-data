@@ -1,21 +1,61 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746501503000,
+    "generated": 1746504185000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 205
+    "count": 199
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "84 km N of Karluk, Alaska",
+        "time": 1746503720306,
+        "updated": 1746503861627,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sftuzi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sftuzi.geojson",
+        "title": "M 2.0 - 84 km N of Karluk, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3514,
+          58.3233,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "36 km NNW of Toyah, Texas",
+        "time": 1746503283203,
+        "updated": 1746504161350,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iurl",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iurl.geojson",
+        "title": "M 2.6 - 36 km NNW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.983,
+          31.599,
+          6.6911
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.5,
         "place": "18 km WSW of Skwentna, Alaska",
         "time": 1746500606291,
-        "updated": 1746500707599,
+        "updated": 1746501762969,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sfiq7l",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sfiq7l.geojson",
         "title": "M 2.5 - 18 km WSW of Skwentna, Alaska"
@@ -35,7 +75,7 @@
         "mag": 0.27,
         "place": "6 km NNW of The Geysers, CA",
         "time": 1746500142410,
-        "updated": 1746501440839,
+        "updated": 1746502042910,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177121",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177121.geojson",
         "title": "M 0.3 - 6 km NNW of The Geysers, CA"
@@ -135,7 +175,7 @@
         "mag": 2.5,
         "place": "62 km SSW of Whites City, New Mexico",
         "time": 1746497168264,
-        "updated": 1746497914312,
+        "updated": 1746503966040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iuof",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iuof.geojson",
         "title": "M 2.5 - 62 km SSW of Whites City, New Mexico"
@@ -3095,7 +3135,7 @@
         "mag": 2.08,
         "place": "5 km WSW of Norco, CA",
         "time": 1746438987250,
-        "updated": 1746440920306,
+        "updated": 1746503685468,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145000",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145000.geojson",
         "title": "M 2.1 - 5 km WSW of Norco, CA"
@@ -3946,166 +3986,6 @@
           -122.809829711914,
           38.8356666564941,
           1.96000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 6,
-        "place": "southern East Pacific Rise",
-        "time": 1746417340806,
-        "updated": 1746453837040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px6v",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px6v.geojson",
-        "title": "M 6.0 - southern East Pacific Rise"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.4288,
-          -35.2752,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "6 km NNW of Cabazon, CA",
-        "time": 1746416604640,
-        "updated": 1746452268034,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144848",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144848.geojson",
-        "title": "M 1.1 - 6 km NNW of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8186667,
-          33.97,
-          16.95
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.26,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746416475130,
-        "updated": 1746418336509,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176611",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176611.geojson",
-        "title": "M 0.3 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.824165344238,
-          38.8186683654785,
-          1.87999999523163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.67,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746416373320,
-        "updated": 1746418038475,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176606",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176606.geojson",
-        "title": "M 0.7 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.822830200195,
-          38.8185005187988,
-          2.33999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1746416132020,
-        "updated": 1746452357960,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144840",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144840.geojson",
-        "title": "M 1.1 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7253333,
-          33.5278333,
-          5.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "49 km W of Mentone, Texas",
-        "time": 1746416053198,
-        "updated": 1746455128601,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025isvm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025isvm.geojson",
-        "title": "M 1.9 - 49 km W of Mentone, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.116,
-          31.741,
-          6.4972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1746415937010,
-        "updated": 1746417136385,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176596",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176596.geojson",
-        "title": "M 1.1 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.811996459961,
-          38.8098335266113,
-          3.16000008583069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.57,
-        "place": "3 km SE of The Geysers, CA",
-        "time": 1746415622980,
-        "updated": 1746419237634,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176591",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176591.geojson",
-        "title": "M 1.6 - 3 km SE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.731002807617,
-          38.7611656188965,
-          0.839999973773956
         ]
       }
     }
