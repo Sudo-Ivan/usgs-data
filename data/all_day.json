@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746554593000,
+    "generated": 1746558133000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 227
+    "count": 228
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.36,
+        "place": "21 km E of Little Lake, CA",
+        "time": 1746556905910,
+        "updated": 1746557042466,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146032",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146032.geojson",
+        "title": "M 1.4 - 21 km E of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6693344,
+          35.9246674,
+          4.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.61,
+        "place": "9 km NW of Dunnigan, CA",
+        "time": 1746556428530,
+        "updated": 1746556937063,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177401",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177401.geojson",
+        "title": "M 2.6 - 9 km NW of Dunnigan, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.055335998535,
+          38.9339981079102,
+          0.00999999977648258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.8,
+        "place": "central East Pacific Rise",
+        "time": 1746555310986,
+        "updated": 1746556980661,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxjh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxjh.geojson",
+        "title": "M 5.8 - central East Pacific Rise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4171,
+          -3.9956,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "26 km W of Tyonek, Alaska",
+        "time": 1746555277793,
+        "updated": 1746555357152,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255soim1v",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255soim1v.geojson",
+        "title": "M 1.2 - 26 km W of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6162,
+          61.1094,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "34 km NNW of Toyah, Texas",
+        "time": 1746555052032,
+        "updated": 1746555422322,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ivtw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ivtw.geojson",
+        "title": "M 1.9 - 34 km NNW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.949,
+          31.6,
+          5.7858
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.16,
         "place": "6 km NNW of Lakeside, CA",
         "time": 1746553641600,
-        "updated": 1746554272490,
+        "updated": 1746555191328,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145976",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145976.geojson",
         "title": "M 1.2 - 6 km NNW of Lakeside, CA"
@@ -35,7 +135,7 @@
         "mag": 5.5,
         "place": "49 km S of Isangel, Vanuatu",
         "time": 1746553532888,
-        "updated": 1746554334040,
+        "updated": 1746555924002,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxj7",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxj7.geojson",
         "title": "M 5.5 - 49 km S of Isangel, Vanuatu"
@@ -135,7 +235,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746554472445,
+        "updated": 1746557928160,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -255,7 +355,7 @@
         "mag": 1.1,
         "place": "7 km NNW of The Geysers, CA",
         "time": 1746549876380,
-        "updated": 1746551539461,
+        "updated": 1746555441887,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177356",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177356.geojson",
         "title": "M 1.1 - 7 km NNW of The Geysers, CA"
@@ -326,6 +426,26 @@
           -147.6204,
           61.203,
           0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "76 km S of La Tirana, Chile",
+        "time": 1746548730697,
+        "updated": 1746555360618,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxi5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxi5.geojson",
+        "title": "M 4.4 - 76 km S of La Tirana, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6372,
+          -21.0305,
+          61.085
         ]
       }
     },
@@ -592,6 +712,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.13,
+        "place": "15 km NNE of Banning, CA",
+        "time": 1746539951970,
+        "updated": 1746554889274,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145776",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145776.geojson",
+        "title": "M 1.1 - 15 km NNE of Banning, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8266667,
+          34.0548333,
+          11.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.5,
         "place": "3 km SSW of Houston, Alaska",
         "time": 1746539095485,
@@ -632,20 +772,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
+        "mag": 1.9,
         "place": "20 km W of Volcano, Hawaii",
-        "time": 1746537820590,
-        "updated": 1746538080780,
+        "time": 1746537820690,
+        "updated": 1746557315120,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74666702",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74666702.geojson",
-        "title": "M 2.1 - 20 km W of Volcano, Hawaii"
+        "title": "M 1.9 - 20 km W of Volcano, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.426330566406,
-          19.4506664276123,
-          0.5
+          -155.428,
+          19.4478333333333,
+          1.1
         ]
       }
     },
@@ -1652,6 +1792,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.11,
+        "place": "4 km SW of Bingham Canyon, Utah",
+        "time": 1746516598800,
+        "updated": 1746554949220,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107081",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107081.geojson",
+        "title": "M 1.1 - 4 km SW of Bingham Canyon, Utah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.171666666667,
+          40.5338333333333,
+          -0.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.09,
         "place": "10 km E of Springdale, Utah",
         "time": 1746516486480,
@@ -2252,20 +2412,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.05,
-        "place": "14 km WNW of Calipatria, CA",
-        "time": 1746505326180,
-        "updated": 1746505530224,
+        "mag": 1,
+        "place": "13 km WNW of Calipatria, CA",
+        "time": 1746505326170,
+        "updated": 1746556385411,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145584",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145584.geojson",
-        "title": "M 1.1 - 14 km WNW of Calipatria, CA"
+        "title": "M 1.0 - 13 km WNW of Calipatria, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.6516667,
-          33.164,
-          2.67
+          -115.6488333,
+          33.1655,
+          2.86
         ]
       }
     },
@@ -2572,20 +2732,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.25,
+        "mag": 1.14,
         "place": "4 km ESE of Placentia, CA",
-        "time": 1746496905640,
-        "updated": 1746497188362,
+        "time": 1746496905680,
+        "updated": 1746556077381,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145528",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145528.geojson",
-        "title": "M 1.3 - 4 km ESE of Placentia, CA"
+        "title": "M 1.1 - 4 km ESE of Placentia, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8345,
-          33.8543333,
-          6.97
+          -117.8336667,
+          33.8551667,
+          5.76
         ]
       }
     },
@@ -2852,20 +3012,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.47,
+        "mag": 1.44,
         "place": "22 km NW of Grapevine, CA",
-        "time": 1746491442440,
-        "updated": 1746491685234,
+        "time": 1746491442490,
+        "updated": 1746556734441,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145496",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145496.geojson",
-        "title": "M 1.5 - 22 km NW of Grapevine, CA"
+        "title": "M 1.4 - 22 km NW of Grapevine, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.0875,
-          35.0975,
-          9.73
+          -119.0815,
+          35.0911667,
+          14.44
         ]
       }
     },
@@ -3235,7 +3395,7 @@
         "mag": 1.6,
         "place": "61 km W of Tyonek, Alaska",
         "time": 1746488356002,
-        "updated": 1746488430133,
+        "updated": 1746557391070,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r43qsw",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r43qsw.geojson",
         "title": "M 1.6 - 61 km W of Tyonek, Alaska"
@@ -4406,146 +4566,6 @@
           -113.382166666667,
           37.4398333333333,
           10.71
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "147 km S of Kokopo, Papua New Guinea",
-        "time": 1746471255771,
-        "updated": 1746474951040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxbl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxbl.geojson",
-        "title": "M 4.3 - 147 km S of Kokopo, Papua New Guinea"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.4336,
-          -5.6653,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.76,
-        "place": "13 km SSW of Searles Valley, CA",
-        "time": 1746470912260,
-        "updated": 1746477011504,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145248",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145248.geojson",
-        "title": "M 1.8 - 13 km SSW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4798355,
-          35.6653328,
-          7.52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.59,
-        "place": "2 km WSW of Hulbert, Oklahoma",
-        "time": 1746470881409,
-        "updated": 1746471683153,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025itzp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025itzp.geojson",
-        "title": "M 1.6 Quarry Blast - 2 km WSW of Hulbert, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.16083333,
-          35.92266667,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.79,
-        "place": "3 km NNW of Aguanga, CA",
-        "time": 1746470123800,
-        "updated": 1746470336807,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145240",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145240.geojson",
-        "title": "M 0.8 - 3 km NNW of Aguanga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.884,
-          33.4681667,
-          11.88
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "11 km W of Forsan, Texas",
-        "time": 1746469866765,
-        "updated": 1746547584709,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itzl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itzl.geojson",
-        "title": "M 1.0 - 11 km W of Forsan, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.485,
-          32.097,
-          7.3975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "9 km NNW of Virginia City, Nevada",
-        "time": 1746469571468,
-        "updated": 1746476006403,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897244",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897244.geojson",
-        "title": "M 1.4 - 9 km NNW of Virginia City, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7018,
-          39.3811,
-          8.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.41,
-        "place": "7 km WSW of New Harmony, Utah",
-        "time": 1746469287620,
-        "updated": 1746472401890,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106956",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106956.geojson",
-        "title": "M 1.4 - 7 km WSW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.387833333333,
-          37.4466666666667,
-          12.61
         ]
       }
     }
