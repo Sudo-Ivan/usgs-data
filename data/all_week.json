@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746655311000,
+    "generated": 1746658932000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1869
+    "count": 1874
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "25 km SE of Skwentna, Alaska",
+        "time": 1746658537862,
+        "updated": 1746658692428,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ueohbq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ueohbq.geojson",
+        "title": "M 1.7 - 25 km SE of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0534,
+          61.8258,
+          67.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "21 km NNE of Yerington, Nevada",
+        "time": 1746658480221,
+        "updated": 1746658616440,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897354",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897354.geojson",
+        "title": "M 1.1 - 21 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0395,
+          39.1559,
+          9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "15 km NE of Coso Junction, CA",
+        "time": 1746658382640,
+        "updated": 1746658590215,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147256",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147256.geojson",
+        "title": "M 0.7 - 15 km NE of Coso Junction, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8511667,
+          36.1555,
+          7.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.69,
+        "place": "12 km SW of Searles Valley, CA",
+        "time": 1746658345890,
+        "updated": 1746658556534,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147248",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147248.geojson",
+        "title": "M 0.7 - 12 km SW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5015,
+          35.6876667,
+          5.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "35 km SSW of Los Ybanez, Texas",
+        "time": 1746657820368,
+        "updated": 1746658577460,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixyv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixyv.geojson",
+        "title": "M 1.5 - 35 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.102,
+          32.437,
+          4.5798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "3 km SSE of Fortuna, CA",
+        "time": 1746657374030,
+        "updated": 1746658039249,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178091",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178091.geojson",
+        "title": "M 1.9 - 3 km SSE of Fortuna, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.133499145508,
+          40.5740013122559,
+          18.1599998474121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "8 km NNE of Cabazon, CA",
+        "time": 1746656925460,
+        "updated": 1746657208435,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147208",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147208.geojson",
+        "title": "M 1.0 - 8 km NNE of Cabazon, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.757,
+          33.9845,
+          12.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "3 km NE of The Geysers, CA",
+        "time": 1746655534220,
+        "updated": 1746657736309,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178076",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178076.geojson",
+        "title": "M 1.1 - 3 km NE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.740333557129,
+          38.7986679077148,
+          1.11000001430511
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.98,
         "place": "2 km NW of The Geysers, CA",
         "time": 1746654524080,
-        "updated": 1746654620840,
+        "updated": 1746656540073,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178071",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178071.geojson",
         "title": "M 1.0 - 2 km NW of The Geysers, CA"
@@ -26,6 +186,26 @@
           -122.772163391113,
           38.7864990234375,
           1.44000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "231 km WSW of Luis Rodríguez (El Vergel), Mexico",
+        "time": 1746654120396,
+        "updated": 1746656104040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxu4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxu4.geojson",
+        "title": "M 4.1 - 231 km WSW of Luis Rodríguez (El Vergel), Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1224,
+          29.6376,
+          9.53
         ]
       }
     },
@@ -93,19 +273,19 @@
       "type": "Feature",
       "properties": {
         "mag": 3.79,
-        "place": "63 km WNW of Petrolia, CA",
-        "time": 1746651047510,
-        "updated": 1746654781410,
+        "place": "58 km WNW of Petrolia, CA",
+        "time": 1746651049630,
+        "updated": 1746658637316,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178046",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178046.geojson",
-        "title": "M 3.8 - 63 km WNW of Petrolia, CA"
+        "title": "M 3.8 - 58 km WNW of Petrolia, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -125.03099822998,
-          40.3769989013672,
-          0.150000005960464
+          -124.961,
+          40.372,
+          10
         ]
       }
     },
@@ -835,7 +1015,7 @@
         "mag": 3.01,
         "place": "4 km S of Malibu Beach, CA",
         "time": 1746635610320,
-        "updated": 1746653112171,
+        "updated": 1746657729040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146800",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146800.geojson",
         "title": "M 3.0 - 4 km S of Malibu Beach, CA"
@@ -2075,7 +2255,7 @@
         "mag": 1.16,
         "place": "23 km N of Amboy, Washington",
         "time": 1746619877590,
-        "updated": 1746637318494,
+        "updated": 1746658272376,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62095082",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62095082.geojson",
         "title": "M 1.2 - 23 km N of Amboy, Washington"
@@ -4475,7 +4655,7 @@
         "mag": 0.8,
         "place": "63 km WNW of Tyonek, Alaska",
         "time": 1746587063221,
-        "updated": 1746587175361,
+        "updated": 1746658638890,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u32a6q",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u32a6q.geojson",
         "title": "M 0.8 - 63 km WNW of Tyonek, Alaska"
@@ -4552,6 +4732,46 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -1.17,
+        "place": "64 km WNW of Beluga, Alaska",
+        "time": 1746586477880,
+        "updated": 1746657985700,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040774",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040774.geojson",
+        "title": "M -1.2 - 64 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2325,
+          61.3085,
+          1.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -1.01,
+        "place": "64 km WNW of Beluga, Alaska",
+        "time": 1746586451740,
+        "updated": 1746657427880,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93599186",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93599186.geojson",
+        "title": "M -1.0 - 64 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.235166666667,
+          61.309,
+          0.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.3,
         "place": "26 km S of Westbrook, Texas",
         "time": 1746586302723,
@@ -4566,6 +4786,26 @@
           -101.056,
           32.118,
           1.6357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.09,
+        "place": "64 km WNW of Beluga, Alaska",
+        "time": 1746586069910,
+        "updated": 1746657196640,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93599176",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93599176.geojson",
+        "title": "M -0.1 - 64 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.231166666667,
+          61.3031666666667,
+          -0.71
         ]
       }
     },
@@ -4666,6 +4906,26 @@
           131.0132,
           29.9807,
           52.562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.32,
+        "place": "66 km WNW of Beluga, Alaska",
+        "time": 1746584110920,
+        "updated": 1746656864920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93599151",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93599151.geojson",
+        "title": "M -0.3 - 66 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.265,
+          61.3088333333333,
+          -0.08
         ]
       }
     },
@@ -6615,7 +6875,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746655159343,
+        "updated": 1746658896286,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -21932,20 +22192,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "54 km N of Rachel, Nevada",
-        "time": 1746278497724,
-        "updated": 1746278644111,
+        "mag": 1.6,
+        "place": "80 km WSW of Preston, Nevada",
+        "time": 1746278490377,
+        "updated": 1746658891840,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897173",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897173.geojson",
-        "title": "M 1.5 - 54 km N of Rachel, Nevada"
+        "title": "M 1.6 - 80 km WSW of Preston, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.8332,
-          38.129,
-          13.6
+          -115.873,
+          38.5686,
+          0
         ]
       }
     },
@@ -22993,19 +23253,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.2,
-        "place": "8 km W of Nixon, Nevada",
-        "time": 1746260793535,
-        "updated": 1746260923492,
+        "place": "5 km WSW of Nixon, Nevada",
+        "time": 1746260793761,
+        "updated": 1746657236236,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897168",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897168.geojson",
-        "title": "M 1.2 - 8 km W of Nixon, Nevada"
+        "title": "M 1.2 - 5 km WSW of Nixon, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.4608,
-          39.8242,
-          9.9
+          -119.4202,
+          39.8202,
+          7.5
         ]
       }
     },
@@ -37226,166 +37486,6 @@
           -121.40166666666667,
           45.728833333333334,
           -1.09
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "12 km E of Silver Peak, Nevada",
-        "time": 1746053619826,
-        "updated": 1746059873033,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897025",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897025.geojson",
-        "title": "M 1.1 - 12 km E of Silver Peak, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.491,
-          37.7554,
-          9.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "5 km NE of Lincoln Beach, Oregon",
-        "time": 1746052801720,
-        "updated": 1746116337322,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62091182",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62091182.geojson",
-        "title": "M 2.0 - 5 km NE of Lincoln Beach, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.0055,
-          44.88916666666667,
-          1.25
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "67 km E of Port Alsworth, Alaska",
-        "time": 1746052725679,
-        "updated": 1746160098750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ittf9n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ittf9n.geojson",
-        "title": "M 2.6 - 67 km E of Port Alsworth, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.0996,
-          60.2112,
-          135.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "8 km S of Calimesa, CA",
-        "time": 1746052161680,
-        "updated": 1746060381687,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41141016",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41141016.geojson",
-        "title": "M 1.1 - 8 km S of Calimesa, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0648333,
-          33.9211667,
-          5.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.37,
-        "place": "8 km SSE of Maria Antonia, Puerto Rico",
-        "time": 1746051706860,
-        "updated": 1746053043890,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481008",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481008.geojson",
-        "title": "M 2.4 - 8 km SSE of Maria Antonia, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8446666666667,
-          17.9131666666667,
-          12.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.9,
-        "place": "77 km NW of Rincón, Puerto Rico",
-        "time": 1746051640704,
-        "updated": 1746053367040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pw8t",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pw8t.geojson",
-        "title": "M 2.9 - 77 km NW of Rincón, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.7173,
-          18.8755,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.13,
-        "place": "15 km E of King Cove, Alaska",
-        "time": 1746050983960,
-        "updated": 1746061127350,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93592171",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93592171.geojson",
-        "title": "M 1.1 - 15 km E of King Cove, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -162.0845,
-          55.0828333333333,
-          3.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4,
-        "place": "157 km SSW of Puerto El Triunfo, El Salvador",
-        "time": 1746050519757,
-        "updated": 1746051300040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pw8s",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pw8s.geojson",
-        "title": "M 4.0 - 157 km SSW of Puerto El Triunfo, El Salvador"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.1433,
-          11.9806,
-          10
         ]
       }
     }
