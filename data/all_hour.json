@@ -1,151 +1,211 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746619430000,
+    "generated": 1746623520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 10
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.93,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1746618723290,
-        "updated": 1746618818944,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177781",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177781.geojson",
-        "title": "M 0.9 - 10 km NW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "5 km WNW of Cobb, CA",
+        "time": 1746623339650,
+        "updated": 1746623434145,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177826",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177826.geojson",
+        "title": "M 1.1 - 5 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.836669921875,
-          38.8363342285156,
-          1.53999996185303
+          -122.782333374023,
+          38.837833404541,
+          1.6599999666214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "9 km NE of Susitna, Alaska",
-        "time": 1746618674884,
-        "updated": 1746618785631,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u83t1c",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u83t1c.geojson",
-        "title": "M 1.2 - 9 km NE of Susitna, Alaska"
+        "mag": 0.26,
+        "place": "3 km SW of Cobb, CA",
+        "time": 1746622755250,
+        "updated": 1746622854063,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177821",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177821.geojson",
+        "title": "M 0.3 - 3 km SW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.3974,
-          61.6094,
+          -122.736663818359,
+          38.7985000610352,
+          1.78999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.2,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746622738260,
+        "updated": 1746622833980,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177816",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177816.geojson",
+        "title": "M 0.2 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807167053223,
+          38.8383331298828,
+          1.88999998569489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "25 km NNW of Westbrook, Texas",
+        "time": 1746621908684,
+        "updated": 1746623213065,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixey",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixey.geojson",
+        "title": "M 2.3 - 25 km NNW of Westbrook, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.15,
+          32.55,
+          5.4932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.22,
+        "place": "13 km NW of The Geysers, CA",
+        "time": 1746621668520,
+        "updated": 1746623240359,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177811",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177811.geojson",
+        "title": "M 0.2 - 13 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.876502990723,
+          38.8411674499512,
+          2.02999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.84,
+        "place": "6 km S of Idyllwild, CA",
+        "time": 1746621459330,
+        "updated": 1746621708539,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146560",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146560.geojson",
+        "title": "M 0.8 - 6 km S of Idyllwild, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7136667,
+          33.6883333,
+          12.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "1 km W of Fort Greely, Alaska",
+        "time": 1746621359497,
+        "updated": 1746621447872,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u8lwml",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u8lwml.geojson",
+        "title": "M 1.4 - 1 km W of Fort Greely, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.6057,
+          63.9398,
+          17.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.48,
+        "place": "24 km SW of Maricopa, CA",
+        "time": 1746621095250,
+        "updated": 1746621301318,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146544",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146544.geojson",
+        "title": "M 1.5 - 24 km SW of Maricopa, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6043333,
+          34.9143333,
+          7.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.91,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746621003860,
+        "updated": 1746622039228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177796",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177796.geojson",
+        "title": "M 0.9 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.806335449219,
+          38.8214988708496,
+          1.75999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "13 km NNW of Virginia City, Nevada",
+        "time": 1746619923401,
+        "updated": 1746620044154,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897327",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897327.geojson",
+        "title": "M 0.7 - 13 km NNW of Virginia City, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7285,
+          39.4126,
           6.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "61 km S of Whites City, New Mexico",
-        "time": 1746617546656,
-        "updated": 1746618465203,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixcr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixcr.geojson",
-        "title": "M 1.7 - 61 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.4,
-          31.621,
-          4.3804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "35 km SSW of Los Ybanez, Texas",
-        "time": 1746617027813,
-        "updated": 1746617531103,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixcm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixcm.geojson",
-        "title": "M 1.0 - 35 km SSW of Los Ybanez, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.078,
-          32.427,
-          5.9563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.75,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746616220590,
-        "updated": 1746617836747,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177771",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177771.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.821166992188,
-          38.813835144043,
-          2.16000008583069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.34,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746615935630,
-        "updated": 1746617238688,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177766",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177766.geojson",
-        "title": "M 1.3 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.817665100098,
-          38.8143348693848,
-          2.46000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.08,
-        "place": "4 km SSW of Indios, Puerto Rico",
-        "time": 1746615840430,
-        "updated": 1746617625560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481583",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481583.geojson",
-        "title": "M 2.1 - 4 km SSW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.838,
-          17.9586666666667,
-          18.05
         ]
       }
     }
