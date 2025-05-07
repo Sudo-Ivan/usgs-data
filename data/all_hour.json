@@ -1,151 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746641030000,
+    "generated": 1746644520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 10
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.4,
-        "place": "54 km N of Port Alsworth, Alaska",
-        "time": 1746640863814,
-        "updated": 1746640999550,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubz3m5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubz3m5.geojson",
-        "title": "M 2.4 - 54 km N of Port Alsworth, Alaska"
+        "mag": 1.59,
+        "place": "7 km NNE of Greenfield, CA",
+        "time": 1746644266390,
+        "updated": 1746644365120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178011",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178011.geojson",
+        "title": "M 1.6 - 7 km NNE of Greenfield, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -154.138,
-          60.6794,
-          18
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "25 km WNW of Four Mile Road, Alaska",
-        "time": 1746640060240,
-        "updated": 1746640160297,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubnlrc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubnlrc.geojson",
-        "title": "M 1.8 - 25 km WNW of Four Mile Road, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.6285,
-          64.6765,
-          16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1746639741970,
-        "updated": 1746639840152,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177986",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177986.geojson",
-        "title": "M 0.8 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.782333374023,
-          38.8363342285156,
-          1.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "60 km WNW of Nikiski, Alaska",
-        "time": 1746638887983,
-        "updated": 1746638976127,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubjgny",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubjgny.geojson",
-        "title": "M 1.2 - 60 km WNW of Nikiski, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.3775,
-          60.8127,
-          14.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "54 km S of Whites City, New Mexico",
-        "time": 1746638886301,
-        "updated": 1746639630150,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixny",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixny.geojson",
-        "title": "M 1.7 - 54 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.46,
-          31.691,
-          4.7018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.94,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746638734130,
-        "updated": 1746640751149,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146864",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146864.geojson",
-        "title": "M 0.9 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8035,
-          35.3263333,
-          6.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.4,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1746638034240,
-        "updated": 1746639140120,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177971",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177971.geojson",
-        "title": "M 0.4 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.790496826172,
-          38.8395004272461,
-          3.02999997138977
+          -121.230163574219,
+          36.384334564209,
+          3.48000001907349
         ]
       }
     },
@@ -153,19 +33,179 @@
       "type": "Feature",
       "properties": {
         "mag": 1.17,
-        "place": "13 km NW of Lake Elsinore, CA",
-        "time": 1746637673900,
-        "updated": 1746638108882,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146832.geojson",
-        "title": "M 1.2 - 13 km NW of Lake Elsinore, CA"
+        "place": "14 km SE of Tehachapi, CA",
+        "time": 1746643798730,
+        "updated": 1746644007434,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146976",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146976.geojson",
+        "title": "M 1.2 - 14 km SE of Tehachapi, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.4336667,
-          33.7398333,
-          2.06
+          -118.335,
+          35.0521667,
+          0.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.58,
+        "place": "3 km S of Julian, CA",
+        "time": 1746643740970,
+        "updated": 1746643966791,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146968",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146968.geojson",
+        "title": "M 0.6 - 3 km S of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5965,
+          33.0508333,
+          14.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "53 km WNW of Beatty, Nevada",
+        "time": 1746642995282,
+        "updated": 1746643135403,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897342",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897342.geojson",
+        "title": "M 1.0 - 53 km WNW of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2813,
+          37.1468,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.84,
+        "place": "13 km S of Volcano, Hawaii",
+        "time": 1746642812430,
+        "updated": 1746643036880,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74667652",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74667652.geojson",
+        "title": "M 1.8 - 13 km S of Volcano, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.216003417969,
+          19.3223323822021,
+          2.01999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.85,
+        "place": "23 km SW of Ocotillo Wells, CA",
+        "time": 1746642660290,
+        "updated": 1746642873059,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146936",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146936.geojson",
+        "title": "M 0.9 - 23 km SW of Ocotillo Wells, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3248333,
+          33.0106667,
+          6.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.51,
+        "place": "3 km SSW of Mill Creek, Oklahoma",
+        "time": 1746642624429,
+        "updated": 1746643361929,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ixqa",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025ixqa.geojson",
+        "title": "M 1.5 Quarry Blast - 3 km SSW of Mill Creek, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8475,
+          34.37416667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.82,
+        "place": "5 km NNW of The Geysers, CA",
+        "time": 1746642412280,
+        "updated": 1746643936672,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178006",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178006.geojson",
+        "title": "M 0.8 - 5 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.785835266113,
+          38.8129997253418,
+          1.69000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.48,
+        "place": "8 km WNW of King City, CA",
+        "time": 1746641923940,
+        "updated": 1746643035558,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177996",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177996.geojson",
+        "title": "M 1.5 - 8 km WNW of King City, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.219665527344,
+          36.2303352355957,
+          11.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.44,
+        "place": "44 km NE of Holtville, CA",
+        "time": 1746641429000,
+        "updated": 1746641634229,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146928",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146928.geojson",
+        "title": "M 1.4 - 44 km NE of Holtville, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9926667,
+          33.0373333,
+          5.12
         ]
       }
     }
