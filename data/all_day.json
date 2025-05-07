@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746604999000,
+    "generated": 1746608539000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 196
+    "count": 191
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.22,
+        "place": "12 km W of Templeton, CA",
+        "time": 1746608026430,
+        "updated": 1746608123662,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177726",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177726.geojson",
+        "title": "M 1.2 - 12 km W of Templeton, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.832000732422,
+          35.5349998474121,
+          6.6100001335144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.06,
+        "place": "5 km N of Banning, CA",
+        "time": 1746607184310,
+        "updated": 1746607395019,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146488",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146488.geojson",
+        "title": "M 1.1 - 5 km N of Banning, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8836667,
+          33.9711667,
+          8.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746606453310,
+        "updated": 1746607642610,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177721",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177721.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823669433594,
+          38.813835144043,
+          2.27999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.67,
+        "place": "17 km ENE of Red Bluff, CA",
+        "time": 1746605418370,
+        "updated": 1746605839409,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177716",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177716.geojson",
+        "title": "M 2.7 - 17 km ENE of Red Bluff, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.089164733887,
+          40.2803344726562,
+          6.53000020980835
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -135,7 +215,7 @@
         "mag": 2.27,
         "place": "8 km SE of McArthur, CA",
         "time": 1746601396940,
-        "updated": 1746602540053,
+        "updated": 1746606138446,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177696",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177696.geojson",
         "title": "M 2.3 - 8 km SE of McArthur, CA"
@@ -155,7 +235,7 @@
         "mag": 0.68,
         "place": "7 km WNW of Cobb, CA",
         "time": 1746601018360,
-        "updated": 1746602539052,
+        "updated": 1746605238327,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177691",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177691.geojson",
         "title": "M 0.7 - 7 km WNW of Cobb, CA"
@@ -295,7 +375,7 @@
         "mag": 4.7,
         "place": "102 km E of Modisi, Indonesia",
         "time": 1746596402334,
-        "updated": 1746597957040,
+        "updated": 1746607759082,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxmz",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxmz.geojson",
         "title": "M 4.7 - 102 km E of Modisi, Indonesia"
@@ -2455,7 +2535,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746603712043,
+        "updated": 1746606864482,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -3675,7 +3755,7 @@
         "mag": 2.6,
         "place": "57 km ENE of Yakutat, Alaska",
         "time": 1746523158714,
-        "updated": 1746523295318,
+        "updated": 1746608325040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sj6qpr",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sj6qpr.geojson",
         "title": "M 2.6 - 57 km ENE of Yakutat, Alaska"
@@ -3746,186 +3826,6 @@
           -122.796501159668,
           38.8376655578613,
           2.08999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746522081840,
-        "updated": 1746523940320,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177221",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177221.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.824996948242,
-          38.8171653747559,
-          2.3199999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "68 km WNW of Beluga, Alaska",
-        "time": 1746521976265,
-        "updated": 1746522098432,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sitx3u",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sitx3u.geojson",
-        "title": "M 1.4 - 68 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.2207,
-          61.4112,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.73,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746521760520,
-        "updated": 1746527839765,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177216",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177216.geojson",
-        "title": "M 1.7 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.81916809082,
-          38.8171653747559,
-          1.73000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "49 km SSE of Whites City, New Mexico",
-        "time": 1746521200442,
-        "updated": 1746538832434,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ivbn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ivbn.geojson",
-        "title": "M 2.1 - 49 km SSE of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.147,
-          31.773,
-          5.6897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.95,
-        "place": "67 km E of Maneadero, B.C., MX",
-        "time": 1746521012990,
-        "updated": 1746580035539,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145672.geojson",
-        "title": "M 3.0 - 67 km E of Maneadero, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.8581667,
-          31.7085,
-          7.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1746520891050,
-        "updated": 1746526037573,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177206",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177206.geojson",
-        "title": "M 1.3 - 8 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818496704102,
-          38.8344993591309,
-          1.87000000476837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "83 km W of San Antonio de los Cobres, Argentina",
-        "time": 1746520081773,
-        "updated": 1746521235040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxga",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxga.geojson",
-        "title": "M 4.5 - 83 km W of San Antonio de los Cobres, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.1447,
-          -24.2491,
-          166.356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "57 km S of Whites City, New Mexico",
-        "time": 1746519333861,
-        "updated": 1746536232275,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ivak",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ivak.geojson",
-        "title": "M 2.1 - 57 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.415,
-          31.656,
-          6.2024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5,
-        "place": "104 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-        "time": 1746518907997,
-        "updated": 1746520002040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxg8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxg8.geojson",
-        "title": "M 5.0 - 104 km ESE of Kyzyl-Eshme, Kyrgyzstan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.4284,
-          39.2681,
-          10
         ]
       }
     }
