@@ -1,171 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746637380000,
+    "generated": 1746641030000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 14
+    "count": 8
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.26,
-        "place": "14 km WSW of Johannesburg, CA",
-        "time": 1746636670310,
-        "updated": 1746637273597,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146816.geojson",
-        "title": "M 2.3 - 14 km WSW of Johannesburg, CA"
+        "mag": 2.4,
+        "place": "54 km N of Port Alsworth, Alaska",
+        "time": 1746640863814,
+        "updated": 1746640999550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubz3m5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubz3m5.geojson",
+        "title": "M 2.4 - 54 km N of Port Alsworth, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7898333,
-          35.345,
-          8.67
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "30 km NNW of Beluga, Alaska",
-        "time": 1746636365022,
-        "updated": 1746636449003,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ub1vpy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ub1vpy.geojson",
-        "title": "M 1.4 - 30 km NNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.2517,
-          61.3986,
-          70.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.22,
-        "place": "5 km SSW of Malibu Beach, CA",
-        "time": 1746635610340,
-        "updated": 1746637346429,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146800",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146800.geojson",
-        "title": "M 3.2 - 5 km SSW of Malibu Beach, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.6981659,
-          33.9925003,
-          12.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "67 km SSW of Kaktovik, Alaska",
-        "time": 1746635261678,
-        "updated": 1746635427943,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255uaxvxz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255uaxvxz.geojson",
-        "title": "M 1.5 - 67 km SSW of Kaktovik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -144.2673,
-          69.5653,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1746635233870,
-        "updated": 1746636440807,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177936",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177936.geojson",
-        "title": "M 0.8 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.782836914062,
-          38.7970008850098,
-          3.08999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.16,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1746634749130,
-        "updated": 1746635135298,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146784",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146784.geojson",
-        "title": "M 2.2 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7223333,
-          33.536,
-          5.15
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "15 km NW of Toyah, Texas",
-        "time": 1746634728984,
-        "updated": 1746635307568,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixlu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixlu.geojson",
-        "title": "M 2.1 - 15 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.892,
-          31.43,
-          4.5439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.21,
-        "place": "1 km S of Indios, Puerto Rico",
-        "time": 1746634714440,
-        "updated": 1746635671960,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481633",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481633.geojson",
-        "title": "M 2.2 - 1 km S of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8161666666667,
-          17.9768333333333,
-          16.14
+          -154.138,
+          60.6794,
+          18
         ]
       }
     },
@@ -173,59 +33,59 @@
       "type": "Feature",
       "properties": {
         "mag": 1.8,
-        "place": "37 km SSE of Midland, Texas",
-        "time": 1746634607373,
-        "updated": 1746635191566,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixls",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixls.geojson",
-        "title": "M 1.8 - 37 km SSE of Midland, Texas"
+        "place": "25 km WNW of Four Mile Road, Alaska",
+        "time": 1746640060240,
+        "updated": 1746640160297,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubnlrc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubnlrc.geojson",
+        "title": "M 1.8 - 25 km WNW of Four Mile Road, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.997,
-          31.663,
-          3.0409
+          -149.6285,
+          64.6765,
+          16
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.21,
-        "place": "2 km SSE of Indios, Puerto Rico",
-        "time": 1746634524270,
-        "updated": 1746635096330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481628",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481628.geojson",
-        "title": "M 2.2 - 2 km SSE of Indios, Puerto Rico"
+        "mag": 0.78,
+        "place": "5 km WNW of Cobb, CA",
+        "time": 1746639741970,
+        "updated": 1746639840152,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177986",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177986.geojson",
+        "title": "M 0.8 - 5 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.8101666666667,
-          17.9698333333333,
-          16.24
+          -122.782333374023,
+          38.8363342285156,
+          1.75
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.46,
-        "place": "0 km N of Yauco, Puerto Rico",
-        "time": 1746634397540,
-        "updated": 1746635407600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481613",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481613.geojson",
-        "title": "M 2.5 - 0 km N of Yauco, Puerto Rico"
+        "mag": 1.2,
+        "place": "60 km WNW of Nikiski, Alaska",
+        "time": 1746638887983,
+        "updated": 1746638976127,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255ubjgny",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255ubjgny.geojson",
+        "title": "M 1.2 - 60 km WNW of Nikiski, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.8508333333333,
-          18.0395,
-          12.34
+          -152.3775,
+          60.8127,
+          14.5
         ]
       }
     },
@@ -234,58 +94,78 @@
       "properties": {
         "mag": 1.7,
         "place": "54 km S of Whites City, New Mexico",
-        "time": 1746633987837,
-        "updated": 1746634925624,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixlj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixlj.geojson",
+        "time": 1746638886301,
+        "updated": 1746639630150,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixny",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixny.geojson",
         "title": "M 1.7 - 54 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.445,
-          31.685,
-          3.8886
+          -104.46,
+          31.691,
+          4.7018
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.57,
-        "place": "3 km ESE of Lake Henshaw, CA",
-        "time": 1746633901880,
-        "updated": 1746634117535,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146768",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146768.geojson",
-        "title": "M 0.6 - 3 km ESE of Lake Henshaw, CA"
+        "mag": 0.94,
+        "place": "16 km WSW of Johannesburg, CA",
+        "time": 1746638734130,
+        "updated": 1746640751149,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146864",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146864.geojson",
+        "title": "M 0.9 - 16 km WSW of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7338333,
-          33.2258333,
-          12.59
+          -117.8035,
+          35.3263333,
+          6.41
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "14 km NNW of Westbrook, Texas",
-        "time": 1746633855105,
-        "updated": 1746634243548,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ixlh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ixlh.geojson",
-        "title": "M 1.9 - 14 km NNW of Westbrook, Texas"
+        "mag": 0.4,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1746638034240,
+        "updated": 1746639140120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177971",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177971.geojson",
+        "title": "M 0.4 - 6 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.064,
-          32.476,
-          11.0117
+          -122.790496826172,
+          38.8395004272461,
+          3.02999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.17,
+        "place": "13 km NW of Lake Elsinore, CA",
+        "time": 1746637673900,
+        "updated": 1746638108882,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146832",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146832.geojson",
+        "title": "M 1.2 - 13 km NW of Lake Elsinore, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4336667,
+          33.7398333,
+          2.06
         ]
       }
     }
