@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746587967000,
+    "generated": 1746590599000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 207
+    "count": 210
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "63 km WNW of Beluga, Alaska",
+        "time": 1746590331286,
+        "updated": 1746590456413,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u3dx0o",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u3dx0o.geojson",
+        "title": "M 0.9 - 63 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2179,
+          61.3031,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.23,
+        "place": "16 km WSW of Johannesburg, CA",
+        "time": 1746590292330,
+        "updated": 1746590506316,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146400",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146400.geojson",
+        "title": "M 1.2 - 16 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8085,
+          35.3323333,
+          6.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "137 km WNW of Yakutat, Alaska",
+        "time": 1746589461367,
+        "updated": 1746589573482,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u3auoo",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u3auoo.geojson",
+        "title": "M 1.4 - 137 km WNW of Yakutat, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.9044,
+          60.1098,
+          9.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.03,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1746589426340,
+        "updated": 1746589630374,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146392",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146392.geojson",
+        "title": "M 1.0 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8103333,
+          35.3303333,
+          6.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746588594920,
+        "updated": 1746589639565,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177636",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177636.geojson",
+        "title": "M 0.4 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.804336547852,
+          38.8231658935547,
+          3.13000011444092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.91,
+        "place": "13 km S of Joshua Tree, CA",
+        "time": 1746588260770,
+        "updated": 1746588476681,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146384",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146384.geojson",
+        "title": "M 0.9 - 13 km S of Joshua Tree, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3196667,
+          34.0176667,
+          8.09
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.74,
         "place": "8 km NNW of The Geysers, CA",
         "time": 1746587837240,
-        "updated": 1746587932270,
+        "updated": 1746589336530,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177631",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177631.geojson",
         "title": "M 0.7 - 8 km NNW of The Geysers, CA"
@@ -32,20 +152,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.53,
+        "mag": 1.21,
         "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746587795330,
-        "updated": 1746587942206,
+        "time": 1746587795270,
+        "updated": 1746588052046,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146368",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146368.geojson",
-        "title": "M 1.5 - 16 km WSW of Johannesburg, CA"
+        "title": "M 1.2 - 16 km WSW of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8089981,
-          35.3325005,
-          5.83
+          -117.8076667,
+          35.3333333,
+          6.63
         ]
       }
     },
@@ -55,7 +175,7 @@
         "mag": 1.27,
         "place": "4 km W of Cobb, CA",
         "time": 1746587735720,
-        "updated": 1746587832870,
+        "updated": 1746588738472,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177626.geojson",
         "title": "M 1.3 - 4 km W of Cobb, CA"
@@ -66,6 +186,46 @@
           -122.764503479004,
           38.8208351135254,
           2.20000004768372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "3 km NW of La Parguera, Puerto Rico",
+        "time": 1746587503880,
+        "updated": 1746588482620,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481563",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481563.geojson",
+        "title": "M 2.0 - 3 km NW of La Parguera, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.073,
+          17.9981666666667,
+          4.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "34 km NW of Toyah, Texas",
+        "time": 1746587325731,
+        "updated": 1746588217583,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iwls",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iwls.geojson",
+        "title": "M 1.6 - 34 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.017,
+          31.561,
+          5.6183
         ]
       }
     },
@@ -95,7 +255,7 @@
         "mag": 0.71,
         "place": "8 km WNW of Cobb, CA",
         "time": 1746586823810,
-        "updated": 1746586922221,
+        "updated": 1746588136412,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177621",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177621.geojson",
         "title": "M 0.7 - 8 km WNW of Cobb, CA"
@@ -255,7 +415,7 @@
         "mag": 2.17,
         "place": "8 km NNW of The Geysers, CA",
         "time": 1746583766380,
-        "updated": 1746584242020,
+        "updated": 1746589337529,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177576",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177576.geojson",
         "title": "M 2.2 - 8 km NNW of The Geysers, CA"
@@ -415,7 +575,7 @@
         "mag": 2.73,
         "place": "38 km W of Petrolia, CA",
         "time": 1746581445100,
-        "updated": 1746582439847,
+        "updated": 1746588439445,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177556",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177556.geojson",
         "title": "M 2.7 - 38 km W of Petrolia, CA"
@@ -715,7 +875,7 @@
         "mag": 3.8,
         "place": "28 km SW of Hope, Alaska",
         "time": 1746574081239,
-        "updated": 1746587408512,
+        "updated": 1746589096069,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255srkp81",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255srkp81.geojson",
         "title": "M 3.8 - 28 km SW of Hope, Alaska"
@@ -1675,7 +1835,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746587812166,
+        "updated": 1746590284896,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -2492,6 +2652,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.62,
+        "place": "69 km WNW of Tyonek, Alaska",
+        "time": 1746532096320,
+        "updated": 1746590372300,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040714",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040714.geojson",
+        "title": "M -0.6 - 69 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3515,
+          61.2805,
+          3.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.9,
         "place": "37 km NNW of Toyah, Texas",
         "time": 1746531390625,
@@ -2586,6 +2766,26 @@
           -151.0389,
           60.2254,
           52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.34,
+        "place": "68 km NNW of Chignik Lagoon, Alaska",
+        "time": 1746527416440,
+        "updated": 1746589066130,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93598551",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93598551.geojson",
+        "title": "M 1.3 - 68 km NNW of Chignik Lagoon, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.944666666667,
+          56.8806666666667,
+          5.51
         ]
       }
     },
@@ -4006,146 +4206,6 @@
           138.6823,
           41.0164,
           235.941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "84 km N of Karluk, Alaska",
-        "time": 1746503720306,
-        "updated": 1746579822890,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sftuzi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sftuzi.geojson",
-        "title": "M 2.0 - 84 km N of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.3514,
-          58.3233,
-          24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.01,
-        "place": "17 km WNW of Emery, Utah",
-        "time": 1746503363610,
-        "updated": 1746539380760,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107076",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107076.geojson",
-        "title": "M 2.0 - 17 km WNW of Emery, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.421666666667,
-          39.0051666666667,
-          -0.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "37 km WSW of Mentone, Texas",
-        "time": 1746503283314,
-        "updated": 1746547491549,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iurl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iurl.geojson",
-        "title": "M 2.6 - 37 km WSW of Mentone, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.983,
-          31.616,
-          8.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.01,
-        "place": "52 km ENE of Adak, Alaska",
-        "time": 1746503168490,
-        "updated": 1746578913450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93598246",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93598246.geojson",
-        "title": "M 0.0 - 52 km ENE of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -175.930833333333,
-          52.0656666666667,
-          12.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.2,
-        "place": "257 km W of Ozernovskiy, Russia",
-        "time": 1746502603374,
-        "updated": 1746504827040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxf8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxf8.geojson",
-        "title": "M 4.2 - 257 km W of Ozernovskiy, Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8187,
-          51.8219,
-          417.865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.84,
-        "place": "85 km NNW of Karluk, Alaska",
-        "time": 1746501950130,
-        "updated": 1746579189770,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040669",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040669.geojson",
-        "title": "M -0.8 - 85 km NNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.151,
-          58.2373333333333,
-          2.95
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.68,
-        "place": "83 km NNW of Karluk, Alaska",
-        "time": 1746501928630,
-        "updated": 1746579441000,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040679",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040679.geojson",
-        "title": "M -0.7 - 83 km NNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.967333333333,
-          58.269,
-          2.99
         ]
       }
     }
