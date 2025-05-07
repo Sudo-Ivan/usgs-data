@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746612161000,
+    "generated": 1746615747000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 187
+    "count": 185
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.74,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1746615503680,
+        "updated": 1746615599651,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177761",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177761.geojson",
+        "title": "M 0.7 - 8 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.814834594727,
+          38.828498840332,
+          2.19000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.7,
+        "place": "25 km E of Denali National Park, Alaska",
+        "time": 1746614753515,
+        "updated": 1746615030423,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u7h63g",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u7h63g.geojson",
+        "title": "M 3.7 - 25 km E of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2033,
+          63.5218,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.86,
+        "place": "15 km NE of Little Lake, CA",
+        "time": 1746613968380,
+        "updated": 1746614182142,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146512",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146512.geojson",
+        "title": "M 1.9 - 15 km NE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7755,
+          36.0245,
+          1.35
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.54,
         "place": "8 km WNW of Cobb, CA",
         "time": 1746611979790,
-        "updated": 1746612078950,
+        "updated": 1746615436498,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177741",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177741.geojson",
         "title": "M 0.5 - 8 km WNW of Cobb, CA"
@@ -32,10 +92,30 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.8,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746611595942,
+        "updated": 1746612309532,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iwzo",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iwzo.geojson",
+        "title": "M 1.8 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.307,
+          31.654,
+          4.3021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.26,
         "place": "5 km NW of The Geysers, CA",
         "time": 1746611482470,
-        "updated": 1746611579071,
+        "updated": 1746613937329,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177736",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177736.geojson",
         "title": "M 0.3 - 5 km NW of The Geysers, CA"
@@ -86,6 +166,26 @@
           -104.352,
           31.64,
           4.4047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.44,
+        "place": "1 km N of Guayanilla, Puerto Rico",
+        "time": 1746610145790,
+        "updated": 1746613644850,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481573",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481573.geojson",
+        "title": "M 2.4 - 1 km N of Guayanilla, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7905,
+          18.0363333333333,
+          12.14
         ]
       }
     },
@@ -1715,7 +1815,7 @@
         "mag": 3.8,
         "place": "28 km SW of Hope, Alaska",
         "time": 1746574081239,
-        "updated": 1746608965247,
+        "updated": 1746614472784,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255srkp81",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255srkp81.geojson",
         "title": "M 3.8 - 28 km SW of Hope, Alaska"
@@ -2675,7 +2775,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746611716944,
+        "updated": 1746615621716,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -3606,146 +3706,6 @@
           -66.871,
           -23.9971,
           207.637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.75,
-        "place": "1 km NE of The Geysers, CA",
-        "time": 1746528502780,
-        "updated": 1746532636294,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177246",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177246.geojson",
-        "title": "M 0.8 - 1 km NE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.744834899902,
-          38.7866668701172,
-          1.39999997615814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "18 km SE of Kasilof, Alaska",
-        "time": 1746527515874,
-        "updated": 1746527626516,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sjuts3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sjuts3.geojson",
-        "title": "M 1.7 - 18 km SE of Kasilof, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.0389,
-          60.2254,
-          52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.34,
-        "place": "68 km NNW of Chignik Lagoon, Alaska",
-        "time": 1746527416440,
-        "updated": 1746589066130,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93598551",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93598551.geojson",
-        "title": "M 1.3 - 68 km NNW of Chignik Lagoon, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.944666666667,
-          56.8806666666667,
-          5.51
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.33,
-        "place": "6 km ENE of Steele, Missouri",
-        "time": 1746527044870,
-        "updated": 1746562817189,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60605616",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60605616.geojson",
-        "title": "M 2.3 - 6 km ENE of Steele, Missouri"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.757,
-          36.1021666666667,
-          5.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.06,
-        "place": "3 km NE of Vincent, CA",
-        "time": 1746526417590,
-        "updated": 1746539463970,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145712",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145712.geojson",
-        "title": "M 1.1 - 3 km NE of Vincent, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0988333,
-          34.5195,
-          9.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "3 km SE of Yucaipa, CA",
-        "time": 1746526246570,
-        "updated": 1746539426837,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145704",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145704.geojson",
-        "title": "M 0.8 - 3 km SE of Yucaipa, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0236667,
-          34.0155,
-          15.68
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.67,
-        "place": "8 km WSW of Anza, CA",
-        "time": 1746526230830,
-        "updated": 1746553986645,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145696.geojson",
-        "title": "M 0.7 - 8 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7495,
-          33.5185,
-          3.17
         ]
       }
     }
