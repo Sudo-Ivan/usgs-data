@@ -1,14 +1,134 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746597807000,
+    "generated": 1746601339000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 208
+    "count": 206
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.68,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746601018360,
+        "updated": 1746601112848,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177691",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177691.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.800003051758,
+          38.837833404541,
+          2.25999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "64 km ENE of Susitna North, Alaska",
+        "time": 1746600996712,
+        "updated": 1746601111841,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u55r9z",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u55r9z.geojson",
+        "title": "M 1.7 - 64 km ENE of Susitna North, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.7116,
+          62.3847,
+          18.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.28,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1746600771240,
+        "updated": 1746600868809,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177681",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177681.geojson",
+        "title": "M 0.3 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.835830688477,
+          38.8318328857422,
+          11.9700002670288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "13 km SSE of Sparks, Nevada",
+        "time": 1746600677295,
+        "updated": 1746600794931,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897322",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897322.geojson",
+        "title": "M 1.5 - 13 km SSE of Sparks, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7162,
+          39.4188,
+          0.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "13 km NW of Virginia City, Nevada",
+        "time": 1746599335056,
+        "updated": 1746599444074,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897320",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897320.geojson",
+        "title": "M 1.2 - 13 km NW of Virginia City, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7397,
+          39.4072,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.61,
+        "place": "2 km SSW of Julian, CA",
+        "time": 1746598828380,
+        "updated": 1746599040222,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146456",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146456.geojson",
+        "title": "M 0.6 - 2 km SSW of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6101667,
+          33.062,
+          12.28
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -32,10 +152,30 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.7,
+        "place": "102 km E of Modisi, Indonesia",
+        "time": 1746596402334,
+        "updated": 1746597957040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxmz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxmz.geojson",
+        "title": "M 4.7 - 102 km E of Modisi, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3567,
+          0.3836,
+          64.627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.27,
         "place": "2 km WNW of Anderson Springs, CA",
         "time": 1746595391960,
-        "updated": 1746596537378,
+        "updated": 1746600739850,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177671",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177671.geojson",
         "title": "M 1.3 - 2 km WNW of Anderson Springs, CA"
@@ -1215,7 +1355,7 @@
         "mag": 3.8,
         "place": "28 km SW of Hope, Alaska",
         "time": 1746574081239,
-        "updated": 1746594027488,
+        "updated": 1746597851793,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255srkp81",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255srkp81.geojson",
         "title": "M 3.8 - 28 km SW of Hope, Alaska"
@@ -1915,7 +2055,7 @@
         "mag": 1.52,
         "place": "5 km S of Port Ludlow, Washington",
         "time": 1746557288960,
-        "updated": 1746569635670,
+        "updated": 1746598000002,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62094847",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62094847.geojson",
         "title": "M 1.5 - 5 km S of Port Ludlow, Washington"
@@ -2175,7 +2315,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746595035593,
+        "updated": 1746600135118,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -2375,7 +2515,7 @@
         "mag": 4.4,
         "place": "76 km S of La Tirana, Chile",
         "time": 1746548730697,
-        "updated": 1746576378226,
+        "updated": 1746597868343,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxi5",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxi5.geojson",
         "title": "M 4.4 - 76 km S of La Tirana, Chile"
@@ -3986,186 +4126,6 @@
           -155.489837646484,
           19.1765003204346,
           31.4200000762939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "49 km SSE of Whites City, New Mexico",
-        "time": 1746514618509,
-        "updated": 1746554337409,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iuxq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iuxq.geojson",
-        "title": "M 2.1 - 49 km SSE of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.151,
-          31.771,
-          5.8563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.99,
-        "place": "5 km SE of Lytle Creek, CA",
-        "time": 1746514617970,
-        "updated": 1746539532130,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145640",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145640.geojson",
-        "title": "M 1.0 - 5 km SE of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4615,
-          34.231,
-          8.09
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "47 km E of Fort Bidwell, California",
-        "time": 1746514576156,
-        "updated": 1746547378580,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897274",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897274.geojson",
-        "title": "M 2.6 - 47 km E of Fort Bidwell, California"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.5847,
-          41.9428,
-          3.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.21,
-        "place": "8 km ENE of Adak, Alaska",
-        "time": 1746514160270,
-        "updated": 1746582461460,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040689",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040689.geojson",
-        "title": "M 1.2 - 8 km ENE of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -176.5285,
-          51.913,
-          0.07
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.98,
-        "place": "6 km E of Nuevo, CA",
-        "time": 1746513719710,
-        "updated": 1746514279907,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145632",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145632.geojson",
-        "title": "M 1.0 - 6 km E of Nuevo, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0766667,
-          33.8086667,
-          16.04
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "59 km W of Anchor Point, Alaska",
-        "time": 1746513517319,
-        "updated": 1746513650469,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255shijxv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255shijxv.geojson",
-        "title": "M 2.0 - 59 km W of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.8916,
-          59.8187,
-          100.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.8,
-        "place": "69 km S of Kavieng, Papua New Guinea",
-        "time": 1746513466532,
-        "updated": 1746514617040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxfv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxfv.geojson",
-        "title": "M 4.8 - 69 km S of Kavieng, Papua New Guinea"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7879,
-          -3.2005,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.42,
-        "place": "5 km W of Millbrae, CA",
-        "time": 1746513296410,
-        "updated": 1746516137457,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177156",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177156.geojson",
-        "title": "M 1.4 - 5 km W of Millbrae, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.43766784668,
-          37.5861663818359,
-          9.82999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "22 km NNW of Willow, Alaska",
-        "time": 1746512461370,
-        "updated": 1746512551837,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255shetzt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255shetzt.geojson",
-        "title": "M 1.9 - 22 km NNW of Willow, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.2419,
-          61.9285,
-          53.3
         ]
       }
     }
