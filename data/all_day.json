@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746608539000,
+    "generated": 1746612161000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 191
+    "count": 187
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.54,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1746611979790,
+        "updated": 1746612078950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177741",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177741.geojson",
+        "title": "M 0.5 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.808166503906,
+          38.8380012512207,
+          21.7299995422363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.26,
+        "place": "5 km NW of The Geysers, CA",
+        "time": 1746611482470,
+        "updated": 1746611579071,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177736.geojson",
+        "title": "M 0.3 - 5 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.808502197266,
+          38.7946662902832,
+          3.73000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "12 km ESE of Julian, CA",
+        "time": 1746610942730,
+        "updated": 1746611148385,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146504.geojson",
+        "title": "M 0.7 - 12 km ESE of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4836667,
+          33.0331667,
+          14.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "59 km S of Whites City, New Mexico",
+        "time": 1746610552932,
+        "updated": 1746611452476,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iwzb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iwzb.geojson",
+        "title": "M 1.9 - 59 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.352,
+          31.64,
+          4.4047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "35 km NE of Lucerne Valley, CA",
+        "time": 1746610074660,
+        "updated": 1746610305300,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146496",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146496.geojson",
+        "title": "M 0.8 - 35 km NE of Lucerne Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.659,
+          34.6236667,
+          8.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08000004,
+        "place": "38 km NNE of Amboy, Washington",
+        "time": 1746609276230,
+        "updated": 1746609372130,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62095067",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62095067.geojson",
+        "title": "M 1.1 - 38 km NNE of Amboy, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18150329589844,
+          46.20783233642578,
+          6.6399998664856
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.22,
         "place": "12 km W of Templeton, CA",
         "time": 1746608026430,
-        "updated": 1746608123662,
+        "updated": 1746610938991,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177726",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177726.geojson",
         "title": "M 1.2 - 12 km W of Templeton, CA"
@@ -75,7 +195,7 @@
         "mag": 2.67,
         "place": "17 km ENE of Red Bluff, CA",
         "time": 1746605418370,
-        "updated": 1746605839409,
+        "updated": 1746609738843,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177716",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177716.geojson",
         "title": "M 2.7 - 17 km ENE of Red Bluff, CA"
@@ -126,6 +246,26 @@
           -102.001,
           31.773,
           3.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "south of the Kermadec Islands",
+        "time": 1746603619428,
+        "updated": 1746608634040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxng",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxng.geojson",
+        "title": "M 4.8 - south of the Kermadec Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.9058,
+          -33.8626,
+          10
         ]
       }
     },
@@ -1575,7 +1715,7 @@
         "mag": 3.8,
         "place": "28 km SW of Hope, Alaska",
         "time": 1746574081239,
-        "updated": 1746604417870,
+        "updated": 1746608965247,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255srkp81",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255srkp81.geojson",
         "title": "M 3.8 - 28 km SW of Hope, Alaska"
@@ -2535,7 +2675,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746606864482,
+        "updated": 1746611716944,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -3232,6 +3372,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.4,
+        "place": "118 km NNW of Nuku‘alofa, Tonga",
+        "time": 1746534445532,
+        "updated": 1746609575040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxh3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxh3.geojson",
+        "title": "M 4.4 - 118 km NNW of Nuku‘alofa, Tonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.5075,
+          -20.1047,
+          235.466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.7,
         "place": "50 km N of Valdez, Alaska",
         "time": 1746534181293,
@@ -3586,246 +3746,6 @@
           -116.7495,
           33.5185,
           3.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "19 km WNW of Tanana, Alaska",
-        "time": 1746525738464,
-        "updated": 1746525858979,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sjoj4m",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sjoj4m.geojson",
-        "title": "M 1.6 - 19 km WNW of Tanana, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.4735,
-          65.213,
-          10.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "19 km NE of Skwentna, Alaska",
-        "time": 1746525548030,
-        "updated": 1746527039047,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sjfaj7",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sjfaj7.geojson",
-        "title": "M 1.4 - 19 km NE of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.103,
-          62.0945,
-          79
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "10 km NNW of Howell, Utah",
-        "time": 1746525015880,
-        "updated": 1746546951670,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107091",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107091.geojson",
-        "title": "M 1.1 - 10 km NNW of Howell, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.482,
-          41.8886666666667,
-          0.85
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "10 km SE of Lakeview, Oregon",
-        "time": 1746524688991,
-        "updated": 1746547745303,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897275",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897275.geojson",
-        "title": "M 1.4 - 10 km SE of Lakeview, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2769,
-          42.1135,
-          6.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5,
-        "place": "120 km ENE of ‘Ohonua, Tonga",
-        "time": 1746524602891,
-        "updated": 1746527039040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxgl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxgl.geojson",
-        "title": "M 5.0 - 120 km ENE of ‘Ohonua, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -173.8333,
-          -21.0592,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.15,
-        "place": "12 km NNW of Borrego Springs, CA",
-        "time": 1746524259750,
-        "updated": 1746524916250,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145688",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145688.geojson",
-        "title": "M 1.2 - 12 km NNW of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4008333,
-          33.3601667,
-          12.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "42 km SSE of Ōfunato, Japan",
-        "time": 1746523336433,
-        "updated": 1746524860040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxgj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxgj.geojson",
-        "title": "M 4.5 - 42 km SSE of Ōfunato, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.8323,
-          38.7006,
-          74.338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "70 km E of Yakutat, Alaska",
-        "time": 1746523230065,
-        "updated": 1746523348215,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sj6zb2",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sj6zb2.geojson",
-        "title": "M 2.5 - 70 km E of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -138.4797,
-          59.6228,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "57 km ENE of Yakutat, Alaska",
-        "time": 1746523158714,
-        "updated": 1746608325040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sj6qpr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sj6qpr.geojson",
-        "title": "M 2.6 - 57 km ENE of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -138.7948,
-          59.7604,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1746523013930,
-        "updated": 1746529940995,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177231",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177231.geojson",
-        "title": "M 1.1 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.801834106445,
-          38.8258323669434,
-          2.88000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.44,
-        "place": "8 km SW of New Harmony, Utah",
-        "time": 1746522751760,
-        "updated": 1746546621980,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003263",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003263.geojson",
-        "title": "M 1.4 - 8 km SW of New Harmony, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.3885,
-          37.4338333333333,
-          7.42
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1746522405020,
-        "updated": 1746524239359,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177226",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177226.geojson",
-        "title": "M 0.8 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.796501159668,
-          38.8376655578613,
-          2.08999991416931
         ]
       }
     }
