@@ -1,21 +1,241 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746709848000,
+    "generated": 1746712973000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 12
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.43,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746712788330,
+        "updated": 1746712882490,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178436",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178436.geojson",
+        "title": "M 0.4 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.798500061035,
+          38.826000213623,
+          2.9300000667572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "61 km SSE of Denali National Park, Alaska",
+        "time": 1746712614481,
+        "updated": 1746712763567,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vwv6dk",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vwv6dk.geojson",
+        "title": "M 1.8 - 61 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3833,
+          63.0147,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "9 km NE of Indio, CA",
+        "time": 1746712345840,
+        "updated": 1746712558001,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147752",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147752.geojson",
+        "title": "M 1.1 - 9 km NE of Indio, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1386667,
+          33.7751667,
+          5.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.89,
+        "place": "9 km WSW of Idyllwild, CA",
+        "time": 1746711433040,
+        "updated": 1746711642440,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147728",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147728.geojson",
+        "title": "M 0.9 - 9 km WSW of Idyllwild, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8,
+          33.6978333,
+          15.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "8 km NNE of Coso Junction, CA",
+        "time": 1746711009440,
+        "updated": 1746711228375,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147720",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147720.geojson",
+        "title": "M 1.8 - 8 km NNE of Coso Junction, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.922,
+          36.1133333,
+          2.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.25,
+        "place": "14 km S of Joshua Tree, CA",
+        "time": 1746710262120,
+        "updated": 1746710921710,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147704",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147704.geojson",
+        "title": "M 1.3 - 14 km S of Joshua Tree, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3423333,
+          34.0118333,
+          2.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "44 km SW of Nanwalek, Alaska",
+        "time": 1746710116625,
+        "updated": 1746710251512,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vwmb3i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vwmb3i.geojson",
+        "title": "M 1.8 - 44 km SW of Nanwalek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4333,
+          59.0543,
+          55.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.96,
+        "place": "81 km N of Brenas, Puerto Rico",
+        "time": 1746710064160,
+        "updated": 1746711471200,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481683",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481683.geojson",
+        "title": "M 3.0 - 81 km N of Brenas, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3995,
+          19.1976666666667,
+          22.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.75,
+        "place": "7 km NNE of Moreno Valley, CA",
+        "time": 1746710056570,
+        "updated": 1746710263307,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147696",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147696.geojson",
+        "title": "M 0.8 - 7 km NNE of Moreno Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1983333,
+          33.9811667,
+          10.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "12 km E of Cloverdale, CA",
+        "time": 1746710053700,
+        "updated": 1746711138989,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178416",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178416.geojson",
+        "title": "M 1.0 - 12 km E of Cloverdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.882499694824,
+          38.8333320617676,
+          1.76999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.11,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1746709782280,
+        "updated": 1746710299945,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147688",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147688.geojson",
+        "title": "M 1.1 - 15 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7988333,
+          35.3565,
+          5.15
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.3,
         "place": "12 km SE of Bodfish, CA",
         "time": 1746709464810,
-        "updated": 1746709670242,
+        "updated": 1746710296078,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147680",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147680.geojson",
         "title": "M 1.3 - 12 km SE of Bodfish, CA"
@@ -26,86 +246,6 @@
           -118.3888333,
           35.526,
           5.45
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.34,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1746709268430,
-        "updated": 1746709363526,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178411",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178411.geojson",
-        "title": "M 0.3 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.845336914062,
-          38.824333190918,
-          2.08999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "5 km NNW of Orinda, CA",
-        "time": 1746708363940,
-        "updated": 1746709635834,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178406",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178406.geojson",
-        "title": "M 1.7 - 5 km NNW of Orinda, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.205497741699,
-          37.9155006408691,
-          4.71000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "159 km E of Fangale’ounga, Tonga",
-        "time": 1746707659868,
-        "updated": 1746709158040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxxn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxxn.geojson",
-        "title": "M 4.7 - 159 km E of Fangale’ounga, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -172.8023,
-          -19.7575,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1746706455620,
-        "updated": 1746707538612,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178391",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178391.geojson",
-        "title": "M 0.7 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818168640137,
-          38.8363342285156,
-          1.47000002861023
         ]
       }
     }
