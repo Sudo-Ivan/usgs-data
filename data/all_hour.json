@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746671460000,
+    "generated": 1746674400000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 5
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "12 km NW of Hope, Alaska",
+        "time": 1746673276927,
+        "updated": 1746673387764,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vqkz1o",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vqkz1o.geojson",
+        "title": "M 1.2 - 12 km NW of Hope, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.831,
+          60.9879,
+          37.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "39 km ESE of Rasht, Tajikistan",
+        "time": 1746672901640,
+        "updated": 1746673994040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxva",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxva.geojson",
+        "title": "M 4.5 - 39 km ESE of Rasht, Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8,
+          38.9117,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.14,
+        "place": "24 km ENE of Pine Valley, CA",
+        "time": 1746672206720,
+        "updated": 1746672419837,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147416",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147416.geojson",
+        "title": "M 1.1 - 24 km ENE of Pine Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2995,
+          32.9173333,
+          8.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.5,
+        "place": "68 km WNW of Beatty, Nevada",
+        "time": 1746671998207,
+        "updated": 1746672126897,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897361",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897361.geojson",
+        "title": "M 0.5 - 68 km WNW of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4951,
+          37.0887,
+          0
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,126 +106,6 @@
           -116.8941667,
           33.9968333,
           16.68
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "24 km SE of Mentasta Lake, Alaska",
-        "time": 1746670411393,
-        "updated": 1746670553862,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vq255f",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vq255f.geojson",
-        "title": "M 1.8 - 24 km SE of Mentasta Lake, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -143.4358,
-          62.7637,
-          7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "56 km E of Pedro Bay, Alaska",
-        "time": 1746668996408,
-        "updated": 1746669119064,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vpoh94",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vpoh94.geojson",
-        "title": "M 1.5 - 56 km E of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.1045,
-          59.7966,
-          120.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "24 km NNE of Yerington, Nevada",
-        "time": 1746668792867,
-        "updated": 1746668936544,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897359",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897359.geojson",
-        "title": "M 1.2 - 24 km NNE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0486,
-          39.1895,
-          1.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.02,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746668748680,
-        "updated": 1746670040660,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178156",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178156.geojson",
-        "title": "M 1.0 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.813331604004,
-          38.8171653747559,
-          2.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.03,
-        "place": "8 km SSW of Idyllwild, CA",
-        "time": 1746668301640,
-        "updated": 1746668505650,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147384",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147384.geojson",
-        "title": "M 1.0 - 8 km SSW of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7393333,
-          33.6733333,
-          14.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "25 km S of Chenega, Alaska",
-        "time": 1746668171700,
-        "updated": 1746668355610,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vpllh8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vpllh8.geojson",
-        "title": "M 1.7 - 25 km S of Chenega, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.9739,
-          59.8357,
-          8.5
         ]
       }
     }
