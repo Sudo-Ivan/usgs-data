@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746687788000,
+    "generated": 1746691368000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1901
+    "count": 1898
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.48,
+        "place": "14 km SSE of Anza, CA",
+        "time": 1746690874840,
+        "updated": 1746691120616,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147536",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147536.geojson",
+        "title": "M 0.5 - 14 km SSE of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6238333,
+          33.4408333,
+          10.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "273 km SSE of Ushuaia, Argentina",
+        "time": 1746689772759,
+        "updated": 1746690791040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwc.geojson",
+        "title": "M 4.7 - 273 km SSE of Ushuaia, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9784,
+          -57.1524,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "15 km NNW of Indian Springs, Nevada",
+        "time": 1746689391288,
+        "updated": 1746689540788,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897367",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897367.geojson",
+        "title": "M 1.9 - 15 km NNW of Indian Springs, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7165,
+          36.7074,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746689289263,
+        "updated": 1746690252070,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iyqd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iyqd.geojson",
+        "title": "M 1.9 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.288,
+          31.65,
+          4.4787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.69,
+        "place": "18 km W of Truckee, CA",
+        "time": 1746689225450,
+        "updated": 1746691091296,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178291",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178291.geojson",
+        "title": "M 2.7 - 18 km W of Truckee, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.381332397461,
+          39.2716674804688,
+          2.66000008583069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "11 km SSE of Cantwell, Alaska",
+        "time": 1746689050144,
+        "updated": 1746689156282,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vt3meu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vt3meu.geojson",
+        "title": "M 1.2 - 11 km SSE of Cantwell, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8421,
+          63.3043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "14 km E of Coahoma, Texas",
+        "time": 1746687864682,
+        "updated": 1746688492881,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iypj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iypj.geojson",
+        "title": "M 1.1 - 14 km E of Coahoma, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.15,
+          32.277,
+          3.5802
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -155,7 +295,7 @@
         "mag": 1.22,
         "place": "2 km NE of Willits, CA",
         "time": 1746684956590,
-        "updated": 1746685937275,
+        "updated": 1746689238662,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178246",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178246.geojson",
         "title": "M 1.2 - 2 km NE of Willits, CA"
@@ -415,7 +555,7 @@
         "mag": 2.27,
         "place": "12 km ENE of Borrego Springs, CA",
         "time": 1746679880220,
-        "updated": 1746682820979,
+        "updated": 1746689839883,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147472",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147472.geojson",
         "title": "M 2.3 - 12 km ENE of Borrego Springs, CA"
@@ -37826,206 +37966,6 @@
           -122.815170288086,
           38.829833984375,
           1.87000000476837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.06,
-        "place": "3 km SE of Bombay Beach, CA",
-        "time": 1746086558700,
-        "updated": 1746124375936,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41141384",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41141384.geojson",
-        "title": "M 1.1 - 3 km SE of Bombay Beach, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.71,
-          33.3368333,
-          4.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.01,
-        "place": "11 km SSW of Tres Pinos, CA",
-        "time": 1746084935350,
-        "updated": 1746402219240,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75174406",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75174406.geojson",
-        "title": "M 2.0 - 11 km SSW of Tres Pinos, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.358497619629,
-          36.6949996948242,
-          1.27999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "112 km ESE of Akutan, Alaska",
-        "time": 1746084873165,
-        "updated": 1746648726969,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255k8edw4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255k8edw4.geojson",
-        "title": "M 2.3 - 112 km ESE of Akutan, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.2738,
-          53.6554,
-          25.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "7 km SSW of Jaars, North Carolina",
-        "time": 1746084844210,
-        "updated": 1746303005646,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60503543",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60503543.geojson",
-        "title": "M 2.2 - 7 km SSW of Jaars, North Carolina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7853333333333,
-          34.8045,
-          4.48
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.66,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1746084201610,
-        "updated": 1746106350961,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41141376",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41141376.geojson",
-        "title": "M 0.7 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7223333,
-          33.5306667,
-          5.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "77 km SW of Unalaska, Alaska",
-        "time": 1746084060704,
-        "updated": 1746648723693,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255k8bfvg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255k8bfvg.geojson",
-        "title": "M 2.3 - 77 km SW of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -167.3878,
-          53.4006,
-          15.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.33,
-        "place": "6 km NE of Amber, Oklahoma",
-        "time": 1746083753270,
-        "updated": 1746102372624,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ilus",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025ilus.geojson",
-        "title": "M 1.3 - 6 km NE of Amber, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.83683333,
-          35.2065,
-          5.57
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "92 km SSW of Alberto Oviedo Mota, B.C., MX",
-        "time": 1746083358740,
-        "updated": 1746122644764,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41141360",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41141360.geojson",
-        "title": "M 1.7 - 92 km SSW of Alberto Oviedo Mota, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.6198333,
-          31.4905,
-          11.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "3 km SW of Point MacKenzie, Alaska",
-        "time": 1746083231924,
-        "updated": 1746648860090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255k88jvc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255k88jvc.geojson",
-        "title": "M 2.4 - 3 km SW of Point MacKenzie, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.0231,
-          61.3313,
-          41.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "46 km NNW of Valdez, Alaska",
-        "time": 1746083041625,
-        "updated": 1746648723161,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255k87vvt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255k87vvt.geojson",
-        "title": "M 1.7 - 46 km NNW of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.6495,
-          61.5177,
-          19.8
         ]
       }
     }

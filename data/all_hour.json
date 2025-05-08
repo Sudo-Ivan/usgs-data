@@ -1,191 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746687783000,
+    "generated": 1746691397000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.45,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1746687061870,
-        "updated": 1746687155661,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178276",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178276.geojson",
-        "title": "M 0.5 - 7 km NNW of The Geysers, CA"
+        "mag": 0.48,
+        "place": "14 km SSE of Anza, CA",
+        "time": 1746690874840,
+        "updated": 1746691120616,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147536",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147536.geojson",
+        "title": "M 0.5 - 14 km SSE of Anza, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.813835144043,
-          38.8251647949219,
-          4.69999980926514
+          -116.6238333,
+          33.4408333,
+          10.38
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.97,
-        "place": "14 km W of Johannesburg, CA",
-        "time": 1746686591730,
-        "updated": 1746687237830,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147520",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147520.geojson",
-        "title": "M 2.0 - 14 km W of Johannesburg, CA"
+        "mag": 4.7,
+        "place": "273 km SSE of Ushuaia, Argentina",
+        "time": 1746689772759,
+        "updated": 1746690791040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwc.geojson",
+        "title": "M 4.7 - 273 km SSE of Ushuaia, Argentina"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.787,
-          35.3528333,
-          5.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "60 km WNW of Petersville, Alaska",
-        "time": 1746686410471,
-        "updated": 1746686538367,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vslmaf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vslmaf.geojson",
-        "title": "M 1.4 - 60 km WNW of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.863,
-          62.697,
-          84.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "44 km SSE of Ugashik, Alaska",
-        "time": 1746686349570,
-        "updated": 1746686453852,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vslei5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vslei5.geojson",
-        "title": "M 1.8 - 44 km SSE of Ugashik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.1817,
-          57.1323,
-          88.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.32,
-        "place": "12 km NW of Anza, CA",
-        "time": 1746685941470,
-        "updated": 1746686572600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147512",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147512.geojson",
-        "title": "M 1.3 - 12 km NW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7781667,
-          33.6176667,
-          15.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.86,
-        "place": "4 km NE of Fontana, CA",
-        "time": 1746685666190,
-        "updated": 1746685889163,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147504",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147504.geojson",
-        "title": "M 0.9 - 4 km NE of Fontana, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4325,
-          34.1256667,
-          6.48
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.55,
-        "place": "4 km NE of Fontana, CA",
-        "time": 1746685470370,
-        "updated": 1746686145200,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147496",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147496.geojson",
-        "title": "M 1.6 - 4 km NE of Fontana, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.434,
-          34.1275,
-          6.85
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.22,
-        "place": "2 km NE of Willits, CA",
-        "time": 1746684956590,
-        "updated": 1746685937275,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178246",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178246.geojson",
-        "title": "M 1.2 - 2 km NE of Willits, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.338836669922,
-          39.423168182373,
-          6.80999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.9,
-        "place": "70 km WNW of Ninilchik, Alaska",
-        "time": 1746684650486,
-        "updated": 1746685324040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vsf9vy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vsf9vy.geojson",
-        "title": "M 2.9 - 70 km WNW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.8891,
-          60.2266,
-          124.1
+          -66.9784,
+          -57.1524,
+          10
         ]
       }
     },
@@ -193,19 +53,99 @@
       "type": "Feature",
       "properties": {
         "mag": 1.9,
-        "place": "58 km NW of Rampart, Alaska",
-        "time": 1746684229139,
-        "updated": 1746684355354,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vsdrs1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vsdrs1.geojson",
-        "title": "M 1.9 - 58 km NW of Rampart, Alaska"
+        "place": "15 km NNW of Indian Springs, Nevada",
+        "time": 1746689391288,
+        "updated": 1746689540788,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897367",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897367.geojson",
+        "title": "M 1.9 - 15 km NNW of Indian Springs, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.1331,
-          65.8426,
-          3.4
+          -115.7165,
+          36.7074,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746689289263,
+        "updated": 1746690252070,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iyqd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iyqd.geojson",
+        "title": "M 1.9 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.288,
+          31.65,
+          4.4787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.69,
+        "place": "18 km W of Truckee, CA",
+        "time": 1746689225450,
+        "updated": 1746691091296,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178291",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178291.geojson",
+        "title": "M 2.7 - 18 km W of Truckee, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.381332397461,
+          39.2716674804688,
+          2.66000008583069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "11 km SSE of Cantwell, Alaska",
+        "time": 1746689050144,
+        "updated": 1746689156282,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vt3meu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vt3meu.geojson",
+        "title": "M 1.2 - 11 km SSE of Cantwell, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8421,
+          63.3043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "14 km E of Coahoma, Texas",
+        "time": 1746687864682,
+        "updated": 1746688492881,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iypj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iypj.geojson",
+        "title": "M 1.1 - 14 km E of Coahoma, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.15,
+          32.277,
+          3.5802
         ]
       }
     }
