@@ -1,211 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746723760000,
+    "generated": 1746727420000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "12 km ESE of Skwentna, Alaska",
-        "time": 1746723609779,
-        "updated": 1746723716172,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vywt8x",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vywt8x.geojson",
-        "title": "M 1.9 - 12 km ESE of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.1729,
-          61.9589,
-          63.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.34,
-        "place": "2 km E of Union City, CA",
-        "time": 1746722677720,
-        "updated": 1746722773436,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178566",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178566.geojson",
-        "title": "M 1.3 - 2 km E of Union City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.998001098633,
-          37.5978317260742,
-          8.67000007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "23 km NNE of Yerington, Nevada",
-        "time": 1746722666924,
-        "updated": 1746722799819,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897380",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897380.geojson",
-        "title": "M 1.1 - 23 km NNE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0293,
-          39.1704,
-          9.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "23 km W of Happy Valley, Alaska",
-        "time": 1746722380468,
-        "updated": 1746722506842,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vyjsxq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vyjsxq.geojson",
-        "title": "M 1.6 - 23 km W of Happy Valley, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.1455,
-          59.9582,
-          68.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.76,
-        "place": "9 km NE of Milpitas, CA",
-        "time": 1746721550790,
-        "updated": 1746722538245,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178561",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178561.geojson",
-        "title": "M 1.8 - 9 km NE of Milpitas, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.837333679199,
-          37.4838333129883,
-          7.17999982833862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "93 km ESE of Egegik, Alaska",
-        "time": 1746721481818,
-        "updated": 1746721596440,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vyglat",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vyglat.geojson",
-        "title": "M 1.4 - 93 km ESE of Egegik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.9426,
-          57.8645,
-          0.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "76 km W of San Antonio de los Cobres, Argentina",
-        "time": 1746721018203,
-        "updated": 1746722457040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxzj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxzj.geojson",
-        "title": "M 4.5 - 76 km W of San Antonio de los Cobres, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.0658,
-          -24.3189,
-          175.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.69,
-        "place": "6 km E of Redwood Valley, CA",
-        "time": 1746720836970,
-        "updated": 1746721936185,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178551",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178551.geojson",
-        "title": "M 1.7 - 6 km E of Redwood Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.137336730957,
-          39.2760009765625,
-          3.45000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "mag": 1.7,
-        "place": "63 km N of Petersville, Alaska",
-        "time": 1746720749944,
-        "updated": 1746720896026,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vydzsi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vydzsi.geojson",
-        "title": "M 1.7 - 63 km N of Petersville, Alaska"
+        "place": "20 km NE of Holtville, CA",
+        "time": 1746727131440,
+        "updated": 1746727345781,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148120",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148120.geojson",
+        "title": "M 1.7 - 20 km NE of Holtville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.6965,
-          63.0692,
-          118.3
+          -115.2221667,
+          32.9268333,
+          7.76
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.6,
-        "place": "48 km WNW of Happy Valley, Alaska",
-        "time": 1746720423367,
-        "updated": 1746720548438,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vycv5s",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vycv5s.geojson",
-        "title": "M 1.6 - 48 km WNW of Happy Valley, Alaska"
+        "mag": 0.31,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1746726790070,
+        "updated": 1746726887490,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178601",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178601.geojson",
+        "title": "M 0.3 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.5439,
-          60.1072,
-          104
+          -122.839668273926,
+          38.8366661071777,
+          4.21000003814697
         ]
       }
     }
