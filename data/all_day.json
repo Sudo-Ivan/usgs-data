@@ -1,21 +1,201 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746777817000,
+    "generated": 1746781371000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 244
+    "count": 241
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.41,
+        "place": "7 km WNW of Lake Elsinore, CA",
+        "time": 1746781130970,
+        "updated": 1746781353782,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148728",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148728.geojson",
+        "title": "M 0.4 - 7 km WNW of Lake Elsinore, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4006667,
+          33.6863333,
+          8.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "63 km ENE of Denali Park, Alaska",
+        "time": 1746779973828,
+        "updated": 1746780158618,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xhbo2u",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xhbo2u.geojson",
+        "title": "M 2.0 - 63 km ENE of Denali Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6754,
+          63.8901,
+          12.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "63 km E of Port Alsworth, Alaska",
+        "time": 1746779914528,
+        "updated": 1746780047224,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xhbgf0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xhbgf0.geojson",
+        "title": "M 2.1 - 63 km E of Port Alsworth, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.1702,
+          60.1567,
+          134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "18 km ESE of Meiktila, Burma (Myanmar)",
+        "time": 1746779850404,
+        "updated": 1746780825040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py69",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py69.geojson",
+        "title": "M 4.4 - 18 km ESE of Meiktila, Burma (Myanmar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0246,
+          20.8303,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.13,
+        "place": "8 km SSE of Maria Antonia, Puerto Rico",
+        "time": 1746779619610,
+        "updated": 1746780553180,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481748",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481748.geojson",
+        "title": "M 2.1 - 8 km SSE of Maria Antonia, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8586666666667,
+          17.909,
+          16.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "82 km S of Nikolai, Alaska",
+        "time": 1746778840540,
+        "updated": 1746778968054,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xh7lzq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xh7lzq.geojson",
+        "title": "M 1.4 - 82 km S of Nikolai, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3609,
+          62.2766,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.62,
+        "place": "10 km N of Cabazon, CA",
+        "time": 1746778743430,
+        "updated": 1746779010238,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148720",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148720.geojson",
+        "title": "M 0.6 - 10 km N of Cabazon, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.788,
+          34.0071667,
+          16.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.34,
+        "place": "2 km WNW of Anderson Springs, CA",
+        "time": 1746778728300,
+        "updated": 1746779838605,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178841",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178841.geojson",
+        "title": "M 1.3 - 2 km WNW of Anderson Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713165283203,
+          38.7801666259766,
+          31.4799995422363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "52 km E of Chase, Alaska",
+        "time": 1746778371982,
+        "updated": 1746778495104,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xh5x5a",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xh5x5a.geojson",
+        "title": "M 1.4 - 52 km E of Chase, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0863,
+          62.4767,
+          50.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.79,
         "place": "8 km NNW of The Geysers, CA",
         "time": 1746777098070,
-        "updated": 1746777195307,
+        "updated": 1746778338447,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178836",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178836.geojson",
         "title": "M 0.8 - 8 km NNW of The Geysers, CA"
@@ -4646,246 +4826,6 @@
           -150.8743,
           62.3021,
           70.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "25 km E of Tanana, Alaska",
-        "time": 1746694935855,
-        "updated": 1746755485715,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vu5sbu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vu5sbu.geojson",
-        "title": "M 1.5 - 25 km E of Tanana, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.544,
-          65.1552,
-          12.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.1,
-        "place": "southeast of Easter Island",
-        "time": 1746694698308,
-        "updated": 1746695763040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwq.geojson",
-        "title": "M 5.1 - southeast of Easter Island"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.2269,
-          -35.1471,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "3 km WNW of Cobb, CA",
-        "time": 1746694623910,
-        "updated": 1746696737453,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178321",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178321.geojson",
-        "title": "M 0.7 - 3 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.762336730957,
-          38.8240013122559,
-          2.20000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "10 km SW of Salton City, CA",
-        "time": 1746694553970,
-        "updated": 1746742580140,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147552",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147552.geojson",
-        "title": "M 1.0 - 10 km SW of Salton City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.0325,
-          33.2345,
-          5.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "55 km NW of Toyah, Texas",
-        "time": 1746694473574,
-        "updated": 1746708154146,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iytb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iytb.geojson",
-        "title": "M 1.6 - 55 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.267,
-          31.613,
-          6.8689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "20 km ESE of Little Lake, CA",
-        "time": 1746694171430,
-        "updated": 1746710377284,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147544",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147544.geojson",
-        "title": "M 0.9 - 20 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6938333,
-          35.8785,
-          4.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "58 km ESE of Knik River, Alaska",
-        "time": 1746693253055,
-        "updated": 1746755485453,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vtr6vg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vtr6vg.geojson",
-        "title": "M 1.5 Ice Quake - 58 km ESE of Knik River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.9229,
-          61.2275,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "154 km SW of Ambon, Indonesia",
-        "time": 1746692856584,
-        "updated": 1746694440040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwm.geojson",
-        "title": "M 4.4 - 154 km SW of Ambon, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.1093,
-          -4.5866,
-          369.439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1746692458290,
-        "updated": 1746694337216,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178311",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178311.geojson",
-        "title": "M 0.8 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.82266998291,
-          38.839168548584,
-          1.3400000333786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746692403690,
-        "updated": 1746693740148,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178306",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178306.geojson",
-        "title": "M 0.8 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.806999206543,
-          38.8203315734863,
-          2.64000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "119 km ENE of Fangale’ounga, Tonga",
-        "time": 1746692187939,
-        "updated": 1746693755040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwl.geojson",
-        "title": "M 4.9 - 119 km ENE of Fangale’ounga, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -173.2113,
-          -19.5048,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.94,
-        "place": "5 km SE of Unalaska, Alaska",
-        "time": 1746692128230,
-        "updated": 1746744982340,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93600276",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93600276.geojson",
-        "title": "M 0.9 - 5 km SE of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -166.482333333333,
-          53.841,
-          9.44
         ]
       }
     }
