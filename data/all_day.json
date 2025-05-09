@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746760775000,
+    "generated": 1746763407000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 261
+    "count": 260
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "12 km NNE of Ocotillo Wells, CA",
+        "time": 1746762978500,
+        "updated": 1746763183063,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148656",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148656.geojson",
+        "title": "M 1.6 - 12 km NNE of Ocotillo Wells, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0978333,
+          33.2515,
+          9.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "28 km SW of Hope, Alaska",
+        "time": 1746762256354,
+        "updated": 1746762392130,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xedjab",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xedjab.geojson",
+        "title": "M 1.1 - 28 km SW of Hope, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0485,
+          60.7564,
+          41.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "10 km NNW of The Geysers, CA",
+        "time": 1746761743230,
+        "updated": 1746761840217,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178741",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178741.geojson",
+        "title": "M 1.5 - 10 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.837669372559,
+          38.8408317565918,
+          1.51999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1746761711450,
+        "updated": 1746762736665,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178736.geojson",
+        "title": "M 0.7 - 10 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.853996276855,
+          38.8258323669434,
+          2.46000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "53 km SE of Honchō, Japan",
+        "time": 1746761045689,
+        "updated": 1746762688040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py5c",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py5c.geojson",
+        "title": "M 4.5 - 53 km SE of Honchō, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.324,
+          41.759,
+          47.631
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.63,
         "place": "10 km WNW of Cobb, CA",
         "time": 1746760601340,
-        "updated": 1746760700115,
+        "updated": 1746762737664,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178731",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178731.geojson",
         "title": "M 0.6 - 10 km WNW of Cobb, CA"
@@ -26,6 +126,26 @@
           -122.839836120605,
           38.8455009460449,
           2.01999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.9,
+        "place": "4 km S of Pleasant City, Ohio",
+        "time": 1746760423595,
+        "updated": 1746762785399,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py59",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py59.geojson",
+        "title": "M 2.9 - 4 km S of Pleasant City, Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5424,
+          39.8656,
+          5
         ]
       }
     },
@@ -5086,146 +5206,6 @@
           -176.168166666667,
           52.095,
           -1.78
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "57 km NW of Tatitlek, Alaska",
-        "time": 1746675889206,
-        "updated": 1746755482829,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vqu9g1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vqu9g1.geojson",
-        "title": "M 1.5 Ice Quake - 57 km NW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.4541,
-          61.2167,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "5 km ESE of Hidden Valley Lake, CA",
-        "time": 1746675722910,
-        "updated": 1746681140847,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178201",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178201.geojson",
-        "title": "M 1.7 - 5 km ESE of Hidden Valley Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.498664855957,
-          38.7916679382324,
-          4.15000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1746675691220,
-        "updated": 1746677237338,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178196",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178196.geojson",
-        "title": "M 0.8 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.783836364746,
-          38.836498260498,
-          1.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "87 km SSW of Calama, Chile",
-        "time": 1746675685405,
-        "updated": 1746676543040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxvf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxvf.geojson",
-        "title": "M 4.4 - 87 km SSW of Calama, Chile"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.2531,
-          -23.187,
-          101.93
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.47,
-        "place": "15 km SE of Lincoln, Montana",
-        "time": 1746675349410,
-        "updated": 1746707766060,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90083268",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90083268.geojson",
-        "title": "M 0.5 - 15 km SE of Lincoln, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.529,
-          46.868,
-          11.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.36,
-        "place": "7 km  of Healdsburg, CA",
-        "time": 1746675332400,
-        "updated": 1746679641606,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178191",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178191.geojson",
-        "title": "M 1.4 - 7 km  of Healdsburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.887664794922,
-          38.673168182373,
-          8.4399995803833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "29 km SW of Hope, Alaska",
-        "time": 1746674530937,
-        "updated": 1746755482518,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vqpgku",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vqpgku.geojson",
-        "title": "M 2.1 - 29 km SW of Hope, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.0498,
-          60.7495,
-          42.5
         ]
       }
     }
