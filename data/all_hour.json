@@ -1,31 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746770604000,
+    "generated": 1746774144000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 11
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1746770467510,
-        "updated": 1746770564636,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178781",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178781.geojson",
-        "title": "M 2.6 - 7 km NNW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "20 km SSW of Funny River, Alaska",
+        "time": 1746773483941,
+        "updated": 1746773637591,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xg7cp6",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xg7cp6.geojson",
+        "title": "M 1.1 - 20 km SSW of Funny River, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.811668395996,
-          38.826000213623,
-          1.89999997615814
+          -150.8542,
+          60.3192,
+          53.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "34 km NNW of Valdez, Alaska",
+        "time": 1746773405448,
+        "updated": 1746773541501,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xg73k0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xg73k0.geojson",
+        "title": "M 1.0 - 34 km NNW of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.6158,
+          61.4165,
+          29.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.46,
+        "place": "4 km ESE of La Parguera, Puerto Rico",
+        "time": 1746772782960,
+        "updated": 1746773439180,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481728",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481728.geojson",
+        "title": "M 2.5 - 4 km ESE of La Parguera, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0071666666667,
+          17.9568333333333,
+          10.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.45,
+        "place": "9 km WNW of Cobb, CA",
+        "time": 1746772304390,
+        "updated": 1746773836921,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178816",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178816.geojson",
+        "title": "M 0.5 - 9 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.824501037598,
+          38.843334197998,
+          1.99000000953674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "16 km NE of Chase, Alaska",
+        "time": 1746771498801,
+        "updated": 1746771600314,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xg09o8",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xg09o8.geojson",
+        "title": "M 2.2 - 16 km NE of Chase, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8482,
+          62.5458,
+          5.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "38 km ENE of McKinney Acres, Texas",
+        "time": 1746771368412,
+        "updated": 1746772118335,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jajd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jajd.geojson",
+        "title": "M 1.2 - 38 km ENE of McKinney Acres, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.142,
+          32.419,
+          3.9516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "99 km SE of Korsakov, Russia",
+        "time": 1746771326822,
+        "updated": 1746773213040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py5w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py5w.geojson",
+        "title": "M 4.4 - 99 km SE of Korsakov, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7645,
+          46.0617,
+          342.255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1746771033080,
+        "updated": 1746771130283,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178806",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178806.geojson",
+        "title": "M 0.4 - 8 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.814163208008,
+          38.8279991149902,
+          2.21000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.91,
+        "place": "28 km WNW of Petrolia, CA",
+        "time": 1746770963590,
+        "updated": 1746773238852,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178801",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178801.geojson",
+        "title": "M 1.9 - 28 km WNW of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.611167907715,
+          40.3343315124512,
+          20.4300003051758
         ]
       }
     },
@@ -33,79 +193,39 @@
       "type": "Feature",
       "properties": {
         "mag": 1.01,
-        "place": "18 km WSW of Toms Place, CA",
-        "time": 1746770286920,
-        "updated": 1746770385530,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178776",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178776.geojson",
-        "title": "M 1.0 - 18 km WSW of Toms Place, CA"
+        "place": "3 km ESE of The Geysers, CA",
+        "time": 1746770875710,
+        "updated": 1746772939823,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178796",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178796.geojson",
+        "title": "M 1.0 - 3 km ESE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.848167419434,
-          37.4643325805664,
-          5.82999992370605
+          -122.726165771484,
+          38.7700004577637,
+          1.29999995231628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.3,
-        "place": "6 km NNE of Sterling, Alaska",
-        "time": 1746769880264,
-        "updated": 1746770013397,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xflwt6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xflwt6.geojson",
-        "title": "M 1.3 - 6 km NNE of Sterling, Alaska"
+        "mag": 0.67,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746770784230,
+        "updated": 1746772337742,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178791",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178791.geojson",
+        "title": "M 0.7 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.7164,
-          60.5872,
-          39.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "8 km SSW of Big Lake, Alaska",
-        "time": 1746769663969,
-        "updated": 1746769752445,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xfl3rw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xfl3rw.geojson",
-        "title": "M 1.6 - 8 km SSW of Big Lake, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.0033,
-          61.4454,
-          51.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "48 km NNW of Valdez, Alaska",
-        "time": 1746767776136,
-        "updated": 1746767879647,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xfeefh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xfeefh.geojson",
-        "title": "M 1.4 - 48 km NNW of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.6401,
-          61.5404,
-          25.7
+          -122.814331054688,
+          38.8236656188965,
+          2.15000009536743
         ]
       }
     }
