@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746757860000,
+    "generated": 1746760740000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 7
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.63,
+        "place": "10 km WNW of Cobb, CA",
+        "time": 1746760601340,
+        "updated": 1746760700115,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178731",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178731.geojson",
+        "title": "M 0.6 - 10 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.839836120605,
+          38.8455009460449,
+          2.01999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "25 km NE of Willow, Alaska",
+        "time": 1746759477903,
+        "updated": 1746759601056,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xduz72",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xduz72.geojson",
+        "title": "M 1.1 - 25 km NE of Willow, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6618,
+          61.8883,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.19,
+        "place": "16 km SSE of Guánica, Puerto Rico",
+        "time": 1746758775160,
+        "updated": 1746759363420,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481723",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481723.geojson",
+        "title": "M 2.2 - 16 km SSE of Guánica, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8525,
+          17.8358333333333,
+          14.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "40 km WNW of Mentasta Lake, Alaska",
+        "time": 1746758621525,
+        "updated": 1746758742327,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xdrxwo",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xdrxwo.geojson",
+        "title": "M 1.9 - 40 km WNW of Mentasta Lake, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.4521,
+          63.1147,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.79,
+        "place": "19 km N of Arecibo, Puerto Rico",
+        "time": 1746758606100,
+        "updated": 1746759615730,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481718",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481718.geojson",
+        "title": "M 2.8 - 19 km N of Arecibo, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7081666666667,
+          18.6521666666667,
+          8.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "227 km SE of Perryville, Alaska",
+        "time": 1746757732513,
+        "updated": 1746759948888,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xdoqqm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xdoqqm.geojson",
+        "title": "M 4.2 - 227 km SE of Perryville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.407,
+          54.5887,
+          11.7
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.9,
         "place": "6 km S of Womens Bay, Alaska",
         "time": 1746757244603,
-        "updated": 1746757396288,
+        "updated": 1746759070040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xdn0oc",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xdn0oc.geojson",
         "title": "M 2.9 - 6 km S of Womens Bay, Alaska"
@@ -26,106 +146,6 @@
           -152.6573,
           57.6231,
           30.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.27,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1746756878720,
-        "updated": 1746756975746,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178726",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178726.geojson",
-        "title": "M 0.3 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.790000915527,
-          38.8351669311523,
-          1.49000000953674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "24 km SE of Point Possession, Alaska",
-        "time": 1746756377334,
-        "updated": 1746756481921,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xdjyjp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xdjyjp.geojson",
-        "title": "M 1.2 - 24 km SE of Point Possession, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.3949,
-          60.7547,
-          34.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "33 km WSW of Ackerly, Texas",
-        "time": 1746755855627,
-        "updated": 1746756451448,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jaap",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jaap.geojson",
-        "title": "M 1.5 - 33 km WSW of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.036,
-          32.401,
-          5.1743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3,
-        "place": "20 km NNW of Jal, New Mexico",
-        "time": 1746755170391,
-        "updated": 1746755685040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py4l",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py4l.geojson",
-        "title": "M 3.0 - 20 km NNW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.2932,
-          32.2749,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.1,
-        "place": "Southern Qinghai, China",
-        "time": 1746754919778,
-        "updated": 1746757689040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py51",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py51.geojson",
-        "title": "M 4.1 - Southern Qinghai, China"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.1474,
-          34.5989,
-          10
         ]
       }
     }
