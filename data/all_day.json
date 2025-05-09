@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746781371000,
+    "generated": 1746784956000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 241
+    "count": 237
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746784110800,
+        "updated": 1746784207030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178856",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178856.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.813331604004,
+          38.8266677856445,
+          1.82000005245209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.23,
+        "place": "3 km WNW of Beaumont, CA",
+        "time": 1746783251640,
+        "updated": 1746783893240,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148744",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148744.geojson",
+        "title": "M 1.2 - 3 km WNW of Beaumont, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0045,
+          33.9438333,
+          16.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.82,
+        "place": "4 km ENE of San Fernando, CA",
+        "time": 1746783210780,
+        "updated": 1746783455632,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148736.geojson",
+        "title": "M 0.8 - 4 km ENE of San Fernando, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3968333,
+          34.301,
+          10.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "27 km S of Westbrook, Texas",
+        "time": 1746782997364,
+        "updated": 1746783513609,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025japd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025japd.geojson",
+        "title": "M 1.9 - 27 km S of Westbrook, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.062,
+          32.113,
+          2.8308
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -155,7 +235,7 @@
         "mag": 1.34,
         "place": "2 km WNW of Anderson Springs, CA",
         "time": 1746778728300,
-        "updated": 1746779838605,
+        "updated": 1746783139011,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178841",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178841.geojson",
         "title": "M 1.3 - 2 km WNW of Anderson Springs, CA"
@@ -4666,166 +4746,6 @@
           -122.763496398926,
           38.821834564209,
           2.34999990463257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "51 km W of Anchor Point, Alaska",
-        "time": 1746698180751,
-        "updated": 1746755488863,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vuhdcr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vuhdcr.geojson",
-        "title": "M 1.5 - 51 km W of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.7562,
-          59.7919,
-          82.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.4,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1746698073350,
-        "updated": 1746710338418,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147576",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147576.geojson",
-        "title": "M 0.4 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7316667,
-          33.5296667,
-          5.06
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.57,
-        "place": "72 km WNW of Beluga, Alaska",
-        "time": 1746697395880,
-        "updated": 1746747123490,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040979",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040979.geojson",
-        "title": "M 0.6 - 72 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.3105,
-          61.4091666666667,
-          3.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "8 km E of Kalama, Washington",
-        "time": 1746697018670,
-        "updated": 1746729567160,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62095597",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62095597.geojson",
-        "title": "M 1.1 - 8 km E of Kalama, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.73866666666666,
-          46.00233333333333,
-          15.29
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.68,
-        "place": "15 km W of Johannesburg, CA",
-        "time": 1746695986020,
-        "updated": 1746710356749,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147568",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147568.geojson",
-        "title": "M 0.7 - 15 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7955,
-          35.353,
-          4.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "22 km SE of Unalaska, Alaska",
-        "time": 1746695309951,
-        "updated": 1746755488608,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vu73oz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vu73oz.geojson",
-        "title": "M 1.6 - 22 km SE of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -166.2934,
-          53.7359,
-          73.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.56,
-        "place": "75 km NW of Ninilchik, Alaska",
-        "time": 1746695288730,
-        "updated": 1746745766090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93600296",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93600296.geojson",
-        "title": "M -0.6 - 75 km NW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.719,
-          60.4883333333333,
-          1.72
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "22 km SSW of Petersville, Alaska",
-        "time": 1746695030607,
-        "updated": 1746755485967,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vu62o1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vu62o1.geojson",
-        "title": "M 1.8 - 22 km SSW of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.8743,
-          62.3021,
-          70.3
         ]
       }
     }

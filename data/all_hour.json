@@ -1,191 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746781374000,
+    "generated": 1746784920000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.41,
-        "place": "7 km WNW of Lake Elsinore, CA",
-        "time": 1746781130970,
-        "updated": 1746781353782,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148728",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148728.geojson",
-        "title": "M 0.4 - 7 km WNW of Lake Elsinore, CA"
+        "mag": 0.77,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746784110800,
+        "updated": 1746784207030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178856",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178856.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.4006667,
-          33.6863333,
-          8.46
+          -122.813331604004,
+          38.8266677856445,
+          1.82000005245209
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
-        "place": "63 km ENE of Denali Park, Alaska",
-        "time": 1746779973828,
-        "updated": 1746780158618,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xhbo2u",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xhbo2u.geojson",
-        "title": "M 2.0 - 63 km ENE of Denali Park, Alaska"
+        "mag": 1.23,
+        "place": "3 km WNW of Beaumont, CA",
+        "time": 1746783251640,
+        "updated": 1746783893240,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148744",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148744.geojson",
+        "title": "M 1.2 - 3 km WNW of Beaumont, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.6754,
-          63.8901,
-          12.2
+          -117.0045,
+          33.9438333,
+          16.71
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "63 km E of Port Alsworth, Alaska",
-        "time": 1746779914528,
-        "updated": 1746780047224,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xhbgf0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xhbgf0.geojson",
-        "title": "M 2.1 - 63 km E of Port Alsworth, Alaska"
+        "mag": 0.82,
+        "place": "4 km ENE of San Fernando, CA",
+        "time": 1746783210780,
+        "updated": 1746783455632,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148736.geojson",
+        "title": "M 0.8 - 4 km ENE of San Fernando, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.1702,
-          60.1567,
-          134
+          -118.3968333,
+          34.301,
+          10.46
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.4,
-        "place": "18 km ESE of Meiktila, Burma (Myanmar)",
-        "time": 1746779850404,
-        "updated": 1746780825040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py69",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py69.geojson",
-        "title": "M 4.4 - 18 km ESE of Meiktila, Burma (Myanmar)"
+        "mag": 1.9,
+        "place": "27 km S of Westbrook, Texas",
+        "time": 1746782997364,
+        "updated": 1746783513609,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025japd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025japd.geojson",
+        "title": "M 1.9 - 27 km S of Westbrook, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.0246,
-          20.8303,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.13,
-        "place": "8 km SSE of Maria Antonia, Puerto Rico",
-        "time": 1746779619610,
-        "updated": 1746780553180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481748",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481748.geojson",
-        "title": "M 2.1 - 8 km SSE of Maria Antonia, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8586666666667,
-          17.909,
-          16.95
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "82 km S of Nikolai, Alaska",
-        "time": 1746778840540,
-        "updated": 1746778968054,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xh7lzq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xh7lzq.geojson",
-        "title": "M 1.4 - 82 km S of Nikolai, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.3609,
-          62.2766,
-          0.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.62,
-        "place": "10 km N of Cabazon, CA",
-        "time": 1746778743430,
-        "updated": 1746779010238,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148720",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148720.geojson",
-        "title": "M 0.6 - 10 km N of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.788,
-          34.0071667,
-          16.67
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.34,
-        "place": "2 km WNW of Anderson Springs, CA",
-        "time": 1746778728300,
-        "updated": 1746779838605,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178841",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178841.geojson",
-        "title": "M 1.3 - 2 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.713165283203,
-          38.7801666259766,
-          31.4799995422363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "52 km E of Chase, Alaska",
-        "time": 1746778371982,
-        "updated": 1746778495104,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xh5x5a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xh5x5a.geojson",
-        "title": "M 1.4 - 52 km E of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.0863,
-          62.4767,
-          50.2
+          -101.062,
+          32.113,
+          2.8308
         ]
       }
     }
