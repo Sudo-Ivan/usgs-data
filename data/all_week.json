@@ -1,21 +1,61 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746828168000,
+    "generated": 1746831708000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1947
+    "count": 1945
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.07,
+        "place": "11 km SE of Gorman, CA",
+        "time": 1746831223790,
+        "updated": 1746831434238,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149608",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149608.geojson",
+        "title": "M 2.1 - 11 km SE of Gorman, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7511667,
+          34.7375,
+          9.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.58,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1746829062400,
+        "updated": 1746829283013,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149584",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149584.geojson",
+        "title": "M 0.6 - 5 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7221667,
+          33.5343333,
+          5.04
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.06,
         "place": "4 km WNW of Cobb, CA",
         "time": 1746827867330,
-        "updated": 1746827966380,
+        "updated": 1746829338065,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179091",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179091.geojson",
         "title": "M 1.1 - 4 km WNW of Cobb, CA"
@@ -35,7 +75,7 @@
         "mag": 1,
         "place": "15 km SSE of Stanton, Texas",
         "time": 1746827361628,
-        "updated": 1746828165912,
+        "updated": 1746828173916,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jbnq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jbnq.geojson",
         "title": "M 1.0 - 15 km SSE of Stanton, Texas"
@@ -55,7 +95,7 @@
         "mag": 1.4,
         "place": "15 km SSE of Stanton, Texas",
         "time": 1746827187457,
-        "updated": 1746828155919,
+        "updated": 1746828171924,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jbnm",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jbnm.geojson",
         "title": "M 1.4 - 15 km SSE of Stanton, Texas"
@@ -155,7 +195,7 @@
         "mag": 0.74,
         "place": "7 km WNW of Cobb, CA",
         "time": 1746826954530,
-        "updated": 1746827050795,
+        "updated": 1746828436964,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179086",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179086.geojson",
         "title": "M 0.7 - 7 km WNW of Cobb, CA"
@@ -374,8 +414,8 @@
       "properties": {
         "mag": 2.5,
         "place": "47 km E of Fort Bidwell, California",
-        "time": 1746820485178,
-        "updated": 1746828123129,
+        "time": 1746820485179,
+        "updated": 1746828674594,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897441",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897441.geojson",
         "title": "M 2.5 - 47 km E of Fort Bidwell, California"
@@ -415,7 +455,7 @@
         "mag": 0.74,
         "place": "9 km E of Morgan Hill, CA",
         "time": 1746819618070,
-        "updated": 1746827539875,
+        "updated": 1746829936128,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179036",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179036.geojson",
         "title": "M 0.7 - 9 km E of Morgan Hill, CA"
@@ -472,6 +512,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.14,
+        "place": "59 km WNW of Tyonek, Alaska",
+        "time": 1746818428020,
+        "updated": 1746829972970,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93601896",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93601896.geojson",
+        "title": "M -0.1 - 59 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.179833333333,
+          61.2516666666667,
+          31.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2,
         "place": "37 km ENE of Fox River, Alaska",
         "time": 1746818398374,
@@ -486,6 +546,26 @@
           -150.3553,
           59.9966,
           217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.83,
+        "place": "78 km NW of Ninilchik, Alaska",
+        "time": 1746818164060,
+        "updated": 1746829008480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93601891",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93601891.geojson",
+        "title": "M -0.8 - 78 km NW of Ninilchik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7555,
+          60.5008333333333,
+          1.17
         ]
       }
     },
@@ -526,6 +606,26 @@
           -122.825164794922,
           38.8190002441406,
           1.78999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.04,
+        "place": "72 km NNW of Karluk, Alaska",
+        "time": 1746815514760,
+        "updated": 1746828797430,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93601856",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93601856.geojson",
+        "title": "M 0.0 - 72 km NNW of Karluk, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.844833333333,
+          58.1898333333333,
+          5.44
         ]
       }
     },
@@ -3792,6 +3892,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.96,
+        "place": "15 km NNE of Ashford, Washington",
+        "time": 1746759491670,
+        "updated": 1746830623830,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096007",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096007.geojson",
+        "title": "M 1.0 - 15 km NNE of Ashford, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94266666666667,
+          46.88066666666667,
+          7.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.1,
         "place": "25 km NE of Willow, Alaska",
         "time": 1746759477903,
@@ -3966,6 +4086,26 @@
           -152.6115,
           60.8878333333333,
           9.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.61,
+        "place": "5 km W of Waterville, Washington",
+        "time": 1746756432840,
+        "updated": 1746829814350,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62095967",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62095967.geojson",
+        "title": "M 0.6 - 5 km W of Waterville, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1415,
+          47.652833333333334,
+          -0.86
         ]
       }
     },
@@ -4815,7 +4955,7 @@
         "mag": 5.6,
         "place": "Macquarie Island region",
         "time": 1746741670224,
-        "updated": 1746794383040,
+        "updated": 1746830426611,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py39",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py39.geojson",
         "title": "M 5.6 - Macquarie Island region"
@@ -6495,7 +6635,7 @@
         "mag": 2.94,
         "place": "1 km E of Union City, CA",
         "time": 1746717438830,
-        "updated": 1746807185371,
+        "updated": 1746828666668,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178506",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178506.geojson",
         "title": "M 2.9 - 1 km E of Union City, CA"
@@ -38766,186 +38906,6 @@
           -167.7247,
           53.7365,
           8.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.58,
-        "place": "6 km WSW of Laupāhoehoe, Hawaii",
-        "time": 1746226780400,
-        "updated": 1746391703305,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74664712",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74664712.geojson",
-        "title": "M 3.6 - 6 km WSW of Laupāhoehoe, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.298833333333,
-          19.9691666666667,
-          31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.45,
-        "place": "11 km SE of Katie, Oklahoma",
-        "time": 1746226600009,
-        "updated": 1746449220730,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025iovh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025iovh.geojson",
-        "title": "M 1.5 Quarry Blast - 11 km SE of Katie, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.26183333,
-          34.5055,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.4,
-        "place": "51 km ESE of Beatty, Nevada",
-        "time": 1746226484416,
-        "updated": 1746279709048,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897176",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897176.geojson",
-        "title": "M -0.4 - 51 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2633,
-          36.6628,
-          6.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "17 km E of Funny River, Alaska",
-        "time": 1746225850251,
-        "updated": 1746651335625,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m4xbr6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m4xbr6.geojson",
-        "title": "M 1.7 - 17 km E of Funny River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.4449,
-          60.5066,
-          15.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.9,
-        "place": "191 km ESE of Atka, Alaska",
-        "time": 1746224697956,
-        "updated": 1746651335415,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m4ta4f",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m4ta4f.geojson",
-        "title": "M 2.9 - 191 km ESE of Atka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -171.532,
-          51.6911,
-          25.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "51 km SSE of Denali National Park, Alaska",
-        "time": 1746224480070,
-        "updated": 1746651335186,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m4sf5c",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m4sf5c.geojson",
-        "title": "M 1.8 - 51 km SSE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.4396,
-          63.0922,
-          0.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "115 km SW of Nikolski, Alaska",
-        "time": 1746224223995,
-        "updated": 1746718753337,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m4rj23",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m4rj23.geojson",
-        "title": "M 2.3 - 115 km SW of Nikolski, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -170.1592,
-          52.2646,
-          23.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746224210330,
-        "updated": 1746228139440,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75175546",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75175546.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.810997009277,
-          38.8193321228027,
-          2.65000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.56,
-        "place": "6 km N of Big Bear Lake, CA",
-        "time": 1746223554640,
-        "updated": 1746231017700,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143320",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143320.geojson",
-        "title": "M 1.6 - 6 km N of Big Bear Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9246667,
-          34.3011667,
-          1.47
         ]
       }
     }
