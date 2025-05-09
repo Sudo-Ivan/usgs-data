@@ -1,91 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746784920000,
+    "generated": 1746788544000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.77,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1746784110800,
-        "updated": 1746784207030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178856",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178856.geojson",
-        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
+        "mag": 1.18,
+        "place": "12 km E of Coso Junction, CA",
+        "time": 1746787365730,
+        "updated": 1746787568822,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148760",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148760.geojson",
+        "title": "M 1.2 - 12 km E of Coso Junction, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.813331604004,
-          38.8266677856445,
-          1.82000005245209
+          -117.8146667,
+          36.0303333,
+          1.08
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.23,
-        "place": "3 km WNW of Beaumont, CA",
-        "time": 1746783251640,
-        "updated": 1746783893240,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148744",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148744.geojson",
-        "title": "M 1.2 - 3 km WNW of Beaumont, CA"
+        "mag": 0.28,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746786484460,
+        "updated": 1746787641480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178866",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178866.geojson",
+        "title": "M 0.3 - 7 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0045,
-          33.9438333,
-          16.71
+          -122.801666259766,
+          38.8283348083496,
+          1.69000005722046
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.82,
-        "place": "4 km ENE of San Fernando, CA",
-        "time": 1746783210780,
-        "updated": 1746783455632,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148736",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148736.geojson",
-        "title": "M 0.8 - 4 km ENE of San Fernando, CA"
+        "mag": 0.1,
+        "place": "68 km WNW of Beluga, Alaska",
+        "time": 1746786324271,
+        "updated": 1746786434744,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xifiiz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xifiiz.geojson",
+        "title": "M 0.1 - 68 km WNW of Beluga, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3968333,
-          34.301,
-          10.46
+          -152.3024,
+          61.3182,
+          5.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "27 km S of Westbrook, Texas",
-        "time": 1746782997364,
-        "updated": 1746783513609,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025japd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025japd.geojson",
-        "title": "M 1.9 - 27 km S of Westbrook, Texas"
+        "mag": 4.3,
+        "place": "20 km NNE of Puerto Plata, Dominican Republic",
+        "time": 1746785926616,
+        "updated": 1746788403129,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py6n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py6n.geojson",
+        "title": "M 4.3 - 20 km NNE of Puerto Plata, Dominican Republic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.062,
-          32.113,
-          2.8308
+          -70.6311,
+          19.9737,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746785572750,
+        "updated": 1746787640480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178861",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178861.geojson",
+        "title": "M 0.7 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.814163208008,
+          38.8201675415039,
+          10.1599998474121
         ]
       }
     }
