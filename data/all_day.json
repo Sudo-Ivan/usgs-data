@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746774160000,
+    "generated": 1746777817000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 249
+    "count": 244
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.79,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1746777098070,
+        "updated": 1746777195307,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178836",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178836.geojson",
+        "title": "M 0.8 - 8 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.819831848145,
+          38.8269996643066,
+          5.07999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "14 km ESE of Susitna, Alaska",
+        "time": 1746776295276,
+        "updated": 1746776399889,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xgpzbr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xgpzbr.geojson",
+        "title": "M 1.2 - 14 km ESE of Susitna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.2748,
+          61.4894,
+          48.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.46,
+        "place": "18 km SW of Little Lake, CA",
+        "time": 1746776177700,
+        "updated": 1746776382452,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148712",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148712.geojson",
+        "title": "M 0.5 - 18 km SW of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0271667,
+          35.8051667,
+          3.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "7 km WNW of Houston, Alaska",
+        "time": 1746775608994,
+        "updated": 1746775704848,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xgnhc3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xgnhc3.geojson",
+        "title": "M 1.1 - 7 km WNW of Houston, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.943,
+          61.6601,
+          35.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.53,
+        "place": "8 km E of Bakersfield, CA",
+        "time": 1746774960080,
+        "updated": 1746775173334,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148704",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148704.geojson",
+        "title": "M 1.5 - 8 km E of Bakersfield, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9405,
+          35.3708333,
+          18.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.34,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1746774200300,
+        "updated": 1746775640128,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178826",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178826.geojson",
+        "title": "M 0.3 - 8 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.815002441406,
+          38.8288345336914,
+          1.80999994277954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "18 km NW of Midland, Texas",
+        "time": 1746773636427,
+        "updated": 1746774478576,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jakh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jakh.geojson",
+        "title": "M 1.0 - 18 km NW of Midland, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.203,
+          32.128,
+          4.7732
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -175,7 +315,7 @@
         "mag": 1.91,
         "place": "28 km WNW of Petrolia, CA",
         "time": 1746770963590,
-        "updated": 1746773238852,
+        "updated": 1746775639127,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178801",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178801.geojson",
         "title": "M 1.9 - 28 km WNW of Petrolia, CA"
@@ -235,7 +375,7 @@
         "mag": 2.6,
         "place": "7 km NNW of The Geysers, CA",
         "time": 1746770467510,
-        "updated": 1746771837737,
+        "updated": 1746776157272,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178781",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178781.geojson",
         "title": "M 2.6 - 7 km NNW of The Geysers, CA"
@@ -4746,246 +4886,6 @@
           -166.482333333333,
           53.841,
           9.44
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "62 km SE of King Salmon, Alaska",
-        "time": 1746691054783,
-        "updated": 1746755485172,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vtaqwi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vtaqwi.geojson",
-        "title": "M 2.0 - 62 km SE of King Salmon, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.8903,
-          58.3003,
-          150.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "104 km SSE of Sand Point, Alaska",
-        "time": 1746690898464,
-        "updated": 1746755488371,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vta5me",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vta5me.geojson",
-        "title": "M 1.7 - 104 km SSE of Sand Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.7307,
-          54.504,
-          19.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.48,
-        "place": "14 km SSE of Anza, CA",
-        "time": 1746690874840,
-        "updated": 1746710373975,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41147536",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41147536.geojson",
-        "title": "M 0.5 - 14 km SSE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6238333,
-          33.4408333,
-          10.38
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "64 km WNW of Bardaskan, Iran",
-        "time": 1746690793084,
-        "updated": 1746694627040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwi.geojson",
-        "title": "M 4.3 - 64 km WNW of Bardaskan, Iran"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.2738,
-          35.3808,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "45 km WSW of False Pass, Alaska",
-        "time": 1746690431640,
-        "updated": 1746744314280,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040974",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040974.geojson",
-        "title": "M 0.4 - 45 km WSW of False Pass, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.096166666667,
-          54.7495,
-          3.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "75 km SSW of Kaktovik, Alaska",
-        "time": 1746690113184,
-        "updated": 1746755484918,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vt7cxw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vt7cxw.geojson",
-        "title": "M 1.8 - 75 km SSW of Kaktovik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -144.4974,
-          69.5292,
-          1.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "44 km WNW of Nanwalek, Alaska",
-        "time": 1746690078034,
-        "updated": 1746755484568,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vt7a4w",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vt7a4w.geojson",
-        "title": "M 2.1 - 44 km WNW of Nanwalek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6679,
-          59.4872,
-          78.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "273 km SSE of Ushuaia, Argentina",
-        "time": 1746689772759,
-        "updated": 1746690791040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxwc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxwc.geojson",
-        "title": "M 4.7 - 273 km SSE of Ushuaia, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.9784,
-          -57.1524,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "15 km NNW of Indian Springs, Nevada",
-        "time": 1746689392296,
-        "updated": 1746730083791,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897367",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897367.geojson",
-        "title": "M 1.9 - 15 km NNW of Indian Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.7108,
-          36.7014,
-          3.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1746689289239,
-        "updated": 1746715537143,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iyqe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iyqe.geojson",
-        "title": "M 2.0 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.289,
-          31.669,
-          7.4329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.69,
-        "place": "18 km W of Truckee, CA",
-        "time": 1746689225450,
-        "updated": 1746758266450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178291",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178291.geojson",
-        "title": "M 2.7 - 18 km W of Truckee, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.381332397461,
-          39.2716674804688,
-          2.66000008583069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "72 km SW of Adak, Alaska",
-        "time": 1746689041736,
-        "updated": 1746755488081,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255vt3lrh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255vt3lrh.geojson",
-        "title": "M 1.6 - 72 km SW of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.4998,
-          51.5045,
-          44.2
         ]
       }
     }
