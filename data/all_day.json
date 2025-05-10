@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746874922000,
+    "generated": 1746878582000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 206
+    "count": 200
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.54,
+        "place": "5 km NNW of The Geysers, CA",
+        "time": 1746878128430,
+        "updated": 1746878224938,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179306",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179306.geojson",
+        "title": "M 0.5 - 5 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78466796875,
+          38.8185005187988,
+          0.930000007152557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "39 km E of Stevens Village, Alaska",
+        "time": 1746877042623,
+        "updated": 1746877166129,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z6mv3a",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z6mv3a.geojson",
+        "title": "M 1.4 - 39 km E of Stevens Village, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.2125,
+          66.0135,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "13 km NNW of Virginia City, Nevada",
+        "time": 1746876535112,
+        "updated": 1746876639700,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897463.geojson",
+        "title": "M 1.6 - 13 km NNW of Virginia City, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7305,
+          39.411,
+          6.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "13 km S of Sparks, Nevada",
+        "time": 1746876485230,
+        "updated": 1746876598390,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897461",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897461.geojson",
+        "title": "M 1.2 - 13 km S of Sparks, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7409,
+          39.4158,
+          10.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9185131788253784,
+        "place": "15 km NNE of Amanda Park, Washington",
+        "time": 1746875878600,
+        "updated": 1746876041780,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096492",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096492.geojson",
+        "title": "M 1.9 - 15 km NNE of Amanda Park, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.81849670410156,
+          47.584999084472656,
+          -0.490000009536743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.62,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1746875586960,
+        "updated": 1746876736275,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179281",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179281.geojson",
+        "title": "M 0.6 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.842002868652,
+          38.8186683654785,
+          2.17000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "58 km SSW of Whites City, New Mexico",
+        "time": 1746874949154,
+        "updated": 1746875820080,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jcnv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jcnv.geojson",
+        "title": "M 2.2 - 58 km SSW of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.605,
+          31.683,
+          3.0012
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -175,7 +315,7 @@
         "mag": 1.1,
         "place": "7 km NNW of The Geysers, CA",
         "time": 1746869851430,
-        "updated": 1746871038646,
+        "updated": 1746876138204,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179266",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179266.geojson",
         "title": "M 1.1 - 7 km NNW of The Geysers, CA"
@@ -3866,266 +4006,6 @@
           -104.492,
           31.685,
           6.0999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.8,
-        "place": "225 km S of Attu Station, Alaska",
-        "time": 1746792147196,
-        "updated": 1746800982643,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xjhmuv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xjhmuv.geojson",
-        "title": "M 3.8 - 225 km S of Attu Station, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          173.7616,
-          50.8527,
-          32
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.28,
-        "place": "7 km SW of Bingham Canyon, Utah",
-        "time": 1746792000550,
-        "updated": 1746804124160,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107406",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107406.geojson",
-        "title": "M 1.3 - 7 km SW of Bingham Canyon, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.2035,
-          40.5156666666667,
-          0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "17 km E of Ridgecrest, CA",
-        "time": 1746791789480,
-        "updated": 1746822836030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148792",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148792.geojson",
-        "title": "M 2.3 - 17 km E of Ridgecrest, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4855,
-          35.602,
-          11.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.16,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1746791703900,
-        "updated": 1746794841251,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178886",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178886.geojson",
-        "title": "M 1.2 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.821334838867,
-          38.8373336791992,
-          2.5699999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.04,
-        "place": "19 km WSW of Toms Place, CA",
-        "time": 1746791145180,
-        "updated": 1746793338081,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178881",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178881.geojson",
-        "title": "M 1.0 - 19 km WSW of Toms Place, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.851165771484,
-          37.4654998779297,
-          4.78999996185303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "52 km W of Anchor Point, Alaska",
-        "time": 1746791138018,
-        "updated": 1746791255158,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xj59ih",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xj59ih.geojson",
-        "title": "M 1.6 - 52 km W of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.7557,
-          59.8693,
-          77.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.48,
-        "place": "10 km NNE of Banning, CA",
-        "time": 1746790538320,
-        "updated": 1746817652462,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148784",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148784.geojson",
-        "title": "M 0.5 - 10 km NNE of Banning, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8228333,
-          33.999,
-          10.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.5,
-        "place": "47 km ESE of Beatty, Nevada",
-        "time": 1746790459337,
-        "updated": 1746797960622,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897416",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897416.geojson",
-        "title": "M -0.5 - 47 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2531,
-          36.7736,
-          9.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "26 km SSW of Susitna, Alaska",
-        "time": 1746790229175,
-        "updated": 1746790322807,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xj2139",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xj2139.geojson",
-        "title": "M 1.2 - 26 km SSW of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.6962,
-          61.3224,
-          46.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "15 km NNE of Inyokern, CA",
-        "time": 1746789419530,
-        "updated": 1746816088789,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148776",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148776.geojson",
-        "title": "M 0.4 - 15 km NNE of Inyokern, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7656667,
-          35.7765,
-          7.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.85,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1746789277310,
-        "updated": 1746816179210,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148768",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148768.geojson",
-        "title": "M 0.9 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7221667,
-          33.528,
-          5.07
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "4 km W of Cobb, CA",
-        "time": 1746788743040,
-        "updated": 1746792436970,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178876",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178876.geojson",
-        "title": "M 0.8 - 4 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.767166137695,
-          38.8186683654785,
-          2.14000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746788641700,
-        "updated": 1746790638779,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178871",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178871.geojson",
-        "title": "M 0.7 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.830665588379,
-          38.8115005493164,
-          1.51999998092651
         ]
       }
     }
