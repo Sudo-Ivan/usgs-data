@@ -1,51 +1,171 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746867744000,
+    "generated": 1746871344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 8
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.52,
-        "place": "2 km NW of The Geysers, CA",
-        "time": 1746865643080,
-        "updated": 1746865823480,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179256",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179256.geojson",
-        "title": "M 1.5 - 2 km NW of The Geysers, CA"
+        "mag": 1.2,
+        "place": "2 km SW of Coleville, California",
+        "time": 1746871100212,
+        "updated": 1746871247204,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897454",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897454.geojson",
+        "title": "M 1.2 - 2 km SW of Coleville, California"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.776832580566,
-          38.7923316955566,
-          1.73000001907349
+          -119.5296,
+          38.5479,
+          2
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.53,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746864923220,
-        "updated": 1746865098020,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179251",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179251.geojson",
-        "title": "M 1.5 - 7 km NW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "29 km NW of Susitna, Alaska",
+        "time": 1746870450984,
+        "updated": 1746870580408,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z5i5oq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z5i5oq.geojson",
+        "title": "M 1.1 - 29 km NW of Susitna, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.820663452148,
-          38.8191680908203,
-          2.14000010490417
+          -150.9238,
+          61.7171,
+          64.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "63 km SE of Denali National Park, Alaska",
+        "time": 1746870198470,
+        "updated": 1746870345791,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z5h9uv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z5h9uv.geojson",
+        "title": "M 2.1 - 63 km SE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.8875,
+          63.1079,
+          134.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746869851430,
+        "updated": 1746871038646,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179266",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179266.geojson",
+        "title": "M 1.1 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.811500549316,
+          38.8214988708496,
+          2.82999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.4,
+        "place": "71 km SW of Kaktovik, Alaska",
+        "time": 1746869565329,
+        "updated": 1746869820727,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z5ez1w",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z5ez1w.geojson",
+        "title": "M 2.4 - 71 km SW of Kaktovik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.7102,
+          69.6166,
+          6.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "27 km ENE of Whittier, Alaska",
+        "time": 1746869155189,
+        "updated": 1746869253260,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z5dhsu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z5dhsu.geojson",
+        "title": "M 1.3 - 27 km ENE of Whittier, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.2397,
+          60.8931,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "11 km SSE of Pinnacles, CA",
+        "time": 1746868387700,
+        "updated": 1746869838511,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179261",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179261.geojson",
+        "title": "M 1.6 - 11 km SSE of Pinnacles, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.063499450684,
+          36.4609985351562,
+          5.65999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "17 km W of Willow, Alaska",
+        "time": 1746868041428,
+        "updated": 1746868160844,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z59kb2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z59kb2.geojson",
+        "title": "M 1.0 - 17 km W of Willow, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.365,
+          61.7496,
+          15.6
         ]
       }
     }
