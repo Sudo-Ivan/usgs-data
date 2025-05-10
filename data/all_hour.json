@@ -1,51 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746856944000,
+    "generated": 1746860533000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.21,
-        "place": "15 km W of Johannesburg, CA",
-        "time": 1746854853790,
-        "updated": 1746855729673,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149896",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149896.geojson",
-        "title": "M 1.2 - 15 km W of Johannesburg, CA"
+        "mag": 1.69,
+        "place": "4 km E of Chickasha, Oklahoma",
+        "time": 1746859970673,
+        "updated": 1746860372840,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jcfn",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jcfn.geojson",
+        "title": "M 1.7 - 4 km E of Chickasha, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7948333,
-          35.3636667,
-          2.34
+          -97.8853302,
+          35.05734253,
+          2.437918663
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.6,
-        "place": "34 km W of Ashkāsham, Afghanistan",
-        "time": 1746853681178,
-        "updated": 1746854877040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pydu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pydu.geojson",
-        "title": "M 4.6 - 34 km W of Ashkāsham, Afghanistan"
+        "mag": 0.76,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746859601070,
+        "updated": 1746859694348,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179206",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179206.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.148,
-          36.664,
-          233.7
+          -122.81566619873,
+          38.8263320922852,
+          2.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.62,
+        "place": "2 km SSW of Anderson Springs, CA",
+        "time": 1746859494430,
+        "updated": 1746859589647,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179196",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179196.geojson",
+        "title": "M 1.6 - 2 km SSW of Anderson Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.699668884277,
+          38.7550010681152,
+          1.05999994277954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.15,
+        "place": "2 km SSW of Tallaboa Alta, Puerto Rico",
+        "time": 1746859458160,
+        "updated": 1746859940560,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481833",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481833.geojson",
+        "title": "M 2.2 - 2 km SSW of Tallaboa Alta, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7061666666667,
+          18.0291666666667,
+          5.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1746859195140,
+        "updated": 1746860237484,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179191",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179191.geojson",
+        "title": "M 0.8 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.803833007812,
+          38.8224983215332,
+          3.15000009536743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "50 km NW of Beatty, Nevada",
+        "time": 1746858937522,
+        "updated": 1746859066150,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897453",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897453.geojson",
+        "title": "M 0.9 - 50 km NW of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1274,
+          37.253,
+          2.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "11 km NE of Point Possession, Alaska",
+        "time": 1746858483409,
+        "updated": 1746858603061,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z3lq50",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z3lq50.geojson",
+        "title": "M 1.2 - 11 km NE of Point Possession, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.528,
+          60.9924,
+          42.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "16 km S of Skwentna, Alaska",
+        "time": 1746858262213,
+        "updated": 1746858397675,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z3kwq5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z3kwq5.geojson",
+        "title": "M 1.2 - 16 km S of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3374,
+          61.8455,
+          70.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.26,
+        "place": "3 km WNW of Maricao, Puerto Rico",
+        "time": 1746857696520,
+        "updated": 1746858823220,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481828",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481828.geojson",
+        "title": "M 2.3 - 3 km WNW of Maricao, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0065,
+          18.1973333333333,
+          24.77
         ]
       }
     }
