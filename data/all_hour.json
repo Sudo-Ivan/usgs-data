@@ -1,191 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746914545000,
+    "generated": 1746918150000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.76,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1746913637770,
-        "updated": 1746913733011,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179566",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179566.geojson",
-        "title": "M 0.8 - 3 km NNW of The Geysers, CA"
+        "mag": 2.18,
+        "place": "6 km WNW of Borrego Springs, CA",
+        "time": 1746917433010,
+        "updated": 1746918102660,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150456",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150456.geojson",
+        "title": "M 2.2 - 6 km WNW of Borrego Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.78466796875,
-          38.7994995117188,
-          3.27999997138977
+          -116.4366684,
+          33.2685013,
+          4.24
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.85,
-        "place": "11 km W of Anza, CA",
-        "time": 1746913471730,
-        "updated": 1746913703424,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150416",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150416.geojson",
-        "title": "M 0.9 - 11 km W of Anza, CA"
+        "mag": 1.8,
+        "place": "47 km ESE of Pedro Bay, Alaska",
+        "time": 1746917148551,
+        "updated": 1746917369479,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zd8eh0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zd8eh0.geojson",
+        "title": "M 1.8 - 47 km ESE of Pedro Bay, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7918333,
-          33.56,
-          6.5
+          -153.3005,
+          59.6633,
+          105.1
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.26,
-        "place": "8 km NNW of Anza, CA",
-        "time": 1746913114750,
-        "updated": 1746913771080,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150408",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150408.geojson",
-        "title": "M 1.3 - 8 km NNW of Anza, CA"
+        "mag": 1.9,
+        "place": "51 km W of Mentone, Texas",
+        "time": 1746915306684,
+        "updated": 1746915645512,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdjy",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdjy.geojson",
+        "title": "M 1.9 - 51 km W of Mentone, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.6918333,
-          33.6236667,
-          14.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.27,
-        "place": "9 km E of Ridgecrest, CA",
-        "time": 1746912593270,
-        "updated": 1746912808934,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150392",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150392.geojson",
-        "title": "M 1.3 - 9 km E of Ridgecrest, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.578,
-          35.6311667,
-          7.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "23 km ENE of Cantwell, Alaska",
-        "time": 1746912356931,
-        "updated": 1746912467537,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zcip71",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zcip71.geojson",
-        "title": "M 1.2 - 23 km ENE of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.5068,
-          63.4543,
-          16.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "1 km NNW of The Geysers, CA",
-        "time": 1746911804140,
-        "updated": 1746913641378,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179556",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179556.geojson",
-        "title": "M 0.8 - 1 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.762168884277,
-          38.7878341674805,
-          -0.819999992847443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "27 km ENE of Knik River, Alaska",
-        "time": 1746911516369,
-        "updated": 1746911615595,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zcfp4k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zcfp4k.geojson",
-        "title": "M 0.6 - 27 km ENE of Knik River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.4282,
-          61.5329,
-          34.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.57,
-        "place": "2 km ENE of The Geysers, CA",
-        "time": 1746911431720,
-        "updated": 1746912437249,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179546",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179546.geojson",
-        "title": "M 0.6 - 2 km ENE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.736335754395,
-          38.7906684875488,
-          0.330000013113022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.17,
-        "place": "0 km NNW of Indios, Puerto Rico",
-        "time": 1746910999920,
-        "updated": 1746912008820,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481963",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481963.geojson",
-        "title": "M 2.2 - 0 km NNW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8216666666667,
-          17.999,
-          12.5
+          -104.142,
+          31.733,
+          5.0952
         ]
       }
     }
