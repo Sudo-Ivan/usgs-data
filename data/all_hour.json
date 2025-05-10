@@ -1,31 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746900178000,
+    "generated": 1746903720000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "65 km ESE of Pope-Vannoy Landing, Alaska",
-        "time": 1746899444703,
-        "updated": 1746899606630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zaaaqe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zaaaqe.geojson",
-        "title": "M 1.4 - 65 km ESE of Pope-Vannoy Landing, Alaska"
+        "mag": 1.13,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746903379910,
+        "updated": 1746903472753,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179476",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179476.geojson",
+        "title": "M 1.1 - 7 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.4979,
-          59.2636,
-          102.5
+          -122.805168151855,
+          38.8418350219727,
+          8.31999969482422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "9 km ENE of Port Lions, Alaska",
+        "time": 1746901619274,
+        "updated": 1746901745212,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zaqm9z",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zaqm9z.geojson",
+        "title": "M 1.9 - 9 km ENE of Port Lions, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7346,
+          57.9049,
+          0
         ]
       }
     },
@@ -33,139 +53,39 @@
       "type": "Feature",
       "properties": {
         "mag": 1.7,
-        "place": "49 km E of Pedro Bay, Alaska",
-        "time": 1746898407335,
-        "updated": 1746898533224,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255za6m7x",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255za6m7x.geojson",
-        "title": "M 1.7 - 49 km E of Pedro Bay, Alaska"
+        "place": "38 km W of Nanwalek, Alaska",
+        "time": 1746900870701,
+        "updated": 1746901020719,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zanzha",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zanzha.geojson",
+        "title": "M 1.7 - 38 km W of Nanwalek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.2268,
-          59.7696,
-          95.2
+          -152.5817,
+          59.4213,
+          64.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.9,
-        "place": "211 km SE of Perryville, Alaska",
-        "time": 1746898406932,
-        "updated": 1746898572002,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255za6m6t",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255za6m6t.geojson",
-        "title": "M 2.9 - 211 km SE of Perryville, Alaska"
+        "mag": 1.3,
+        "place": "17 km W of Tyonek, Alaska",
+        "time": 1746900162799,
+        "updated": 1746900318535,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zalftj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zalftj.geojson",
+        "title": "M 1.3 - 17 km W of Tyonek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.7727,
-          54.5852,
-          34.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.22,
-        "place": "5 km SE of Redlands, CA",
-        "time": 1746898373550,
-        "updated": 1746898594444,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150200",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150200.geojson",
-        "title": "M 1.2 - 5 km SE of Redlands, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1478333,
-          34.0206667,
-          4.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "72 km WNW of Beluga, Alaska",
-        "time": 1746898161347,
-        "updated": 1746898252304,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255za5qw6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255za5qw6.geojson",
-        "title": "M 0.6 - 72 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.304,
-          61.4147,
-          7.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "44 km W of Anchor Point, Alaska",
-        "time": 1746897702866,
-        "updated": 1746897829955,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255za42tq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255za42tq.geojson",
-        "title": "M 1.1 - 44 km W of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6112,
-          59.8502,
-          68.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1746897457530,
-        "updated": 1746898637682,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179456",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179456.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.785163879395,
-          38.8351669311523,
-          1.26999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "24 km SSE of Skwentna, Alaska",
-        "time": 1746896903830,
-        "updated": 1746897025924,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255za191r",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255za191r.geojson",
-        "title": "M 1.6 - 24 km SSE of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.1551,
-          61.8069,
-          76.5
+          -151.4676,
+          61.0517,
+          74.5
         ]
       }
     }
