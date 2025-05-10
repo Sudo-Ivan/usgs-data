@@ -1,21 +1,61 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746831703000,
+    "generated": 1746835783000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 236
+    "count": 234
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "81 km ESE of Denali Park, Alaska",
+        "time": 1746835208375,
+        "updated": 1746835314094,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255yzv4ud",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255yzv4ud.geojson",
+        "title": "M 1.7 - 81 km ESE of Denali Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2982,
+          63.5823,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "10 km ENE of Fox, Alaska",
+        "time": 1746831723721,
+        "updated": 1746831827618,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xq16c4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xq16c4.geojson",
+        "title": "M 1.2 - 10 km ENE of Fox, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4045,
+          64.9785,
+          1.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.07,
         "place": "11 km SE of Gorman, CA",
         "time": 1746831223790,
-        "updated": 1746831434238,
+        "updated": 1746831882700,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149608",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149608.geojson",
         "title": "M 2.1 - 11 km SE of Gorman, CA"
@@ -26,6 +66,26 @@
           -118.7511667,
           34.7375,
           9.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "282 km ENE of Lospalos, Timor Leste",
+        "time": 1746830744938,
+        "updated": 1746834788802,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyc9",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyc9.geojson",
+        "title": "M 5.3 - 282 km ENE of Lospalos, Timor Leste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.138,
+          -7.1234,
+          164.942
         ]
       }
     },
@@ -826,6 +886,26 @@
           158.7694,
           53.454,
           128.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8800000000000001,
+        "place": "5 km ENE of Lebanon, Oregon",
+        "time": 1746812483990,
+        "updated": 1746835396320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096212",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096212.geojson",
+        "title": "M 1.9 Explosion - 5 km ENE of Lebanon, Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83383333333333,
+          44.5475,
+          -0.52
         ]
       }
     },
@@ -1655,7 +1735,7 @@
         "mag": 2.24,
         "place": "6 km WNW of Mira Loma, CA",
         "time": 1746798109890,
-        "updated": 1746822371802,
+        "updated": 1746834674050,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148880",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148880.geojson",
         "title": "M 2.2 - 6 km WNW of Mira Loma, CA"
@@ -2452,6 +2532,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4,
+        "place": "54 km E of Khorugh, Tajikistan",
+        "time": 1746785148063,
+        "updated": 1746833214040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py6l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py6l.geojson",
+        "title": "M 4.0 - 54 km E of Khorugh, Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1683,
+          37.4938,
+          195.928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.03,
         "place": "12 km ENE of Ridgecrest, CA",
         "time": 1746784897450,
@@ -2526,6 +2626,26 @@
           -152.522333333333,
           61.303,
           3.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "west of Macquarie Island",
+        "time": 1746784226602,
+        "updated": 1746831834040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py6i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py6i.geojson",
+        "title": "M 4.6 - west of Macquarie Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0871,
+          -53.2197,
+          10
         ]
       }
     },
@@ -3432,6 +3552,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.9,
+        "place": "4 km N of Coupeville, Washington",
+        "time": 1746767536180,
+        "updated": 1746833128140,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096042",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096042.geojson",
+        "title": "M 0.9 - 4 km N of Coupeville, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6755,
+          48.259,
+          22.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.6,
         "place": "13 km WNW of Four Mile Road, Alaska",
         "time": 1746766900695,
@@ -3446,6 +3586,26 @@
           -149.3633,
           64.6644,
           1.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.67,
+        "place": "8 km NW of Entiat, Washington",
+        "time": 1746766616960,
+        "updated": 1746831974690,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096037",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096037.geojson",
+        "title": "M 0.7 - 8 km NW of Entiat, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.29516666666666,
+          47.718666666666664,
+          1.09
         ]
       }
     },
@@ -4526,206 +4686,6 @@
           -117.797,
           35.3498333,
           6.51
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "6 km SSW of Talkeetna, Alaska",
-        "time": 1746748984793,
-        "updated": 1746749106715,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xccf7z",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xccf7z.geojson",
-        "title": "M 1.3 - 6 km SSW of Talkeetna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.1343,
-          62.2703,
-          10.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.12,
-        "place": "3 km W of Saint Helens, Oregon",
-        "time": 1746748982220,
-        "updated": 1746767796330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62095927",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62095927.geojson",
-        "title": "M 1.1 Explosion - 3 km W of Saint Helens, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.84566666666667,
-          45.86533333333333,
-          -0.32
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.21,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1746748667240,
-        "updated": 1746750137327,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178701",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178701.geojson",
-        "title": "M 0.2 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.808670043945,
-          38.8338317871094,
-          2.11999988555908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746747898760,
-        "updated": 1746748910919,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148552",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148552.geojson",
-        "title": "M 1.3 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.807,
-          35.3538333,
-          7.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "13 km NNE of Beluga, Alaska",
-        "time": 1746747825043,
-        "updated": 1746747923082,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255w2qpe0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255w2qpe0.geojson",
-        "title": "M 1.0 - 13 km NNE of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.9496,
-          61.2488,
-          19.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "3 km SW of Cobb, CA",
-        "time": 1746747717180,
-        "updated": 1746749240235,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75178696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75178696.geojson",
-        "title": "M 0.7 - 3 km SW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.738502502441,
-          38.8014984130859,
-          2.48000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "50 km N of Beaver, Alaska",
-        "time": 1746746061510,
-        "updated": 1746746236630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255w2kfsm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255w2kfsm.geojson",
-        "title": "M 2.2 - 50 km N of Beaver, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.5783,
-          66.8104,
-          4.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.29,
-        "place": "6 km SSW of Wallsburg, Utah",
-        "time": 1746745563940,
-        "updated": 1746800593210,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107386",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107386.geojson",
-        "title": "M 2.3 - 6 km SSW of Wallsburg, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.442666666667,
-          40.3318333333333,
-          10.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.89,
-        "place": "3 km NE of San Fernando, CA",
-        "time": 1746745481770,
-        "updated": 1746747763132,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148512",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148512.geojson",
-        "title": "M 0.9 - 3 km NE of San Fernando, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4138333,
-          34.3018333,
-          12.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.89,
-        "place": "24 km NE of Thermal, CA",
-        "time": 1746745346080,
-        "updated": 1746752309394,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148520",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148520.geojson",
-        "title": "M 0.9 - 24 km NE of Thermal, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.9396667,
-          33.7786667,
-          1.62
         ]
       }
     }

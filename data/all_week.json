@@ -1,21 +1,61 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746831708000,
+    "generated": 1746835788000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1945
+    "count": 1944
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "81 km ESE of Denali Park, Alaska",
+        "time": 1746835208375,
+        "updated": 1746835314094,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255yzv4ud",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255yzv4ud.geojson",
+        "title": "M 1.7 - 81 km ESE of Denali Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2982,
+          63.5823,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "10 km ENE of Fox, Alaska",
+        "time": 1746831723721,
+        "updated": 1746831827618,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255xq16c4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255xq16c4.geojson",
+        "title": "M 1.2 - 10 km ENE of Fox, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4045,
+          64.9785,
+          1.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.07,
         "place": "11 km SE of Gorman, CA",
         "time": 1746831223790,
-        "updated": 1746831434238,
+        "updated": 1746831882700,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149608",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149608.geojson",
         "title": "M 2.1 - 11 km SE of Gorman, CA"
@@ -26,6 +66,26 @@
           -118.7511667,
           34.7375,
           9.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "282 km ENE of Lospalos, Timor Leste",
+        "time": 1746830744938,
+        "updated": 1746834788802,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyc9",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyc9.geojson",
+        "title": "M 5.3 - 282 km ENE of Lospalos, Timor Leste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.138,
+          -7.1234,
+          164.942
         ]
       }
     },
@@ -826,6 +886,26 @@
           158.7694,
           53.454,
           128.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8800000000000001,
+        "place": "5 km ENE of Lebanon, Oregon",
+        "time": 1746812483990,
+        "updated": 1746835396320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096212",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096212.geojson",
+        "title": "M 1.9 Explosion - 5 km ENE of Lebanon, Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83383333333333,
+          44.5475,
+          -0.52
         ]
       }
     },
@@ -1655,7 +1735,7 @@
         "mag": 2.24,
         "place": "6 km WNW of Mira Loma, CA",
         "time": 1746798109890,
-        "updated": 1746822371802,
+        "updated": 1746834674050,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41148880",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41148880.geojson",
         "title": "M 2.2 - 6 km WNW of Mira Loma, CA"
@@ -2452,6 +2532,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4,
+        "place": "54 km E of Khorugh, Tajikistan",
+        "time": 1746785148063,
+        "updated": 1746833214040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py6l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py6l.geojson",
+        "title": "M 4.0 - 54 km E of Khorugh, Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1683,
+          37.4938,
+          195.928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.03,
         "place": "12 km ENE of Ridgecrest, CA",
         "time": 1746784897450,
@@ -2526,6 +2626,26 @@
           -152.522333333333,
           61.303,
           3.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "west of Macquarie Island",
+        "time": 1746784226602,
+        "updated": 1746831834040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000py6i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000py6i.geojson",
+        "title": "M 4.6 - west of Macquarie Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0871,
+          -53.2197,
+          10
         ]
       }
     },
@@ -3432,6 +3552,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.9,
+        "place": "4 km N of Coupeville, Washington",
+        "time": 1746767536180,
+        "updated": 1746833128140,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096042",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096042.geojson",
+        "title": "M 0.9 - 4 km N of Coupeville, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6755,
+          48.259,
+          22.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.6,
         "place": "13 km WNW of Four Mile Road, Alaska",
         "time": 1746766900695,
@@ -3446,6 +3586,26 @@
           -149.3633,
           64.6644,
           1.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.67,
+        "place": "8 km NW of Entiat, Washington",
+        "time": 1746766616960,
+        "updated": 1746831974690,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096037",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096037.geojson",
+        "title": "M 0.7 - 8 km NW of Entiat, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.29516666666666,
+          47.718666666666664,
+          1.09
         ]
       }
     },
@@ -38726,186 +38886,6 @@
           -118.205,
           34.017,
           15.66
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "12 km SSE of Fern Forest, Hawaii",
-        "time": 1746230416050,
-        "updated": 1746237113960,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74664737",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74664737.geojson",
-        "title": "M 1.7 - 12 km SSE of Fern Forest, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.100666666667,
-          19.3598333333333,
-          7.44
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.15,
-        "place": "22 km N of Yucca Valley, CA",
-        "time": 1746229399520,
-        "updated": 1746230479489,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41143408",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41143408.geojson",
-        "title": "M 1.2 - 22 km N of Yucca Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4486667,
-          34.31,
-          8.73
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "66 km E of Port Alsworth, Alaska",
-        "time": 1746229199394,
-        "updated": 1746651336555,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5hvxv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5hvxv.geojson",
-        "title": "M 1.9 - 66 km E of Port Alsworth, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.1196,
-          60.2124,
-          121.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "43 km WSW of Tatitlek, Alaska",
-        "time": 1746228469535,
-        "updated": 1746718753546,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5f7bz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5f7bz.geojson",
-        "title": "M 1.7 - 43 km WSW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.4085,
-          60.7099,
-          16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "117 km S of Sand Point, Alaska",
-        "time": 1746227759294,
-        "updated": 1746651336346,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5cr4h",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5cr4h.geojson",
-        "title": "M 2.2 - 117 km S of Sand Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -160.4873,
-          54.2813,
-          22.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "15 km E of Funny River, Alaska",
-        "time": 1746227696528,
-        "updated": 1746651336094,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5cfgq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5cfgq.geojson",
-        "title": "M 1.5 - 15 km E of Funny River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.4808,
-          60.5061,
-          12.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.58,
-        "place": "32 km NNW of Challis, Idaho",
-        "time": 1746227585270,
-        "updated": 1746277363260,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90081263",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90081263.geojson",
-        "title": "M 1.6 - 32 km NNW of Challis, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.4045,
-          44.773,
-          8.96
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "71 km SW of Unalaska, Alaska",
-        "time": 1746227097025,
-        "updated": 1746651338018,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5aafa",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5aafa.geojson",
-        "title": "M 1.4 - 71 km SW of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -167.4243,
-          53.5062,
-          8.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "79 km WSW of Dutch Harbor, Alaska",
-        "time": 1746227067730,
-        "updated": 1746651335877,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255m5a8hg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255m5a8hg.geojson",
-        "title": "M 1.4 - 79 km WSW of Dutch Harbor, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -167.7247,
-          53.7365,
-          8.1
         ]
       }
     }

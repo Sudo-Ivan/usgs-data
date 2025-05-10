@@ -1,51 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746831720000,
+    "generated": 1746835740000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 1
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.07,
-        "place": "11 km SE of Gorman, CA",
-        "time": 1746831223790,
-        "updated": 1746831434238,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149608",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149608.geojson",
-        "title": "M 2.1 - 11 km SE of Gorman, CA"
+        "mag": 1.7,
+        "place": "81 km ESE of Denali Park, Alaska",
+        "time": 1746835208375,
+        "updated": 1746835314094,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255yzv4ud",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255yzv4ud.geojson",
+        "title": "M 1.7 - 81 km ESE of Denali Park, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.7511667,
-          34.7375,
-          9.72
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.58,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1746829062400,
-        "updated": 1746829283013,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149584",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149584.geojson",
-        "title": "M 0.6 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7221667,
-          33.5343333,
-          5.04
+          -147.2982,
+          63.5823,
+          0
         ]
       }
     }
