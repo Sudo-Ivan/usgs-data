@@ -1,12 +1,33 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746882420000,
+    "generated": 1746885720000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.geojson",
     "title": "USGS Significant Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 0
+    "count": 1
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "21 km SE of Greenback, Tennessee",
+        "time": 1746882260390,
+        "updated": 1746885679775,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
+        "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9871666666667,
+          35.5453333333333,
+          24.94
+        ]
+      }
+    }
+  ]
 }
