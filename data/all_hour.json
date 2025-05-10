@@ -1,51 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746878604000,
+    "generated": 1746882403000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 12
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.54,
-        "place": "5 km NNW of The Geysers, CA",
-        "time": 1746878128430,
-        "updated": 1746878224938,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179306",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179306.geojson",
-        "title": "M 0.5 - 5 km NNW of The Geysers, CA"
+        "mag": 1.13,
+        "place": "16 km ESE of Ocotillo, CA",
+        "time": 1746882123960,
+        "updated": 1746882337981,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149960",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149960.geojson",
+        "title": "M 1.1 - 16 km ESE of Ocotillo, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.78466796875,
-          38.8185005187988,
-          0.930000007152557
+          -115.8426667,
+          32.6665,
+          8.42
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.7,
-        "place": "83 km SW of Kurio, Japan",
-        "time": 1746877515425,
-        "updated": 1746878586040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyev",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyev.geojson",
-        "title": "M 4.7 - 83 km SW of Kurio, Japan"
+        "mag": 0.99,
+        "place": "2 km W of Anderson Springs, CA",
+        "time": 1746881724990,
+        "updated": 1746881820524,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179341",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179341.geojson",
+        "title": "M 1.0 - 2 km W of Anderson Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.8769,
-          29.6884,
-          70.944
+          -122.717163085938,
+          38.7734985351562,
+          1.53999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.85,
+        "place": "24 km ESE of Ridgecrest, CA",
+        "time": 1746881391080,
+        "updated": 1746881594950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149952",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149952.geojson",
+        "title": "M 0.9 - 24 km ESE of Ridgecrest, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4293333,
+          35.5353333,
+          8.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "24 km E of Funny River, Alaska",
+        "time": 1746881085841,
+        "updated": 1746881212214,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z79ui0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z79ui0.geojson",
+        "title": "M 1.8 - 24 km E of Funny River, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.3085,
+          60.5072,
+          37.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "south of the Fiji Islands",
+        "time": 1746880598890,
+        "updated": 1746881674040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyf2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyf2.geojson",
+        "title": "M 4.2 - south of the Fiji Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.6129,
+          -23.6544,
+          510.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "62 km E of Ugashik, Alaska",
+        "time": 1746880301939,
+        "updated": 1746880420032,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z771w1",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z771w1.geojson",
+        "title": "M 1.8 - 62 km E of Ugashik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3652,
+          57.5719,
+          114
         ]
       }
     },
@@ -53,99 +133,119 @@
       "type": "Feature",
       "properties": {
         "mag": 1.4,
-        "place": "39 km E of Stevens Village, Alaska",
-        "time": 1746877042623,
-        "updated": 1746877166129,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z6mv3a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z6mv3a.geojson",
-        "title": "M 1.4 - 39 km E of Stevens Village, Alaska"
+        "place": "30 km SSE of Chickaloon, Alaska",
+        "time": 1746880188405,
+        "updated": 1746880361411,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z76myg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z76myg.geojson",
+        "title": "M 1.4 - 30 km SSE of Chickaloon, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.2125,
-          66.0135,
-          7.5
+          -148.294,
+          61.5382,
+          16.6
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.6,
-        "place": "13 km NNW of Virginia City, Nevada",
-        "time": 1746876535112,
-        "updated": 1746876639700,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897463",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897463.geojson",
-        "title": "M 1.6 - 13 km NNW of Virginia City, Nevada"
+        "mag": 1.4,
+        "place": "56 km W of Anchor Point, Alaska",
+        "time": 1746880102494,
+        "updated": 1746880191382,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z76d8p",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z76d8p.geojson",
+        "title": "M 1.4 - 56 km W of Anchor Point, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7305,
-          39.411,
-          6.3
+          -152.8372,
+          59.8352,
+          100.2
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "13 km S of Sparks, Nevada",
-        "time": 1746876485230,
-        "updated": 1746876598390,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897461",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897461.geojson",
-        "title": "M 1.2 - 13 km S of Sparks, Nevada"
+        "mag": 0.9,
+        "place": "4 km NNW of The Geysers, CA",
+        "time": 1746879731430,
+        "updated": 1746881839817,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179331",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179331.geojson",
+        "title": "M 0.9 - 4 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7409,
-          39.4158,
-          10.8
+          -122.779830932617,
+          38.8030014038086,
+          3.29999995231628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9185131788253784,
-        "place": "15 km NNE of Amanda Park, Washington",
-        "time": 1746875878600,
-        "updated": 1746876041780,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62096492",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62096492.geojson",
-        "title": "M 1.9 - 15 km NNE of Amanda Park, Washington"
+        "mag": 1,
+        "place": "12 km WSW of Searles Valley, CA",
+        "time": 1746879216920,
+        "updated": 1746879434494,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149944",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149944.geojson",
+        "title": "M 1.0 - 12 km WSW of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.81849670410156,
-          47.584999084472656,
-          -0.490000009536743
+          -117.5203333,
+          35.7133333,
+          4.69
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.62,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1746875586960,
-        "updated": 1746876736275,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179281",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179281.geojson",
-        "title": "M 0.6 - 9 km NW of The Geysers, CA"
+        "mag": 4.7,
+        "place": "18 km NW of Naranjal, Ecuador",
+        "time": 1746879173217,
+        "updated": 1746881196322,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyez",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyez.geojson",
+        "title": "M 4.7 - 18 km NW of Naranjal, Ecuador"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.842002868652,
-          38.8186683654785,
-          2.17000007629395
+          -79.7426,
+          -2.5589,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.6,
+        "place": "9 km WNW of Cobb, CA",
+        "time": 1746879043710,
+        "updated": 1746881241762,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179326",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179326.geojson",
+        "title": "M 0.6 - 9 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.824333190918,
+          38.8390007019043,
+          1.75
         ]
       }
     }
