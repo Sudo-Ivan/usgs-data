@@ -1,151 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746853344000,
+    "generated": 1746856944000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.1,
-        "place": "65 km ENE of McCarthy, Alaska",
-        "time": 1746852266589,
-        "updated": 1746852342748,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2ic6a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2ic6a.geojson",
-        "title": "M 1.1 - 65 km ENE of McCarthy, Alaska"
+        "mag": 1.21,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1746854853790,
+        "updated": 1746855729673,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149896",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149896.geojson",
+        "title": "M 1.2 - 15 km W of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -141.7968,
-          61.6676,
-          14.6
+          -117.7948333,
+          35.3636667,
+          2.34
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.02,
-        "place": "2 km WSW of Rubidoux, CA",
-        "time": 1746851919000,
-        "updated": 1746852161523,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149872",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149872.geojson",
-        "title": "M 1.0 - 2 km WSW of Rubidoux, CA"
+        "mag": 4.6,
+        "place": "34 km W of Ashkāsham, Afghanistan",
+        "time": 1746853681178,
+        "updated": 1746854877040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pydu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pydu.geojson",
+        "title": "M 4.6 - 34 km W of Ashkāsham, Afghanistan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.4296667,
-          33.9901667,
-          15.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.63,
-        "place": "21 km ESE of Little Lake, CA",
-        "time": 1746851450110,
-        "updated": 1746851659595,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149856",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149856.geojson",
-        "title": "M 0.6 - 21 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.69,
-          35.8595,
-          7.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "47 km E of Pedro Bay, Alaska",
-        "time": 1746851376078,
-        "updated": 1746851506653,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2f55z",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2f55z.geojson",
-        "title": "M 1.8 - 47 km E of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.2645,
-          59.815,
-          34.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "103 km S of McCarthy, Alaska",
-        "time": 1746850721558,
-        "updated": 1746850795479,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2cspn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2cspn.geojson",
-        "title": "M 1.6 - 103 km S of McCarthy, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -143.0384,
-          60.5029,
-          16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.25,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746850188010,
-        "updated": 1746850412354,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149840",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149840.geojson",
-        "title": "M 1.3 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.809,
-          35.3565,
-          8.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "152 km S of Chenega, Alaska",
-        "time": 1746850072823,
-        "updated": 1746850279492,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2agpe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2agpe.geojson",
-        "title": "M 2.5 - 152 km S of Chenega, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.6636,
-          58.711,
-          35.8
+          71.148,
+          36.664,
+          233.7
         ]
       }
     }
