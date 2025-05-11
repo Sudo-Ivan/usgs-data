@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746939735000,
+    "generated": 1746943369000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 197
+    "count": 196
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "16 km ENE of Yerington, Nevada",
+        "time": 1746941908736,
+        "updated": 1746942040728,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897480",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897480.geojson",
+        "title": "M 1.2 - 16 km ENE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9947,
+          39.0555,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "7 km E of Ridgecrest, CA",
+        "time": 1746941143590,
+        "updated": 1746941359014,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150696",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150696.geojson",
+        "title": "M 0.9 - 7 km E of Ridgecrest, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6015,
+          35.622,
+          9.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "19 km NW of Papayal, Peru",
+        "time": 1746940610336,
+        "updated": 1746943261040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyii",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyii.geojson",
+        "title": "M 4.7 - 19 km NW of Papayal, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8787,
+          -3.9711,
+          36.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "54 km NW of Toyah, Texas",
+        "time": 1746939804711,
+        "updated": 1746940330459,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdxt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdxt.geojson",
+        "title": "M 1.7 - 54 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.198,
+          31.661,
+          4.8044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "27 km NNE of Severo-Kuril’sk, Russia",
+        "time": 1746939649102,
+        "updated": 1746940661040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyih",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyih.geojson",
+        "title": "M 4.8 - 27 km NNE of Severo-Kuril’sk, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.2433,
+          50.9133,
+          140.088
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.95,
         "place": "14 km E of Willows, CA",
         "time": 1746936616490,
-        "updated": 1746937042957,
+        "updated": 1746940339317,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179661",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179661.geojson",
         "title": "M 3.0 - 14 km E of Willows, CA"
@@ -535,7 +635,7 @@
         "mag": 4.7,
         "place": "15 km W of Cañaveral, Peru",
         "time": 1746926998274,
-        "updated": 1746937061001,
+        "updated": 1746941257798,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyhr",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyhr.geojson",
         "title": "M 4.7 - 15 km W of Cañaveral, Peru"
@@ -2575,7 +2675,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1746939573732,
+        "updated": 1746943097183,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -3826,126 +3926,6 @@
           -67.0065,
           18.1973333333333,
           24.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.58,
-        "place": "14 km SE of Anza, CA",
-        "time": 1746856833530,
-        "updated": 1746857060583,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149920",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149920.geojson",
-        "title": "M 0.6 - 14 km SE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5545,
-          33.4825,
-          11.49
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "80 km WNW of Karluk, Alaska",
-        "time": 1746855436360,
-        "updated": 1746918726340,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602276",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602276.geojson",
-        "title": "M 0.6 - 80 km WNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.7415,
-          57.7821666666667,
-          5.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.21,
-        "place": "15 km W of Johannesburg, CA",
-        "time": 1746854853790,
-        "updated": 1746855729673,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149896",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149896.geojson",
-        "title": "M 1.2 - 15 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7948333,
-          35.3636667,
-          2.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.2,
-        "place": "68 km NW of Ninilchik, Alaska",
-        "time": 1746854100380,
-        "updated": 1746918228940,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602256",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602256.geojson",
-        "title": "M -0.2 - 68 km NW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.639833333333,
-          60.4286666666667,
-          20.19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.6,
-        "place": "34 km W of Ashkāsham, Afghanistan",
-        "time": 1746853681178,
-        "updated": 1746854877040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pydu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pydu.geojson",
-        "title": "M 4.6 - 34 km W of Ashkāsham, Afghanistan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.148,
-          36.664,
-          233.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.1,
-        "place": "83 km NW of Ollagüe, Chile",
-        "time": 1746853635148,
-        "updated": 1746857182040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pydt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pydt.geojson",
-        "title": "M 4.1 - 83 km NW of Ollagüe, Chile"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.8492,
-          -20.7218,
-          91.144
         ]
       }
     }
