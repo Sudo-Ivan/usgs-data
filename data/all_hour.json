@@ -1,71 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746918150000,
+    "generated": 1746922224000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.18,
-        "place": "6 km WNW of Borrego Springs, CA",
-        "time": 1746917433010,
-        "updated": 1746918102660,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150456",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150456.geojson",
-        "title": "M 2.2 - 6 km WNW of Borrego Springs, CA"
+        "mag": 1.2,
+        "place": "50 km NE of Chase, Alaska",
+        "time": 1746921315120,
+        "updated": 1746921395513,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zdvwns",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zdvwns.geojson",
+        "title": "M 1.2 - 50 km NE of Chase, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.4366684,
-          33.2685013,
-          4.24
+          -149.4945,
+          62.8016,
+          67.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "47 km ESE of Pedro Bay, Alaska",
-        "time": 1746917148551,
-        "updated": 1746917369479,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zd8eh0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zd8eh0.geojson",
-        "title": "M 1.8 - 47 km ESE of Pedro Bay, Alaska"
+        "mag": 1.1,
+        "place": "16 km SE of Livengood, Alaska",
+        "time": 1746920876234,
+        "updated": 1746920974895,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255zdua3r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255zdua3r.geojson",
+        "title": "M 1.1 - 16 km SE of Livengood, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.3005,
-          59.6633,
-          105.1
+          -148.2424,
+          65.4398,
+          3.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "51 km W of Mentone, Texas",
-        "time": 1746915306684,
-        "updated": 1746915645512,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdjy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdjy.geojson",
-        "title": "M 1.9 - 51 km W of Mentone, Texas"
+        "mag": 1.53,
+        "place": "13 km WNW of Malibu, CA",
+        "time": 1746920631430,
+        "updated": 1746920898757,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150520",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150520.geojson",
+        "title": "M 1.5 - 13 km WNW of Malibu, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.142,
-          31.733,
-          5.0952
+          -118.9496667,
+          34.0335,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.81,
+        "place": "14 km ENE of Borrego Springs, CA",
+        "time": 1746920032440,
+        "updated": 1746920249041,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150512",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150512.geojson",
+        "title": "M 0.8 - 14 km ENE of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2355,
+          33.2973333,
+          6.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.81,
+        "place": "5 km WNW of Borrego Springs, CA",
+        "time": 1746919962290,
+        "updated": 1746920215881,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150504.geojson",
+        "title": "M 0.8 - 5 km WNW of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4258333,
+          33.2738333,
+          4.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "54 km SSW of Whites City, New Mexico",
+        "time": 1746919863168,
+        "updated": 1746921719228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdml",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdml.geojson",
+        "title": "M 2.6 - 54 km SSW of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.57,
+          31.712,
+          3.5298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.43,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1746919857680,
+        "updated": 1746920066675,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150496",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150496.geojson",
+        "title": "M 1.4 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8091667,
+          35.329,
+          6.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.1,
+        "place": "48 km ESE of Beatty, Nevada",
+        "time": 1746919543948,
+        "updated": 1746919661228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897477",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897477.geojson",
+        "title": "M 0.1 - 48 km ESE of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2712,
+          36.7232,
+          7.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.97,
+        "place": "1 km N of Palomas, Puerto Rico",
+        "time": 1746918987770,
+        "updated": 1746919703620,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481968",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481968.geojson",
+        "title": "M 2.0 - 1 km N of Palomas, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8726666666667,
+          18.0241666666667,
+          10.52
         ]
       }
     }
