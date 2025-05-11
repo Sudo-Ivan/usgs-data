@@ -1,31 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746933630000,
+    "generated": 1746936214000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.03,
-        "place": "11 km NW of Anza, CA",
-        "time": 1746933409260,
-        "updated": 1746933536074,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150648",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150648.geojson",
-        "title": "M 1.0 - 11 km NW of Anza, CA"
+        "mag": 2.18,
+        "place": "11 km S of Guánica, Puerto Rico",
+        "time": 1746935238770,
+        "updated": 1746936031910,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481983",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481983.geojson",
+        "title": "M 2.2 - 11 km S of Guánica, Puerto Rico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7396698,
-          33.6338348,
-          15.94
+          -66.8976666666667,
+          17.8713333333333,
+          12.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.98,
+        "place": "6 km WNW of Borrego Springs, CA",
+        "time": 1746935012080,
+        "updated": 1746935222346,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150672",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150672.geojson",
+        "title": "M 1.0 - 6 km WNW of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4333333,
+          33.2711667,
+          4.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.71,
+        "place": "6 km NNE of Morongo Valley, CA",
+        "time": 1746934761760,
+        "updated": 1746934970228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150664",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150664.geojson",
+        "title": "M 1.7 - 6 km NNE of Morongo Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5503333,
+          34.0963333,
+          10.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.22,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1746934326170,
+        "updated": 1746935538788,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179646",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179646.geojson",
+        "title": "M 0.2 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807662963867,
+          38.832332611084,
+          1.91999995708466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.6,
+        "place": "72 km WNW of Beluga, Alaska",
+        "time": 1746933949716,
+        "updated": 1746934013899,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560pc88r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560pc88r.geojson",
+        "title": "M 0.6 - 72 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2946,
+          61.4214,
+          12.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.82,
+        "place": "11 km NW of Anza, CA",
+        "time": 1746933409260,
+        "updated": 1746933680090,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150648",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150648.geojson",
+        "title": "M 0.8 - 11 km NW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7405,
+          33.6323333,
+          15.77
         ]
       }
     },
@@ -35,7 +135,7 @@
         "mag": 0.35,
         "place": "6 km NNW of The Geysers, CA",
         "time": 1746933040590,
-        "updated": 1746933137853,
+        "updated": 1746934936723,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179641",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179641.geojson",
         "title": "M 0.4 - 6 km NNW of The Geysers, CA"
@@ -46,6 +146,26 @@
           -122.803497314453,
           38.821834564209,
           3.33999991416931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.25,
+        "place": "91 km N of Brenas, Puerto Rico",
+        "time": 1746932977220,
+        "updated": 1746935852030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481973",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481973.geojson",
+        "title": "M 3.3 - 91 km N of Brenas, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2646666666667,
+          19.2905,
+          34.6
         ]
       }
     },
@@ -66,106 +186,6 @@
           -104.293,
           31.649,
           6.3353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "7 km SE of Lake Henshaw, CA",
-        "time": 1746932226250,
-        "updated": 1746932497143,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150632",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150632.geojson",
-        "title": "M 0.8 - 7 km SE of Lake Henshaw, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7101667,
-          33.1966667,
-          10.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "54 km NW of Toyah, Texas",
-        "time": 1746931371124,
-        "updated": 1746931917410,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdsz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdsz.geojson",
-        "title": "M 2.3 - 54 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.199,
-          31.656,
-          4.0438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "39 km WSW of Clear, Alaska",
-        "time": 1746931348531,
-        "updated": 1746931492826,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560oue6d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560oue6d.geojson",
-        "title": "M 1.7 - 39 km WSW of Clear, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9748,
-          64.1773,
-          4.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "11 km W of Forsan, Texas",
-        "time": 1746931219200,
-        "updated": 1746931912400,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdtj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdtj.geojson",
-        "title": "M 1.1 - 11 km W of Forsan, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.49,
-          32.097,
-          4.1906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "16 km SW of Susitna, Alaska",
-        "time": 1746930602869,
-        "updated": 1746930718202,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560orrlq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560orrlq.geojson",
-        "title": "M 1.7 - 16 km SW of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.7561,
-          61.4547,
-          60
         ]
       }
     }
