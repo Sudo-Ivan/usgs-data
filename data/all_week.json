@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746930766000,
+    "generated": 1746933640000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1896
+    "count": 1897
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.03,
+        "place": "11 km NW of Anza, CA",
+        "time": 1746933409260,
+        "updated": 1746933536074,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150648",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150648.geojson",
+        "title": "M 1.0 - 11 km NW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7396698,
+          33.6338348,
+          15.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.35,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1746933040590,
+        "updated": 1746933137853,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179641",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179641.geojson",
+        "title": "M 0.4 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.803497314453,
+          38.821834564209,
+          3.33999991416931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1746932914010,
+        "updated": 1746933334570,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdtv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdtv.geojson",
+        "title": "M 1.8 - 58 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.293,
+          31.649,
+          6.3353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "7 km SE of Lake Henshaw, CA",
+        "time": 1746932226250,
+        "updated": 1746932497143,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150632",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150632.geojson",
+        "title": "M 0.8 - 7 km SE of Lake Henshaw, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7101667,
+          33.1966667,
+          10.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "54 km NW of Toyah, Texas",
+        "time": 1746931371124,
+        "updated": 1746931917410,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdsz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdsz.geojson",
+        "title": "M 2.3 - 54 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.199,
+          31.656,
+          4.0438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "39 km WSW of Clear, Alaska",
+        "time": 1746931348531,
+        "updated": 1746931492826,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560oue6d",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560oue6d.geojson",
+        "title": "M 1.7 - 39 km WSW of Clear, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9748,
+          64.1773,
+          4.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "11 km W of Forsan, Texas",
+        "time": 1746931219200,
+        "updated": 1746931912400,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdtj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdtj.geojson",
+        "title": "M 1.1 - 11 km W of Forsan, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.49,
+          32.097,
+          4.1906
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2215,7 +2355,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1746930635867,
+        "updated": 1746933525796,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -37806,126 +37946,6 @@
           -104.451,
           31.661,
           6.6382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.24,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1746328543760,
-        "updated": 1746330137736,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176176",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176176.geojson",
-        "title": "M 1.2 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.793502807617,
-          38.8346672058105,
-          1.70000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "294 km SSE of Ushuaia, Argentina",
-        "time": 1746328255480,
-        "updated": 1746332218040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px0d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px0d.geojson",
-        "title": "M 4.7 - 294 km SSE of Ushuaia, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.6846,
-          -57.2934,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.61,
-        "place": "19 km W of Veyo, Utah",
-        "time": 1746327927800,
-        "updated": 1746458025560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106871",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106871.geojson",
-        "title": "M 1.6 - 19 km W of Veyo, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.917833333333,
-          37.3415,
-          6.56
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.3,
-        "place": "37 km SE of Beatty, Nevada",
-        "time": 1746326983790,
-        "updated": 1746370983210,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897213",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897213.geojson",
-        "title": "M -0.3 - 37 km SE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4435,
-          36.6824,
-          7.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "57 km SSW of Adak, Alaska",
-        "time": 1746326309006,
-        "updated": 1746733979653,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255p423w4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255p423w4.geojson",
-        "title": "M 2.1 - 57 km SSW of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -176.9634,
-          51.4029,
-          45.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.48,
-        "place": "72 km NW of Ninilchik, Alaska",
-        "time": 1746326106490,
-        "updated": 1746480419100,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93595846",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93595846.geojson",
-        "title": "M -0.5 - 72 km NW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.746166666667,
-          60.4156666666667,
-          7.69
         ]
       }
     }
