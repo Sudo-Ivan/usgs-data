@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746968849000,
+    "generated": 1746972167000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1924
+    "count": 1922
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.21,
+        "place": "13 km SE of Ocotillo, CA",
+        "time": 1746971896090,
+        "updated": 1746972106294,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150856",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150856.geojson",
+        "title": "M 1.2 - 13 km SE of Ocotillo, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.891,
+          32.6531667,
+          7.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "16 km ESE of Livengood, Alaska",
+        "time": 1746971558129,
+        "updated": 1746971687760,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560vgbqc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560vgbqc.geojson",
+        "title": "M 0.9 - 16 km ESE of Livengood, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.2485,
+          65.4472,
+          11.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.06,
+        "place": "15 km SSW of Searles Valley, CA",
+        "time": 1746971415780,
+        "updated": 1746971620090,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150848",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150848.geojson",
+        "title": "M 1.1 - 15 km SSW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.456,
+          35.638,
+          6.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1746970782390,
+        "updated": 1746970877286,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179811",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179811.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.810501098633,
+          38.8219985961914,
+          2.70000004768372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "34 km NW of Toyah, Texas",
+        "time": 1746970573090,
+        "updated": 1746971317375,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jeoq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jeoq.geojson",
+        "title": "M 2.1 - 34 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.022,
+          31.562,
+          4.9798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.32,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746970431530,
+        "updated": 1746971538754,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179806",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179806.geojson",
+        "title": "M 1.3 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823829650879,
+          38.8186683654785,
+          2.00999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "29 km NW of Toyah, Texas",
+        "time": 1746969928443,
+        "updated": 1746970650296,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jeog",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jeog.geojson",
+        "title": "M 1.6 - 29 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.989,
+          31.518,
+          5.4733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.9,
+        "place": "37 km WSW of Skwentna, Alaska",
+        "time": 1746969808585,
+        "updated": 1746971403040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560va389",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560va389.geojson",
+        "title": "M 2.9 - 37 km WSW of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.0629,
+          61.8729,
+          4.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.69,
         "place": "6 km WNW of Cobb, CA",
         "time": 1746967776500,
-        "updated": 1746967871107,
+        "updated": 1746969437516,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179801",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179801.geojson",
         "title": "M 0.7 - 6 km WNW of Cobb, CA"
@@ -146,6 +306,26 @@
           -117.4496667,
           34.1246667,
           6.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.52,
+        "place": "100 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "time": 1746965561680,
+        "updated": 1746969920316,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025131004",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025131004.geojson",
+        "title": "M 3.5 - 100 km N of Charlotte Amalie, U.S. Virgin Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8975,
+          19.2533,
+          54
         ]
       }
     },
@@ -375,7 +555,7 @@
         "mag": 5.9,
         "place": "5 km NNW of Port-Vila, Vanuatu",
         "time": 1746962541617,
-        "updated": 1746968325667,
+        "updated": 1746971506430,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyn1",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyn1.geojson",
         "title": "M 5.9 - 5 km NNW of Port-Vila, Vanuatu"
@@ -955,7 +1135,7 @@
         "mag": 5.8,
         "place": "33 km ENE of Blangpidie, Indonesia",
         "time": 1746953864519,
-        "updated": 1746965757814,
+        "updated": 1746969790994,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyjn",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyjn.geojson",
         "title": "M 5.8 - 33 km ENE of Blangpidie, Indonesia"
@@ -1275,7 +1455,7 @@
         "mag": 2.75,
         "place": "11 km SE of High Bridge, Kentucky",
         "time": 1746949278000,
-        "updated": 1746967767010,
+        "updated": 1746971945560,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60503568",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60503568.geojson",
         "title": "M 2.8 - 11 km SE of High Bridge, Kentucky"
@@ -1386,6 +1566,26 @@
           -121.011169433594,
           36.4328346252441,
           8.1899995803833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.29,
+        "place": "24 km W of Lima, Montana",
+        "time": 1746947907620,
+        "updated": 1746971691190,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90084138",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90084138.geojson",
+        "title": "M 1.3 - 24 km W of Lima, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.896666666667,
+          44.6661666666667,
+          9.34
         ]
       }
     },
@@ -4595,7 +4795,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1746968581629,
+        "updated": 1746972105723,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -27155,7 +27355,7 @@
         "mag": 2.96,
         "place": "8 km S of Dillwyn, Virginia",
         "time": 1746551297790,
-        "updated": 1746886575464,
+        "updated": 1746969910226,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605626",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605626.geojson",
         "title": "M 3.0 - 8 km S of Dillwyn, Virginia"
@@ -38246,246 +38446,6 @@
           -112.079833333333,
           40.73,
           9.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "65 km W of Tyonek, Alaska",
-        "time": 1746367280640,
-        "updated": 1746554481130,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93040619",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93040619.geojson",
-        "title": "M 0.8 - 65 km W of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.338,
-          61.1221666666667,
-          4.04
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.39,
-        "place": "4 km NW of The Geysers, CA",
-        "time": 1746366866670,
-        "updated": 1746371237301,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176351",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176351.geojson",
-        "title": "M 0.4 - 4 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.794830322266,
-          38.7923316955566,
-          7.96999979019165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.3,
-        "place": "51 km ESE of Beatty, Nevada",
-        "time": 1746366617953,
-        "updated": 1746371539525,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897214",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897214.geojson",
-        "title": "M -0.3 - 51 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2711,
-          36.6589,
-          5.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1746366018110,
-        "updated": 1746368160367,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144664",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144664.geojson",
-        "title": "M 1.5 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8075,
-          35.3405,
-          8.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.95,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746365491380,
-        "updated": 1746368173153,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144656.geojson",
-        "title": "M 1.0 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8093333,
-          35.351,
-          8.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.85,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746365469770,
-        "updated": 1746367038827,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176341",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176341.geojson",
-        "title": "M 0.9 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.801002502441,
-          38.8223342895508,
-          2.85999989509583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.86,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746365393750,
-        "updated": 1746368837029,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176336",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176336.geojson",
-        "title": "M 0.9 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.80249786377,
-          38.8228340148926,
-          2.55999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.99,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746365146070,
-        "updated": 1746368191302,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144648",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144648.geojson",
-        "title": "M 1.0 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8078333,
-          35.3518333,
-          8.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "5 km N of Progreso, B.C., MX",
-        "time": 1746365003200,
-        "updated": 1746485963960,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41144640",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41144640.geojson",
-        "title": "M 1.8 - 5 km N of Progreso, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5841667,
-          32.6255,
-          7.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.05,
-        "place": "46 km WNW of Tyonek, Alaska",
-        "time": 1746364729390,
-        "updated": 1746552744020,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93596461",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93596461.geojson",
-        "title": "M 0.1 - 46 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.919166666667,
-          61.242,
-          2.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.36,
-        "place": "24 km N of Tierras Nuevas Poniente, Puerto Rico",
-        "time": 1746364609520,
-        "updated": 1746372461040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481353",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481353.geojson",
-        "title": "M 3.4 - 24 km N of Tierras Nuevas Poniente, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.4975,
-          18.683,
-          10.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "38 km NW of Stanton, Texas",
-        "time": 1746364531253,
-        "updated": 1746448802121,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025irti",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025irti.geojson",
-        "title": "M 1.3 - 38 km NW of Stanton, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.102,
-          32.356,
-          7.251
         ]
       }
     }
