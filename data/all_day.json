@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746975736000,
+    "generated": 1746979336000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 230
+    "count": 226
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "29 km NE of Skwentna, Alaska",
+        "time": 1746977919611,
+        "updated": 1746978090870,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560wk715",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560wk715.geojson",
+        "title": "M 1.6 - 29 km NE of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0722,
+          62.2062,
+          73.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.85,
+        "place": "8 km E of Carbonado, Washington",
+        "time": 1746977660490,
+        "updated": 1746978604470,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62097207",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62097207.geojson",
+        "title": "M 1.9 - 8 km E of Carbonado, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94366666666667,
+          47.07116666666667,
+          4.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.2,
+        "place": "28 km SSE of Livengood, Alaska",
+        "time": 1746977309649,
+        "updated": 1746977380120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560wi13o",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560wi13o.geojson",
+        "title": "M 0.2 - 28 km SSE of Livengood, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.292,
+          65.2962,
+          3.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "18 km ENE of McKinney Acres, Texas",
+        "time": 1746976594443,
+        "updated": 1746977077991,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jesj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jesj.geojson",
+        "title": "M 1.3 - 18 km ENE of McKinney Acres, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.359,
+          32.377,
+          0.4298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "57 km S of Whites City, New Mexico",
+        "time": 1746976561206,
+        "updated": 1746977318022,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jesa",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jesa.geojson",
+        "title": "M 1.7 - 57 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.463,
+          31.665,
+          1.9145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.35,
+        "place": "21 km ESE of Little Lake, CA",
+        "time": 1746976516230,
+        "updated": 1746976721527,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150880",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150880.geojson",
+        "title": "M 0.4 - 21 km ESE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6871667,
+          35.8831667,
+          9.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "23 km SSW of Knik River, Alaska",
+        "time": 1746976511497,
+        "updated": 1746976576717,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560wf7e5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560wf7e5.geojson",
+        "title": "M 1.1 - 23 km SSW of Knik River, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.014,
+          61.2594,
+          31
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -115,7 +255,7 @@
         "mag": 1.03,
         "place": "16 km NW of Parkfield, CA",
         "time": 1746972572070,
-        "updated": 1746974239050,
+        "updated": 1746976937363,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179826",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179826.geojson",
         "title": "M 1.0 - 16 km NW of Parkfield, CA"
@@ -715,7 +855,7 @@
         "mag": 5.9,
         "place": "5 km NNW of Port-Vila, Vanuatu",
         "time": 1746962541617,
-        "updated": 1746971506430,
+        "updated": 1746977299721,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyn1",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyn1.geojson",
         "title": "M 5.9 - 5 km NNW of Port-Vila, Vanuatu"
@@ -1252,20 +1392,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1681032180786133,
+        "mag": 2.0100000000000002,
         "place": "7 km NW of Jamestown, Washington",
-        "time": 1746954459850,
-        "updated": 1746954614650,
+        "time": 1746954459650,
+        "updated": 1746979110460,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62097107",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62097107.geojson",
-        "title": "M 2.2 - 7 km NW of Jamestown, Washington"
+        "title": "M 2.0 - 7 km NW of Jamestown, Washington"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.15499877929688,
-          48.17733383178711,
-          40.4599990844727
+          -123.14966666666666,
+          48.181333333333335,
+          43.93
         ]
       }
     },
@@ -1615,7 +1755,7 @@
         "mag": 2.75,
         "place": "11 km SE of High Bridge, Kentucky",
         "time": 1746949278000,
-        "updated": 1746975557968,
+        "updated": 1746978501434,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60503568",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60503568.geojson",
         "title": "M 2.8 - 11 km SE of High Bridge, Kentucky"
@@ -4386,226 +4526,6 @@
           -122.166168212891,
           37.9425010681152,
           16.5499992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.62,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746892036590,
-        "updated": 1746894140179,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179426",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179426.geojson",
-        "title": "M 0.6 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818832397461,
-          38.8153343200684,
-          3.5699999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "11 km W of Anza, CA",
-        "time": 1746891991650,
-        "updated": 1746973569202,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150160",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150160.geojson",
-        "title": "M 0.7 - 11 km W of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7928333,
-          33.561,
-          6.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.02,
-        "place": "3 km SW of Hidden Valley Lake, CA",
-        "time": 1746891930730,
-        "updated": 1746953643517,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179416",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179416.geojson",
-        "title": "M 1.0 - 3 km SW of Hidden Valley Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.578833333333,
-          38.7853333333333,
-          9.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "135 km SE of Perryville, Alaska",
-        "time": 1746891810466,
-        "updated": 1746908258123,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z91xqy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z91xqy.geojson",
-        "title": "M 2.5 - 135 km SE of Perryville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.5884,
-          55.0806,
-          19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.34,
-        "place": "2 km NNW of The Geysers, CA",
-        "time": 1746891352320,
-        "updated": 1746955040939,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179411",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179411.geojson",
-        "title": "M 0.3 - 2 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7645,
-          38.7903333333333,
-          3.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.55,
-        "place": "2 km N of Guayanilla, Puerto Rico",
-        "time": 1746890474570,
-        "updated": 1746891578050,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481893",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481893.geojson",
-        "title": "M 2.6 - 2 km N of Guayanilla, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.7916666666667,
-          18.0395,
-          16.35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "16 km W of Searles Valley, CA",
-        "time": 1746890450050,
-        "updated": 1746890658595,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150136",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150136.geojson",
-        "title": "M 1.1 - 16 km W of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5871667,
-          35.7653333,
-          3.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "61 km W of Anchor Point, Alaska",
-        "time": 1746890441289,
-        "updated": 1746890569161,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z8wzrz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z8wzrz.geojson",
-        "title": "M 1.8 - 61 km W of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.9249,
-          59.7858,
-          106.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "3 km W of Cobb, CA",
-        "time": 1746890003710,
-        "updated": 1746891137837,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179401",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179401.geojson",
-        "title": "M 0.8 - 3 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.760498046875,
-          38.8191680908203,
-          1.82000005245209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "52 km W of Mentone, Texas",
-        "time": 1746889651925,
-        "updated": 1746890264595,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jcvw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jcvw.geojson",
-        "title": "M 2.2 - 52 km W of Mentone, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.153,
-          31.733,
-          6.0385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "5 km SSW of Westbrook, Texas",
-        "time": 1746889371978,
-        "updated": 1746903245411,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jcvt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jcvt.geojson",
-        "title": "M 2.1 - 5 km SSW of Westbrook, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.037,
-          32.309,
-          1.3753
         ]
       }
     }
