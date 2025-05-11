@@ -1,51 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746993730000,
+    "generated": 1746997344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 11
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.73,
-        "place": "3 km SW of Volcano, Hawaii",
-        "time": 1746992831380,
-        "updated": 1746993003040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74670777",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74670777.geojson",
-        "title": "M 1.7 - 3 km SW of Volcano, Hawaii"
+        "mag": 1.62,
+        "place": "15 km ENE of Yountville, CA",
+        "time": 1746996731920,
+        "updated": 1746996826513,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179946",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179946.geojson",
+        "title": "M 1.6 - 15 km ENE of Yountville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.260162353516,
-          19.4186668395996,
-          2.39000010490417
+          -122.217163085938,
+          38.4808349609375,
+          -0.319999992847443
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "35 km SE of Malaga, New Mexico",
-        "time": 1746992683775,
-        "updated": 1746993518862,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jfam",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jfam.geojson",
-        "title": "M 1.8 - 35 km SE of Malaga, New Mexico"
+        "mag": 0.61,
+        "place": "16 km N of Borrego Springs, CA",
+        "time": 1746996522960,
+        "updated": 1746996756733,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151040",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151040.geojson",
+        "title": "M 0.6 - 16 km N of Borrego Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.816,
-          31.984,
-          8.7214
+          -116.372,
+          33.3983333,
+          7.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1746996257900,
+        "updated": 1746996432740,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179941",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179941.geojson",
+        "title": "M 1.1 - 6 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.810165405273,
+          38.818000793457,
+          3.25999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "7 km SW of Kenai, Alaska",
+        "time": 1746996132940,
+        "updated": 1746996240951,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560zk5v2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560zk5v2.geojson",
+        "title": "M 1.4 - 7 km SW of Kenai, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3617,
+          60.5074,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.68,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1746996111890,
+        "updated": 1746996310430,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179936",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179936.geojson",
+        "title": "M 1.7 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.809669494629,
+          38.8185005187988,
+          3.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.59,
+        "place": "12 km SSE of Anza, CA",
+        "time": 1746995877030,
+        "updated": 1746996089103,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151024",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151024.geojson",
+        "title": "M 0.6 - 12 km SSE of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6068333,
+          33.4651667,
+          9.06
         ]
       }
     },
@@ -53,39 +133,99 @@
       "type": "Feature",
       "properties": {
         "mag": 0.95,
-        "place": "3 km S of Anderson Springs, CA",
-        "time": 1746991987170,
-        "updated": 1746993137180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179901",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179901.geojson",
-        "title": "M 1.0 - 3 km S of Anderson Springs, CA"
+        "place": "2 km ENE of The Geysers, CA",
+        "time": 1746995419710,
+        "updated": 1746996737553,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179931",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179931.geojson",
+        "title": "M 1.0 - 2 km ENE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.689498901367,
-          38.7456665039062,
-          -0.28999999165535
+          -122.736503601074,
+          38.789665222168,
+          1.54999995231628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.9,
-        "place": "20 km SSW of Ackerly, Texas",
-        "time": 1746991736033,
-        "updated": 1746992236728,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jfad",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jfad.geojson",
-        "title": "M 0.9 - 20 km SSW of Ackerly, Texas"
+        "mag": 1.1,
+        "place": "6 km SE of Beluga, Alaska",
+        "time": 1746995315776,
+        "updated": 1746995434032,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560zh7ll",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560zh7ll.geojson",
+        "title": "M 1.1 - 6 km SE of Beluga, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.77,
-          32.35,
-          4.6985
+          -150.993,
+          61.1052,
+          55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "23 km E of Point Possession, Alaska",
+        "time": 1746995141007,
+        "updated": 1746995229712,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560zgkus",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560zgkus.geojson",
+        "title": "M 1.0 - 23 km E of Point Possession, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.2546,
+          60.9264,
+          41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.35,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1746994517790,
+        "updated": 1746995537424,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179916",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179916.geojson",
+        "title": "M 1.4 - 6 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.817169189453,
+          38.8059997558594,
+          2.98000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.62,
+        "place": "21 km NE of Lebec, CA",
+        "time": 1746994482200,
+        "updated": 1746995127370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151008",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151008.geojson",
+        "title": "M 1.6 - 21 km NE of Lebec, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6858333,
+          34.9593333,
+          3.38
         ]
       }
     }
