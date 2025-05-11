@@ -1,14 +1,74 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746936248000,
+    "generated": 1746939735000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 207
+    "count": 197
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.95,
+        "place": "14 km E of Willows, CA",
+        "time": 1746936616490,
+        "updated": 1746937042957,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179661",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179661.geojson",
+        "title": "M 3.0 - 14 km E of Willows, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03133392334,
+          39.5395011901855,
+          21.6000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.05,
+        "place": "4 km NW of Orocovis, Puerto Rico",
+        "time": 1746936395400,
+        "updated": 1746938625290,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481988",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481988.geojson",
+        "title": "M 3.1 - 4 km NW of Orocovis, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.423,
+          18.252,
+          37.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.31,
+        "place": "6 km ENE of Westmorland, CA",
+        "time": 1746936332080,
+        "updated": 1746936539390,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150680",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150680.geojson",
+        "title": "M 1.3 - 6 km ENE of Westmorland, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5671667,
+          33.0638333,
+          7.86
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -75,7 +135,7 @@
         "mag": 0.22,
         "place": "7 km WNW of Cobb, CA",
         "time": 1746934326170,
-        "updated": 1746935538788,
+        "updated": 1746936436886,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179646",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179646.geojson",
         "title": "M 0.2 - 7 km WNW of Cobb, CA"
@@ -475,7 +535,7 @@
         "mag": 4.7,
         "place": "15 km W of Cañaveral, Peru",
         "time": 1746926998274,
-        "updated": 1746928066040,
+        "updated": 1746937061001,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyhr",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyhr.geojson",
         "title": "M 4.7 - 15 km W of Cañaveral, Peru"
@@ -946,6 +1006,46 @@
           -153.3005,
           59.6633,
           105.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.52,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "time": 1746915454900,
+        "updated": 1746937865990,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602976",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602976.geojson",
+        "title": "M 1.5 - Rat Islands, Aleutian Islands, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.4545,
+          51.9956666666667,
+          2.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.04,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "time": 1746915409920,
+        "updated": 1746937745320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602971",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602971.geojson",
+        "title": "M 1.0 - Rat Islands, Aleutian Islands, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.4535,
+          51.994,
+          1.68
         ]
       }
     },
@@ -2475,7 +2575,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1746936075555,
+        "updated": 1746939573732,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -3846,306 +3946,6 @@
           -68.8492,
           -20.7218,
           91.144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "65 km ENE of McCarthy, Alaska",
-        "time": 1746852266589,
-        "updated": 1746852342748,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2ic6a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2ic6a.geojson",
-        "title": "M 1.1 - 65 km ENE of McCarthy, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -141.7968,
-          61.6676,
-          14.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.29,
-        "place": "70 km WNW of Tyonek, Alaska",
-        "time": 1746852168900,
-        "updated": 1746917831920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602241",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602241.geojson",
-        "title": "M -0.3 - 70 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.356833333333,
-          61.289,
-          4.79
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.02,
-        "place": "2 km WSW of Rubidoux, CA",
-        "time": 1746851919000,
-        "updated": 1746852161523,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149872",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149872.geojson",
-        "title": "M 1.0 - 2 km WSW of Rubidoux, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4296667,
-          33.9901667,
-          15.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "time": 1746851700688,
-        "updated": 1746916571040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pydq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pydq.geojson",
-        "title": "M 4.4 - 163 km SE of Petropavlovsk-Kamchatsky, Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          160.5838,
-          52.2067,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.64,
-        "place": "21 km ESE of Little Lake, CA",
-        "time": 1746851450100,
-        "updated": 1746855089700,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149856",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149856.geojson",
-        "title": "M 0.6 - 21 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6905,
-          35.8606667,
-          8.37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.46,
-        "place": "17 km WSW of Johannesburg, CA",
-        "time": 1746851448160,
-        "updated": 1746855088164,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37543957",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37543957.geojson",
-        "title": "M 0.5 - 17 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8166667,
-          35.3313333,
-          6.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.83,
-        "place": "62 km WNW of Tyonek, Alaska",
-        "time": 1746851427390,
-        "updated": 1746917681110,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041069",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041069.geojson",
-        "title": "M -0.8 - 62 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.217666666667,
-          61.265,
-          5.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "47 km E of Pedro Bay, Alaska",
-        "time": 1746851376078,
-        "updated": 1746917300220,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2f55z",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2f55z.geojson",
-        "title": "M 1.8 - 47 km E of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.2645,
-          59.815,
-          34.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "29 km WSW of Ackerly, Texas",
-        "time": 1746851152255,
-        "updated": 1746903241409,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jcax",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jcax.geojson",
-        "title": "M 1.4 - 29 km WSW of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.023,
-          32.461,
-          4.0731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.8,
-        "place": "70 km WNW of Tyonek, Alaska",
-        "time": 1746851090110,
-        "updated": 1746916907370,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602221",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602221.geojson",
-        "title": "M -0.8 - 70 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.3765,
-          61.284,
-          5.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.87,
-        "place": "68 km WNW of Tyonek, Alaska",
-        "time": 1746851061720,
-        "updated": 1746916535560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041064",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041064.geojson",
-        "title": "M -0.9 - 68 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.354,
-          61.2573333333333,
-          2.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "103 km S of McCarthy, Alaska",
-        "time": 1746850721558,
-        "updated": 1746850795479,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2cspn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2cspn.geojson",
-        "title": "M 1.6 - 103 km S of McCarthy, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -143.0384,
-          60.5029,
-          16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.51,
-        "place": "80 km NW of Ninilchik, Alaska",
-        "time": 1746850287270,
-        "updated": 1746915576060,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93602211",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93602211.geojson",
-        "title": "M -0.5 - 80 km NW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.785833333333,
-          60.5196666666667,
-          5.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.26,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1746850187980,
-        "updated": 1746855363227,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41149840",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41149840.geojson",
-        "title": "M 1.3 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8086667,
-          35.3546667,
-          8.23
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "117 km S of Chenega, Alaska",
-        "time": 1746850077452,
-        "updated": 1746857216155,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255z2agpe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255z2agpe.geojson",
-        "title": "M 2.1 - 117 km S of Chenega, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.7276,
-          59.019,
-          6.2
         ]
       }
     }

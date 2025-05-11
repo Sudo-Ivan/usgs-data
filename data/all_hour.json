@@ -1,191 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1746936214000,
+    "generated": 1746939750000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.18,
-        "place": "11 km S of Guánica, Puerto Rico",
-        "time": 1746935238770,
-        "updated": 1746936031910,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481983",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481983.geojson",
-        "title": "M 2.2 - 11 km S of Guánica, Puerto Rico"
+        "mag": 2.95,
+        "place": "14 km E of Willows, CA",
+        "time": 1746936616490,
+        "updated": 1746937042957,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179661",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179661.geojson",
+        "title": "M 3.0 - 14 km E of Willows, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.8976666666667,
-          17.8713333333333,
-          12.25
+          -122.03133392334,
+          39.5395011901855,
+          21.6000003814697
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.98,
-        "place": "6 km WNW of Borrego Springs, CA",
-        "time": 1746935012080,
-        "updated": 1746935222346,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150672.geojson",
-        "title": "M 1.0 - 6 km WNW of Borrego Springs, CA"
+        "mag": 3.05,
+        "place": "4 km NW of Orocovis, Puerto Rico",
+        "time": 1746936395400,
+        "updated": 1746938625290,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481988",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481988.geojson",
+        "title": "M 3.1 - 4 km NW of Orocovis, Puerto Rico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.4333333,
-          33.2711667,
-          4.61
+          -66.423,
+          18.252,
+          37.69
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.71,
-        "place": "6 km NNE of Morongo Valley, CA",
-        "time": 1746934761760,
-        "updated": 1746934970228,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150664",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150664.geojson",
-        "title": "M 1.7 - 6 km NNE of Morongo Valley, CA"
+        "mag": 1.31,
+        "place": "6 km ENE of Westmorland, CA",
+        "time": 1746936332080,
+        "updated": 1746936539390,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150680",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150680.geojson",
+        "title": "M 1.3 - 6 km ENE of Westmorland, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.5503333,
-          34.0963333,
-          10.64
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.22,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1746934326170,
-        "updated": 1746935538788,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179646",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179646.geojson",
-        "title": "M 0.2 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.807662963867,
-          38.832332611084,
-          1.91999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "72 km WNW of Beluga, Alaska",
-        "time": 1746933949716,
-        "updated": 1746934013899,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560pc88r",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560pc88r.geojson",
-        "title": "M 0.6 - 72 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.2946,
-          61.4214,
-          12.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.82,
-        "place": "11 km NW of Anza, CA",
-        "time": 1746933409260,
-        "updated": 1746933680090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150648",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150648.geojson",
-        "title": "M 0.8 - 11 km NW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7405,
-          33.6323333,
-          15.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.35,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1746933040590,
-        "updated": 1746934936723,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179641",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179641.geojson",
-        "title": "M 0.4 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.803497314453,
-          38.821834564209,
-          3.33999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.25,
-        "place": "91 km N of Brenas, Puerto Rico",
-        "time": 1746932977220,
-        "updated": 1746935852030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481973",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481973.geojson",
-        "title": "M 3.3 - 91 km N of Brenas, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.2646666666667,
-          19.2905,
-          34.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1746932914010,
-        "updated": 1746933334570,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdtv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdtv.geojson",
-        "title": "M 1.8 - 58 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.293,
-          31.649,
-          6.3353
+          -115.5671667,
+          33.0638333,
+          7.86
         ]
       }
     }
