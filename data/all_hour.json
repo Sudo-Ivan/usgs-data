@@ -1,191 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747076544000,
+    "generated": 1747080144000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "51 km WNW of Ninilchik, Alaska",
-        "time": 1747076375943,
-        "updated": 1747076505565,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562m0c3e",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562m0c3e.geojson",
-        "title": "M 1.9 - 51 km WNW of Ninilchik, Alaska"
+        "mag": 1.79,
+        "place": "2 km SE of Home Gardens, CA",
+        "time": 1747078397330,
+        "updated": 1747079055540,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151768",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151768.geojson",
+        "title": "M 1.8 - 2 km SE of Home Gardens, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.4809,
-          60.2808,
-          119.4
+          -117.504,
+          33.8618333,
+          0.68
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.51,
-        "place": "16 km N of Borrego Springs, CA",
-        "time": 1747075461700,
-        "updated": 1747076097920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151696.geojson",
-        "title": "M 1.5 - 16 km N of Borrego Springs, CA"
+        "mag": 1.49,
+        "place": "8 km N of Pinnacles, CA",
+        "time": 1747077246770,
+        "updated": 1747079243054,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181212",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181212.geojson",
+        "title": "M 1.5 - 8 km N of Pinnacles, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.3966667,
-          33.3996667,
-          6.18
+          -121.15650177002,
+          36.5993347167969,
+          9.34000015258789
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.72,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747075348000,
-        "updated": 1747075443998,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181192.geojson",
-        "title": "M 0.7 - 4 km NNW of The Geysers, CA"
+        "mag": 0.78,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747076675220,
+        "updated": 1747076770179,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181207",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181207.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.781669616699,
-          38.8064994812012,
-          1.92999994754791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.05,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1747075227640,
-        "updated": 1747076236732,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181187",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181187.geojson",
-        "title": "M 1.1 - 8 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.819000244141,
-          38.8306655883789,
-          1.54999995231628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "21 km SW of Tyonek, Alaska",
-        "time": 1747075129924,
-        "updated": 1747075242810,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562lvv4w",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562lvv4w.geojson",
-        "title": "M 1.9 - 21 km SW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.3847,
-          60.9202,
-          49.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.3,
-        "place": "71 km N of San Juan, Puerto Rico",
-        "time": 1747074763230,
-        "updated": 1747075950630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482238",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482238.geojson",
-        "title": "M 3.3 - 71 km N of San Juan, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.1085,
-          19.1158333333333,
-          21.07
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.52,
-        "place": "3 km WSW of Imperial, CA",
-        "time": 1747074655550,
-        "updated": 1747074866700,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151664",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151664.geojson",
-        "title": "M 1.5 - 3 km WSW of Imperial, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.6015,
-          32.8326667,
-          12.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "13 km W of Midland, Texas",
-        "time": 1747073788631,
-        "updated": 1747074449983,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jgtk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jgtk.geojson",
-        "title": "M 2.0 - 13 km W of Midland, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.218,
-          32.001,
-          7.541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.15,
-        "place": "6 km SSW of Devore, CA",
-        "time": 1747073771780,
-        "updated": 1747074010610,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151656.geojson",
-        "title": "M 1.2 - 6 km SSW of Devore, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4296667,
-          34.1753333,
-          6.34
+          -122.824165344238,
+          38.8151664733887,
+          2.27999997138977
         ]
       }
     }
