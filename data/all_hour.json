@@ -1,151 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747058580000,
+    "generated": 1747062144000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.42,
-        "place": "10 km NNW of Borrego Springs, CA",
-        "time": 1747058391650,
-        "updated": 1747058517137,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151432",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151432.geojson",
-        "title": "M 1.4 - 10 km NNW of Borrego Springs, CA"
+        "mag": 1.07,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747060017830,
+        "updated": 1747061838874,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180286",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180286.geojson",
+        "title": "M 1.1 - 3 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.425499,
-          33.3406677,
-          8.96
+          -122.778167724609,
+          38.7961654663086,
+          3.11999988555908
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "25 km W of Ninilchik, Alaska",
-        "time": 1747057534675,
-        "updated": 1747057681803,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562iy5y3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562iy5y3.geojson",
-        "title": "M 1.7 - 25 km W of Ninilchik, Alaska"
+        "mag": 1.4,
+        "place": "16 km ENE of Talkeetna, Alaska",
+        "time": 1747059000373,
+        "updated": 1747059102980,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jc0ud",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jc0ud.geojson",
+        "title": "M 1.4 - 16 km ENE of Talkeetna, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.1253,
-          60.0887,
-          60.7
+          -149.8154,
+          62.3727,
+          16
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.20000005,
-        "place": "6 km NW of Ridgely, Tennessee",
-        "time": 1747057403780,
-        "updated": 1747057719770,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606031",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606031.geojson",
-        "title": "M 2.2 - 6 km NW of Ridgely, Tennessee"
+        "mag": 0.9,
+        "place": "6 km NNE of Badger, Alaska",
+        "time": 1747058801919,
+        "updated": 1747058956246,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jb96n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jb96n.geojson",
+        "title": "M 0.9 - 6 km NNE of Badger, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5380020141602,
-          36.3068351745605,
-          7.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.61,
-        "place": "10 km ENE of Nuevo, CA",
-        "time": 1747057005980,
-        "updated": 1747057664800,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151424",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151424.geojson",
-        "title": "M 1.6 - 10 km ENE of Nuevo, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0468333,
-          33.8401667,
-          14.33
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "10 km WNW of Cobb, CA",
-        "time": 1747056505460,
-        "updated": 1747057640409,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180281",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180281.geojson",
-        "title": "M 0.7 - 10 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.838500976562,
-          38.8453330993652,
-          1.79999995231628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "55 km SE of Denali National Park, Alaska",
-        "time": 1747056020362,
-        "updated": 1747056141858,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562isrxw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562isrxw.geojson",
-        "title": "M 1.8 - 55 km SE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.8428,
-          63.2423,
-          34.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "79 km NE of Tonopah, Nevada",
-        "time": 1747055413845,
-        "updated": 1747055577415,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897504",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897504.geojson",
-        "title": "M 1.8 - 79 km NE of Tonopah, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4952,
-          38.4896,
-          2.5
+          -147.4814,
+          64.8551,
+          18.3
         ]
       }
     }

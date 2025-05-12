@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747058541000,
+    "generated": 1747062155000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1966
+    "count": 1951
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.42,
+        "mag": 1.07,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747060017830,
+        "updated": 1747061838874,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180286",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180286.geojson",
+        "title": "M 1.1 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.778167724609,
+          38.7961654663086,
+          3.11999988555908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "16 km ENE of Talkeetna, Alaska",
+        "time": 1747059000373,
+        "updated": 1747059102980,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jc0ud",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jc0ud.geojson",
+        "title": "M 1.4 - 16 km ENE of Talkeetna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8154,
+          62.3727,
+          16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "6 km NNE of Badger, Alaska",
+        "time": 1747058801919,
+        "updated": 1747058956246,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jb96n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jb96n.geojson",
+        "title": "M 0.9 - 6 km NNE of Badger, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4814,
+          64.8551,
+          18.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.41,
         "place": "10 km NNW of Borrego Springs, CA",
-        "time": 1747058391650,
-        "updated": 1747058517137,
+        "time": 1747058391640,
+        "updated": 1747059052950,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151432",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151432.geojson",
         "title": "M 1.4 - 10 km NNW of Borrego Springs, CA"
@@ -23,9 +83,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.425499,
-          33.3406677,
-          8.96
+          -116.4275,
+          33.3398333,
+          9.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.44,
+        "place": "15 km SSE of Waynoka, Oklahoma",
+        "time": 1747057576089,
+        "updated": 1747059241879,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jgkc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jgkc.geojson",
+        "title": "M 1.4 - 15 km SSE of Waynoka, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.80833333,
+          36.45866667,
+          6.97
         ]
       }
     },
@@ -52,20 +132,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.20000005,
+        "mag": 2.4,
         "place": "6 km NW of Ridgely, Tennessee",
-        "time": 1747057403780,
-        "updated": 1747057719770,
+        "time": 1747057403750,
+        "updated": 1747059454410,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606031",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606031.geojson",
-        "title": "M 2.2 - 6 km NW of Ridgely, Tennessee"
+        "title": "M 2.4 - 6 km NW of Ridgely, Tennessee"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5380020141602,
-          36.3068351745605,
-          7.5
+          -89.5325,
+          36.3058333333333,
+          10.15
         ]
       }
     },
@@ -95,7 +175,7 @@
         "mag": 0.72,
         "place": "10 km WNW of Cobb, CA",
         "time": 1747056505460,
-        "updated": 1747057640409,
+        "updated": 1747059737637,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180281",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180281.geojson",
         "title": "M 0.7 - 10 km WNW of Cobb, CA"
@@ -455,7 +535,7 @@
         "mag": 2.33,
         "place": "22 km SSW of La Quinta, CA",
         "time": 1747045617710,
-        "updated": 1747046298170,
+        "updated": 1747061907064,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151360",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151360.geojson",
         "title": "M 2.3 - 22 km SSW of La Quinta, CA"
@@ -532,20 +612,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.2,
-        "place": "13 km SE of Knik-Fairview, Alaska",
-        "time": 1747042115709,
-        "updated": 1747058134344,
+        "mag": 3.1,
+        "place": "12 km SSE of Wasilla, Alaska",
+        "time": 1747042117011,
+        "updated": 1747061600151,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562ggsg0",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562ggsg0.geojson",
-        "title": "M 3.2 - 13 km SE of Knik-Fairview, Alaska"
+        "title": "M 3.1 - 12 km SSE of Wasilla, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.3958,
-          61.4369,
-          20.5
+          -149.3652,
+          61.4751,
+          29.2
         ]
       }
     },
@@ -555,7 +635,7 @@
         "mag": 0.59,
         "place": "6 km ESE of Julian, CA",
         "time": 1747042062830,
-        "updated": 1747042281269,
+        "updated": 1747058947159,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151344",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151344.geojson",
         "title": "M 0.6 - 6 km ESE of Julian, CA"
@@ -615,7 +695,7 @@
         "mag": 4.3,
         "place": "7 km NNW of Gümüşhacıköy, Turkey",
         "time": 1747041837049,
-        "updated": 1747049308040,
+        "updated": 1747059564251,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pysq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pysq.geojson",
         "title": "M 4.3 - 7 km NNW of Gümüşhacıköy, Turkey"
@@ -786,6 +866,26 @@
           -118.262832641602,
           37.1718330383301,
           2.3199999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "116 km SSW of Puerto San José, Guatemala",
+        "time": 1747035310182,
+        "updated": 1747060068040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pysg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pysg.geojson",
+        "title": "M 4.1 - 116 km SSW of Puerto San José, Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.099,
+          12.9115,
+          10
         ]
       }
     },
@@ -1075,7 +1175,7 @@
         "mag": 1.48,
         "place": "8 km N of Nash, Oklahoma",
         "time": 1747028733880,
-        "updated": 1747058791627,
+        "updated": 1747058814627,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jfuh",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jfuh.geojson",
         "title": "M 1.5 - 8 km N of Nash, Oklahoma"
@@ -1115,7 +1215,7 @@
         "mag": 0.59,
         "place": "13 km SE of Anza, CA",
         "time": 1747028635780,
-        "updated": 1747028844384,
+        "updated": 1747059056870,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151280",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151280.geojson",
         "title": "M 0.6 - 13 km SE of Anza, CA"
@@ -1435,7 +1535,7 @@
         "mag": 0.76,
         "place": "4 km S of Idyllwild, CA",
         "time": 1747021186050,
-        "updated": 1747021488196,
+        "updated": 1747058992453,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151232",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151232.geojson",
         "title": "M 0.8 - 4 km S of Idyllwild, CA"
@@ -1526,26 +1626,6 @@
           -98.80933333,
           36.45933333,
           6.66
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.61,
-        "place": "20 km WSW of Wrightwood, CA",
-        "time": 1747020221720,
-        "updated": 1747020469090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151224",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151224.geojson",
-        "title": "M 1.6 - 20 km WSW of Wrightwood, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8398333,
-          34.3155,
-          14.19
         ]
       }
     },
@@ -1675,7 +1755,7 @@
         "mag": 2.5,
         "place": "6 km ESE of Madison, Ohio",
         "time": 1747018073691,
-        "updated": 1747058114611,
+        "updated": 1747061559095,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrd",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrd.geojson",
         "title": "M 2.5 - 6 km ESE of Madison, Ohio"
@@ -2295,7 +2375,7 @@
         "mag": 0.76,
         "place": "3 km ESE of Lake Henshaw, CA",
         "time": 1747005451090,
-        "updated": 1747005663867,
+        "updated": 1747059040157,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151112",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151112.geojson",
         "title": "M 0.8 - 3 km ESE of Lake Henshaw, CA"
@@ -2455,7 +2535,7 @@
         "mag": 1.85,
         "place": "4 km N of Lake Isabella, CA",
         "time": 1747001220640,
-        "updated": 1747001440207,
+        "updated": 1747059060171,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151072",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151072.geojson",
         "title": "M 1.9 - 4 km N of Lake Isabella, CA"
@@ -2775,7 +2855,7 @@
         "mag": 0.59,
         "place": "12 km SSE of Anza, CA",
         "time": 1746995877030,
-        "updated": 1746996089103,
+        "updated": 1747059075816,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151024",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151024.geojson",
         "title": "M 0.6 - 12 km SSE of Anza, CA"
@@ -2932,20 +3012,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
+        "mag": 2,
         "place": "35 km SE of Malaga, New Mexico",
-        "time": 1746992683775,
-        "updated": 1746993518862,
+        "time": 1746992683872,
+        "updated": 1747059779005,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jfam",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jfam.geojson",
-        "title": "M 1.8 - 35 km SE of Malaga, New Mexico"
+        "title": "M 2.0 - 35 km SE of Malaga, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.816,
-          31.984,
-          8.7214
+          -103.801,
+          32.006,
+          7.9327
         ]
       }
     },
@@ -3873,19 +3953,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "29 km NW of Toyah, Texas",
-        "time": 1746969928443,
-        "updated": 1746970650296,
+        "place": "30 km NW of Toyah, Texas",
+        "time": 1746969928545,
+        "updated": 1747059311938,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jeog",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jeog.geojson",
-        "title": "M 1.6 - 29 km NW of Toyah, Texas"
+        "title": "M 1.6 - 30 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.989,
-          31.518,
-          5.4733
+          -104.007,
+          31.523,
+          7.8687
         ]
       }
     },
@@ -4792,20 +4872,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "60 km S of Whites City, New Mexico",
-        "time": 1746955212267,
-        "updated": 1746956366097,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jegi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jegi.geojson",
-        "title": "M 1.5 - 60 km S of Whites City, New Mexico"
+        "mag": 1.49,
+        "place": "6 km SE of Hebgen Lake Estates, Montana",
+        "time": 1746955235590,
+        "updated": 1747059437610,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107536",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107536.geojson",
+        "title": "M 1.5 - 6 km SE of Hebgen Lake Estates, Montana"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.459,
-          31.632,
-          4.8633
+          -111.132333333333,
+          44.7286666666667,
+          8.96
         ]
       }
     },
@@ -4892,20 +4972,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "61 km S of Whites City, New Mexico",
-        "time": 1746953167105,
-        "updated": 1746955486992,
+        "mag": 1.6,
+        "place": "57 km S of Whites City, New Mexico",
+        "time": 1746953167128,
+        "updated": 1747060398062,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jefl",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jefl.geojson",
-        "title": "M 1.8 - 61 km S of Whites City, New Mexico"
+        "title": "M 1.6 - 57 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.473,
-          31.63,
-          3.7121
+          -104.455,
+          31.657,
+          6.0999
         ]
       }
     },
@@ -5394,8 +5474,8 @@
       "properties": {
         "mag": 2.9,
         "place": "58 km S of Whites City, New Mexico",
-        "time": 1746947164174,
-        "updated": 1746953232015,
+        "time": 1746947164096,
+        "updated": 1747058860183,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jece",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jece.geojson",
         "title": "M 2.9 - 58 km S of Whites City, New Mexico"
@@ -5403,9 +5483,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.466,
-          31.655,
-          5.8435
+          -104.47,
+          31.652,
+          5.946
         ]
       }
     },
@@ -6232,26 +6312,6 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1746928791894,
-        "updated": 1746930549276,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdrj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdrj.geojson",
-        "title": "M 1.5 - 58 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.464,
-          31.649,
-          3.6811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "mag": 2.2,
         "place": "57 km S of Whites City, New Mexico",
         "time": 1746927987921,
@@ -6386,26 +6446,6 @@
           -122.8355,
           38.8373333333333,
           1.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1746926442503,
-        "updated": 1746928501031,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdqg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdqg.geojson",
-        "title": "M 1.5 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.466,
-          31.672,
-          11.7924
         ]
       }
     },
@@ -6812,20 +6852,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.3,
-        "place": "52 km SSW of Whites City, New Mexico",
-        "time": 1746919863678,
-        "updated": 1746922696335,
+        "mag": 2.6,
+        "place": "55 km SSW of Whites City, New Mexico",
+        "time": 1746919862789,
+        "updated": 1747059917018,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdml",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdml.geojson",
-        "title": "M 2.3 - 52 km SSW of Whites City, New Mexico"
+        "title": "M 2.6 - 55 km SSW of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.524,
-          31.715,
-          4.3567
+          -104.579,
+          31.71,
+          5.3308
         ]
       }
     },
@@ -7053,19 +7093,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.9,
-        "place": "51 km W of Mentone, Texas",
-        "time": 1746915306684,
-        "updated": 1746915645512,
+        "place": "52 km W of Mentone, Texas",
+        "time": 1746915306408,
+        "updated": 1747059045909,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jdjy",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jdjy.geojson",
-        "title": "M 1.9 - 51 km W of Mentone, Texas"
+        "title": "M 1.9 - 52 km W of Mentone, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.142,
-          31.733,
-          5.0952
+          -104.148,
+          31.741,
+          7.6379
         ]
       }
     },
@@ -8332,6 +8372,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.92,
+        "place": "6 km ESE of West Yellowstone, Montana",
+        "time": 1746897603000,
+        "updated": 1747059715720,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107481",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107481.geojson",
+        "title": "M 1.9 - 6 km ESE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.027833333333,
+          44.6358333333333,
+          11.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.69,
         "place": "6 km WNW of Cobb, CA",
         "time": 1746897457530,
@@ -9235,7 +9295,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1747058511771,
+        "updated": 1747062010465,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -9792,20 +9852,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.2,
-        "place": "58 km SSW of Whites City, New Mexico",
-        "time": 1746874949154,
-        "updated": 1746875820080,
+        "mag": 2.1,
+        "place": "56 km SSW of Whites City, New Mexico",
+        "time": 1746874949561,
+        "updated": 1747061047137,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jcnv",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jcnv.geojson",
-        "title": "M 2.2 - 58 km SSW of Whites City, New Mexico"
+        "title": "M 2.1 - 56 km SSW of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.605,
-          31.683,
-          3.0012
+          -104.551,
+          31.693,
+          5.7281
         ]
       }
     },
@@ -38966,366 +39026,6 @@
           -122.807,
           38.8383333333333,
           2.05
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1746457342440,
-        "updated": 1747033937790,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176821",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176821.geojson",
-        "title": "M 0.3 - 3 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.778333333333,
-          38.796,
-          2.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "15 km SE of Lincoln, Montana",
-        "time": 1746457334150,
-        "updated": 1746540702350,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90082373",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90082373.geojson",
-        "title": "M 1.2 - 15 km SE of Lincoln, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.526833333333,
-          46.8613333333333,
-          12.06
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "135 km NW of Yakutat, Alaska",
-        "time": 1746457234467,
-        "updated": 1746720369632,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255qz3ygm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255qz3ygm.geojson",
-        "title": "M 1.5 - 135 km NW of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -141.64,
-          60.2909,
-          1.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.25,
-        "place": "55 km N of Isabela, Puerto Rico",
-        "time": 1746457117350,
-        "updated": 1746461009090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481463",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481463.geojson",
-        "title": "M 3.3 - 55 km N of Isabela, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.9545,
-          18.9976666666667,
-          9.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.4,
-        "place": "3 km W of Cobb, CA",
-        "time": 1746457092090,
-        "updated": 1746922935397,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176816.geojson",
-        "title": "M 0.4 - 3 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.763333333333,
-          38.8198333333333,
-          2.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.56,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1746456488200,
-        "updated": 1747030640423,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176811",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176811.geojson",
-        "title": "M 0.6 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.780333333333,
-          38.7956666666667,
-          3.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.31,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1746455687370,
-        "updated": 1746876479981,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176806",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176806.geojson",
-        "title": "M 0.3 - 4 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.780166666667,
-          38.8075,
-          1.37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "20 km NE of Saint Andrews, Canada",
-        "time": 1746455377781,
-        "updated": 1746575739040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px97",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px97.geojson",
-        "title": "M 2.2 - 20 km NE of Saint Andrews, Canada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8755,
-          45.2128,
-          11.548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "55 km S of Whites City, New Mexico",
-        "time": 1746455364970,
-        "updated": 1746463871530,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itrx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itrx.geojson",
-        "title": "M 1.5 - 55 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.423,
-          31.676,
-          6.4075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "55 km NW of Toyah, Texas",
-        "time": 1746455266313,
-        "updated": 1746462193162,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025itrv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025itrv.geojson",
-        "title": "M 2.0 - 55 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.201,
-          31.674,
-          5.6256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "18 km ESE of Julian, CA",
-        "time": 1746455175950,
-        "updated": 1746471832653,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145056",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145056.geojson",
-        "title": "M 0.8 - 18 km ESE of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4096667,
-          33.0365,
-          7.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.82,
-        "place": "10 km WSW of Petrolia, CA",
-        "time": 1746454954460,
-        "updated": 1746459740153,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176796",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176796.geojson",
-        "title": "M 1.8 - 10 km WSW of Petrolia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.379669189453,
-          40.2765007019043,
-          20.9599990844727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.79,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1746454798360,
-        "updated": 1747033035684,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176791",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176791.geojson",
-        "title": "M 2.8 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.779,
-          38.7935,
-          3.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.61,
-        "place": "1 km SW of Pāhala, Hawaii",
-        "time": 1746454661810,
-        "updated": 1746468945010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74666162",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74666162.geojson",
-        "title": "M 2.6 - 1 km SW of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.488166666667,
-          19.1941666666667,
-          33.62
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.25,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1746454562430,
-        "updated": 1746961937663,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176781",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176781.geojson",
-        "title": "M 0.3 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.781333333333,
-          38.7953333333333,
-          3.02
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.24,
-        "place": "3 km SE of The Geysers, CA",
-        "time": 1746454260540,
-        "updated": 1746876329741,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176776",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176776.geojson",
-        "title": "M 0.2 - 3 km SE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7355,
-          38.7613333333333,
-          1.58
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "53 km E of Khorugh, Tajikistan",
-        "time": 1746454257828,
-        "updated": 1746455391040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000px93",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000px93.geojson",
-        "title": "M 4.3 - 53 km E of Khorugh, Tajikistan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.1541,
-          37.5508,
-          177.284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.23,
-        "place": "40 km NW of Stanley, Idaho",
-        "time": 1746454084490,
-        "updated": 1746539798300,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90082018",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90082018.geojson",
-        "title": "M 2.2 - 40 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.235,
-          44.508,
-          15.39
         ]
       }
     }
