@@ -1,91 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747026201000,
+    "generated": 1747029804000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.64,
-        "place": "20 km E of Little Lake, CA",
-        "time": 1747025468770,
-        "updated": 1747025595240,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151272",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151272.geojson",
-        "title": "M 1.6 - 20 km E of Little Lake, CA"
+        "mag": 0.29,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747028647200,
+        "updated": 1747028745280,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180111",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180111.geojson",
+        "title": "M 0.3 - 8 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6926651,
-          35.9025002,
-          8.15
+          -122.808166503906,
+          38.8388328552246,
+          1.91999995708466
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.44,
-        "place": "10 km WSW of Niland, CA",
-        "time": 1747025013320,
-        "updated": 1747025225009,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151264",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151264.geojson",
-        "title": "M 1.4 - 10 km WSW of Niland, CA"
+        "mag": 0.59,
+        "place": "13 km SE of Anza, CA",
+        "time": 1747028635780,
+        "updated": 1747028844384,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151280",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151280.geojson",
+        "title": "M 0.6 - 13 km SE of Anza, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.6063333,
-          33.1921667,
-          3.1
+          -116.5701667,
+          33.4726667,
+          10.94
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "15 km NW of Lake Pillsbury, CA",
-        "time": 1747024514340,
-        "updated": 1747025539866,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180096",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180096.geojson",
-        "title": "M 1.5 - 15 km NW of Lake Pillsbury, CA"
+        "mag": 0.73,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747027417220,
+        "updated": 1747028538197,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180106",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180106.geojson",
+        "title": "M 0.7 - 6 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.113502502441,
-          39.4696655273438,
-          0.759999990463257
+          -122.795166015625,
+          38.8371658325195,
+          1.83000004291534
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.75,
-        "place": "15 km NW of Lake Pillsbury, CA",
-        "time": 1747023906550,
-        "updated": 1747024638769,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180091",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180091.geojson",
-        "title": "M 2.8 - 15 km NW of Lake Pillsbury, CA"
+        "mag": 2.3,
+        "place": "59 km NW of Toyah, Texas",
+        "time": 1747027260237,
+        "updated": 1747028065257,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jftm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jftm.geojson",
+        "title": "M 2.3 - 59 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.110168457031,
-          39.4698333740234,
-          -0.990000009536743
+          -104.311,
+          31.623,
+          4.2935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "44 km N of Valdez, Alaska",
+        "time": 1747027087456,
+        "updated": 1747027211890,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562e0uo9",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562e0uo9.geojson",
+        "title": "M 1.4 - 44 km N of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3599,
+          61.5328,
+          17.6
         ]
       }
     }
