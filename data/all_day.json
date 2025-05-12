@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747033339000,
+    "generated": 1747037018000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 218
+    "count": 210
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "2 km E of Big Pine, CA",
+        "time": 1747035735080,
+        "updated": 1747035897416,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180151",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180151.geojson",
+        "title": "M 2.7 - 2 km E of Big Pine, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.262832641602,
+          37.1718330383301,
+          2.3199999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.74,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747034649940,
+        "updated": 1747034745754,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180146",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180146.geojson",
+        "title": "M 0.7 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.776168823242,
+          38.798168182373,
+          2.34999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.75,
+        "place": "2 km ESE of Banning, CA",
+        "time": 1747033791910,
+        "updated": 1747034080753,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151328",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151328.geojson",
+        "title": "M 0.8 - 2 km ESE of Banning, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8553333,
+          33.9178333,
+          12.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.1,
+        "place": "5 km S of Indios, Puerto Rico",
+        "time": 1747033667590,
+        "updated": 1747035525550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482183",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482183.geojson",
+        "title": "M 3.1 - 5 km S of Indios, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8228333333333,
+          17.9435,
+          10.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "2 km ESE of Cabazon, CA",
+        "time": 1747033429130,
+        "updated": 1747033679516,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151320",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151320.geojson",
+        "title": "M 0.8 - 2 km ESE of Cabazon, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7641667,
+          33.9135,
+          18.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "3 km NE of The Geysers, CA",
+        "time": 1747033289780,
+        "updated": 1747035137936,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180131",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180131.geojson",
+        "title": "M 1.5 - 3 km NE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.738670349121,
+          38.7968330383301,
+          0.899999976158142
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.79,
         "place": "3 km NW of The Geysers, CA",
         "time": 1747033234550,
-        "updated": 1747033330881,
+        "updated": 1747034538870,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180126",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180126.geojson",
         "title": "M 0.8 - 3 km NW of The Geysers, CA"
@@ -35,7 +155,7 @@
         "mag": 1.59,
         "place": "2 km NNE of Diamond Bar, CA",
         "time": 1747033024540,
-        "updated": 1747033275781,
+        "updated": 1747033703230,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151312",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151312.geojson",
         "title": "M 1.6 - 2 km NNE of Diamond Bar, CA"
@@ -326,6 +446,26 @@
           -123.110168457031,
           39.4698333740234,
           -0.990000009536743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "53 km NW of Ninilchik, Alaska",
+        "time": 1747023774041,
+        "updated": 1747035905634,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562dgdos",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562dgdos.geojson",
+        "title": "M 1.5 - 53 km NW of Ninilchik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.3664,
+          60.378,
+          85.6
         ]
       }
     },
@@ -675,7 +815,7 @@
         "mag": 2.5,
         "place": "6 km ESE of Madison, Ohio",
         "time": 1747018073691,
-        "updated": 1747031887517,
+        "updated": 1747035722500,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrd",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrd.geojson",
         "title": "M 2.5 - 6 km ESE of Madison, Ohio"
@@ -3235,7 +3375,7 @@
         "mag": 5.9,
         "place": "5 km NNW of Port-Vila, Vanuatu",
         "time": 1746962541617,
-        "updated": 1747016821422,
+        "updated": 1747035878683,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyn1",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyn1.geojson",
         "title": "M 5.9 - 5 km NNW of Port-Vila, Vanuatu"
@@ -4066,306 +4206,6 @@
           -116.6933333,
           33.3648333,
           13.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.64,
-        "place": "5 km WNW of Borrego Springs, CA",
-        "time": 1746950592920,
-        "updated": 1746972833499,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150744",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150744.geojson",
-        "title": "M 0.6 - 5 km WNW of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4241667,
-          33.2715,
-          5.07
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "38 km SSE of Nelchina, Alaska",
-        "time": 1746950283723,
-        "updated": 1746950396293,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560rwxqs",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560rwxqs.geojson",
-        "title": "M 1.1 - 38 km SSE of Nelchina, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.5388,
-          61.6661,
-          29.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.9,
-        "place": "80 km NNW of Karluk, Alaska",
-        "time": 1746949530441,
-        "updated": 1746950561040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560ru7ie",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560ru7ie.geojson",
-        "title": "M 2.9 - 80 km NNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.9385,
-          58.2475,
-          111.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.75,
-        "place": "11 km SE of High Bridge, Kentucky",
-        "time": 1746949278000,
-        "updated": 1747016087115,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60503568",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60503568.geojson",
-        "title": "M 2.8 - 11 km SE of High Bridge, Kentucky"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.6118333333333,
-          37.7596666666667,
-          29.68
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.63,
-        "place": "4 km SW of San Bernardino, CA",
-        "time": 1746948865680,
-        "updated": 1746990016930,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150736",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150736.geojson",
-        "title": "M 1.6 - 4 km SW of San Bernardino, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3235,
-          34.1075,
-          17.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "4 km SE of Tres Pinos, CA",
-        "time": 1746948853660,
-        "updated": 1746951140537,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179696.geojson",
-        "title": "M 1.1 - 4 km SE of Tres Pinos, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.277496337891,
-          36.7686653137207,
-          9.02000045776367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.96,
-        "place": "70 km N of Tierras Nuevas Poniente, Puerto Rico",
-        "time": 1746948448720,
-        "updated": 1746952706650,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482013",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482013.geojson",
-        "title": "M 3.0 - 70 km N of Tierras Nuevas Poniente, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.4615,
-          19.101,
-          29.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.12,
-        "place": "71 km N of Tierras Nuevas Poniente, Puerto Rico",
-        "time": 1746948297790,
-        "updated": 1746951048680,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71481998",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71481998.geojson",
-        "title": "M 3.1 - 71 km N of Tierras Nuevas Poniente, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.4445,
-          19.1056666666667,
-          30.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.71,
-        "place": "16 km SE of Pinnacles, CA",
-        "time": 1746948184680,
-        "updated": 1746953537777,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179691",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179691.geojson",
-        "title": "M 1.7 - 16 km SE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.011169433594,
-          36.4328346252441,
-          8.1899995803833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "24 km W of Lima, Montana",
-        "time": 1746947907620,
-        "updated": 1746971691190,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90084138",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90084138.geojson",
-        "title": "M 1.3 - 24 km W of Lima, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.896666666667,
-          44.6661666666667,
-          9.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "89 km E of Cantwell, Alaska",
-        "time": 1746947894041,
-        "updated": 1746948006706,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560rodwc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560rodwc.geojson",
-        "title": "M 1.4 - 89 km E of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.1736,
-          63.5088,
-          6.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.54,
-        "place": "22 km SE of Pinnacles, CA",
-        "time": 1746947746160,
-        "updated": 1746952038616,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75179686",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75179686.geojson",
-        "title": "M 1.5 - 22 km SE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.929336547852,
-          36.431999206543,
-          18.9500007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4,
-        "place": "180 km SE of Kushimoto, Japan",
-        "time": 1746947735226,
-        "updated": 1746948780040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyj0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyj0.geojson",
-        "title": "M 4.0 - 180 km SE of Kushimoto, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.2563,
-          32.4199,
-          413.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.9,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1746947164174,
-        "updated": 1746953232015,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jece",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jece.geojson",
-        "title": "M 2.9 - 58 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.466,
-          31.655,
-          5.8435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "54 km NW of Toyah, Texas",
-        "time": 1746947126412,
-        "updated": 1746948133880,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jecd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jecd.geojson",
-        "title": "M 2.0 - 54 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.202,
-          31.655,
-          3.246
         ]
       }
     }
