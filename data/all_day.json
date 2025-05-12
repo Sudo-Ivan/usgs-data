@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747069318000,
+    "generated": 1747072999000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 195
+    "count": 199
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.01,
+        "place": "13 km NW of The Geysers, CA",
+        "time": 1747072687670,
+        "updated": 1747072814530,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181172",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181172.geojson",
+        "title": "M 1.0 - 13 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.876663208008,
+          38.8400001525879,
+          2.41000008583069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747072415000,
+        "updated": 1747072540340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181157",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181157.geojson",
+        "title": "M 0.7 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.810333251953,
+          38.8388328552246,
+          1.86000001430511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "21 km ENE of Skwentna, Alaska",
+        "time": 1747071735193,
+        "updated": 1747071867503,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562lb7pr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562lb7pr.geojson",
+        "title": "M 1.4 - 21 km ENE of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0133,
+          62.0595,
+          68.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.3,
+        "place": "44 km WNW of Tatitlek, Alaska",
+        "time": 1747071330718,
+        "updated": 1747072971553,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562l9qtr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562l9qtr.geojson",
+        "title": "M 3.3 - 44 km WNW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4782,
+          60.948,
+          27.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "52 km W of Mentone, Texas",
+        "time": 1747070707767,
+        "updated": 1747071308615,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jgrj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jgrj.geojson",
+        "title": "M 1.8 - 52 km W of Mentone, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.154,
+          31.735,
+          5.6348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "40 km ENE of Petropavlovsk-Kamchatsky, Russia",
+        "time": 1747070235241,
+        "updated": 1747071517040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyvu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyvu.geojson",
+        "title": "M 4.5 - 40 km ENE of Petropavlovsk-Kamchatsky, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.2043,
+          53.1865,
+          84.211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.1,
+        "place": "145 km WNW of Tobelo, Indonesia",
+        "time": 1747069300278,
+        "updated": 1747070349040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyvj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyvj.geojson",
+        "title": "M 5.1 - 145 km WNW of Tobelo, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7615,
+          2.1083,
+          39.844
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -95,7 +235,7 @@
         "mag": 0.88,
         "place": "1 km SE of The Geysers, CA",
         "time": 1747066650480,
-        "updated": 1747066749577,
+        "updated": 1747069637726,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180401",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180401.geojson",
         "title": "M 0.9 - 1 km SE of The Geysers, CA"
@@ -435,7 +575,7 @@
         "mag": 5,
         "place": "94 km SE of Palca, Peru",
         "time": 1747061870443,
-        "updated": 1747063435400,
+        "updated": 1747071372429,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pytn",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pytn.geojson",
         "title": "M 5.0 - 94 km SE of Palca, Peru"
@@ -732,20 +872,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "79 km NE of Tonopah, Nevada",
-        "time": 1747055413845,
-        "updated": 1747055577415,
+        "mag": 1.7,
+        "place": "77 km NE of Tonopah, Nevada",
+        "time": 1747055414296,
+        "updated": 1747069705387,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897504",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897504.geojson",
-        "title": "M 1.8 - 79 km NE of Tonopah, Nevada"
+        "title": "M 1.7 - 77 km NE of Tonopah, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.4952,
-          38.4896,
-          2.5
+          -116.4968,
+          38.465,
+          7.1
         ]
       }
     },
@@ -992,6 +1132,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.86,
+        "place": "19 km SSW of Irwin, Idaho",
+        "time": 1747048073430,
+        "updated": 1747072070570,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90084488",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90084488.geojson",
+        "title": "M 1.9 - 19 km SSW of Irwin, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.404833333333,
+          43.2555,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.78,
         "place": "6 km NNW of The Geysers, CA",
         "time": 1747047016170,
@@ -1135,7 +1295,7 @@
         "mag": 3.1,
         "place": "12 km SSE of Wasilla, Alaska",
         "time": 1747042117011,
-        "updated": 1747068461775,
+        "updated": 1747072691488,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562ggsg0",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562ggsg0.geojson",
         "title": "M 3.1 - 12 km SSE of Wasilla, Alaska"
@@ -1852,10 +2012,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.64,
+        "mag": 1.63,
         "place": "20 km E of Little Lake, CA",
-        "time": 1747025468770,
-        "updated": 1747025595240,
+        "time": 1747025468700,
+        "updated": 1747071901417,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151272",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151272.geojson",
         "title": "M 1.6 - 20 km E of Little Lake, CA"
@@ -1863,9 +2023,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6926651,
-          35.9025002,
-          8.15
+          -117.6921667,
+          35.9026667,
+          8.85
         ]
       }
     },
@@ -2006,6 +2166,26 @@
           -65.1018333333333,
           18.5921666666667,
           28.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.85,
+        "place": "32 km NW of Stanley, Idaho",
+        "time": 1747021703670,
+        "updated": 1747070065650,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90084463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90084463.geojson",
+        "title": "M 1.9 - 32 km NW of Stanley, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.194666666667,
+          44.4456666666667,
+          3.59
         ]
       }
     },
@@ -2295,7 +2475,7 @@
         "mag": 2.5,
         "place": "6 km ESE of Madison, Ohio",
         "time": 1747018073691,
-        "updated": 1747069136343,
+        "updated": 1747072664283,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrd",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrd.geojson",
         "title": "M 2.5 - 6 km ESE of Madison, Ohio"
@@ -2452,10 +2632,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.89,
+        "mag": 0.86,
         "place": "9 km ESE of Running Springs, CA",
         "time": 1747015835510,
-        "updated": 1747016073628,
+        "updated": 1747072288452,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151184",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151184.geojson",
         "title": "M 0.9 - 9 km ESE of Running Springs, CA"
@@ -2463,9 +2643,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0198333,
-          34.1848333,
-          2.57
+          -117.0183333,
+          34.1866667,
+          2.43
         ]
       }
     },
@@ -2506,6 +2686,26 @@
           -117.0193333,
           34.1885,
           3.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.71,
+        "place": "19 km N of Stanley, Idaho",
+        "time": 1747015208520,
+        "updated": 1747069542340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90084433",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90084433.geojson",
+        "title": "M 1.7 - 19 km N of Stanley, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.941,
+          44.3885,
+          2.97
         ]
       }
     },
@@ -2572,6 +2772,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.35,
+        "place": "13 km W of Akutan, Alaska",
+        "time": 1747013635550,
+        "updated": 1747072531780,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93604261",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93604261.geojson",
+        "title": "M 0.4 - 13 km W of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.9865,
+          54.1455,
+          3.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.79,
         "place": "5 km NNW of The Geysers, CA",
         "time": 1747013620990,
@@ -2595,7 +2815,7 @@
         "mag": 4.3,
         "place": "9 km ESE of Ciudad General Terán, Mexico",
         "time": 1747013378630,
-        "updated": 1747030749042,
+        "updated": 1747072479248,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyr1",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyr1.geojson",
         "title": "M 4.3 - 9 km ESE of Ciudad General Terán, Mexico"
@@ -2772,10 +2992,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.04,
+        "mag": 1.03,
         "place": "16 km W of Searles Valley, CA",
-        "time": 1747008154750,
-        "updated": 1747008362896,
+        "time": 1747008154780,
+        "updated": 1747071322372,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151144",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151144.geojson",
         "title": "M 1.0 - 16 km W of Searles Valley, CA"
@@ -2783,9 +3003,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.5866667,
-          35.7725,
-          10.91
+          -117.5863333,
+          35.778,
+          10.9
         ]
       }
     },
@@ -3255,7 +3475,7 @@
         "mag": 5.6,
         "place": "124 km W of Rikaze, China",
         "time": 1746997882072,
-        "updated": 1747053285480,
+        "updated": 1747069774040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyq7",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyq7.geojson",
         "title": "M 5.6 - 124 km W of Rikaze, China"
@@ -3312,10 +3532,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.61,
+        "mag": 0.63,
         "place": "16 km N of Borrego Springs, CA",
-        "time": 1746996522960,
-        "updated": 1746996756733,
+        "time": 1746996522940,
+        "updated": 1747070394245,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151040",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151040.geojson",
         "title": "M 0.6 - 16 km N of Borrego Springs, CA"
@@ -3323,9 +3543,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.372,
+          -116.3701667,
           33.3983333,
-          7.35
+          7.6
         ]
       }
     },
@@ -3766,146 +3986,6 @@
           -117.6225,
           35.799,
           8.93
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.8,
-        "place": "71 km ENE of Chase, Alaska",
-        "time": 1746985840564,
-        "updated": 1746986448040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560xtmzn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560xtmzn.geojson",
-        "title": "M 2.8 - 71 km ENE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.7775,
-          62.6447,
-          19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "27 km W of Port-Vila, Vanuatu",
-        "time": 1746985116561,
-        "updated": 1747001422167,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pypf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pypf.geojson",
-        "title": "M 4.7 - 27 km W of Port-Vila, Vanuatu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          168.0526,
-          -17.7043,
-          25.396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.17,
-        "place": "10 km E of Chickasha, Oklahoma",
-        "time": 1746984499870,
-        "updated": 1747057915093,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jevz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jevz.geojson",
-        "title": "M 1.2 - 10 km E of Chickasha, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.82416667,
-          35.0455,
-          12.51
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1746984274231,
-        "updated": 1747057333713,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jewh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jewh.geojson",
-        "title": "M 1.8 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.368,
-          31.668,
-          6.6125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "55 km WNW of Happy Valley, Alaska",
-        "time": 1746984246613,
-        "updated": 1746984380928,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02560xnzo5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02560xnzo5.geojson",
-        "title": "M 1.6 - 55 km WNW of Happy Valley, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6491,
-          60.1346,
-          86.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "2 km NNW of San Bernardino, CA",
-        "time": 1746983324280,
-        "updated": 1746984793741,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41150944",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41150944.geojson",
-        "title": "M 1.3 - 2 km NNW of San Bernardino, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3015,
-          34.1441667,
-          8.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "West Chile Rise",
-        "time": 1746983124541,
-        "updated": 1746985584040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pypd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pypd.geojson",
-        "title": "M 4.7 - West Chile Rise"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.281,
-          -44.3377,
-          10
         ]
       }
     }
