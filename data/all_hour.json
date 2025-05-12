@@ -1,31 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747055470000,
+    "generated": 1747058580000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.7,
-        "place": "14 km ENE of Borrego Springs, CA",
-        "time": 1747054780550,
-        "updated": 1747055019677,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151392",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151392.geojson",
-        "title": "M 0.7 - 14 km ENE of Borrego Springs, CA"
+        "mag": 1.42,
+        "place": "10 km NNW of Borrego Springs, CA",
+        "time": 1747058391650,
+        "updated": 1747058517137,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151432",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151432.geojson",
+        "title": "M 1.4 - 10 km NNW of Borrego Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.2333333,
-          33.2901667,
-          2.25
+          -116.425499,
+          33.3406677,
+          8.96
         ]
       }
     },
@@ -33,39 +33,119 @@
       "type": "Feature",
       "properties": {
         "mag": 1.7,
-        "place": "24 km SSW of Los Ybanez, Texas",
-        "time": 1747053640771,
-        "updated": 1747054185390,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jgif",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jgif.geojson",
-        "title": "M 1.7 - 24 km SSW of Los Ybanez, Texas"
+        "place": "25 km W of Ninilchik, Alaska",
+        "time": 1747057534675,
+        "updated": 1747057681803,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562iy5y3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562iy5y3.geojson",
+        "title": "M 1.7 - 25 km W of Ninilchik, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.978,
-          32.507,
-          0.428
+          -152.1253,
+          60.0887,
+          60.7
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.87,
-        "place": "4 km W of Cobb, CA",
-        "time": 1747053633700,
-        "updated": 1747054638049,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180261",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180261.geojson",
-        "title": "M 0.9 - 4 km W of Cobb, CA"
+        "mag": 2.20000005,
+        "place": "6 km NW of Ridgely, Tennessee",
+        "time": 1747057403780,
+        "updated": 1747057719770,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606031",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606031.geojson",
+        "title": "M 2.2 - 6 km NW of Ridgely, Tennessee"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.76782989502,
-          38.8206672668457,
-          1.4099999666214
+          -89.5380020141602,
+          36.3068351745605,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.61,
+        "place": "10 km ENE of Nuevo, CA",
+        "time": 1747057005980,
+        "updated": 1747057664800,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151424",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151424.geojson",
+        "title": "M 1.6 - 10 km ENE of Nuevo, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0468333,
+          33.8401667,
+          14.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "10 km WNW of Cobb, CA",
+        "time": 1747056505460,
+        "updated": 1747057640409,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180281",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180281.geojson",
+        "title": "M 0.7 - 10 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.838500976562,
+          38.8453330993652,
+          1.79999995231628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "55 km SE of Denali National Park, Alaska",
+        "time": 1747056020362,
+        "updated": 1747056141858,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562isrxw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562isrxw.geojson",
+        "title": "M 1.8 - 55 km SE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.8428,
+          63.2423,
+          34.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "79 km NE of Tonopah, Nevada",
+        "time": 1747055413845,
+        "updated": 1747055577415,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897504.geojson",
+        "title": "M 1.8 - 79 km NE of Tonopah, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4952,
+          38.4896,
+          2.5
         ]
       }
     }
