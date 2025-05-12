@@ -1,191 +1,171 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747017120000,
+    "generated": 1747020084000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 8
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "27 km W of Valdez, Alaska",
-        "time": 1747016471434,
-        "updated": 1747016611779,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562c97bb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562c97bb.geojson",
-        "title": "M 1.5 - 27 km W of Valdez, Alaska"
+        "mag": 2.99,
+        "place": "9 km NNW of Prague, Oklahoma",
+        "time": 1747019764872,
+        "updated": 1747020132703,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jfpj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jfpj.geojson",
+        "title": "M 3.0 - 9 km NNW of Prague, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.8571,
-          61.151,
-          14.8
+          -96.73213196,
+          35.56124115,
+          3.908590794
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.94,
-        "place": "4 km NE of Ocotillo Wells, CA",
-        "time": 1747016241350,
-        "updated": 1747016476551,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151192.geojson",
-        "title": "M 0.9 - 4 km NE of Ocotillo Wells, CA"
+        "mag": 0.92,
+        "place": "16 km ENE of Borrego Springs, CA",
+        "time": 1747019536760,
+        "updated": 1747019746017,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151208",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151208.geojson",
+        "title": "M 0.9 - 16 km ENE of Borrego Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.1056667,
-          33.1668333,
-          10.77
+          -116.234,
+          33.3345,
+          11.4
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.89,
+        "mag": 1.4,
+        "place": "52 km WSW of Anchor Point, Alaska",
+        "time": 1747018871911,
+        "updated": 1747019004332,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562cqcmv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562cqcmv.geojson",
+        "title": "M 1.4 - 52 km WSW of Anchor Point, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7242,
+          59.6324,
+          100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747018242980,
+        "updated": 1747019236155,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180036",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180036.geojson",
+        "title": "M 0.7 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.836166381836,
+          38.8358345031738,
+          1.78999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "6 km ESE of Madison, Ohio",
+        "time": 1747018073691,
+        "updated": 1747019849030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrd.geojson",
+        "title": "M 2.5 - 6 km ESE of Madison, Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9795,
+          41.7398,
+          5.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "35 km SE of Denali National Park, Alaska",
+        "time": 1747017775621,
+        "updated": 1747017900028,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562cdsre",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562cdsre.geojson",
+        "title": "M 1.3 - 35 km SE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2251,
+          63.3088,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "6 km NW of Willow, Alaska",
+        "time": 1747017334803,
+        "updated": 1747017434739,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562cc954",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562cc954.geojson",
+        "title": "M 1.1 - 6 km NW of Willow, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.1107,
+          61.7989,
+          34.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.95,
         "place": "9 km ESE of Running Springs, CA",
-        "time": 1747015835510,
-        "updated": 1747016073628,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151184",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151184.geojson",
-        "title": "M 0.9 - 9 km ESE of Running Springs, CA"
+        "time": 1747016922330,
+        "updated": 1747017188667,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151200",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151200.geojson",
+        "title": "M 1.0 - 9 km ESE of Running Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0198333,
-          34.1848333,
-          2.57
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "33 km ENE of Pedro Bay, Alaska",
-        "time": 1747015402130,
-        "updated": 1747015552044,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562c5d91",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562c5d91.geojson",
-        "title": "M 2.0 - 33 km ENE of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.5499,
-          59.9023,
-          141.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.15,
-        "place": "8 km ESE of Running Springs, CA",
-        "time": 1747015375180,
-        "updated": 1747015975082,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151176",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151176.geojson",
-        "title": "M 1.2 - 8 km ESE of Running Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0193333,
-          34.1885,
-          3.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "2 km SW of Indios, Puerto Rico",
-        "time": 1747015037510,
-        "updated": 1747016135490,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482153",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482153.geojson",
-        "title": "M 2.0 - 2 km SW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8411666666667,
-          17.9801666666667,
-          14.37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.27,
-        "place": "2 km WSW of Indios, Puerto Rico",
-        "time": 1747013958660,
-        "updated": 1747014706250,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482138",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482138.geojson",
-        "title": "M 2.3 - 2 km WSW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8368333333333,
-          17.9838333333333,
-          12.85
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "34 km N of Cordova, Alaska",
-        "time": 1747013681541,
-        "updated": 1747013792173,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562bqmca",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562bqmca.geojson",
-        "title": "M 1.2 - 34 km N of Cordova, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -145.7206,
-          60.8523,
-          25.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.79,
-        "place": "5 km NNW of The Geysers, CA",
-        "time": 1747013620990,
-        "updated": 1747015644821,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180016",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180016.geojson",
-        "title": "M 0.8 - 5 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.792503356934,
-          38.8079986572266,
-          2.08999991416931
+          -117.0188333,
+          34.1863333,
+          3.26
         ]
       }
     }

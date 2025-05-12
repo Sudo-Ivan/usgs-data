@@ -1,12 +1,33 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747017107000,
+    "generated": 1747020091000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson",
     "title": "USGS Significant Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 0
+    "count": 1
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.6,
+        "place": "124 km W of Rikaze, China",
+        "time": 1746997882072,
+        "updated": 1747018608189,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyq7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyq7.geojson",
+        "title": "M 5.6 - 124 km W of Rikaze, China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6281,
+          29.0505,
+          9
+        ]
+      }
+    }
+  ]
 }
