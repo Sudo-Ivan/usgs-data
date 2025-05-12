@@ -1,71 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747062144000,
+    "generated": 1747065756000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.07,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1747060017830,
-        "updated": 1747061838874,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180286",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180286.geojson",
-        "title": "M 1.1 - 3 km NNW of The Geysers, CA"
+        "mag": 1.51,
+        "place": "13 km ENE of Borrego Springs, CA",
+        "time": 1747065084210,
+        "updated": 1747065704530,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151560",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151560.geojson",
+        "title": "M 1.5 - 13 km ENE of Borrego Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.778167724609,
-          38.7961654663086,
-          3.11999988555908
+          -116.2371667,
+          33.2816667,
+          3.27
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "16 km ENE of Talkeetna, Alaska",
-        "time": 1747059000373,
-        "updated": 1747059102980,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jc0ud",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jc0ud.geojson",
-        "title": "M 1.4 - 16 km ENE of Talkeetna, Alaska"
+        "mag": 1.9,
+        "place": "44 km SE of Nelchina, Alaska",
+        "time": 1747064796292,
+        "updated": 1747064894965,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562k58zx",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562k58zx.geojson",
+        "title": "M 1.9 - 44 km SE of Nelchina, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.8154,
-          62.3727,
-          16
+          -146.2641,
+          61.6733,
+          56.7
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.9,
-        "place": "6 km NNE of Badger, Alaska",
-        "time": 1747058801919,
-        "updated": 1747058956246,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562jb96n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562jb96n.geojson",
-        "title": "M 0.9 - 6 km NNE of Badger, Alaska"
+        "mag": 0.79,
+        "place": "5 km NW of The Geysers, CA",
+        "time": 1747064363300,
+        "updated": 1747064459386,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180376",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180376.geojson",
+        "title": "M 0.8 - 5 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.4814,
-          64.8551,
-          18.3
+          -122.804000854492,
+          38.7939987182617,
+          10.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747063858870,
+        "updated": 1747063954360,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180371",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180371.geojson",
+        "title": "M 0.8 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.816497802734,
+          38.8351669311523,
+          1.91999995708466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.69,
+        "place": "3 km SE of The Geysers, CA",
+        "time": 1747062868950,
+        "updated": 1747065440266,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180351",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180351.geojson",
+        "title": "M 2.7 - 3 km SE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.730667114258,
+          38.7648315429688,
+          2.11999988555908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.97,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747062574610,
+        "updated": 1747065439265,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180336",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180336.geojson",
+        "title": "M 1.0 - 10 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.849334716797,
+          38.8271675109863,
+          9.82999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.23,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747062165000,
+        "updated": 1747062259145,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180326",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180326.geojson",
+        "title": "M 0.2 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.798164367676,
+          38.8363342285156,
+          2.03999996185303
         ]
       }
     }
