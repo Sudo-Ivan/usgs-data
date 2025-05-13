@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747112556000,
+    "generated": 1747116192000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 212
+    "count": 213
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "7 km WNW of Palomar Observatory, CA",
+        "time": 1747115009400,
+        "updated": 1747115245810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152056",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152056.geojson",
+        "title": "M 1.1 - 7 km WNW of Palomar Observatory, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9331667,
+          33.3816667,
+          11.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "23 km WSW of Point MacKenzie, Alaska",
+        "time": 1747114886610,
+        "updated": 1747115015325,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025641p645",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025641p645.geojson",
+        "title": "M 1.4 - 23 km WSW of Point MacKenzie, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.4023,
+          61.2981,
+          46.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "173 km W of Gorontalo, Indonesia",
+        "time": 1747114870138,
+        "updated": 1747115852040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyy2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyy2.geojson",
+        "title": "M 4.4 - 173 km W of Gorontalo, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5159,
+          0.6925,
+          100.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.83,
+        "place": "26 km SE of El Negro, Puerto Rico",
+        "time": 1747113655070,
+        "updated": 1747115378150,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482268",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482268.geojson",
+        "title": "M 2.8 - 26 km SE of El Negro, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6586666666667,
+          17.8841666666667,
+          11.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747113012450,
+        "updated": 1747115238119,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181377",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181377.geojson",
+        "title": "M 1.3 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81600189209,
+          38.8178329467773,
+          2.24000000953674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.29,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747112770930,
+        "updated": 1747114640054,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181372",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181372.geojson",
+        "title": "M 1.3 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795997619629,
+          38.8428344726562,
+          1.97000002861023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.09,
+        "place": "21 km ESE of Little Lake, CA",
+        "time": 1747112755900,
+        "updated": 1747112966046,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152048",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152048.geojson",
+        "title": "M 1.1 - 21 km ESE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6818333,
+          35.8745,
+          7.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.87,
+        "place": "8 km NW of The Geysers, CA",
+        "time": 1747112552770,
+        "updated": 1747115836191,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181367",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181367.geojson",
+        "title": "M 0.9 - 8 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823165893555,
+          38.820499420166,
+          2.5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 3.31,
         "place": "6 km SSW of Lerna, Illinois",
         "time": 1747111429620,
-        "updated": 1747112538480,
+        "updated": 1747116123040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606081",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606081.geojson",
         "title": "M 3.3 - 6 km SSW of Lerna, Illinois"
@@ -155,7 +315,7 @@
         "mag": 2.32,
         "place": "3 km W of Orinda, CA",
         "time": 1747108553520,
-        "updated": 1747111514045,
+        "updated": 1747115172837,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181352",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181352.geojson",
         "title": "M 2.3 - 3 km W of Orinda, CA"
@@ -755,7 +915,7 @@
         "mag": 4.9,
         "place": "30 km NE of Firá, Greece",
         "time": 1747092609780,
-        "updated": 1747112262081,
+        "updated": 1747116011189,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyx9",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyx9.geojson",
         "title": "M 4.9 - 30 km NE of Firá, Greece"
@@ -1426,6 +1586,26 @@
           -116.7163333,
           33.7078333,
           18.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.33,
+        "place": "22 km ENE of Ashford, Washington",
+        "time": 1747081052820,
+        "updated": 1747082204760,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098142",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098142.geojson",
+        "title": "M 0.3 - 22 km ENE of Ashford, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76316666666666,
+          46.846,
+          0.56
         ]
       }
     },
@@ -4086,166 +4266,6 @@
           -32.6304,
           -55.017,
           10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "8 km N of Nash, Oklahoma",
-        "time": 1747028733880,
-        "updated": 1747058814627,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jfuh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jfuh.geojson",
-        "title": "M 1.5 - 8 km N of Nash, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.03233333,
-          36.744,
-          7.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747028647200,
-        "updated": 1747032138586,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180111",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180111.geojson",
-        "title": "M 0.3 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.808166503906,
-          38.8388328552246,
-          1.91999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.59,
-        "place": "13 km SE of Anza, CA",
-        "time": 1747028635780,
-        "updated": 1747059056870,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151280",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151280.geojson",
-        "title": "M 0.6 - 13 km SE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5701667,
-          33.4726667,
-          10.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "5 km WSW of Mount Vernon, Washington",
-        "time": 1747028597630,
-        "updated": 1747089171023,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62097907",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62097907.geojson",
-        "title": "M 1.7 - 5 km WSW of Mount Vernon, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4015,
-          48.4095,
-          8.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "43 km SW of Beringovskiy, Russia",
-        "time": 1747028179088,
-        "updated": 1747057019040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrx.geojson",
-        "title": "M 4.4 - 43 km SW of Beringovskiy, Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          178.635,
-          62.8438,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747027417220,
-        "updated": 1747028538197,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180106",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180106.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795166015625,
-          38.8371658325195,
-          1.83000004291534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "60 km NW of Toyah, Texas",
-        "time": 1747027260187,
-        "updated": 1747055630524,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jftm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jftm.geojson",
-        "title": "M 2.3 - 60 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.309,
-          31.631,
-          6.3306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "44 km N of Valdez, Alaska",
-        "time": 1747027087456,
-        "updated": 1747027211890,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02562e0uo9",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02562e0uo9.geojson",
-        "title": "M 1.4 - 44 km N of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.3599,
-          61.5328,
-          17.6
         ]
       }
     }
