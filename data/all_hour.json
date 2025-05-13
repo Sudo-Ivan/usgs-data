@@ -1,191 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747170126000,
+    "generated": 1747173765000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 5.9,
-        "place": "235 km SW of La Cruz de Loreto, Mexico",
-        "time": 1747168984215,
-        "updated": 1747169977040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz23",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz23.geojson",
-        "title": "M 5.9 - 235 km SW of La Cruz de Loreto, Mexico"
+        "mag": 1.26,
+        "place": "11 km ENE of Gilroy, CA",
+        "time": 1747173602690,
+        "updated": 1747173697004,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181657",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181657.geojson",
+        "title": "M 1.3 - 11 km ENE of Gilroy, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.2437,
-          18.7246,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "21 km NW of North Las Vegas, Nevada",
-        "time": 1747168442934,
-        "updated": 1747168842075,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897546",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897546.geojson",
-        "title": "M 1.5 - 21 km NW of North Las Vegas, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.2771,
-          36.3402,
-          5.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.45,
-        "place": "5 km NNW of Anza, CA",
-        "time": 1747168090520,
-        "updated": 1747168310951,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152344",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152344.geojson",
-        "title": "M 1.5 - 5 km NNW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.697,
-          33.596,
-          8.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.26,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747167818840,
-        "updated": 1747168937067,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181627",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181627.geojson",
-        "title": "M 0.3 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.825996398926,
-          38.8129997253418,
-          2.26999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "43 km SSW of Nanwalek, Alaska",
-        "time": 1747167806133,
-        "updated": 1747167908806,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564ait9h",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564ait9h.geojson",
-        "title": "M 2.0 - 43 km SSW of Nanwalek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.3431,
-          59.0265,
-          75.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.78,
-        "place": "7 km ESE of Valley Center, CA",
-        "time": 1747167683330,
-        "updated": 1747168339600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152336",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152336.geojson",
-        "title": "M 1.8 - 7 km ESE of Valley Center, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9646667,
-          33.2035,
-          18.29
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.65,
-        "place": "5 km S of Guánica, Puerto Rico",
-        "time": 1747167344040,
-        "updated": 1747168398090,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482333",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482333.geojson",
-        "title": "M 1.7 - 5 km S of Guánica, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.9141666666667,
-          17.9221666666667,
-          18.02
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "53 km NNW of Yakutat, Alaska",
-        "time": 1747167342700,
-        "updated": 1747167491355,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564ah4ta",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564ah4ta.geojson",
-        "title": "M 2.5 - 53 km NNW of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -140.0626,
-          59.9991,
-          8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "11 km NE of Borrego Springs, CA",
-        "time": 1747167290910,
-        "updated": 1747168202642,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152328",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152328.geojson",
-        "title": "M 1.5 - 11 km NE of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3,
-          33.3291667,
-          11.01
+          -121.466003417969,
+          37.0553321838379,
+          12.1300001144409
         ]
       }
     },
@@ -193,19 +33,99 @@
       "type": "Feature",
       "properties": {
         "mag": 1.4,
-        "place": "52 km S of Silver Peak, Nevada",
-        "time": 1747166920070,
-        "updated": 1747167073475,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897544",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897544.geojson",
-        "title": "M 1.4 - 52 km S of Silver Peak, Nevada"
+        "place": "14 km WNW of Ninilchik, Alaska",
+        "time": 1747172912630,
+        "updated": 1747173051759,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564b9m9r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564b9m9r.geojson",
+        "title": "M 1.4 - 14 km WNW of Ninilchik, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.5643,
-          37.2879,
-          4.9
+          -151.9034,
+          60.1102,
+          73.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "23 km ENE of San Lucas, CA",
+        "time": 1747172473530,
+        "updated": 1747172572016,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181652",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181652.geojson",
+        "title": "M 1.1 - 23 km ENE of San Lucas, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.790832519531,
+          36.2281684875488,
+          7.61999988555908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.41,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1747171256530,
+        "updated": 1747172238437,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181647",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181647.geojson",
+        "title": "M 1.4 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.811668395996,
+          38.8219985961914,
+          2.78999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "6 km SW of Palmdale, CA",
+        "time": 1747171236190,
+        "updated": 1747171510277,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152392",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152392.geojson",
+        "title": "M 1.6 - 6 km SW of Palmdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1565,
+          34.5496667,
+          5.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "40 km WNW of Skwentna, Alaska",
+        "time": 1747170710275,
+        "updated": 1747170829415,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564b1q4s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564b1q4s.geojson",
+        "title": "M 2.6 - 40 km WNW of Skwentna, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.1015,
+          62.1385,
+          105.4
         ]
       }
     }
