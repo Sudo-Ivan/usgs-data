@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747123368000,
+    "generated": 1747126948000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1941
+    "count": 1937
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.4,
+        "place": "47 km NW of Beatty, Nevada",
+        "time": 1747126368026,
+        "updated": 1747126528667,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897530",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897530.geojson",
+        "title": "M 0.4 - 47 km NW of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1254,
+          37.2257,
+          8.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "56 km SSE of Whites City, New Mexico",
+        "time": 1747125171491,
+        "updated": 1747125992408,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jhvi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jhvi.geojson",
+        "title": "M 1.6 - 56 km SSE of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.201,
+          31.692,
+          6.1332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747124977690,
+        "updated": 1747126338351,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181417",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181417.geojson",
+        "title": "M 0.7 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807662963867,
+          38.8380012512207,
+          1.94000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "58 km WNW of Happy Valley, Alaska",
+        "time": 1747124519948,
+        "updated": 1747124644582,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025643d96i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025643d96i.geojson",
+        "title": "M 1.8 - 58 km WNW of Happy Valley, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7439,
+          60.084,
+          111.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747124025570,
+        "updated": 1747125138228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181412",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181412.geojson",
+        "title": "M 0.8 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.789665222168,
+          38.8361663818359,
+          1.57000005245209
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.82,
         "place": "7 km NNW of The Geysers, CA",
         "time": 1747122611250,
-        "updated": 1747122705530,
+        "updated": 1747123943103,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181407",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181407.geojson",
         "title": "M 0.8 - 7 km NNW of The Geysers, CA"
@@ -52,6 +152,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.08,
+        "place": "1 km SSW of Indios, Puerto Rico",
+        "time": 1747121545870,
+        "updated": 1747124204950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482303",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482303.geojson",
+        "title": "M 2.1 - 1 km SSW of Indios, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8256666666667,
+          17.9838333333333,
+          14.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.56,
         "place": "2 km SW of Indios, Puerto Rico",
         "time": 1747121486480,
@@ -75,7 +195,7 @@
         "mag": 1.21,
         "place": "3 km E of The Geysers, CA",
         "time": 1747121259080,
-        "updated": 1747122438915,
+        "updated": 1747126339352,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181402",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181402.geojson",
         "title": "M 1.2 - 3 km E of The Geysers, CA"
@@ -295,7 +415,7 @@
         "mag": 1.79,
         "place": "2 km NW of The Geysers, CA",
         "time": 1747116252310,
-        "updated": 1747118236450,
+        "updated": 1747124839196,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181392",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181392.geojson",
         "title": "M 1.8 - 2 km NW of The Geysers, CA"
@@ -475,7 +595,7 @@
         "mag": 3.31,
         "place": "6 km SSW of Lerna, Illinois",
         "time": 1747111429620,
-        "updated": 1747119253060,
+        "updated": 1747125663672,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606081",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606081.geojson",
         "title": "M 3.3 - 6 km SSW of Lerna, Illinois"
@@ -1215,7 +1335,7 @@
         "mag": 4.9,
         "place": "30 km NE of Firá, Greece",
         "time": 1747092609780,
-        "updated": 1747116011189,
+        "updated": 1747125190498,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyx9",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyx9.geojson",
         "title": "M 4.9 - 30 km NE of Firá, Greece"
@@ -4115,7 +4235,7 @@
         "mag": 3.56,
         "place": "73 km NE of Punta Cana, Dominican Republic",
         "time": 1747038594510,
-        "updated": 1747044551601,
+        "updated": 1747124012040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025132000",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025132000.geojson",
         "title": "M 3.6 - 73 km NE of Punta Cana, Dominican Republic"
@@ -38626,206 +38746,6 @@
           -122.796501159668,
           38.8376655578613,
           2.08999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746522081840,
-        "updated": 1746523940320,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177221",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177221.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.824996948242,
-          38.8171653747559,
-          2.3199999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "71 km WNW of Beluga, Alaska",
-        "time": 1746521976076,
-        "updated": 1746748972629,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sitx3u",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sitx3u.geojson",
-        "title": "M 1.8 - 71 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.2989,
-          61.3954,
-          6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.73,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1746521760520,
-        "updated": 1746527839765,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177216",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177216.geojson",
-        "title": "M 1.7 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.81916809082,
-          38.8171653747559,
-          1.73000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "49 km SSE of Whites City, New Mexico",
-        "time": 1746521200442,
-        "updated": 1746538832434,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ivbn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ivbn.geojson",
-        "title": "M 2.1 - 49 km SSE of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.147,
-          31.773,
-          5.6897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "291 km W of Adak, Alaska",
-        "time": 1746521178198,
-        "updated": 1746748975550,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255sir3ej",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255sir3ej.geojson",
-        "title": "M 2.0 - 291 km W of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          179.1768,
-          51.5629,
-          65.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.95,
-        "place": "67 km E of Maneadero, B.C., MX",
-        "time": 1746521012990,
-        "updated": 1746580035539,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145672.geojson",
-        "title": "M 3.0 - 67 km E of Maneadero, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.8581667,
-          31.7085,
-          7.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1746520891050,
-        "updated": 1746526037573,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177206",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177206.geojson",
-        "title": "M 1.3 - 8 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818496704102,
-          38.8344993591309,
-          1.87000000476837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "83 km W of San Antonio de los Cobres, Argentina",
-        "time": 1746520081773,
-        "updated": 1746521235040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxga",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxga.geojson",
-        "title": "M 4.5 - 83 km W of San Antonio de los Cobres, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.1447,
-          -24.2491,
-          166.356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "57 km S of Whites City, New Mexico",
-        "time": 1746519333861,
-        "updated": 1746536232275,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ivak",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025ivak.geojson",
-        "title": "M 2.1 - 57 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.415,
-          31.656,
-          6.2024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5,
-        "place": "104 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-        "time": 1746518907997,
-        "updated": 1746520002040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxg8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxg8.geojson",
-        "title": "M 5.0 - 104 km ESE of Kyzyl-Eshme, Kyrgyzstan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.4284,
-          39.2681,
-          10
         ]
       }
     }

@@ -1,171 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747123404000,
+    "generated": 1747126944000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.82,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1747122611250,
-        "updated": 1747122705530,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181407",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181407.geojson",
-        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
+        "mag": 0.4,
+        "place": "47 km NW of Beatty, Nevada",
+        "time": 1747126368026,
+        "updated": 1747126528667,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897530",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897530.geojson",
+        "title": "M 0.4 - 47 km NW of Beatty, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.806663513184,
-          38.8255004882812,
-          1.37999999523163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.15,
-        "place": "33 km WSW of Carlsbad, CA",
-        "time": 1747121969360,
-        "updated": 1747122196011,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152080",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152080.geojson",
-        "title": "M 2.2 - 33 km WSW of Carlsbad, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6583333,
-          33.0151667,
-          19.65
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.56,
-        "place": "2 km SW of Indios, Puerto Rico",
-        "time": 1747121486480,
-        "updated": 1747122621010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482293",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482293.geojson",
-        "title": "M 2.6 - 2 km SW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.836,
-          17.978,
-          14.43
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.21,
-        "place": "3 km E of The Geysers, CA",
-        "time": 1747121259080,
-        "updated": 1747122438915,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181402",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181402.geojson",
-        "title": "M 1.2 - 3 km E of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.724670410156,
-          38.779167175293,
-          1.39999997615814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "1 km SSW of Julian, CA",
-        "time": 1747120981580,
-        "updated": 1747121188911,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152072",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152072.geojson",
-        "title": "M 0.8 - 1 km SSW of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6068333,
-          33.0701667,
-          12.23
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8765783309936523,
-        "place": "2 km SW of Burien, Washington",
-        "time": 1747120793640,
-        "updated": 1747120960930,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098427",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098427.geojson",
-        "title": "M 1.9 - 2 km SW of Burien, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.37767028808594,
-          47.45633316040039,
-          21.6299991607666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "111 km WNW of Yakutat, Alaska",
-        "time": 1747120405691,
-        "updated": 1747120509973,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025642q17d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025642q17d.geojson",
-        "title": "M 2.2 - 111 km WNW of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -141.4891,
-          60.0072,
-          17.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.32,
-        "place": "4 km SE of March Air Reserve Base, CA",
-        "time": 1747119968900,
-        "updated": 1747120185266,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152064",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152064.geojson",
-        "title": "M 1.3 - 4 km SE of March Air Reserve Base, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2365,
-          33.8666667,
-          11.61
+          -117.1254,
+          37.2257,
+          8.3
         ]
       }
     },
@@ -173,19 +33,79 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "48 km NW of Beatty, Nevada",
-        "time": 1747119871773,
-        "updated": 1747120040804,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897528",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897528.geojson",
-        "title": "M 1.6 - 48 km NW of Beatty, Nevada"
+        "place": "56 km SSE of Whites City, New Mexico",
+        "time": 1747125171491,
+        "updated": 1747125992408,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jhvi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jhvi.geojson",
+        "title": "M 1.6 - 56 km SSE of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1226,
-          37.2308,
-          0
+          -104.201,
+          31.692,
+          6.1332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747124977690,
+        "updated": 1747126338351,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181417",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181417.geojson",
+        "title": "M 0.7 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807662963867,
+          38.8380012512207,
+          1.94000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "58 km WNW of Happy Valley, Alaska",
+        "time": 1747124519948,
+        "updated": 1747124644582,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025643d96i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025643d96i.geojson",
+        "title": "M 1.8 - 58 km WNW of Happy Valley, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7439,
+          60.084,
+          111.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747124025570,
+        "updated": 1747125138228,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181412",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181412.geojson",
+        "title": "M 0.8 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.789665222168,
+          38.8361663818359,
+          1.57000005245209
         ]
       }
     }
