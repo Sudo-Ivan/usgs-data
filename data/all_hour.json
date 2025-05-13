@@ -1,51 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747152182000,
+    "generated": 1747155744000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.86,
-        "place": "9 km NW of Anza, CA",
-        "time": 1747149965610,
-        "updated": 1747150216010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152192.geojson",
-        "title": "M 0.9 - 9 km NW of Anza, CA"
+        "mag": 2.09,
+        "place": "15 km ENE of Pāhala, Hawaii",
+        "time": 1747155271550,
+        "updated": 1747155466330,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74672127",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74672127.geojson",
+        "title": "M 2.1 - 15 km ENE of Pāhala, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7503333,
-          33.609,
-          10.26
+          -155.340667724609,
+          19.263334274292,
+          31.0699996948242
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.33,
-        "place": "2 km NNW of Mecca, CA",
-        "time": 1747149928600,
-        "updated": 1747150140003,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152184",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152184.geojson",
-        "title": "M 1.3 - 2 km NNW of Mecca, CA"
+        "mag": 0.56,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1747155043660,
+        "updated": 1747155141793,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181582",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181582.geojson",
+        "title": "M 0.6 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.0845,
-          33.588,
-          8.92
+          -122.804336547852,
+          38.8256683349609,
+          1.53999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1747154977320,
+        "updated": 1747155071712,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181577",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181577.geojson",
+        "title": "M 1.1 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80583190918,
+          38.8256683349609,
+          1.35000002384186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.95,
+        "place": "4 km ESE of Lake Henshaw, CA",
+        "time": 1747154708920,
+        "updated": 1747154911505,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152224",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152224.geojson",
+        "title": "M 1.0 - 4 km ESE of Lake Henshaw, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7256667,
+          33.2316667,
+          11.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.18,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747154646660,
+        "updated": 1747154741900,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181572",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181572.geojson",
+        "title": "M 1.2 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.827835083008,
+          38.8103332519531,
+          2.09999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.8,
+        "place": "102 km SSW of Cordova, Alaska",
+        "time": 1747154196728,
+        "updated": 1747154321058,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256487vyw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256487vyw.geojson",
+        "title": "M 2.8 - 102 km SSW of Cordova, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.2482,
+          59.6597,
+          9.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "34 km ESE of Denali National Park, Alaska",
+        "time": 1747153093117,
+        "updated": 1747153266539,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256483z9b",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256483z9b.geojson",
+        "title": "M 1.8 - 34 km ESE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1248,
+          63.3898,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747152878990,
+        "updated": 1747153937436,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181567",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181567.geojson",
+        "title": "M 1.1 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.776496887207,
+          38.8001670837402,
+          3.29999995231628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "37 km WNW of Nanwalek, Alaska",
+        "time": 1747152386298,
+        "updated": 1747152462684,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256481fol",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256481fol.geojson",
+        "title": "M 1.9 - 37 km WNW of Nanwalek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.5585,
+          59.4508,
+          74.4
         ]
       }
     }
