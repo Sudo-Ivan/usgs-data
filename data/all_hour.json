@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747144930000,
+    "generated": 1747148544000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
-        "place": "77 km SSE of Perryville, Alaska",
-        "time": 1747143429382,
-        "updated": 1747143572774,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646fqre",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646fqre.geojson",
-        "title": "M 2.0 - 77 km SSE of Perryville, Alaska"
+        "mag": 0.76,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747148330610,
+        "updated": 1747148426818,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181547",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181547.geojson",
+        "title": "M 0.8 - 6 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -158.7648,
-          55.2478,
-          25.1
+          -122.794998168945,
+          38.8170013427734,
+          2.63000011444092
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "71 km SW of Whitestone, Alaska",
-        "time": 1747142222230,
-        "updated": 1747142358547,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646bfvz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646bfvz.geojson",
-        "title": "M 1.2 - 71 km SW of Whitestone, Alaska"
+        "mag": 0.98,
+        "place": "10 km SE of Yucca Valley, CA",
+        "time": 1747148280140,
+        "updated": 1747148496414,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152176",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152176.geojson",
+        "title": "M 1.0 - 10 km SE of Yucca Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.0517,
-          63.7572,
-          9.9
+          -116.3621667,
+          34.0483333,
+          4.65
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.9,
-        "place": "22 km S of South Van Horn, Alaska",
-        "time": 1747141583175,
-        "updated": 1747141779744,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564694ml",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564694ml.geojson",
-        "title": "M 0.9 - 22 km S of South Van Horn, Alaska"
+        "mag": 0.75,
+        "place": "2 km  of The Geysers, CA",
+        "time": 1747146985010,
+        "updated": 1747147936765,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181532",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181532.geojson",
+        "title": "M 0.8 - 2 km  of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.8038,
-          64.6102,
-          12.9
+          -122.765998840332,
+          38.7956657409668,
+          3.60999989509583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "7 km WNW of Westbrook, Texas",
+        "time": 1747146512871,
+        "updated": 1747146724597,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jihc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jihc.geojson",
+        "title": "M 1.4 - 7 km WNW of Westbrook, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.091,
+          32.371,
+          4.1492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "64 km W of Tyonek, Alaska",
+        "time": 1747146354061,
+        "updated": 1747146421240,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646yp7y",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646yp7y.geojson",
+        "title": "M 2.5 - 64 km W of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.322,
+          61.1376,
+          14.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "63 km WNW of Anchor Point, Alaska",
+        "time": 1747146281482,
+        "updated": 1747146373635,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646ygj8",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646ygj8.geojson",
+        "title": "M 1.7 - 63 km WNW of Anchor Point, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8907,
+          59.9715,
+          90.1
         ]
       }
     }
