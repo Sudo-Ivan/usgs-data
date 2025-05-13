@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747141884000,
+    "generated": 1747144930000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 3
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "77 km SSE of Perryville, Alaska",
+        "time": 1747143429382,
+        "updated": 1747143572774,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646fqre",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646fqre.geojson",
+        "title": "M 2.0 - 77 km SSE of Perryville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.7648,
+          55.2478,
+          25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "71 km SW of Whitestone, Alaska",
+        "time": 1747142222230,
+        "updated": 1747142358547,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025646bfvz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025646bfvz.geojson",
+        "title": "M 1.2 - 71 km SW of Whitestone, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.0517,
+          63.7572,
+          9.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,146 +66,6 @@
           -147.8038,
           64.6102,
           12.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.42,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747141308180,
-        "updated": 1747141405920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181502",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181502.geojson",
-        "title": "M 0.4 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.844497680664,
-          38.8241653442383,
-          1.66999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "41 km SE of Ugashik, Alaska",
-        "time": 1747141109520,
-        "updated": 1747141256329,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645yuqw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645yuqw.geojson",
-        "title": "M 1.8 - 41 km SE of Ugashik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.8464,
-          57.2857,
-          24.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1747141020560,
-        "updated": 1747141115895,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181497",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181497.geojson",
-        "title": "M 0.7 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.782333374023,
-          38.8361663818359,
-          1.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.04,
-        "place": "16 km WSW of Ferndale, CA",
-        "time": 1747140924500,
-        "updated": 1747141637058,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181492",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181492.geojson",
-        "title": "M 2.0 - 16 km WSW of Ferndale, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.425666809082,
-          40.4949989318848,
-          16.7199993133545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "35 km WSW of Cantwell, Alaska",
-        "time": 1747140548100,
-        "updated": 1747140665965,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645wvmj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645wvmj.geojson",
-        "title": "M 2.3 - 35 km WSW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.5945,
-          63.249,
-          95.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "2 km N of Palomar Observatory, CA",
-        "time": 1747140051910,
-        "updated": 1747140278939,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152144",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152144.geojson",
-        "title": "M 0.7 - 2 km N of Palomar Observatory, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8643333,
-          33.374,
-          8.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "39 km WSW of Akhiok, Alaska",
-        "time": 1747138323808,
-        "updated": 1747140262040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyyw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyyw.geojson",
-        "title": "M 4.3 - 39 km WSW of Akhiok, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.7658,
-          56.8046,
-          24.026
         ]
       }
     }
