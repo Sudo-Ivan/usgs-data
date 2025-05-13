@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747106410000,
+    "generated": 1747109016000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 5
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747108599830,
+        "updated": 1747108694557,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181357",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181357.geojson",
+        "title": "M 0.8 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.778999328613,
+          38.8030014038086,
+          3.28999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.32,
+        "place": "3 km W of Orinda, CA",
+        "time": 1747108553520,
+        "updated": 1747108989863,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181352",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181352.geojson",
+        "title": "M 2.3 - 3 km W of Orinda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.216331481934,
+          37.8753318786621,
+          7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.32,
+        "place": "4 km SSE of Devore, CA",
+        "time": 1747108453980,
+        "updated": 1747108689581,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152032",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152032.geojson",
+        "title": "M 1.3 - 4 km SSE of Devore, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3811667,
+          34.1876667,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.41,
+        "place": "16 km W of Johannesburg, CA",
+        "time": 1747106709580,
+        "updated": 1747106916389,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152016",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152016.geojson",
+        "title": "M 1.4 - 16 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8093333,
+          35.356,
+          8.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,66 +106,6 @@
           -155.382659912109,
           19.2994995117188,
           2.40000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.74,
-        "place": "13 km SW of Toms Place, CA",
-        "time": 1747105327720,
-        "updated": 1747105936055,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181347",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181347.geojson",
-        "title": "M 1.7 - 13 km SW of Toms Place, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.772331237793,
-          37.47216796875,
-          9.34000015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.22,
-        "place": "23 km SSE of Fern Forest, Hawaii",
-        "time": 1747104471000,
-        "updated": 1747104669070,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74671827",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74671827.geojson",
-        "title": "M 2.2 - 23 km SSE of Fern Forest, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.046005249023,
-          19.2681674957275,
-          39.6199989318848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "4 km SSW of Lytle Creek, CA",
-        "time": 1747103569150,
-        "updated": 1747103784180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152008",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152008.geojson",
-        "title": "M 1.1 - 4 km SSW of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5208333,
-          34.2226667,
-          9.93
         ]
       }
     }
