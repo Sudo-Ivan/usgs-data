@@ -1,21 +1,101 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747260141000,
+    "generated": 1747263732000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 229
+    "count": 227
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "12 km NE of Yucaipa, CA",
+        "time": 1747262844210,
+        "updated": 1747263054078,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153072",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153072.geojson",
+        "title": "M 1.1 - 12 km NE of Yucaipa, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9678333,
+          34.1211667,
+          5.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.6,
+        "place": "39 km NNW of Beluga, Alaska",
+        "time": 1747261833864,
+        "updated": 1747262908766,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565zajkq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565zajkq.geojson",
+        "title": "M 3.6 - 39 km NNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2831,
+          61.4826,
+          78.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "58 km N of Petersville, Alaska",
+        "time": 1747260678236,
+        "updated": 1747261950040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565z6fti",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565z6fti.geojson",
+        "title": "M 2.1 - 58 km N of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.9567,
+          63.0172,
+          117.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.29,
+        "place": "3 km W of Cobb, CA",
+        "time": 1747260510700,
+        "updated": 1747261637507,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182102",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182102.geojson",
+        "title": "M 0.3 - 3 km W of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.763000488281,
+          38.8194999694824,
+          2.54999995231628
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.22,
         "place": "4 km W of Cobb, CA",
         "time": 1747259971850,
-        "updated": 1747260070621,
+        "updated": 1747261039443,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182097",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182097.geojson",
         "title": "M 1.2 - 4 km W of Cobb, CA"
@@ -55,7 +135,7 @@
         "mag": 0.76,
         "place": "9 km WNW of Cobb, CA",
         "time": 1747258231580,
-        "updated": 1747259835307,
+        "updated": 1747262841644,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182092",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182092.geojson",
         "title": "M 0.8 - 9 km WNW of Cobb, CA"
@@ -86,26 +166,6 @@
           147.8939,
           -6.0955,
           62.567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "33 km W of Indian Springs, Nevada",
-        "time": 1747257076107,
-        "updated": 1747257196859,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897614",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897614.geojson",
-        "title": "M 1.2 - 33 km W of Indian Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.0436,
-          36.5428,
-          5.9
         ]
       }
     },
@@ -395,7 +455,7 @@
         "mag": 3.65,
         "place": "1 km SSE of Galateo, Puerto Rico",
         "time": 1747251713080,
-        "updated": 1747260092975,
+        "updated": 1747261478891,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025134001",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025134001.geojson",
         "title": "M 3.7 - 1 km SSE of Galateo, Puerto Rico"
@@ -472,20 +532,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.85,
+        "mag": 0.81,
         "place": "8 km ENE of Moreno Valley, CA",
-        "time": 1747248192370,
-        "updated": 1747248485628,
+        "time": 1747248192410,
+        "updated": 1747260506778,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152832",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152832.geojson",
-        "title": "M 0.9 - 8 km ENE of Moreno Valley, CA"
+        "title": "M 0.8 - 8 km ENE of Moreno Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1581667,
-          33.9633333,
-          17.38
+          -117.1576667,
+          33.962,
+          17.12
         ]
       }
     },
@@ -832,6 +892,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.3,
+        "place": "32 km SSE of Hawthorne, Nevada",
+        "time": 1747244138017,
+        "updated": 1747262143897,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897618",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897618.geojson",
+        "title": "M 1.3 - 32 km SSE of Hawthorne, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.508,
+          38.2456,
+          7.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.36,
         "place": "4 km SSW of Anderson Springs, CA",
         "time": 1747244079730,
@@ -1072,20 +1152,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.95,
+        "mag": 2.01,
         "place": "13 km N of Taft, CA",
-        "time": 1747236929790,
-        "updated": 1747237148557,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152672.geojson",
+        "time": 1747236929460,
+        "updated": 1747261209861,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152680",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152680.geojson",
         "title": "M 2.0 - 13 km N of Taft, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.4361667,
+          -119.4328333,
           35.2543333,
-          5.59
+          1.16
         ]
       }
     },
@@ -2155,7 +2235,7 @@
         "mag": 0.6,
         "place": "60 km WNW of Tyonek, Alaska",
         "time": 1747215759607,
-        "updated": 1747215855667,
+        "updated": 1747263299310,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565rmhqw",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565rmhqw.geojson",
         "title": "M 0.6 - 60 km WNW of Tyonek, Alaska"
@@ -2332,6 +2412,46 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.74,
+        "place": "64 km WNW of Tyonek, Alaska",
+        "time": 1747213033490,
+        "updated": 1747261872370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041499",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041499.geojson",
+        "title": "M -0.7 - 64 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.245,
+          61.2771666666667,
+          3.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.71,
+        "place": "64 km WNW of Tyonek, Alaska",
+        "time": 1747213029850,
+        "updated": 1747261631000,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93606226",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93606226.geojson",
+        "title": "M -0.7 - 64 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2485,
+          61.2816666666667,
+          2.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 3.37,
         "place": "53 km SE of Boca de Yuma, Dominican Republic",
         "time": 1747212720480,
@@ -2426,6 +2546,46 @@
           -152.9674,
           59.3894,
           81.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.72,
+        "place": "64 km WNW of Tyonek, Alaska",
+        "time": 1747211615360,
+        "updated": 1747261007640,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041484",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041484.geojson",
+        "title": "M -0.7 - 64 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.25,
+          61.2841666666667,
+          2.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.57,
+        "place": "63 km WNW of Tyonek, Alaska",
+        "time": 1747211586470,
+        "updated": 1747261108250,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041489",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041489.geojson",
+        "title": "M -0.6 - 63 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.228666666667,
+          61.2743333333333,
+          4.77
         ]
       }
     },
@@ -2666,6 +2826,26 @@
           -122.806831359863,
           38.8188323974609,
           2.9300000667572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.47,
+        "place": "63 km WNW of Tyonek, Alaska",
+        "time": 1747206263880,
+        "updated": 1747260680930,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93606161",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93606161.geojson",
+        "title": "M -0.5 - 63 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.238166666667,
+          61.2818333333333,
+          -2.36
         ]
       }
     },
@@ -3852,20 +4032,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.62,
-        "place": "14 km W of Stanley, Idaho",
-        "time": 1747190663870,
-        "updated": 1747234502050,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085378",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085378.geojson",
-        "title": "M 2.6 - 14 km W of Stanley, Idaho"
+        "mag": 2.4,
+        "place": "16 km W of Stanley, Idaho",
+        "time": 1747190663145,
+        "updated": 1747260195040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz3i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz3i.geojson",
+        "title": "M 2.4 - 16 km W of Stanley, Idaho"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.117333333333,
-          44.1931666666667,
-          8.11
+          -115.1417,
+          44.1919,
+          3.754
         ]
       }
     },
@@ -4366,226 +4546,6 @@
           -149.1551,
           62.3424,
           0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 6,
-        "place": "23 km SSE of Fry, Greece",
-        "time": 1747176675597,
-        "updated": 1747256569449,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
-        "title": "M 6.0 - 23 km SSE of Fry, Greece"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9972,
-          35.2122,
-          74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "18 km ESE of Anza, CA",
-        "time": 1747176228370,
-        "updated": 1747231148847,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152408",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152408.geojson",
-        "title": "M 1.3 - 18 km ESE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5043333,
-          33.4741667,
-          12.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.45,
-        "place": "16 km ESE of South Park, Wyoming",
-        "time": 1747176032350,
-        "updated": 1747233728480,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085253",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085253.geojson",
-        "title": "M 1.5 - 16 km ESE of South Park, Wyoming"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.601833333333,
-          43.3735,
-          -0.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "20 km ESE of Spanish Springs, Nevada",
-        "time": 1747175890238,
-        "updated": 1747179208959,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897560",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897560.geojson",
-        "title": "M 1.3 Explosion - 20 km ESE of Spanish Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.5034,
-          39.5616,
-          5.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "43 km E of Denali National Park, Alaska",
-        "time": 1747175642605,
-        "updated": 1747175804330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564brzj8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564brzj8.geojson",
-        "title": "M 1.6 - 43 km E of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.8551,
-          63.5578,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "2 km SE of The Geysers, CA",
-        "time": 1747175607130,
-        "updated": 1747176735979,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181662",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181662.geojson",
-        "title": "M 0.8 - 2 km SE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.739501953125,
-          38.7651672363281,
-          1.69000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.43,
-        "place": "14 km SSE of Waynoka, Oklahoma",
-        "time": 1747175149130,
-        "updated": 1747228834240,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jiwu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jiwu.geojson",
-        "title": "M 1.4 - 14 km SSE of Waynoka, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.80833333,
-          36.46016667,
-          6.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.12,
-        "place": "52 km WSW of False Pass, Alaska",
-        "time": 1747174866990,
-        "updated": 1747186389550,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041399",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041399.geojson",
-        "title": "M 1.1 - 52 km WSW of False Pass, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.189833333333,
-          54.728,
-          3.19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "56 km S of Silver Peak, Nevada",
-        "time": 1747174676180,
-        "updated": 1747177923531,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897557",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897557.geojson",
-        "title": "M 1.4 - 56 km S of Silver Peak, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5608,
-          37.2449,
-          12.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "223 km E of Levuka, Fiji",
-        "time": 1747174064874,
-        "updated": 1747191856040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2m",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2m.geojson",
-        "title": "M 4.4 - 223 km E of Levuka, Fiji"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -178.5994,
-          -17.773,
-          546.078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.15,
-        "place": "77 km WNW of Nikiski, Alaska",
-        "time": 1747173905560,
-        "updated": 1747185690250,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605766",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605766.geojson",
-        "title": "M 0.2 - 77 km WNW of Nikiski, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.643833333333,
-          60.892,
-          7.41
         ]
       }
     }
