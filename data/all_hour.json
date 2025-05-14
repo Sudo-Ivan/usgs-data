@@ -1,71 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747209791000,
+    "generated": 1747213344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.31,
-        "place": "2 km NNW of San Bernardino, CA",
-        "time": 1747209284030,
-        "updated": 1747209682396,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152504",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152504.geojson",
-        "title": "M 2.3 - 2 km NNW of San Bernardino, CA"
+        "mag": 2.6,
+        "place": "57 km WNW of Ninilchik, Alaska",
+        "time": 1747212563114,
+        "updated": 1747212641582,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565r2ivr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565r2ivr.geojson",
+        "title": "M 2.6 - 57 km WNW of Ninilchik, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2991667,
-          34.1478333,
-          9.52
+          -152.6089,
+          60.2724,
+          88.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.57,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747206510140,
-        "updated": 1747208238486,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181822",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181822.geojson",
-        "title": "M 0.6 - 6 km NW of The Geysers, CA"
+        "mag": 0.99,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1747212388150,
+        "updated": 1747212639664,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152528",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152528.geojson",
+        "title": "M 1.0 - 15 km W of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.808670043945,
-          38.8176651000977,
-          3.1800000667572
+          -117.8033333,
+          35.355,
+          7.24
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.77,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1747206481130,
-        "updated": 1747208537523,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181817",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181817.geojson",
-        "title": "M 1.8 - 6 km NNW of The Geysers, CA"
+        "mag": 2.2,
+        "place": "59 km W of Nanwalek, Alaska",
+        "time": 1747212278771,
+        "updated": 1747212377975,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565r1hid",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565r1hid.geojson",
+        "title": "M 2.2 - 59 km W of Nanwalek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.806831359863,
-          38.8188323974609,
-          2.9300000667572
+          -152.9674,
+          59.3894,
+          81.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.57,
+        "place": "23 km ENE of Arvin, CA",
+        "time": 1747210188270,
+        "updated": 1747210406388,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152520",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152520.geojson",
+        "title": "M 1.6 - 23 km ENE of Arvin, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6016667,
+          35.3091667,
+          4.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.4,
+        "place": "45 km SSW of Cantwell, Alaska",
+        "time": 1747209939487,
+        "updated": 1747213283040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565qt4ly",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565qt4ly.geojson",
+        "title": "M 2.4 - 45 km SSW of Cantwell, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3088,
+          63.0212,
+          68.2
         ]
       }
     }
