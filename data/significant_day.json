@@ -1,21 +1,41 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747195382000,
+    "generated": 1747198941000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson",
     "title": "USGS Significant Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 1
+    "count": 2
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.4,
+        "place": "137 km W of Neiafu, Tonga",
+        "time": 1747196138274,
+        "updated": 1747198268298,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz41",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz41.geojson",
+        "title": "M 6.4 - 137 km W of Neiafu, Tonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2831,
+          -18.7201,
+          243.075
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747194968491,
+        "updated": 1747198821622,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
