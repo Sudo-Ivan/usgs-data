@@ -1,131 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747234920000,
+    "generated": 1747238580000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "13 km S of Trapper Creek, Alaska",
-        "time": 1747233737389,
-        "updated": 1747233861750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565ulm22",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565ulm22.geojson",
-        "title": "M 1.4 - 13 km S of Trapper Creek, Alaska"
+        "mag": 1.95,
+        "place": "13 km N of Taft, CA",
+        "time": 1747236929790,
+        "updated": 1747237148557,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152672",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152672.geojson",
+        "title": "M 2.0 - 13 km N of Taft, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.1834,
-          62.1976,
-          18.7
+          -119.4361667,
+          35.2543333,
+          5.59
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.72,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747233159150,
-        "updated": 1747234337458,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181957",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181957.geojson",
-        "title": "M 1.7 - 8 km WNW of Cobb, CA"
+        "mag": 1.1,
+        "place": "24 km WSW of Hiko, Nevada",
+        "time": 1747236414944,
+        "updated": 1747236575914,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897594",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897594.geojson",
+        "title": "M 1.1 - 24 km WSW of Hiko, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.80883026123,
-          38.8349990844727,
-          2.22000002861023
+          -115.4621,
+          37.4821,
+          9.6
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.28,
-        "place": "2 km NW of The Geysers, CA",
-        "time": 1747232214530,
-        "updated": 1747233436360,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181947",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181947.geojson",
-        "title": "M 0.3 - 2 km NW of The Geysers, CA"
+        "mag": 1.66,
+        "place": "2 km NNE of Huntington Park, CA",
+        "time": 1747235882630,
+        "updated": 1747236153117,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152656",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152656.geojson",
+        "title": "M 1.7 - 2 km NNE of Huntington Park, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.77766418457,
-          38.788501739502,
-          2.82999992370605
+          -118.2133333,
+          33.997,
+          10.37
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.51,
-        "place": "4 km NNW of Dover, Oklahoma",
-        "time": 1747231631439,
-        "updated": 1747232542448,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkbw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkbw.geojson",
-        "title": "M 1.5 - 4 km NNW of Dover, Oklahoma"
+        "mag": 1.29,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747235252150,
+        "updated": 1747236438700,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181977",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181977.geojson",
+        "title": "M 1.3 - 3 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.93383333,
-          36.01266667,
-          6.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.89,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747231589309,
-        "updated": 1747232380458,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkbv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkbv.geojson",
-        "title": "M 1.9 - 3 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.931,
-          36.01216667,
-          5.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.1,
-        "place": "51 km ESE of Beatty, Nevada",
-        "time": 1747231565546,
-        "updated": 1747231763993,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897592",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897592.geojson",
-        "title": "M 0.1 - 51 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2743,
-          36.6616,
-          9.7
+          -122.778831481934,
+          38.7961654663086,
+          3.38000011444092
         ]
       }
     }
