@@ -1,14 +1,34 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747186186000,
+    "generated": 1747189846000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 211
+    "count": 204
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "38 km NNW of Toyah, Texas",
+        "time": 1747188511452,
+        "updated": 1747188859855,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jjed",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jjed.geojson",
+        "title": "M 2.6 - 38 km NNW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.995,
+          31.613,
+          7.3528
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -152,6 +172,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.12,
+        "place": "65 km WNW of Beluga, Alaska",
+        "time": 1747180234500,
+        "updated": 1747186871610,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605831",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605831.geojson",
+        "title": "M -0.1 - 65 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2545,
+          61.3126666666667,
+          -2.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.6,
         "place": "10 km E of Sparks, Nevada",
         "time": 1747180166992,
@@ -186,6 +226,26 @@
           -66.925,
           17.954,
           10.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.2,
+        "place": "62 km WNW of Tyonek, Alaska",
+        "time": 1747179294040,
+        "updated": 1747186609780,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605821",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605821.geojson",
+        "title": "M -0.2 - 62 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.270833333333,
+          61.1831666666667,
+          4.73
         ]
       }
     },
@@ -255,7 +315,7 @@
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747186172471,
+        "updated": 1747189400539,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
@@ -346,6 +406,26 @@
           -122.739501953125,
           38.7651672363281,
           1.69000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.12,
+        "place": "52 km WSW of False Pass, Alaska",
+        "time": 1747174866990,
+        "updated": 1747186389550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041399",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041399.geojson",
+        "title": "M 1.1 - 52 km WSW of False Pass, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.189833333333,
+          54.728,
+          3.19
         ]
       }
     },
@@ -2675,7 +2755,7 @@
         "mag": 2.84,
         "place": "25 km WNW of Hoodsport, Washington",
         "time": 1747127898490,
-        "updated": 1747182961202,
+        "updated": 1747188338355,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098432",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098432.geojson",
         "title": "M 2.8 - 25 km WNW of Hoodsport, Washington"
@@ -3635,7 +3715,7 @@
         "mag": 3.26,
         "place": "7 km SSW of Lerna, Illinois",
         "time": 1747111429690,
-        "updated": 1747182308290,
+        "updated": 1747189491464,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606081",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606081.geojson",
         "title": "M 3.3 - 7 km SSW of Lerna, Illinois"
@@ -4006,226 +4086,6 @@
           -117.5241667,
           34.2196667,
           9.62
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.37,
-        "place": "65 km WNW of Tyonek, Alaska",
-        "time": 1747103372730,
-        "updated": 1747161313790,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605146",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605146.geojson",
-        "title": "M -0.4 - 65 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.265,
-          61.2793333333333,
-          -2.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "31 km NNE of Fox River, Alaska",
-        "time": 1747102805150,
-        "updated": 1747102959586,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02563zsblv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02563zsblv.geojson",
-        "title": "M 1.6 - 31 km NNE of Fox River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.7144,
-          60.1158,
-          58.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "13 km N of Four Mile Road, Alaska",
-        "time": 1747102780644,
-        "updated": 1747103834040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02563zs5fg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02563zs5fg.geojson",
-        "title": "M 2.5 - 13 km N of Four Mile Road, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.0867,
-          64.7267,
-          17.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "40 km W of Akhiok, Alaska",
-        "time": 1747102641418,
-        "updated": 1747103509040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02563zrppp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02563zrppp.geojson",
-        "title": "M 2.5 - 40 km W of Akhiok, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.8371,
-          57.0033,
-          3.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "31 km WNW of Petersville, Alaska",
-        "time": 1747101384435,
-        "updated": 1747101518517,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02563zen9n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02563zen9n.geojson",
-        "title": "M 1.4 - 31 km WNW of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.3493,
-          62.5953,
-          92.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.2,
-        "place": "5 km WSW of Julian, CA",
-        "time": 1747100970810,
-        "updated": 1747153618362,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37544061",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37544061.geojson",
-        "title": "M -0.2 - 5 km WSW of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6528333,
-          33.0688333,
-          9.63
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.55,
-        "place": "14 km SE of Anza, CA",
-        "time": 1747100949940,
-        "updated": 1747153635028,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151992",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151992.geojson",
-        "title": "M 0.6 - 14 km SE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5525,
-          33.4743333,
-          11.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.13,
-        "place": "19 km NNW of Halfway, Oregon",
-        "time": 1747100896310,
-        "updated": 1747183219050,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098312",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098312.geojson",
-        "title": "M 2.1 - 19 km NNW of Halfway, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.24533333333333,
-          45.032666666666664,
-          6.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.56,
-        "place": "21 km NE of San Lucas, CA",
-        "time": 1747100298040,
-        "updated": 1747105638014,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181332",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181332.geojson",
-        "title": "M 2.6 - 21 km NE of San Lucas, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.864166259766,
-          36.2760009765625,
-          9.35999965667725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.8,
-        "place": "11 km ESE of Ishikawa, Japan",
-        "time": 1747100223023,
-        "updated": 1747101767040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyxl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyxl.geojson",
-        "title": "M 4.8 - 11 km ESE of Ishikawa, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.57,
-          37.1244,
-          88.511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.2,
-        "place": "60 km W of Atka, Alaska",
-        "time": 1747099850946,
-        "updated": 1747106350932,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyxj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyxj.geojson",
-        "title": "M 4.2 - 60 km W of Atka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -175.0721,
-          52.0987,
-          75.42
         ]
       }
     }
