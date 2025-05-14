@@ -1,14 +1,194 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747189846000,
+    "generated": 1747192787000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 204
+    "count": 211
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.29,
+        "place": "4 km NW of Dover, Oklahoma",
+        "time": 1747192415885,
+        "updated": 1747192894030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjgh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjgh.geojson",
+        "title": "M 2.3 - 4 km NW of Dover, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93937683,
+          36.00944138,
+          1.071737528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747191888930,
+        "updated": 1747191982472,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181742",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181742.geojson",
+        "title": "M 1.0 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.787170410156,
+          38.824333190918,
+          12.3299999237061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "5 km NW of Dover, Oklahoma",
+        "time": 1747191825503,
+        "updated": 1747192240722,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjfz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjfz.geojson",
+        "title": "M 1.9 - 5 km NW of Dover, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95514679,
+          36.01547623,
+          3.39298439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "20 km SSE of Pizitou, Taiwan",
+        "time": 1747190908054,
+        "updated": 1747192307040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz3k",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz3k.geojson",
+        "title": "M 4.0 - 20 km SSE of Pizitou, Taiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5184,
+          23.3097,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747190837260,
+        "updated": 1747192038638,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181732",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181732.geojson",
+        "title": "M 0.7 - 10 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.852333068848,
+          38.8251647949219,
+          2.50999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1747190289750,
+        "updated": 1747191436573,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181727",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181727.geojson",
+        "title": "M 0.8 - 6 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.822334289551,
+          38.8019981384277,
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "68 km ESE of Egegik, Alaska",
+        "time": 1747190096567,
+        "updated": 1747190256749,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565neroi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565neroi.geojson",
+        "title": "M 1.7 - 68 km ESE of Egegik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3301,
+          57.9491,
+          158.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "63 km SSE of Kokhanok, Alaska",
+        "time": 1747189997844,
+        "updated": 1747190912040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565nehf1",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565nehf1.geojson",
+        "title": "M 2.0 - 63 km SSE of Kokhanok, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.1656,
+          58.9579,
+          128.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.77,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747189991180,
+        "updated": 1747190208249,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152456",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152456.geojson",
+        "title": "M 1.8 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8103333,
+          35.3313333,
+          6.76
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -315,7 +495,7 @@
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747189400539,
+        "updated": 1747192411163,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
@@ -446,6 +626,26 @@
           -117.5608,
           37.2449,
           12.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "223 km E of Levuka, Fiji",
+        "time": 1747174064874,
+        "updated": 1747191856040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2m",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2m.geojson",
+        "title": "M 4.4 - 223 km E of Levuka, Fiji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.5994,
+          -17.773,
+          546.078
         ]
       }
     },
@@ -615,7 +815,7 @@
         "mag": 2.6,
         "place": "40 km WNW of Skwentna, Alaska",
         "time": 1747170710275,
-        "updated": 1747170829415,
+        "updated": 1747190915040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564b1q4s",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564b1q4s.geojson",
         "title": "M 2.6 - 40 km WNW of Skwentna, Alaska"
@@ -3612,6 +3812,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.68,
+        "place": "15 km SSW of Desert Aire, Washington",
+        "time": 1747114005530,
+        "updated": 1747192049100,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098412",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098412.geojson",
+        "title": "M 0.7 - 15 km SSW of Desert Aire, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00183333333334,
+          46.55266666666667,
+          7.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.83,
         "place": "26 km SE of El Negro, Puerto Rico",
         "time": 1747113655070,
@@ -4006,86 +4226,6 @@
           -156.341166666667,
           58.1098333333333,
           3.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.47,
-        "place": "14 km NE of Pāhala, Hawaii",
-        "time": 1747105480340,
-        "updated": 1747161927273,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74671847",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74671847.geojson",
-        "title": "M 2.5 - 14 km NE of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.385666666667,
-          19.2951666666667,
-          3.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.74,
-        "place": "13 km SW of Toms Place, CA",
-        "time": 1747105327720,
-        "updated": 1747106838160,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181347",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181347.geojson",
-        "title": "M 1.7 - 13 km SW of Toms Place, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.772331237793,
-          37.47216796875,
-          9.34000015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.71,
-        "place": "22 km SSE of Fern Forest, Hawaii",
-        "time": 1747104471010,
-        "updated": 1747168343570,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74671827",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74671827.geojson",
-        "title": "M 1.7 - 22 km SSE of Fern Forest, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.040166666667,
-          19.2875,
-          40.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.82,
-        "place": "5 km SSW of Lytle Creek, CA",
-        "time": 1747103569190,
-        "updated": 1747154570484,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152008",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152008.geojson",
-        "title": "M 0.8 - 5 km SSW of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5241667,
-          34.2196667,
-          9.62
         ]
       }
     }
