@@ -1,31 +1,171 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747224244000,
+    "generated": 1747228271000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 200
+    "count": 190
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.73,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747223916663,
-        "updated": 1747224353362,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjxp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjxp.geojson",
-        "title": "M 1.7 - 3 km NNW of Dover, Oklahoma"
+        "mag": 0.78,
+        "place": "2 km NW of The Geysers, CA",
+        "time": 1747228057070,
+        "updated": 1747228153311,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181902",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181902.geojson",
+        "title": "M 0.8 - 2 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.91931915,
-          36.01167679,
-          5.020273209
+          -122.776496887207,
+          38.7863349914551,
+          3.66000008583069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "17 km N of Beluga, Alaska",
+        "time": 1747227213649,
+        "updated": 1747227331532,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565th4z8",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565th4z8.geojson",
+        "title": "M 1.8 - 17 km N of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0883,
+          61.2989,
+          51.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "43 km NE of Valmy, Nevada",
+        "time": 1747226117910,
+        "updated": 1747228157634,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz64",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz64.geojson",
+        "title": "M 4.0 - 43 km NE of Valmy, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8045,
+          41.1009,
+          8.639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.68,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747225446120,
+        "updated": 1747228038730,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181897",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181897.geojson",
+        "title": "M 0.7 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.789169311523,
+          38.8359985351562,
+          1.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "35 km SSW of Los Ybanez, Texas",
+        "time": 1747224930573,
+        "updated": 1747225644643,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jjye",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jjye.geojson",
+        "title": "M 1.1 - 35 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.111,
+          32.44,
+          4.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.21,
+        "place": "4 km S of Highland Park, CA",
+        "time": 1747224375540,
+        "updated": 1747224580182,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152568",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152568.geojson",
+        "title": "M 1.2 - 4 km S of Highland Park, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191,
+          34.0863333,
+          10.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.52,
+        "place": "2 km ENE of The Geysers, CA",
+        "time": 1747224203720,
+        "updated": 1747226240515,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181892",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181892.geojson",
+        "title": "M 1.5 - 2 km ENE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.734169006348,
+          38.7908325195312,
+          1.42999994754791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.63,
+        "place": "4 km NNW of Dover, Oklahoma",
+        "time": 1747223916850,
+        "updated": 1747227414954,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjxp",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjxp.geojson",
+        "title": "M 1.6 - 4 km NNW of Dover, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.92266667,
+          36.01666667,
+          5.38
         ]
       }
     },
@@ -235,7 +375,7 @@
         "mag": 3.05,
         "place": "17 km WSW of Kailua-Kona, Hawaii",
         "time": 1747217812770,
-        "updated": 1747222053758,
+        "updated": 1747226181879,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74672722",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74672722.geojson",
         "title": "M 3.1 - 17 km WSW of Kailua-Kona, Hawaii"
@@ -652,40 +792,40 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.41,
+        "mag": 1.98,
         "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747205608520,
-        "updated": 1747206087995,
+        "time": 1747205608300,
+        "updated": 1747225823934,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjno",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjno.geojson",
-        "title": "M 2.4 - 3 km NNW of Dover, Oklahoma"
+        "title": "M 2.0 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.92198944,
-          36.01328659,
-          3.88631916
+          -97.92916667,
+          36.01166667,
+          5.77
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.43,
+        "mag": 2.01,
         "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747204756535,
-        "updated": 1747205240054,
+        "time": 1747204756519,
+        "updated": 1747225527851,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjnc",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjnc.geojson",
-        "title": "M 2.4 - 3 km NNW of Dover, Oklahoma"
+        "title": "M 2.0 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.93428802,
-          36.01213074,
-          4.05050993
+          -97.92866667,
+          36.01183333,
+          5.97
         ]
       }
     },
@@ -695,7 +835,7 @@
         "mag": 1.2,
         "place": "37 km NNE of Toms Place, CA",
         "time": 1747203904600,
-        "updated": 1747222038054,
+        "updated": 1747224737362,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181812",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181812.geojson",
         "title": "M 1.2 - 37 km NNE of Toms Place, CA"
@@ -752,20 +892,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.5,
-        "place": "5 km NNW of Dover, Oklahoma",
-        "time": 1747203042050,
-        "updated": 1747205499339,
+        "mag": 2.07,
+        "place": "3 km NNW of Dover, Oklahoma",
+        "time": 1747203041500,
+        "updated": 1747227090030,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjmd",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjmd.geojson",
-        "title": "M 2.5 - 5 km NNW of Dover, Oklahoma"
+        "title": "M 2.1 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.92501831,
-          36.02924728,
-          1.124936461
+          -97.92466667,
+          36.01566667,
+          5.47
         ]
       }
     },
@@ -812,20 +952,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.29,
+        "mag": 1.9,
         "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747202620857,
-        "updated": 1747203016276,
+        "time": 1747202620740,
+        "updated": 1747226541579,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjlx",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjlx.geojson",
-        "title": "M 2.3 - 3 km NNW of Dover, Oklahoma"
+        "title": "M 1.9 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.92787933,
-          36.01441574,
-          3.936074734
+          -97.92933333,
+          36.01233333,
+          5.43
         ]
       }
     },
@@ -1272,6 +1412,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.36,
+        "place": "3 km NW of Dover, Oklahoma",
+        "time": 1747194149640,
+        "updated": 1747227719415,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjhg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjhg.geojson",
+        "title": "M 1.4 - 3 km NW of Dover, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93483333,
+          36.009,
+          6.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.31,
         "place": "8 km W of Cloverdale, CA",
         "time": 1747194078020,
@@ -1332,20 +1492,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.29,
-        "place": "4 km NW of Dover, Oklahoma",
-        "time": 1747192415885,
-        "updated": 1747192894030,
+        "mag": 1.85,
+        "place": "3 km NNW of Dover, Oklahoma",
+        "time": 1747192415530,
+        "updated": 1747226142497,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjgh",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjgh.geojson",
-        "title": "M 2.3 - 4 km NW of Dover, Oklahoma"
+        "title": "M 1.9 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.93937683,
-          36.00944138,
-          1.071737528
+          -97.9305,
+          36.01233333,
+          5.84
         ]
       }
     },
@@ -1412,20 +1572,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "5 km NW of Dover, Oklahoma",
-        "time": 1747191825503,
-        "updated": 1747192240722,
+        "mag": 1.55,
+        "place": "4 km NNW of Dover, Oklahoma",
+        "time": 1747191825560,
+        "updated": 1747226854120,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjfz",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjfz.geojson",
-        "title": "M 1.9 - 5 km NW of Dover, Oklahoma"
+        "title": "M 1.6 - 4 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.95514679,
-          36.01547623,
-          3.39298439
+          -97.92933333,
+          36.01433333,
+          5.54
         ]
       }
     },
@@ -1855,7 +2015,7 @@
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747224105274,
+        "updated": 1747227644040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
@@ -2512,20 +2672,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "4 km NNW of Dover, Oklahoma",
-        "time": 1747164205007,
-        "updated": 1747164665038,
+        "mag": 1.67,
+        "place": "3 km NNW of Dover, Oklahoma",
+        "time": 1747164204760,
+        "updated": 1747227141711,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jiqu",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jiqu.geojson",
-        "title": "M 1.8 - 4 km NNW of Dover, Oklahoma"
+        "title": "M 1.7 - 3 km NNW of Dover, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.92773438,
-          36.01971817,
-          3.78451395
+          -97.92966667,
+          36.01116667,
+          5.44
         ]
       }
     },
@@ -3646,366 +3806,6 @@
           -147.0517,
           63.7572,
           9.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "22 km S of South Van Horn, Alaska",
-        "time": 1747141583175,
-        "updated": 1747141779744,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02564694ml",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02564694ml.geojson",
-        "title": "M 0.9 - 22 km S of South Van Horn, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.8038,
-          64.6102,
-          12.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.42,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747141308180,
-        "updated": 1747142837191,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181502",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181502.geojson",
-        "title": "M 0.4 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.844497680664,
-          38.8241653442383,
-          1.66999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "41 km SE of Ugashik, Alaska",
-        "time": 1747141109520,
-        "updated": 1747141256329,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645yuqw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645yuqw.geojson",
-        "title": "M 1.8 - 41 km SE of Ugashik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.8464,
-          57.2857,
-          24.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1747141020560,
-        "updated": 1747144635400,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181497",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181497.geojson",
-        "title": "M 0.7 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.782333374023,
-          38.8361663818359,
-          1.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.04,
-        "place": "16 km WSW of Ferndale, CA",
-        "time": 1747140924500,
-        "updated": 1747143140229,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181492",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181492.geojson",
-        "title": "M 2.0 - 16 km WSW of Ferndale, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.425666809082,
-          40.4949989318848,
-          16.7199993133545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.24,
-        "place": "65 km WNW of Beluga, Alaska",
-        "time": 1747140673680,
-        "updated": 1747173911630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041299",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041299.geojson",
-        "title": "M -0.2 - 65 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.229833333333,
-          61.3315,
-          3.06
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "35 km WSW of Cantwell, Alaska",
-        "time": 1747140548100,
-        "updated": 1747143385040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645wvmj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645wvmj.geojson",
-        "title": "M 2.3 - 35 km WSW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.5945,
-          63.249,
-          95.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.24,
-        "place": "2 km SE of Mullan, Idaho",
-        "time": 1747140071730,
-        "updated": 1747152313450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085048",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085048.geojson",
-        "title": "M 1.2 - 2 km SE of Mullan, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.7805,
-          47.4525,
-          -1.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "2 km N of Palomar Observatory, CA",
-        "time": 1747140051910,
-        "updated": 1747141908413,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152144",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152144.geojson",
-        "title": "M 0.7 - 2 km N of Palomar Observatory, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8643333,
-          33.374,
-          8.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.56,
-        "place": "38 km N of Chignik Lagoon, Alaska",
-        "time": 1747140012280,
-        "updated": 1747173488540,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605426",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605426.geojson",
-        "title": "M 0.6 - 38 km N of Chignik Lagoon, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.5255,
-          56.6563333333333,
-          12.18
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "28 km SE of Caburan, Philippines",
-        "time": 1747139423517,
-        "updated": 1747212511040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyz0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyz0.geojson",
-        "title": "M 4.4 - 28 km SE of Caburan, Philippines"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.8215,
-          5.7336,
-          143.696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4,
-        "place": "37 km S of Jurm, Afghanistan",
-        "time": 1747138457257,
-        "updated": 1747211346040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyyy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyyy.geojson",
-        "title": "M 4.0 - 37 km S of Jurm, Afghanistan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.7691,
-          36.535,
-          209.888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.8,
-        "place": "38 km W of Akhiok, Alaska",
-        "time": 1747138324786,
-        "updated": 1747145781211,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645oy2x",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645oy2x.geojson",
-        "title": "M 3.8 - 38 km W of Akhiok, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.8023,
-          56.8858,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.29,
-        "place": "2 km WSW of Indios, Puerto Rico",
-        "time": 1747138268170,
-        "updated": 1747139725450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482308",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482308.geojson",
-        "title": "M 2.3 - 2 km WSW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8393333333333,
-          17.9888333333333,
-          14.26
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.14,
-        "place": "83 km NW of Karluk, Alaska",
-        "time": 1747138196830,
-        "updated": 1747173217180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605386",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605386.geojson",
-        "title": "M 0.1 - 83 km NW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.303166666667,
-          58.1708333333333,
-          -0.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.73,
-        "place": "13 km SSW of Tres Pinos, CA",
-        "time": 1747138195930,
-        "updated": 1747142239127,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181477",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181477.geojson",
-        "title": "M 1.7 - 13 km SSW of Tres Pinos, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.341667175293,
-          36.6706657409668,
-          1.26999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.06,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747138005790,
-        "updated": 1747138937764,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181472",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181472.geojson",
-        "title": "M 1.1 - 4 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.780502319336,
-          38.8026657104492,
-          2.92000007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "61 km SE of Denali National Park, Alaska",
-        "time": 1747138002229,
-        "updated": 1747138141953,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025645nqhq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025645nqhq.geojson",
-        "title": "M 2.0 - 61 km SE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.8847,
-          63.1419,
-          124.5
         ]
       }
     }
