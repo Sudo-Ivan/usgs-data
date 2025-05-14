@@ -1,14 +1,74 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747192764000,
+    "generated": 1747195404000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 6
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.31,
+        "place": "8 km W of Cloverdale, CA",
+        "time": 1747194078020,
+        "updated": 1747194738938,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181762",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181762.geojson",
+        "title": "M 2.3 - 8 km W of Cloverdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.112831115723,
+          38.7973327636719,
+          1.71000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.1,
+        "place": "37 km NNW of Culebra, Puerto Rico",
+        "time": 1747193955464,
+        "updated": 1747194889040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz3t",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz3t.geojson",
+        "title": "M 3.1 - 37 km NNW of Culebra, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4119,
+          18.6221,
+          67.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "63 km S of Bengkulu, Indonesia",
+        "time": 1747192618605,
+        "updated": 1747193601040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz3s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz3s.geojson",
+        "title": "M 4.8 - 63 km S of Bengkulu, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3665,
+          -4.3636,
+          63.893
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -35,7 +95,7 @@
         "mag": 0.96,
         "place": "6 km WNW of Cobb, CA",
         "time": 1747191888930,
-        "updated": 1747191982472,
+        "updated": 1747193238777,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181742",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181742.geojson",
         "title": "M 1.0 - 6 km WNW of Cobb, CA"
@@ -66,126 +126,6 @@
           -97.95514679,
           36.01547623,
           3.39298439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4,
-        "place": "20 km SSE of Pizitou, Taiwan",
-        "time": 1747190908054,
-        "updated": 1747192307040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz3k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz3k.geojson",
-        "title": "M 4.0 - 20 km SSE of Pizitou, Taiwan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.5184,
-          23.3097,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747190837260,
-        "updated": 1747192038638,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181732",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181732.geojson",
-        "title": "M 0.7 - 10 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.852333068848,
-          38.8251647949219,
-          2.50999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747190289750,
-        "updated": 1747191436573,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181727",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181727.geojson",
-        "title": "M 0.8 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.822334289551,
-          38.8019981384277,
-          3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "68 km ESE of Egegik, Alaska",
-        "time": 1747190096567,
-        "updated": 1747190256749,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565neroi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565neroi.geojson",
-        "title": "M 1.7 - 68 km ESE of Egegik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.3301,
-          57.9491,
-          158.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "63 km SSE of Kokhanok, Alaska",
-        "time": 1747189997844,
-        "updated": 1747190912040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565nehf1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565nehf1.geojson",
-        "title": "M 2.0 - 63 km SSE of Kokhanok, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.1656,
-          58.9579,
-          128.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.77,
-        "place": "17 km WSW of Johannesburg, CA",
-        "time": 1747189991180,
-        "updated": 1747190208249,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152456",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152456.geojson",
-        "title": "M 1.8 - 17 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8103333,
-          35.3313333,
-          6.76
         ]
       }
     }
