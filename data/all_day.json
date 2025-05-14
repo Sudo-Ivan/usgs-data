@@ -1,14 +1,134 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747242161000,
+    "generated": 1747245792000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 205
+    "count": 212
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.48,
+        "place": "5 km E of Coalinga, CA",
+        "time": 1747245497670,
+        "updated": 1747245593810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182017",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182017.geojson",
+        "title": "M 1.5 - 5 km E of Coalinga, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.299003601074,
+          36.1496658325195,
+          12.3800001144409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "2 km NNW of The Geysers, CA",
+        "time": 1747244822400,
+        "updated": 1747244918595,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182012",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182012.geojson",
+        "title": "M 0.8 - 2 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77116394043,
+          38.7936668395996,
+          3.89000010490417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "6 km SW of Houston, Alaska",
+        "time": 1747244815526,
+        "updated": 1747244963330,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565weuog",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565weuog.geojson",
+        "title": "M 1.1 - 6 km SW of Houston, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9115,
+          61.5893,
+          43.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.16,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747244737910,
+        "updated": 1747244833542,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182007",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182007.geojson",
+        "title": "M 1.2 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.780502319336,
+          38.8025016784668,
+          -0.540000021457672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.36,
+        "place": "4 km SSW of Anderson Springs, CA",
+        "time": 1747244079730,
+        "updated": 1747245138683,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181997",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181997.geojson",
+        "title": "M 1.4 - 4 km SSW of Anderson Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.696166992188,
+          38.7396659851074,
+          -0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "38 km SSW of Los Ybanez, Texas",
+        "time": 1747243760256,
+        "updated": 1747244478018,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jkin",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jkin.geojson",
+        "title": "M 1.9 - 38 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.135,
+          32.422,
+          3.878
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -92,6 +212,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.7,
+        "place": "60 km SSW of Intipucá, El Salvador",
+        "time": 1747239571316,
+        "updated": 1747242524040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz6y",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz6y.geojson",
+        "title": "M 4.7 - 60 km SSW of Intipucá, El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1749,
+          12.6588,
+          62.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.05,
         "place": "3 km NNW of Dover, Oklahoma",
         "time": 1747238919890,
@@ -115,7 +255,7 @@
         "mag": 1.45,
         "place": "17 km S of Tres Pinos, CA",
         "time": 1747238897310,
-        "updated": 1747240035119,
+        "updated": 1747244839654,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181982",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181982.geojson",
         "title": "M 1.5 - 17 km S of Tres Pinos, CA"
@@ -135,7 +275,7 @@
         "mag": 2.74,
         "place": "3 km NNW of Dover, Oklahoma",
         "time": 1747238496789,
-        "updated": 1747239784146,
+        "updated": 1747242567297,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkfq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkfq.geojson",
         "title": "M 2.7 - 3 km NNW of Dover, Oklahoma"
@@ -215,7 +355,7 @@
         "mag": 1.29,
         "place": "3 km NNW of The Geysers, CA",
         "time": 1747235252150,
-        "updated": 1747236438700,
+        "updated": 1747242738409,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181977",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181977.geojson",
         "title": "M 1.3 - 3 km NNW of The Geysers, CA"
@@ -655,7 +795,7 @@
         "mag": 4.1,
         "place": "57 km NE of Valmy, Nevada",
         "time": 1747226118448,
-        "updated": 1747241437492,
+        "updated": 1747244521040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897585",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897585.geojson",
         "title": "M 4.1 - 57 km NE of Valmy, Nevada"
@@ -1032,20 +1172,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.05,
-        "place": "17 km WSW of Kailua-Kona, Hawaii",
-        "time": 1747217812770,
-        "updated": 1747241739094,
+        "mag": 3.4,
+        "place": "15 km WSW of Kailua-Kona, Hawaii",
+        "time": 1747217814590,
+        "updated": 1747244056598,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74672722",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74672722.geojson",
-        "title": "M 3.1 - 17 km WSW of Kailua-Kona, Hawaii"
+        "title": "M 3.4 - 15 km WSW of Kailua-Kona, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.162170410156,
-          19.6000003814697,
-          -2.35999989509583
+          -156.134,
+          19.5941666666667,
+          5.78
         ]
       }
     },
@@ -1446,6 +1586,86 @@
           -149.3088,
           63.0212,
           68.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "24 km WNW of Akutan, Alaska",
+        "time": 1747209845698,
+        "updated": 1747245789290,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565qsu4c",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565qsu4c.geojson",
+        "title": "M 1.9 - 24 km WNW of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.0939,
+          54.2563,
+          2.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.36,
+        "place": "14 km WSW of Akutan, Alaska",
+        "time": 1747209730610,
+        "updated": 1747245333120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93606186",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93606186.geojson",
+        "title": "M 2.4 - 14 km WSW of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.988,
+          54.1041666666667,
+          20.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.44,
+        "place": "8 km WSW of Akutan, Alaska",
+        "time": 1747209663030,
+        "updated": 1747245236420,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041404",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041404.geojson",
+        "title": "M -0.4 - 8 km WSW of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.902166666667,
+          54.1081666666667,
+          12.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "13 km WSW of Akutan, Alaska",
+        "time": 1747209634950,
+        "updated": 1747243964780,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93606181",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93606181.geojson",
+        "title": "M 0.8 - 13 km WSW of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.9695,
+          54.1023333333333,
+          18.36
         ]
       }
     },
@@ -1952,10 +2172,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.05,
+        "mag": 1.06,
         "place": "11 km N of Borrego Springs, CA",
-        "time": 1747199531870,
-        "updated": 1747200390066,
+        "time": 1747199531820,
+        "updated": 1747243650036,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152480",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152480.geojson",
         "title": "M 1.1 - 11 km N of Borrego Springs, CA"
@@ -1963,9 +2183,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.36,
-          33.351,
-          12.42
+          -116.3566667,
+          33.3528333,
+          12.57
         ]
       }
     },
@@ -2652,6 +2872,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.99,
+        "place": "17 km S of Morton, Washington",
+        "time": 1747188715680,
+        "updated": 1747245135960,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098907",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098907.geojson",
+        "title": "M 1.0 - 17 km S of Morton, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23616666666666,
+          46.40716666666667,
+          2.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.6,
         "place": "39 km NNW of Toyah, Texas",
         "time": 1747188511726,
@@ -2666,6 +2906,26 @@
           -104.002,
           31.618,
           8.0994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4000000000000001,
+        "place": "22 km SSE of Mossyrock, Washington",
+        "time": 1747186621850,
+        "updated": 1747244123980,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098877",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098877.geojson",
+        "title": "M 1.4 - 22 km SSE of Mossyrock, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38616666666667,
+          46.33533333333333,
+          -0.03
         ]
       }
     },
@@ -2975,7 +3235,7 @@
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747240392135,
+        "updated": 1747242529896,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
@@ -3892,10 +4152,30 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.1,
+        "mag": 0.45,
         "place": "8 km WNW of Anza, CA",
-        "time": 1747160315420,
-        "updated": 1747160530209,
+        "time": 1747160328600,
+        "updated": 1747244499063,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37544069",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37544069.geojson",
+        "title": "M 0.5 - 8 km WNW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7511667,
+          33.5875,
+          11.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "8 km WNW of Anza, CA",
+        "time": 1747160315440,
+        "updated": 1747244247955,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152264",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152264.geojson",
         "title": "M 1.1 - 8 km WNW of Anza, CA"
@@ -3903,9 +4183,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.75,
-          33.5803333,
-          12.66
+          -116.751,
+          33.5843333,
+          12.36
         ]
       }
     },
@@ -3966,146 +4246,6 @@
           -152.236666666667,
           61.2708333333333,
           4.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.58,
-        "place": "24 km ESE of Leilani Estates, Hawaii",
-        "time": 1747159316140,
-        "updated": 1747218393779,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74672172",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74672172.geojson",
-        "title": "M 3.6 - 24 km ESE of Leilani Estates, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.7155,
-          19.3656666666667,
-          42.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.07,
-        "place": "4 km WSW of Ault Field, Washington",
-        "time": 1747158367330,
-        "updated": 1747159183930,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098547",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098547.geojson",
-        "title": "M 2.1 - 4 km WSW of Ault Field, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7315,
-          48.321333333333335,
-          29.32
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "58 km SSE of Denali National Park, Alaska",
-        "time": 1747158276328,
-        "updated": 1747170750910,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025648v1v7",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025648v1v7.geojson",
-        "title": "M 1.6 - 58 km SSE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.2149,
-          63.0717,
-          109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "24 km ENE of Schurz, Nevada",
-        "time": 1747157459115,
-        "updated": 1747161206915,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897541",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897541.geojson",
-        "title": "M 1.6 - 24 km ENE of Schurz, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5598,
-          39.0551,
-          14.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.64,
-        "place": "60 km WNW of Tyonek, Alaska",
-        "time": 1747157451910,
-        "updated": 1747180991960,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605591",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605591.geojson",
-        "title": "M -0.6 - 60 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.180666666667,
-          61.2755,
-          6.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.45,
-        "place": "83 km NW of Karluk, Alaska",
-        "time": 1747157417290,
-        "updated": 1747180691330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605586",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605586.geojson",
-        "title": "M -0.5 - 83 km NW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.327,
-          58.1543333333333,
-          1.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.33,
-        "place": "93 km NE of Punta Cana, Dominican Republic",
-        "time": 1747156647210,
-        "updated": 1747160905040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482318",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482318.geojson",
-        "title": "M 3.3 - 93 km NE of Punta Cana, Dominican Republic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.774,
-          19.1711666666667,
-          20.79
         ]
       }
     }
