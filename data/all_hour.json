@@ -1,191 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747206140000,
+    "generated": 1747209791000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.1,
-        "place": "20 km NNE of Yerington, Nevada",
-        "time": 1747205886912,
-        "updated": 1747206013218,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897581",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897581.geojson",
-        "title": "M 1.1 - 20 km NNE of Yerington, Nevada"
+        "mag": 2.31,
+        "place": "2 km NNW of San Bernardino, CA",
+        "time": 1747209284030,
+        "updated": 1747209682396,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152504.geojson",
+        "title": "M 2.3 - 2 km NNW of San Bernardino, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.0693,
-          39.1513,
-          9.3
+          -117.2991667,
+          34.1478333,
+          9.52
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.41,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747205608520,
-        "updated": 1747206087995,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjno",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjno.geojson",
-        "title": "M 2.4 - 3 km NNW of Dover, Oklahoma"
+        "mag": 0.57,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1747206510140,
+        "updated": 1747208238486,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181822",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181822.geojson",
+        "title": "M 0.6 - 6 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.92198944,
-          36.01328659,
-          3.88631916
+          -122.808670043945,
+          38.8176651000977,
+          3.1800000667572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.43,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747204756535,
-        "updated": 1747205240054,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjnc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjnc.geojson",
-        "title": "M 2.4 - 3 km NNW of Dover, Oklahoma"
+        "mag": 1.77,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747206481130,
+        "updated": 1747208537523,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181817",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181817.geojson",
+        "title": "M 1.8 - 6 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.93428802,
-          36.01213074,
-          4.05050993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "18 km ESE of Anza, CA",
-        "time": 1747203625220,
-        "updated": 1747203839563,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152496",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152496.geojson",
-        "title": "M 1.2 - 18 km ESE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4886667,
-          33.4985,
-          12.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "87 km W of Tyonek, Alaska",
-        "time": 1747203099841,
-        "updated": 1747203219510,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565pnjr4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565pnjr4.geojson",
-        "title": "M 0.7 - 87 km W of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.7562,
-          61.0744,
-          12.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "5 km NNW of Dover, Oklahoma",
-        "time": 1747203042050,
-        "updated": 1747205499339,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjmd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjmd.geojson",
-        "title": "M 2.5 - 5 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.92501831,
-          36.02924728,
-          1.124936461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "25 km NW of Eureka Roadhouse, Alaska",
-        "time": 1747203022564,
-        "updated": 1747203154005,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565pnapc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565pnapc.geojson",
-        "title": "M 1.0 - 25 km NW of Eureka Roadhouse, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.5557,
-          62.0822,
-          36.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.54,
-        "place": "16 km NNW of Tehachapi, CA",
-        "time": 1747202881170,
-        "updated": 1747203097779,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152488",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152488.geojson",
-        "title": "M 1.5 - 16 km NNW of Tehachapi, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5331667,
-          35.2586667,
-          6.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.29,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747202620857,
-        "updated": 1747203016276,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjlx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjlx.geojson",
-        "title": "M 2.3 - 3 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.92787933,
-          36.01441574,
-          3.936074734
+          -122.806831359863,
+          38.8188323974609,
+          2.9300000667572
         ]
       }
     }

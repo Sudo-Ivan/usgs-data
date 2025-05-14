@@ -1,14 +1,74 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747206166000,
+    "generated": 1747209775000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1942
+    "count": 1929
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.31,
+        "place": "2 km NNW of San Bernardino, CA",
+        "time": 1747209284030,
+        "updated": 1747209682396,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152504.geojson",
+        "title": "M 2.3 - 2 km NNW of San Bernardino, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2991667,
+          34.1478333,
+          9.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.57,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1747206510140,
+        "updated": 1747208238486,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181822",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181822.geojson",
+        "title": "M 0.6 - 6 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.808670043945,
+          38.8176651000977,
+          3.1800000667572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.77,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747206481130,
+        "updated": 1747208537523,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181817",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181817.geojson",
+        "title": "M 1.8 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.806831359863,
+          38.8188323974609,
+          2.9300000667572
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1195,7 +1255,7 @@
         "mag": 6,
         "place": "23 km SSE of Fry, Greece",
         "time": 1747176675597,
-        "updated": 1747205930427,
+        "updated": 1747209662542,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pz2p",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pz2p.geojson",
         "title": "M 6.0 - 23 km SSE of Fry, Greece"
@@ -4775,7 +4835,7 @@
         "mag": 3.26,
         "place": "7 km SSW of Lerna, Illinois",
         "time": 1747111429690,
-        "updated": 1747202795056,
+        "updated": 1747208901382,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60606081",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60606081.geojson",
         "title": "M 3.3 - 7 km SSW of Lerna, Illinois"
@@ -4955,7 +5015,7 @@
         "mag": 4.7,
         "place": "48 km N of Norðurþing, Iceland",
         "time": 1747108924416,
-        "updated": 1747142111173,
+        "updated": 1747206446381,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyxt",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyxt.geojson",
         "title": "M 4.7 - 48 km N of Norðurþing, Iceland"
@@ -6446,6 +6506,26 @@
           -116.7148333,
           33.703,
           17.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.33,
+        "place": "22 km ENE of Ashford, Washington",
+        "time": 1747081052820,
+        "updated": 1747082204760,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62098142",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62098142.geojson",
+        "title": "M 0.3 - 22 km ENE of Ashford, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76316666666666,
+          46.846,
+          0.56
         ]
       }
     },
@@ -19015,7 +19095,7 @@
         "mag": 4.1,
         "place": "21 km SE of Greenback, Tennessee",
         "time": 1746882260390,
-        "updated": 1747201880257,
+        "updated": 1747209019434,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60605931",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60605931.geojson",
         "title": "M 4.1 - 21 km SE of Greenback, Tennessee"
@@ -38506,346 +38586,6 @@
           -150.0608,
           61.7883,
           37.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.53,
-        "place": "5 km NNE of West Yellowstone, Montana",
-        "time": 1746604917090,
-        "updated": 1746625583990,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107136",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107136.geojson",
-        "title": "M 0.5 - 5 km NNE of West Yellowstone, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.079666666667,
-          44.7123333333333,
-          9.65
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.98,
-        "place": "1 km SW of Inverness, CA",
-        "time": 1746604898320,
-        "updated": 1746681738811,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177711",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177711.geojson",
-        "title": "M 1.0 - 1 km SW of Inverness, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.866,
-          38.092,
-          14.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.7,
-        "place": "75 km NW of Ninilchik, Alaska",
-        "time": 1746604775590,
-        "updated": 1746669373490,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93599451",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93599451.geojson",
-        "title": "M -0.7 - 75 km NW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.7135,
-          60.4825,
-          8.52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.79,
-        "place": "6 km NNE of West Yellowstone, Montana",
-        "time": 1746604695350,
-        "updated": 1746625253440,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107131",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107131.geojson",
-        "title": "M 0.8 - 6 km NNE of West Yellowstone, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.0765,
-          44.713,
-          10.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "6 km SE of Valle Vista, CA",
-        "time": 1746604430120,
-        "updated": 1746754345917,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146480",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146480.geojson",
-        "title": "M 0.8 - 6 km SE of Valle Vista, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.839,
-          33.715,
-          15.19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.75,
-        "place": "6 km NNE of West Yellowstone, Montana",
-        "time": 1746603993540,
-        "updated": 1746624959920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80107126",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80107126.geojson",
-        "title": "M 0.8 - 6 km NNE of West Yellowstone, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.078333333333,
-          44.7148333333333,
-          10.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "25 km SSE of Midland, Texas",
-        "time": 1746603870393,
-        "updated": 1746633872506,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iwvh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iwvh.geojson",
-        "title": "M 1.0 - 25 km SSE of Midland, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.997,
-          31.777,
-          9.6924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.19,
-        "place": "1 km ENE of The Geysers, CA",
-        "time": 1746603844220,
-        "updated": 1747037930762,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177706",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177706.geojson",
-        "title": "M 0.2 - 1 km ENE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7435,
-          38.7833333333333,
-          0.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.8,
-        "place": "south of the Kermadec Islands",
-        "time": 1746603619428,
-        "updated": 1746608634040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxng",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxng.geojson",
-        "title": "M 4.8 - south of the Kermadec Islands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -179.9058,
-          -33.8626,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.84,
-        "place": "6 km SW of Carlsbad, CA",
-        "time": 1746603422870,
-        "updated": 1746734919196,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41146472",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41146472.geojson",
-        "title": "M 1.8 - 6 km SW of Carlsbad, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.391,
-          33.12,
-          11.06
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "35 km SE of Malaga, New Mexico",
-        "time": 1746603370690,
-        "updated": 1746626475559,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iwva",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iwva.geojson",
-        "title": "M 1.6 - 35 km SE of Malaga, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.798,
-          32.007,
-          7.6636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "81 km WNW of Longido, Tanzania",
-        "time": 1746603359840,
-        "updated": 1747190069164,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxnv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxnv.geojson",
-        "title": "M 4.5 - 81 km WNW of Longido, Tanzania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.9829,
-          -2.5739,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.41,
-        "place": "66 km WNW of Beluga, Alaska",
-        "time": 1746603187180,
-        "updated": 1746669638910,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93599446",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93599446.geojson",
-        "title": "M -0.4 - 66 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.263166666667,
-          61.311,
-          -2.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.21,
-        "place": "16 km WSW of Lakeport, CA",
-        "time": 1746603184810,
-        "updated": 1747186037965,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177701",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177701.geojson",
-        "title": "M 1.2 - 16 km WSW of Lakeport, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.0715,
-          38.9603333333333,
-          3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.7,
-        "place": "86 km ENE of Atka, Alaska",
-        "time": 1746602717595,
-        "updated": 1746957139156,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255u5ki7j",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255u5ki7j.geojson",
-        "title": "M 2.7 - 86 km ENE of Atka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -173.0149,
-          52.4855,
-          149.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.3,
-        "place": "45 km SSW of Gunungsitoli, Indonesia",
-        "time": 1746601749926,
-        "updated": 1746602700040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pxne",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pxne.geojson",
-        "title": "M 5.3 - 45 km SSW of Gunungsitoli, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.4176,
-          0.9316,
-          18.315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.15,
-        "place": "9 km SE of McArthur, CA",
-        "time": 1746601396850,
-        "updated": 1747194143878,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75177696",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75177696.geojson",
-        "title": "M 2.2 - 9 km SE of McArthur, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.308166666667,
-          41.0075,
-          15.66
         ]
       }
     }
