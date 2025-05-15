@@ -1,171 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747303344000,
+    "generated": 1747306930000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 13
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.79,
-        "place": "5 km WNW of Borrego Springs, CA",
-        "time": 1747302849600,
-        "updated": 1747303084649,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153352",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153352.geojson",
-        "title": "M 0.8 - 5 km WNW of Borrego Springs, CA"
+        "mag": 0.76,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747306115550,
+        "updated": 1747306209815,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182377",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182377.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.4266667,
-          33.2708333,
-          5.32
+          -122.825164794922,
+          38.816333770752,
+          2.65000009536743
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "34 km SSE of Midland, Texas",
-        "time": 1747302712066,
-        "updated": 1747303341900,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jloy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jloy.geojson",
-        "title": "M 2.1 - 34 km SSE of Midland, Texas"
+        "mag": 0.67,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747305934520,
+        "updated": 1747306029701,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182372",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182372.geojson",
+        "title": "M 0.7 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.971,
-          31.696,
-          3.1578
+          -122.839500427246,
+          38.8413314819336,
+          1.85000002384186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.58,
-        "place": "18 km ESE of Anza, CA",
-        "time": 1747302656070,
-        "updated": 1747302902527,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153344",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153344.geojson",
-        "title": "M 0.6 - 18 km ESE of Anza, CA"
+        "mag": 1.06,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747305811730,
+        "updated": 1747305909773,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182367",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182367.geojson",
+        "title": "M 1.1 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.4871667,
-          33.4945,
-          12.85
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.94,
-        "place": "22 km NE of Pine Valley, CA",
-        "time": 1747302466370,
-        "updated": 1747302672969,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153336",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153336.geojson",
-        "title": "M 0.9 - 22 km NE of Pine Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.394,
-          32.9803333,
-          4.52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.75,
-        "place": "4 km NW of Dover, Oklahoma",
-        "time": 1747302448202,
-        "updated": 1747302899153,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jlou",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jlou.geojson",
-        "title": "M 1.8 - 4 km NW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.94482422,
-          36.01248932,
-          2.774446249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.26,
-        "place": "22 km NE of Pine Valley, CA",
-        "time": 1747302000360,
-        "updated": 1747302660560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153328",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153328.geojson",
-        "title": "M 1.3 - 22 km NE of Pine Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3963333,
-          32.9798333,
-          3.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1747301755730,
-        "updated": 1747301850369,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182357",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182357.geojson",
-        "title": "M 0.7 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.809501647949,
-          38.8219985961914,
-          3.03999996185303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "38 km W of Kalifornsky, Alaska",
-        "time": 1747301490581,
-        "updated": 1747301623415,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567f3go2",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567f3go2.geojson",
-        "title": "M 2.1 - 38 km W of Kalifornsky, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.9775,
-          60.4751,
-          81.7
+          -122.839500427246,
+          38.8406677246094,
+          1.91999995708466
         ]
       }
     },
@@ -173,99 +73,39 @@
       "type": "Feature",
       "properties": {
         "mag": 1.1,
-        "place": "13 km NE of Yerington, Nevada",
-        "time": 1747300904309,
-        "updated": 1747301039864,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897644",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897644.geojson",
-        "title": "M 1.1 - 13 km NE of Yerington, Nevada"
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747304185860,
+        "updated": 1747306038352,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182362",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182362.geojson",
+        "title": "M 1.1 - 6 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.0332,
-          39.0568,
-          5.4
+          -122.800666809082,
+          38.8233337402344,
+          2.60999989509583
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.77,
-        "place": "15 km SSW of Searles Valley, CA",
-        "time": 1747300659160,
-        "updated": 1747300872329,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153320",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153320.geojson",
-        "title": "M 0.8 - 15 km SSW of Searles Valley, CA"
+        "mag": 1.7,
+        "place": "26 km W of Susitna, Alaska",
+        "time": 1747303485758,
+        "updated": 1747303613907,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567fj53z",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567fj53z.geojson",
+        "title": "M 1.7 - 26 km W of Susitna, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.4623333,
-          35.6373333,
-          5.42
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.52,
-        "place": "2 km WNW of Anderson Springs, CA",
-        "time": 1747300368160,
-        "updated": 1747300463972,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182347",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182347.geojson",
-        "title": "M 0.5 - 2 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.718002319336,
-          38.7750015258789,
-          2.34999990463257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.79,
-        "place": "23 km SSE of Waimea, Hawaii",
-        "time": 1747300114570,
-        "updated": 1747301638590,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673562",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673562.geojson",
-        "title": "M 2.8 - 23 km SSE of Waimea, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.59716796875,
-          19.8226661682129,
-          14.4700002670288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "32 km SSW of Minto, Alaska",
-        "time": 1747300000014,
-        "updated": 1747300100906,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567ey4ht",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567ey4ht.geojson",
-        "title": "M 2.6 - 32 km SSW of Minto, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.7299,
-          64.9034,
-          26.9
+          -151.0067,
+          61.5698,
+          74
         ]
       }
     }
