@@ -1,271 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747267750000,
+    "generated": 1747272610000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 13
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.6,
-        "place": "9 km NW of Parkfield, CA",
-        "time": 1747267644070,
-        "updated": 1747267739598,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182147",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182147.geojson",
-        "title": "M 0.6 - 9 km NW of Parkfield, CA"
+        "mag": 1.62,
+        "place": "5 km WNW of Cape Vizcaino, CA",
+        "time": 1747272254730,
+        "updated": 1747272350094,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182157",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182157.geojson",
+        "title": "M 1.6 - 5 km WNW of Cape Vizcaino, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.501998901367,
-          35.9526672363281,
-          5.1100001335144
+          -123.891998291016,
+          39.7353324890137,
+          9.3100004196167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.45,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747267075380,
-        "updated": 1747267169402,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182142",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182142.geojson",
-        "title": "M 0.5 - 10 km NW of The Geysers, CA"
+        "mag": 1.2,
+        "place": "0 km SE of Anza, CA",
+        "time": 1747271518810,
+        "updated": 1747271747070,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153144",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153144.geojson",
+        "title": "M 1.2 - 0 km SE of Anza, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.853668212891,
-          38.8296661376953,
-          2.44000005722046
+          -116.6708333,
+          33.5528333,
+          9.74
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.6,
-        "place": "51 km NW of Yakutat, Alaska",
-        "time": 1747266786220,
-        "updated": 1747266895355,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256600uim",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256600uim.geojson",
-        "title": "M 1.6 - 51 km NW of Yakutat, Alaska"
+        "mag": 5.9,
+        "place": "148 km N of Manatutu, Timor Leste",
+        "time": 1747270251943,
+        "updated": 1747271614195,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzaa",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzaa.geojson",
+        "title": "M 5.9 - 148 km N of Manatutu, Timor Leste"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -140.3444,
-          59.886,
-          0.5
+          126.1249,
+          -7.1693,
+          479.099
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.77,
-        "place": "10 km ESE of Coalinga, CA",
-        "time": 1747266317070,
-        "updated": 1747267639155,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182137",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182137.geojson",
-        "title": "M 2.8 - 10 km ESE of Coalinga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.248497009277,
-          36.1371650695801,
-          10.4700002670288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "18 km ESE of Sparks, Nevada",
-        "time": 1747266271866,
-        "updated": 1747266416735,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897620",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897620.geojson",
-        "title": "M 1.3 - 18 km ESE of Sparks, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.5418,
-          39.4965,
-          15.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.58,
-        "place": "2 km NNW of Universal City, CA",
-        "time": 1747266129290,
-        "updated": 1747266401450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153104",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153104.geojson",
-        "title": "M 1.6 - 2 km NNW of Universal City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.359,
-          34.1543333,
-          15.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.88,
-        "place": "2 km NNW of Universal City, CA",
-        "time": 1747266065570,
-        "updated": 1747266290439,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153096",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153096.geojson",
-        "title": "M 1.9 - 2 km NNW of Universal City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3628333,
-          34.154,
-          16.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.78,
-        "place": "13 km S of Fern Forest, Hawaii",
-        "time": 1747266019930,
-        "updated": 1747266891040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673252",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673252.geojson",
-        "title": "M 2.8 - 13 km S of Fern Forest, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.153335571289,
-          19.3404998779297,
-          0.25
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.7,
-        "place": "52 km NNW of Yakutat, Alaska",
-        "time": 1747265986545,
-        "updated": 1747266699040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565zxxlq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565zxxlq.geojson",
-        "title": "M 2.7 - 52 km NNW of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -140.1819,
-          59.9585,
-          9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "15 km SSW of Searles Valley, CA",
-        "time": 1747265817300,
-        "updated": 1747266020392,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153088",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153088.geojson",
-        "title": "M 1.1 - 15 km SSW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4638333,
-          35.6388333,
-          5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.95,
-        "place": "5 km N of San Jacinto, CA",
-        "time": 1747265076390,
-        "updated": 1747265292541,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153080",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153080.geojson",
-        "title": "M 1.0 - 5 km N of San Jacinto, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.959,
-          33.8308333,
-          17.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.63,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747265038250,
-        "updated": 1747266139007,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182132",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182132.geojson",
-        "title": "M 1.6 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.793334960938,
-          38.8361663818359,
-          1.98000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
+        "mag": 2.3,
         "place": "11 km N of Meadow Lakes, Alaska",
-        "time": 1747264215194,
-        "updated": 1747266215763,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565zrnf3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565zrnf3.geojson",
-        "title": "M 1.4 - 11 km N of Meadow Lakes, Alaska"
+        "time": 1747269780445,
+        "updated": 1747269878413,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025679t2ho",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025679t2ho.geojson",
+        "title": "M 2.3 - 11 km N of Meadow Lakes, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.5634,
-          61.7227,
-          39.8
+          -149.6276,
+          61.7258,
+          28.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "36 km NW of Rampart, Alaska",
+        "time": 1747269358452,
+        "updated": 1747269467147,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025679rh8l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025679rh8l.geojson",
+        "title": "M 1.5 - 36 km NW of Rampart, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.7468,
+          65.731,
+          3.4
         ]
       }
     }
