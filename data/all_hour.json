@@ -1,91 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747335755000,
+    "generated": 1747339344000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.15,
-        "place": "9 km NNE of Coso Junction, CA",
-        "time": 1747335247220,
-        "updated": 1747335452228,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153656.geojson",
-        "title": "M 1.2 - 9 km NNE of Coso Junction, CA"
+        "mag": 1.02,
+        "place": "2 km ESE of The Geysers, CA",
+        "time": 1747338223860,
+        "updated": 1747338321941,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182527",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182527.geojson",
+        "title": "M 1.0 - 2 km ESE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9071667,
-          36.1151667,
-          2.47
+          -122.729164123535,
+          38.7701683044434,
+          1.10000002384186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.45,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747334720550,
-        "updated": 1747334815456,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182502",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182502.geojson",
-        "title": "M 0.5 - 9 km NW of The Geysers, CA"
+        "mag": 1.22,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747337492090,
+        "updated": 1747339035987,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182517",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182517.geojson",
+        "title": "M 1.2 - 6 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.843170166016,
-          38.8213348388672,
-          2.13000011444092
+          -122.80583190918,
+          38.8170013427734,
+          2.99000000953674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "9 km SE of Beluga, Alaska",
-        "time": 1747333021356,
-        "updated": 1747333097707,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567kdatz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567kdatz.geojson",
-        "title": "M 1.4 - 9 km SE of Beluga, Alaska"
+        "mag": 4.6,
+        "place": "161 km W of Gorontalo, Indonesia",
+        "time": 1747336565024,
+        "updated": 1747339272040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzg2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzg2.geojson",
+        "title": "M 4.6 - 161 km W of Gorontalo, Indonesia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.9447,
-          61.0883,
-          35.3
+          121.6147,
+          0.5791,
+          109.082
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.2,
-        "place": "19 km SW of Moapa Town, Nevada",
-        "time": 1747332284159,
-        "updated": 1747332443306,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897657",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897657.geojson",
-        "title": "M 2.2 - 19 km SW of Moapa Town, Nevada"
+        "mag": 1.9,
+        "place": "70 km N of Chickaloon, Alaska",
+        "time": 1747336175050,
+        "updated": 1747336298931,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567kx3b5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567kx3b5.geojson",
+        "title": "M 1.9 - 70 km N of Chickaloon, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.7603,
-          36.5633,
-          3
+          -148.2377,
+          62.4221,
+          16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.65,
+        "place": "7 km SSW of Mojave, CA",
+        "time": 1747335792740,
+        "updated": 1747336233293,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153664",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153664.geojson",
+        "title": "M 1.7 - 7 km SSW of Mojave, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1901667,
+          34.9935,
+          0.97
         ]
       }
     }
