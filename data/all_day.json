@@ -1,21 +1,101 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747317763000,
+    "generated": 1747321363000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 215
+    "count": 213
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "2 km S of Tyonek, Alaska",
+        "time": 1747319954002,
+        "updated": 1747320020491,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567i4b54",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567i4b54.geojson",
+        "title": "M 2.2 - 2 km S of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1291,
+          61.0488,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "36 km NNW of Valdez, Alaska",
+        "time": 1747318500911,
+        "updated": 1747318649536,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567hz4y3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567hz4y3.geojson",
+        "title": "M 1.8 - 36 km NNW of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.6414,
+          61.4313,
+          16.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "34 km E of McKinney Acres, Texas",
+        "time": 1747318089967,
+        "updated": 1747318404170,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jlxv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jlxv.geojson",
+        "title": "M 1.3 - 34 km E of McKinney Acres, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.173,
+          32.359,
+          8.1049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.03,
+        "place": "5 km NNW of The Geysers, CA",
+        "time": 1747317746920,
+        "updated": 1747320136919,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182432",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182432.geojson",
+        "title": "M 1.0 - 5 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.787666320801,
+          38.8188323974609,
+          0.25
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.86,
         "place": "11 km NNE of Brooktrails, CA",
         "time": 1747317032000,
-        "updated": 1747317129362,
+        "updated": 1747318937796,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182417",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182417.geojson",
         "title": "M 1.9 - 11 km NNE of Brooktrails, CA"
@@ -115,7 +195,7 @@
         "mag": 5,
         "place": "11 km ENE of Kulu, Turkey",
         "time": 1747313197499,
-        "updated": 1747317649484,
+        "updated": 1747320407183,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzcl",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzcl.geojson",
         "title": "M 5.0 - 11 km ENE of Kulu, Turkey"
@@ -175,7 +255,7 @@
         "mag": 0.81,
         "place": "8 km WNW of Anza, CA",
         "time": 1747312011560,
-        "updated": 1747312228629,
+        "updated": 1747321298702,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153392",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153392.geojson",
         "title": "M 0.8 - 8 km WNW of Anza, CA"
@@ -355,7 +435,7 @@
         "mag": 2.26,
         "place": "6 km SW of Alamo, CA",
         "time": 1747310617930,
-        "updated": 1747313239160,
+        "updated": 1747321190523,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182387",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182387.geojson",
         "title": "M 2.3 - 6 km SW of Alamo, CA"
@@ -595,7 +675,7 @@
         "mag": 0.79,
         "place": "5 km WNW of Borrego Springs, CA",
         "time": 1747302849600,
-        "updated": 1747303084649,
+        "updated": 1747321313704,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153352",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153352.geojson",
         "title": "M 0.8 - 5 km WNW of Borrego Springs, CA"
@@ -635,7 +715,7 @@
         "mag": 0.58,
         "place": "18 km ESE of Anza, CA",
         "time": 1747302656070,
-        "updated": 1747302902527,
+        "updated": 1747321314703,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153344",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153344.geojson",
         "title": "M 0.6 - 18 km ESE of Anza, CA"
@@ -655,7 +735,7 @@
         "mag": 0.94,
         "place": "22 km NE of Pine Valley, CA",
         "time": 1747302466370,
-        "updated": 1747302672969,
+        "updated": 1747321329703,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153336",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153336.geojson",
         "title": "M 0.9 - 22 km NE of Pine Valley, CA"
@@ -695,7 +775,7 @@
         "mag": 1.26,
         "place": "22 km NE of Pine Valley, CA",
         "time": 1747302000360,
-        "updated": 1747302660560,
+        "updated": 1747321344705,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153328",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153328.geojson",
         "title": "M 1.3 - 22 km NE of Pine Valley, CA"
@@ -1035,7 +1115,7 @@
         "mag": 0.55,
         "place": "4 km WNW of Borrego Springs, CA",
         "time": 1747297333780,
-        "updated": 1747297536962,
+        "updated": 1747321359773,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153288",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153288.geojson",
         "title": "M 0.6 - 4 km WNW of Borrego Springs, CA"
@@ -1235,7 +1315,7 @@
         "mag": 3.5,
         "place": "54 km NE of Valmy, Nevada",
         "time": 1747292894218,
-        "updated": 1747302150960,
+        "updated": 1747321161483,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897639",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897639.geojson",
         "title": "M 3.5 - 54 km NE of Valmy, Nevada"
@@ -1255,7 +1335,7 @@
         "mag": 3.8,
         "place": "59 km NE of Valmy, Nevada",
         "time": 1747292794184,
-        "updated": 1747300651436,
+        "updated": 1747319351075,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897636",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897636.geojson",
         "title": "M 3.8 - 59 km NE of Valmy, Nevada"
@@ -1435,7 +1515,7 @@
         "mag": 3.06,
         "place": "8 km ESE of Loomis, Washington",
         "time": 1747290147480,
-        "updated": 1747316701939,
+        "updated": 1747317884852,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62100887",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62100887.geojson",
         "title": "M 3.1 - 8 km ESE of Loomis, Washington"
@@ -1626,6 +1706,26 @@
           -124.07866666666666,
           47.39266666666666,
           25.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.07,
+        "place": "7 km NNW of Challis, Idaho",
+        "time": 1747284556080,
+        "updated": 1747321101810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085853",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085853.geojson",
+        "title": "M 2.1 - 7 km NNW of Challis, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2825,
+          44.5631666666667,
+          7.25
         ]
       }
     },
@@ -1835,7 +1935,7 @@
         "mag": 3,
         "place": "8 km NNW of Challis, Idaho",
         "time": 1747280718151,
-        "updated": 1747287935064,
+        "updated": 1747318324630,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzav",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzav.geojson",
         "title": "M 3.0 - 8 km NNW of Challis, Idaho"
@@ -2072,20 +2172,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
+        "mag": 1.8,
         "place": "57 km S of Whites City, New Mexico",
-        "time": 1747275846502,
-        "updated": 1747276206633,
+        "time": 1747275846531,
+        "updated": 1747320495476,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jlae",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jlae.geojson",
-        "title": "M 1.9 - 57 km S of Whites City, New Mexico"
+        "title": "M 1.8 - 57 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.37,
-          31.659,
-          5.7873
+          -104.375,
+          31.656,
+          6.4075
         ]
       }
     },
@@ -2312,6 +2412,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.6,
+        "place": "54 km S of Whites City, New Mexico",
+        "time": 1747271860982,
+        "updated": 1747319707373,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jkya",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jkya.geojson",
+        "title": "M 1.6 - 54 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.403,
+          31.682,
+          4.6643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.2,
         "place": "0 km SE of Anza, CA",
         "time": 1747271518810,
@@ -2426,6 +2546,26 @@
           -102.002,
           31.939,
           6.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "35 km SSW of Los Ybanez, Texas",
+        "time": 1747268857054,
+        "updated": 1747318720230,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jkwg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jkwg.geojson",
+        "title": "M 1.2 - 35 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.111,
+          32.449,
+          5.2979
         ]
       }
     },
@@ -4126,186 +4266,6 @@
           -122.778831481934,
           38.7961654663086,
           3.38000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.15,
-        "place": "12 km NNW of Rancho Cucamonga, CA",
-        "time": 1747234930690,
-        "updated": 1747254399279,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152640",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152640.geojson",
-        "title": "M 1.2 - 12 km NNW of Rancho Cucamonga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6211667,
-          34.2203333,
-          4.59
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.25,
-        "place": "71 km SW of Skwentna, Alaska",
-        "time": 1747234537350,
-        "updated": 1747272528070,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041604",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041604.geojson",
-        "title": "M 0.3 - 71 km SW of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.408,
-          61.5625,
-          -2.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.42,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1747234342060,
-        "updated": 1747303937110,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181972",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181972.geojson",
-        "title": "M 0.4 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.781833333333,
-          38.8358333333333,
-          2.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "13 km S of Trapper Creek, Alaska",
-        "time": 1747233737389,
-        "updated": 1747233861750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02565ulm22",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02565ulm22.geojson",
-        "title": "M 1.4 - 13 km S of Trapper Creek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.1834,
-          62.1976,
-          18.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747233159150,
-        "updated": 1747240339144,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181957",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181957.geojson",
-        "title": "M 1.7 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.80883026123,
-          38.8349990844727,
-          2.22000002861023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.28,
-        "place": "2 km NW of The Geysers, CA",
-        "time": 1747232214530,
-        "updated": 1747233436360,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181947",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181947.geojson",
-        "title": "M 0.3 - 2 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.77766418457,
-          38.788501739502,
-          2.82999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.51,
-        "place": "4 km NNW of Dover, Oklahoma",
-        "time": 1747231631439,
-        "updated": 1747232542448,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkbw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkbw.geojson",
-        "title": "M 1.5 - 4 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.93383333,
-          36.01266667,
-          6.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.89,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747231589309,
-        "updated": 1747232380458,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkbv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkbv.geojson",
-        "title": "M 1.9 - 3 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.931,
-          36.01216667,
-          5.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0,
-        "place": "51 km ESE of Beatty, Nevada",
-        "time": 1747231566294,
-        "updated": 1747274646906,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897592",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897592.geojson",
-        "title": "M 0.0 - 51 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2713,
-          36.6597,
-          6.3
         ]
       }
     }
