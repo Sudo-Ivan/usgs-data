@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747276270000,
+    "generated": 1747279153000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 7
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.32,
+        "place": "4 km NNW of Pinnacles, CA",
+        "time": 1747278948020,
+        "updated": 1747279045359,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182222",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182222.geojson",
+        "title": "M 1.3 - 4 km NNW of Pinnacles, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.172332763672,
+          36.5625,
+          2.98000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "19 km SE of Livermore, CA",
+        "time": 1747278746630,
+        "updated": 1747278845124,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182217",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182217.geojson",
+        "title": "M 1.2 - 19 km SE of Livermore, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.592163085938,
+          37.5803337097168,
+          6.57999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.35,
+        "place": "11 km NNW of Truckee, CA",
+        "time": 1747278657240,
+        "updated": 1747279043468,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182212",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182212.geojson",
+        "title": "M 2.4 - 11 km NNW of Truckee, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.258003234863,
+          39.4038314819336,
+          5.82000017166138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "16 km SSW of Goldfield, Nevada",
+        "time": 1747276856695,
+        "updated": 1747277018137,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897622",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897622.geojson",
+        "title": "M 1.5 - 16 km SSW of Goldfield, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3147,
+          37.5758,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "32 km SE of Mina, Nevada",
+        "time": 1747276843632,
+        "updated": 1747277028227,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897624",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897624.geojson",
+        "title": "M 2.1 - 32 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8156,
+          38.2139,
+          3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -46,126 +146,6 @@
           -97.93708801,
           36.02059174,
           2.894526005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "6 km E of Coalinga, CA",
-        "time": 1747275460700,
-        "updated": 1747275560683,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182197",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182197.geojson",
-        "title": "M 1.7 - 6 km E of Coalinga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.297668457031,
-          36.1496658325195,
-          12.6099996566772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "4 km W of Cobb, CA",
-        "time": 1747274612020,
-        "updated": 1747274709463,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182187",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182187.geojson",
-        "title": "M 0.7 - 4 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.766670227051,
-          38.8193321228027,
-          2.65000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.99,
-        "place": "9 km NE of Yucaipa, CA",
-        "time": 1747274243450,
-        "updated": 1747274500453,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153168",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153168.geojson",
-        "title": "M 1.0 - 9 km NE of Yucaipa, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9835,
-          34.1026667,
-          4.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.13,
-        "place": "24 km NNW of Tehachapi, CA",
-        "time": 1747273852080,
-        "updated": 1747274558962,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153152",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153152.geojson",
-        "title": "M 2.1 - 24 km NNW of Tehachapi, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5761667,
-          35.3221667,
-          3.57
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.21,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747273503260,
-        "updated": 1747275143007,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182172",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182172.geojson",
-        "title": "M 0.2 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.799003601074,
-          38.8296661376953,
-          2.54999995231628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "273 km WNW of Houma, Tonga",
-        "time": 1747273268950,
-        "updated": 1747274754040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzag",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzag.geojson",
-        "title": "M 4.5 - 273 km WNW of Houma, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.8624,
-          -20.6167,
-          484.328
         ]
       }
     }
