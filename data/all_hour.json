@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747321367000,
+    "generated": 1747324930000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.2,
-        "place": "2 km S of Tyonek, Alaska",
-        "time": 1747319954002,
-        "updated": 1747320020491,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567i4b54",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567i4b54.geojson",
-        "title": "M 2.2 - 2 km S of Tyonek, Alaska"
+        "mag": 4.9,
+        "place": "Pacific-Antarctic Ridge",
+        "time": 1747322944486,
+        "updated": 1747323995040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzd1",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzd1.geojson",
+        "title": "M 4.9 - Pacific-Antarctic Ridge"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.1291,
-          61.0488,
-          27
+          -135.4604,
+          -54.6299,
+          10
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "36 km NNW of Valdez, Alaska",
-        "time": 1747318500911,
-        "updated": 1747318649536,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567hz4y3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567hz4y3.geojson",
-        "title": "M 1.8 - 36 km NNW of Valdez, Alaska"
+        "mag": 1.09,
+        "place": "11 km NNE of Cloverdale, CA",
+        "time": 1747322897670,
+        "updated": 1747322996039,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182467",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182467.geojson",
+        "title": "M 1.1 - 11 km NNE of Cloverdale, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.6414,
-          61.4313,
-          16.8
+          -122.994667053223,
+          38.9049987792969,
+          2.23000001907349
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.3,
-        "place": "34 km E of McKinney Acres, Texas",
-        "time": 1747318089967,
-        "updated": 1747318404170,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jlxv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jlxv.geojson",
-        "title": "M 1.3 - 34 km E of McKinney Acres, Texas"
+        "mag": 2.29,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747322334040,
+        "updated": 1747323439289,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182452",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182452.geojson",
+        "title": "M 2.3 - 3 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.173,
-          32.359,
-          8.1049
+          -122.777168273926,
+          38.7946662902832,
+          3.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.55,
+        "place": "22 km NE of Pine Valley, CA",
+        "time": 1747321803830,
+        "updated": 1747322010783,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153472",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153472.geojson",
+        "title": "M 0.6 - 22 km NE of Pine Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3898333,
+          32.9803333,
+          4.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747321693470,
+        "updated": 1747321904772,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153464",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153464.geojson",
+        "title": "M 1.1 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8116667,
+          35.3258333,
+          7.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.4,
+        "place": "12 km E of Cloverdale, CA",
+        "time": 1747321536540,
+        "updated": 1747324638418,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182442",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182442.geojson",
+        "title": "M 0.4 - 12 km E of Cloverdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88200378418,
+          38.8346672058105,
+          2.32999992370605
         ]
       }
     }

@@ -1,14 +1,134 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747321363000,
+    "generated": 1747324951000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 213
+    "count": 218
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "Pacific-Antarctic Ridge",
+        "time": 1747322944486,
+        "updated": 1747323995040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzd1",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzd1.geojson",
+        "title": "M 4.9 - Pacific-Antarctic Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4604,
+          -54.6299,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.09,
+        "place": "11 km NNE of Cloverdale, CA",
+        "time": 1747322897670,
+        "updated": 1747322996039,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182467",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182467.geojson",
+        "title": "M 1.1 - 11 km NNE of Cloverdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.994667053223,
+          38.9049987792969,
+          2.23000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.29,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747322334040,
+        "updated": 1747323439289,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182452",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182452.geojson",
+        "title": "M 2.3 - 3 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.777168273926,
+          38.7946662902832,
+          3.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.55,
+        "place": "22 km NE of Pine Valley, CA",
+        "time": 1747321803830,
+        "updated": 1747322010783,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153472",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153472.geojson",
+        "title": "M 0.6 - 22 km NE of Pine Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3898333,
+          32.9803333,
+          4.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747321693470,
+        "updated": 1747321904772,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153464",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153464.geojson",
+        "title": "M 1.1 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8116667,
+          35.3258333,
+          7.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.4,
+        "place": "12 km E of Cloverdale, CA",
+        "time": 1747321536540,
+        "updated": 1747324638418,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182442",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182442.geojson",
+        "title": "M 0.4 - 12 km E of Cloverdale, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88200378418,
+          38.8346672058105,
+          2.32999992370605
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -52,20 +172,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.3,
-        "place": "34 km E of McKinney Acres, Texas",
-        "time": 1747318089967,
-        "updated": 1747318404170,
+        "mag": 1.2,
+        "place": "33 km E of McKinney Acres, Texas",
+        "time": 1747318090888,
+        "updated": 1747321452579,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jlxv",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jlxv.geojson",
-        "title": "M 1.3 - 34 km E of McKinney Acres, Texas"
+        "title": "M 1.2 - 33 km E of McKinney Acres, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.173,
-          32.359,
-          8.1049
+          -102.175,
+          32.361,
+          7.8857
         ]
       }
     },
@@ -86,6 +206,26 @@
           -122.787666320801,
           38.8188323974609,
           0.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "75 km W of Luwuk, Indonesia",
+        "time": 1747317703454,
+        "updated": 1747323331040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzcu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzcu.geojson",
+        "title": "M 4.3 - 75 km W of Luwuk, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1136,
+          -1.0592,
+          35.319
         ]
       }
     },
@@ -775,7 +915,7 @@
         "mag": 1.26,
         "place": "22 km NE of Pine Valley, CA",
         "time": 1747302000360,
-        "updated": 1747321344705,
+        "updated": 1747321414620,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153328",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153328.geojson",
         "title": "M 1.3 - 22 km NE of Pine Valley, CA"
@@ -1312,6 +1452,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.4,
+        "place": "15 km ESE of Kelly, Wyoming",
+        "time": 1747293482770,
+        "updated": 1747323186380,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085863",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085863.geojson",
+        "title": "M 2.4 - 15 km ESE of Kelly, Wyoming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.443166666667,
+          43.5748333333333,
+          0.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 3.5,
         "place": "54 km NE of Valmy, Nevada",
         "time": 1747292894218,
@@ -1335,7 +1495,7 @@
         "mag": 3.8,
         "place": "59 km NE of Valmy, Nevada",
         "time": 1747292794184,
-        "updated": 1747319351075,
+        "updated": 1747323610040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897636",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897636.geojson",
         "title": "M 3.8 - 59 km NE of Valmy, Nevada"
@@ -1346,6 +1506,26 @@
           -116.7282,
           41.2382,
           5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.86,
+        "place": "7 km NNW of Challis, Idaho",
+        "time": 1747292708960,
+        "updated": 1747321719710,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085858",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085858.geojson",
+        "title": "M 1.9 - 7 km NNW of Challis, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.278833333333,
+          44.5658333333333,
+          4.47
         ]
       }
     },
@@ -1375,7 +1555,7 @@
         "mag": 0.93,
         "place": "8 km WNW of Anza, CA",
         "time": 1747291983150,
-        "updated": 1747292240378,
+        "updated": 1747321376806,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153264",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153264.geojson",
         "title": "M 0.9 - 8 km WNW of Anza, CA"
@@ -1575,7 +1755,7 @@
         "mag": 1.04,
         "place": "8 km WNW of Anza, CA",
         "time": 1747288274470,
-        "updated": 1747288497056,
+        "updated": 1747321395644,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153240",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153240.geojson",
         "title": "M 1.0 - 8 km WNW of Anza, CA"
@@ -1775,7 +1955,7 @@
         "mag": 1.51,
         "place": "2 km SSE of Loma Linda, CA",
         "time": 1747283371490,
-        "updated": 1747284035920,
+        "updated": 1747321482770,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153216",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153216.geojson",
         "title": "M 1.5 - 2 km SSE of Loma Linda, CA"
@@ -1935,7 +2115,7 @@
         "mag": 3,
         "place": "8 km NNW of Challis, Idaho",
         "time": 1747280718151,
-        "updated": 1747318324630,
+        "updated": 1747323836880,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzav",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzav.geojson",
         "title": "M 3.0 - 8 km NNW of Challis, Idaho"
@@ -2315,7 +2495,7 @@
         "mag": 2.13,
         "place": "24 km NNW of Tehachapi, CA",
         "time": 1747273852080,
-        "updated": 1747274558962,
+        "updated": 1747321486520,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153152",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153152.geojson",
         "title": "M 2.1 - 24 km NNW of Tehachapi, CA"
@@ -2632,6 +2812,46 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.25,
+        "place": "16 km ENE of Hebgen Lake Estates, Montana",
+        "time": 1747267447020,
+        "updated": 1747324106220,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108341",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108341.geojson",
+        "title": "M 2.3 - 16 km ENE of Hebgen Lake Estates, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.983,
+          44.8,
+          9.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.35,
+        "place": "14 km E of Hebgen Lake Estates, Montana",
+        "time": 1747267252790,
+        "updated": 1747323782620,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108336",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108336.geojson",
+        "title": "M 0.4 - 14 km E of Hebgen Lake Estates, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0045,
+          44.7808333333333,
+          1.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.45,
         "place": "10 km NW of The Geysers, CA",
         "time": 1747267075380,
@@ -2815,7 +3035,7 @@
         "mag": 0.95,
         "place": "5 km N of San Jacinto, CA",
         "time": 1747265076390,
-        "updated": 1747265292541,
+        "updated": 1747321460749,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153080",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153080.geojson",
         "title": "M 1.0 - 5 km N of San Jacinto, CA"
@@ -4146,126 +4366,6 @@
           -161.854666666667,
           55.4065,
           24.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.74,
-        "place": "3 km NNW of Dover, Oklahoma",
-        "time": 1747238496789,
-        "updated": 1747251185822,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jkfq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jkfq.geojson",
-        "title": "M 2.7 - 3 km NNW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.9305,
-          36.01016667,
-          5.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.65,
-        "place": "61 km SSW of Skwentna, Alaska",
-        "time": 1747237609580,
-        "updated": 1747273176010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93606501",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93606501.geojson",
-        "title": "M 0.7 - 61 km SSW of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.9635,
-          61.5036666666667,
-          5.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.01,
-        "place": "13 km N of Taft, CA",
-        "time": 1747236929460,
-        "updated": 1747261209861,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152680",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152680.geojson",
-        "title": "M 2.0 - 13 km N of Taft, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4328333,
-          35.2543333,
-          1.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.66,
-        "place": "2 km NNE of Huntington Park, CA",
-        "time": 1747235882630,
-        "updated": 1747236153117,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152656.geojson",
-        "title": "M 1.7 - 2 km NNE of Huntington Park, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2133333,
-          33.997,
-          10.37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "57 km NE of Valmy, Nevada",
-        "time": 1747235373747,
-        "updated": 1747274666739,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897610",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897610.geojson",
-        "title": "M 2.0 - 57 km NE of Valmy, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7162,
-          41.2083,
-          7.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1747235252150,
-        "updated": 1747242738409,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181977",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181977.geojson",
-        "title": "M 1.3 - 3 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.778831481934,
-          38.7961654663086,
-          3.38000011444092
         ]
       }
     }
