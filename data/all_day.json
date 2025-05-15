@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747279144000,
+    "generated": 1747281794000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 241
+    "count": 242
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747281411850,
+        "updated": 1747281510603,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182237",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182237.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.82250213623,
+          38.814998626709,
+          2.38000011444092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "58 km NNE of Chickaloon, Alaska",
+        "time": 1747281376995,
+        "updated": 1747281492046,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567bo6w3",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567bo6w3.geojson",
+        "title": "M 1.6 - 58 km NNE of Chickaloon, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.1314,
+          62.3012,
+          26.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "58 km NNE of Chickaloon, Alaska",
+        "time": 1747280739076,
+        "updated": 1747280827820,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567blvpv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567blvpv.geojson",
+        "title": "M 2.3 - 58 km NNE of Chickaloon, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.1592,
+          62.2979,
+          28.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3,
+        "place": "8 km NNW of Challis, Idaho",
+        "time": 1747280718151,
+        "updated": 1747281441154,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzav",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzav.geojson",
+        "title": "M 3.0 - 8 km NNW of Challis, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2812,
+          44.5689,
+          14.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.39,
+        "place": "11 km NNW of Parkfield, CA",
+        "time": 1747280181130,
+        "updated": 1747281138659,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182232",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182232.geojson",
+        "title": "M 0.4 - 11 km NNW of Parkfield, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.513999938965,
+          35.9661674499512,
+          2.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.3,
+        "place": "46 km ESE of Beatty, Nevada",
+        "time": 1747279838486,
+        "updated": 1747279946643,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897628",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897628.geojson",
+        "title": "M -0.3 - 46 km ESE of Beatty, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2841,
+          36.7475,
+          9.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.42,
+        "place": "3 km SSE of Highland Park, CA",
+        "time": 1747279778790,
+        "updated": 1747280439220,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153200",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153200.geojson",
+        "title": "M 1.4 - 3 km SSE of Highland Park, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1873333,
+          34.0981667,
+          9.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.25,
+        "place": "14 km WNW of Petrolia, CA",
+        "time": 1747279564480,
+        "updated": 1747280537593,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182227",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182227.geojson",
+        "title": "M 2.3 - 14 km WNW of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.443336486816,
+          40.3398323059082,
+          20.6399993896484
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.32,
         "place": "4 km NNW of Pinnacles, CA",
         "time": 1747278948020,
-        "updated": 1747279045359,
+        "updated": 1747280536594,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182222",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182222.geojson",
         "title": "M 1.3 - 4 km NNW of Pinnacles, CA"
@@ -35,7 +195,7 @@
         "mag": 1.2,
         "place": "19 km SE of Livermore, CA",
         "time": 1747278746630,
-        "updated": 1747278845124,
+        "updated": 1747279938529,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182217",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182217.geojson",
         "title": "M 1.2 - 19 km SE of Livermore, CA"
@@ -4686,146 +4846,6 @@
           -66.9161666666667,
           17.9535,
           14.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "7 km NE of West Yellowstone, Montana",
-        "time": 1747194701730,
-        "updated": 1747228460740,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108271",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108271.geojson",
-        "title": "M 1.0 - 7 km NE of West Yellowstone, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.041333333333,
-          44.7181666666667,
-          5.66
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.87,
-        "place": "8 km NE of West Yellowstone, Montana",
-        "time": 1747194641020,
-        "updated": 1747257823580,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003323",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003323.geojson",
-        "title": "M 0.9 - 8 km NE of West Yellowstone, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.038,
-          44.721,
-          7.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.36,
-        "place": "3 km NW of Dover, Oklahoma",
-        "time": 1747194149640,
-        "updated": 1747227719415,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jjhg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jjhg.geojson",
-        "title": "M 1.4 - 3 km NW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.93483333,
-          36.009,
-          6.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.31,
-        "place": "8 km W of Cloverdale, CA",
-        "time": 1747194078020,
-        "updated": 1747197138201,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181762",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181762.geojson",
-        "title": "M 2.3 - 8 km W of Cloverdale, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.112831115723,
-          38.7973327636719,
-          1.71000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.56,
-        "place": "36 km NNW of Culebra, Puerto Rico",
-        "time": 1747193956420,
-        "updated": 1747241364158,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025134000",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025134000.geojson",
-        "title": "M 3.6 - 36 km NNW of Culebra, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.4106,
-          18.6173,
-          64
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.03,
-        "place": "14 km W of Stanley, Idaho",
-        "time": 1747193878670,
-        "updated": 1747235984040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085403",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085403.geojson",
-        "title": "M 2.0 - 14 km W of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.117833333333,
-          44.1948333333333,
-          5.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.4,
-        "place": "41 km SW of Unalaska, Alaska",
-        "time": 1747193766210,
-        "updated": 1747254449040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041464",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041464.geojson",
-        "title": "M 0.4 - 41 km SW of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -166.935666666667,
-          53.5826666666667,
-          17.53
         ]
       }
     }
