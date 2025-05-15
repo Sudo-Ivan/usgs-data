@@ -1,31 +1,171 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747281804000,
+    "generated": 1747285330000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 11
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.76,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747281411850,
-        "updated": 1747281510603,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182237",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182237.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+        "mag": 0.97,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747285153830,
+        "updated": 1747285250281,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182252",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182252.geojson",
+        "title": "M 1.0 - 6 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.82250213623,
-          38.814998626709,
-          2.38000011444092
+          -122.796333312988,
+          38.8325004577637,
+          2.28999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.234824299812317,
+        "place": "12 km WSW of Neilton, Washington",
+        "time": 1747284904520,
+        "updated": 1747285064010,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62100837",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62100837.geojson",
+        "title": "M 2.2 - 12 km WSW of Neilton, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04566955566406,
+          47.38966751098633,
+          20.5599994659424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "1 km W of Walker, California",
+        "time": 1747283853253,
+        "updated": 1747283998541,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897634",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897634.geojson",
+        "title": "M 1.7 - 1 km W of Walker, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4942,
+          38.5133,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.98,
+        "place": "12 km N of San Antonio, Puerto Rico",
+        "time": 1747283512890,
+        "updated": 1747284307810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482463.geojson",
+        "title": "M 3.0 - 12 km N of San Antonio, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.08,
+          18.603,
+          71.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.51,
+        "place": "2 km SSE of Loma Linda, CA",
+        "time": 1747283371490,
+        "updated": 1747284035920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153216",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153216.geojson",
+        "title": "M 1.5 - 2 km SSE of Loma Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2551667,
+          34.034,
+          15.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.66,
+        "place": "11 km SW of La Playa, Puerto Rico",
+        "time": 1747283203260,
+        "updated": 1747283918040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482458",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482458.geojson",
+        "title": "M 2.7 - 11 km SW of La Playa, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2478333333333,
+          18.203,
+          17.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "10 km SE of Nixon, Nevada",
+        "time": 1747282967709,
+        "updated": 1747283100233,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897631",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897631.geojson",
+        "title": "M 1.9 - 10 km SE of Nixon, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.281,
+          39.7633,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.43,
+        "place": "55 km SE of Punta Cana, Dominican Republic",
+        "time": 1747282764790,
+        "updated": 1747284765040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482443",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482443.geojson",
+        "title": "M 3.4 - 55 km SE of Punta Cana, Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0445,
+          18.213,
+          98.52
         ]
       }
     },
@@ -33,199 +173,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "58 km NNE of Chickaloon, Alaska",
-        "time": 1747281376995,
-        "updated": 1747281492046,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567bo6w3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567bo6w3.geojson",
-        "title": "M 1.6 - 58 km NNE of Chickaloon, Alaska"
+        "place": "31 km W of Rachel, Nevada",
+        "time": 1747282077743,
+        "updated": 1747282229613,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897629",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897629.geojson",
+        "title": "M 1.6 - 31 km W of Rachel, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.1314,
-          62.3012,
-          26.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "58 km NNE of Chickaloon, Alaska",
-        "time": 1747280739076,
-        "updated": 1747280827820,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567blvpv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567blvpv.geojson",
-        "title": "M 2.3 - 58 km NNE of Chickaloon, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.1592,
-          62.2979,
-          28.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3,
-        "place": "8 km NNW of Challis, Idaho",
-        "time": 1747280718151,
-        "updated": 1747281441154,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzav",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzav.geojson",
-        "title": "M 3.0 - 8 km NNW of Challis, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.2812,
-          44.5689,
-          14.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.39,
-        "place": "11 km NNW of Parkfield, CA",
-        "time": 1747280181130,
-        "updated": 1747281138659,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182232",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182232.geojson",
-        "title": "M 0.4 - 11 km NNW of Parkfield, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.513999938965,
-          35.9661674499512,
-          2.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.3,
-        "place": "46 km ESE of Beatty, Nevada",
-        "time": 1747279838486,
-        "updated": 1747279946643,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897628",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897628.geojson",
-        "title": "M -0.3 - 46 km ESE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2841,
-          36.7475,
-          9.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.42,
-        "place": "3 km SSE of Highland Park, CA",
-        "time": 1747279778790,
-        "updated": 1747280439220,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153200",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153200.geojson",
-        "title": "M 1.4 - 3 km SSE of Highland Park, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1873333,
-          34.0981667,
-          9.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.25,
-        "place": "14 km WNW of Petrolia, CA",
-        "time": 1747279564480,
-        "updated": 1747280537593,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182227",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182227.geojson",
-        "title": "M 2.3 - 14 km WNW of Petrolia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.443336486816,
-          40.3398323059082,
-          20.6399993896484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.32,
-        "place": "4 km NNW of Pinnacles, CA",
-        "time": 1747278948020,
-        "updated": 1747280536594,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182222",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182222.geojson",
-        "title": "M 1.3 - 4 km NNW of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.172332763672,
-          36.5625,
-          2.98000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "19 km SE of Livermore, CA",
-        "time": 1747278746630,
-        "updated": 1747279938529,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182217",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182217.geojson",
-        "title": "M 1.2 - 19 km SE of Livermore, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.592163085938,
-          37.5803337097168,
-          6.57999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.35,
-        "place": "11 km NNW of Truckee, CA",
-        "time": 1747278657240,
-        "updated": 1747279043468,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182212",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182212.geojson",
-        "title": "M 2.4 - 11 km NNW of Truckee, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.258003234863,
-          39.4038314819336,
-          5.82000017166138
+          -116.0997,
+          37.6736,
+          0
         ]
       }
     }
