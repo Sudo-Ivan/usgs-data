@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747365663000,
+    "generated": 1747368264000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 6
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.03,
+        "place": "7 km S of Idyllwild, CA",
+        "time": 1747367935530,
+        "updated": 1747368150815,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153960",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153960.geojson",
+        "title": "M 1.0 - 7 km S of Idyllwild, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7238333,
+          33.6806667,
+          16.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747366801470,
+        "updated": 1747367564564,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182692",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182692.geojson",
+        "title": "M 1.1 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.817497253418,
+          38.8143348693848,
+          1.50999999046326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.84,
+        "place": "6 km NW of The Geysers, CA",
+        "time": 1747366773370,
+        "updated": 1747367839183,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182687",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182687.geojson",
+        "title": "M 1.8 - 6 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.814666748047,
+          38.8133316040039,
+          1.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747365836710,
+        "updated": 1747366938092,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182682",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182682.geojson",
+        "title": "M 1.1 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.801330566406,
+          38.8274993896484,
+          2.00999999046326
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -45,126 +125,6 @@
         "coordinates": [
           -119.4547,
           39.4826,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "Bonin Islands, Japan region",
-        "time": 1747364572208,
-        "updated": 1747365496040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzig",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzig.geojson",
-        "title": "M 4.3 - Bonin Islands, Japan region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8743,
-          27.646,
-          482.732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.42,
-        "place": "16 km NNE of Ridgecrest, CA",
-        "time": 1747363423530,
-        "updated": 1747363654858,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153928",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153928.geojson",
-        "title": "M 0.4 - 16 km NNE of Ridgecrest, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.582,
-          35.7433333,
-          1.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.1,
-        "place": "25 km NW of Stanley, Idaho",
-        "time": 1747362823716,
-        "updated": 1747363712040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzid",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzid.geojson",
-        "title": "M 3.1 - 25 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.1587,
-          44.3859,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.22,
-        "place": "11 km SSE of Volcano, Hawaii",
-        "time": 1747362305840,
-        "updated": 1747362504010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673962",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673962.geojson",
-        "title": "M 2.2 - 11 km SSE of Volcano, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.178665161133,
-          19.3546657562256,
-          3.91000008583069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99000001,
-        "place": "12 km SSE of Volcano, Hawaii",
-        "time": 1747362227780,
-        "updated": 1747362542040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673957",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673957.geojson",
-        "title": "M 2.0 - 12 km SSE of Volcano, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.186996459961,
-          19.3379993438721,
-          3.23000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "42 km NW of Beatty, Nevada",
-        "time": 1747362125760,
-        "updated": 1747362262757,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897674",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897674.geojson",
-        "title": "M 0.6 - 42 km NW of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1524,
-          37.1204,
           0
         ]
       }
