@@ -1,21 +1,201 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747418586000,
+    "generated": 1747422117000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 230
+    "count": 237
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "4 km SSW of Brawley, CA",
+        "time": 1747421796920,
+        "updated": 1747422008710,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154520",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154520.geojson",
+        "title": "M 1.6 - 4 km SSW of Brawley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5416667,
+          32.9428333,
+          10.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.74,
+        "place": "8 km SSW of Mojave, CA",
+        "time": 1747421678340,
+        "updated": 1747421892091,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154512",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154512.geojson",
+        "title": "M 1.7 - 8 km SSW of Mojave, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192,
+          34.9868333,
+          1.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.84,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1747421029890,
+        "updated": 1747421127949,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183022",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183022.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807502746582,
+          38.8236656188965,
+          2.64000010490417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.84,
+        "place": "1 km NNE of Kernville, CA",
+        "time": 1747420474030,
+        "updated": 1747420676928,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154504",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154504.geojson",
+        "title": "M 1.8 - 1 km NNE of Kernville, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4215,
+          35.7603333,
+          6.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "61 km NW of Tatitlek, Alaska",
+        "time": 1747420224298,
+        "updated": 1747420335151,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025697zhel",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025697zhel.geojson",
+        "title": "M 1.4 - 61 km NW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.5293,
+          61.2344,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.2,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747419894780,
+        "updated": 1747420939089,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183007",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183007.geojson",
+        "title": "M 0.2 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.788497924805,
+          38.8370018005371,
+          1.51999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.42,
+        "place": "44 km NE of Holtville, CA",
+        "time": 1747419417230,
+        "updated": 1747419630794,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154496",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154496.geojson",
+        "title": "M 1.4 - 44 km NE of Holtville, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9945,
+          33.0421667,
+          3.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "25 km W of Petersville, Alaska",
+        "time": 1747418791364,
+        "updated": 1747418947788,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025697ubkz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025697ubkz.geojson",
+        "title": "M 1.6 - 25 km W of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2553,
+          62.5081,
+          78.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "63 km WNW of Tatitlek, Alaska",
+        "time": 1747418789851,
+        "updated": 1747418934231,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025697ucnd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025697ucnd.geojson",
+        "title": "M 1.4 - 63 km WNW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6737,
+          61.1731,
+          28.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.75,
         "place": "1 km NNW of The Geysers, CA",
         "time": 1747418249580,
-        "updated": 1747418347641,
+        "updated": 1747419439910,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183002",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183002.geojson",
         "title": "M 0.8 - 1 km NNW of The Geysers, CA"
@@ -35,7 +215,7 @@
         "mag": 0.89,
         "place": "9 km W of Calistoga, CA",
         "time": 1747417882490,
-        "updated": 1747417977780,
+        "updated": 1747421243127,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182997",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182997.geojson",
         "title": "M 0.9 - 9 km W of Calistoga, CA"
@@ -195,7 +375,7 @@
         "mag": 2.4,
         "place": "5 km S of Pāhala, Hawaii",
         "time": 1747415201520,
-        "updated": 1747415427890,
+        "updated": 1747419894040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674292",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674292.geojson",
         "title": "M 2.4 - 5 km S of Pāhala, Hawaii"
@@ -295,7 +475,7 @@
         "mag": 1.97,
         "place": "15 km E of Seven Trees, CA",
         "time": 1747413953190,
-        "updated": 1747415237466,
+        "updated": 1747420038990,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182952",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182952.geojson",
         "title": "M 2.0 - 15 km E of Seven Trees, CA"
@@ -312,10 +492,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.22,
+        "mag": 2.23,
         "place": "7 km S of Idyllwild, CA",
-        "time": 1747413872970,
-        "updated": 1747414523400,
+        "time": 1747413872880,
+        "updated": 1747422071880,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154408",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154408.geojson",
         "title": "M 2.2 - 7 km S of Idyllwild, CA"
@@ -323,9 +503,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7205,
-          33.6746667,
-          15.23
+          -116.7211667,
+          33.675,
+          15.86
         ]
       }
     },
@@ -432,6 +612,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.09,
+        "place": "166 km W of Adak, Alaska",
+        "time": 1747412085790,
+        "updated": 1747420032430,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93608201",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93608201.geojson",
+        "title": "M 1.1 - 166 km W of Adak, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.033833333333,
+          51.7218333333333,
+          12.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 3.1,
         "place": "55 km S of Whites City, New Mexico",
         "time": 1747412038506,
@@ -455,7 +655,7 @@
         "mag": 2.1,
         "place": "10 km E of Ridgecrest, CA",
         "time": 1747411925950,
-        "updated": 1747412587090,
+        "updated": 1747422086146,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154336",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154336.geojson",
         "title": "M 2.1 - 10 km E of Ridgecrest, CA"
@@ -555,7 +755,7 @@
         "mag": 0.84,
         "place": "13 km NW of Ocotillo Wells, CA",
         "time": 1747409904430,
-        "updated": 1747410111531,
+        "updated": 1747422076335,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154296",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154296.geojson",
         "title": "M 0.8 - 13 km NW of Ocotillo Wells, CA"
@@ -892,6 +1092,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.56,
+        "place": "1 km SSE of Julian, CA",
+        "time": 1747401421460,
+        "updated": 1747418763966,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154184",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154184.geojson",
+        "title": "M 0.6 - 1 km SSE of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5975,
+          33.0668333,
+          13.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 4.2,
         "place": "28 km SE of Kushiro, Japan",
         "time": 1747401329476,
@@ -935,7 +1155,7 @@
         "mag": 1.31,
         "place": "6 km WSW of Anza, CA",
         "time": 1747401191350,
-        "updated": 1747401858870,
+        "updated": 1747422108375,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154168",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154168.geojson",
         "title": "M 1.3 - 6 km WSW of Anza, CA"
@@ -966,6 +1186,26 @@
           -146.5073,
           64.8927,
           8.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.26,
+        "place": "157 km W of Adak, Alaska",
+        "time": 1747399220830,
+        "updated": 1747419896720,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93608051",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93608051.geojson",
+        "title": "M 0.3 - 157 km W of Adak, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.912666666667,
+          51.8021666666667,
+          5.77
         ]
       }
     },
@@ -1172,10 +1412,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.11,
+        "mag": 1.1,
         "place": "14 km SE of Bodfish, CA",
         "time": 1747395870920,
-        "updated": 1747396117898,
+        "updated": 1747422114147,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154144",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154144.geojson",
         "title": "M 1.1 - 14 km SE of Bodfish, CA"
@@ -2212,10 +2452,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.71,
+        "mag": 0.65,
         "place": "5 km WSW of Anza, CA",
-        "time": 1747376411940,
-        "updated": 1747376620739,
+        "time": 1747376411900,
+        "updated": 1747419351900,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154072",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154072.geojson",
         "title": "M 0.7 - 5 km WSW of Anza, CA"
@@ -2224,8 +2464,8 @@
         "type": "Point",
         "coordinates": [
           -116.7265,
-          33.5341667,
-          4.01
+          33.536,
+          4.4
         ]
       }
     },
@@ -2272,20 +2512,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.68,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747375503610,
-        "updated": 1747375715309,
+        "mag": 0.73,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1747375503630,
+        "updated": 1747418793522,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154048",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154048.geojson",
-        "title": "M 0.7 - 6 km WSW of Anza, CA"
+        "title": "M 0.7 - 5 km WSW of Anza, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7281667,
-          33.535,
-          4.42
+          -116.7251667,
+          33.5376667,
+          4.25
         ]
       }
     },
@@ -2532,20 +2772,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.72,
-        "place": "9 km SW of Idyllwild, CA",
-        "time": 1747369587930,
-        "updated": 1747369792969,
+        "mag": 0.74,
+        "place": "8 km SW of Idyllwild, CA",
+        "time": 1747369587890,
+        "updated": 1747419598405,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153984",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153984.geojson",
-        "title": "M 0.7 - 9 km SW of Idyllwild, CA"
+        "title": "M 0.7 - 8 km SW of Idyllwild, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7888333,
-          33.6896667,
-          17.63
+          -116.789,
+          33.6925,
+          17.97
         ]
       }
     },
@@ -3132,6 +3372,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 3.14,
+        "place": "158 km WNW of Petrolia, CA",
+        "time": 1747358609450,
+        "updated": 1747421242127,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182647",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182647.geojson",
+        "title": "M 3.1 - 158 km WNW of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.148166666667,
+          40.4463333333333,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": -0.55,
         "place": "68 km WNW of Tyonek, Alaska",
         "time": 1747358551230,
@@ -3306,6 +3566,26 @@
           -150.4305,
           62.1002,
           60.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.36,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "time": 1747357178400,
+        "updated": 1747421624730,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041759",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041759.geojson",
+        "title": "M 0.4 - Rat Islands, Aleutian Islands, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.444333333333,
+          51.9778333333333,
+          2.36
         ]
       }
     },
@@ -4466,146 +4746,6 @@
           -118.1901667,
           34.9935,
           0.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "9 km NNE of Coso Junction, CA",
-        "time": 1747335247300,
-        "updated": 1747341080806,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153656.geojson",
-        "title": "M 1.2 - 9 km NNE of Coso Junction, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9068333,
-          36.1155,
-          2.99
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.25,
-        "place": "23 km WNW of Stanley, Idaho",
-        "time": 1747334755990,
-        "updated": 1747405988640,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085978",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085978.geojson",
-        "title": "M 1.3 - 23 km WNW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.193666666667,
-          44.325,
-          7.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.45,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747334720550,
-        "updated": 1747336639733,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182502",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182502.geojson",
-        "title": "M 0.5 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.843170166016,
-          38.8213348388672,
-          2.13000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.49,
-        "place": "3 km NE of Magna, Utah",
-        "time": 1747334473800,
-        "updated": 1747335901450,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003328",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003328.geojson",
-        "title": "M 0.5 - 3 km NE of Magna, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.070166666667,
-          40.7288333333333,
-          8.73
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.73,
-        "place": "6 km WSW of Dayton, Washington",
-        "time": 1747334193020,
-        "updated": 1747414962190,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101077",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101077.geojson",
-        "title": "M 1.7 Explosion - 6 km WSW of Dayton, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.042,
-          46.29216666666667,
-          -0.46
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "9 km SE of Beluga, Alaska",
-        "time": 1747333021356,
-        "updated": 1747333097707,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567kdatz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567kdatz.geojson",
-        "title": "M 1.4 - 9 km SE of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.9447,
-          61.0883,
-          35.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "19 km SW of Moapa Town, Nevada",
-        "time": 1747332284159,
-        "updated": 1747332443306,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897657",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897657.geojson",
-        "title": "M 2.2 - 19 km SW of Moapa Town, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.7603,
-          36.5633,
-          3
         ]
       }
     }
