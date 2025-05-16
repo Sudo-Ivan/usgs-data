@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747404113000,
+    "generated": 1747407726000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 175
+    "count": 187
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "69 km SE of Denali National Park, Alaska",
+        "time": 1747406643108,
+        "updated": 1747406781252,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025695opdi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025695opdi.geojson",
+        "title": "M 1.5 - 69 km SE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.6836,
+          63.1232,
+          121.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.83,
+        "place": "34 km W of Petrolia, CA",
+        "time": 1747406245480,
+        "updated": 1747406846501,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182887",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182887.geojson",
+        "title": "M 2.8 - 34 km W of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.682662963867,
+          40.2775001525879,
+          0.28999999165535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.31,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747405662250,
+        "updated": 1747406845502,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182882",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182882.geojson",
+        "title": "M 1.3 - 10 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.836334228516,
+          38.8373336791992,
+          1.02999997138977
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.9,
         "place": "6 km NNW of The Geysers, CA",
         "time": 1747403892060,
-        "updated": 1747403988907,
+        "updated": 1747407135535,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182877",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182877.geojson",
         "title": "M 0.9 - 6 km NNW of The Geysers, CA"
@@ -95,7 +155,7 @@
         "mag": 0.77,
         "place": "5 km NW of The Geysers, CA",
         "time": 1747402119030,
-        "updated": 1747403241096,
+        "updated": 1747404735266,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182867",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182867.geojson",
         "title": "M 0.8 - 5 km NW of The Geysers, CA"
@@ -272,6 +332,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.74,
+        "place": "30 km S of Mammoth, Wyoming",
+        "time": 1747398131030,
+        "updated": 1747404121380,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108506",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108506.geojson",
+        "title": "M 0.7 - 30 km S of Mammoth, Wyoming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.68,
+          44.7036666666667,
+          7.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.72,
         "place": "1 km ESE of The Geysers, CA",
         "time": 1747397807430,
@@ -286,6 +366,26 @@
           -122.745834350586,
           38.7743339538574,
           2.53999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "21 km NE of Komodo, Indonesia",
+        "time": 1747397786618,
+        "updated": 1747404252040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzjw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzjw.geojson",
+        "title": "M 4.4 - 21 km NE of Komodo, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6203,
+          -8.4421,
+          179.384
         ]
       }
     },
@@ -366,6 +466,26 @@
           -122.845664978027,
           38.8219985961914,
           2.3199999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.65,
+        "place": "14 km NE of Boca de Yuma, Dominican Republic",
+        "time": 1747397005610,
+        "updated": 1747405373278,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025136000",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025136000.geojson",
+        "title": "M 3.7 - 14 km NE of Boca de Yuma, Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.525,
+          18.4766,
+          134
         ]
       }
     },
@@ -466,6 +586,26 @@
           -147.8772,
           62.195,
           20.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.57,
+        "place": "21 km WSW of Challis, Idaho",
+        "time": 1747393801130,
+        "updated": 1747404692950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086348",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086348.geojson",
+        "title": "M 0.6 - 21 km WSW of Challis, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4825,
+          44.4436666666667,
+          4.93
         ]
       }
     },
@@ -692,6 +832,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.64,
+        "place": "7 km NE of West Yellowstone, Montana",
+        "time": 1747387329640,
+        "updated": 1747404252920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108501",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108501.geojson",
+        "title": "M 0.6 - 7 km NE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.039166666667,
+          44.7165,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.1,
         "place": "5 km WNW of Cobb, CA",
         "time": 1747387180360,
@@ -766,6 +926,46 @@
           -122.741668701172,
           38.7938346862793,
           1.97000002861023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.53,
+        "place": "14 km S of West Yellowstone, Montana",
+        "time": 1747384856580,
+        "updated": 1747404441050,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108496",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108496.geojson",
+        "title": "M 0.5 - 14 km S of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.115833333333,
+          44.5321666666667,
+          8.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.44,
+        "place": "31 km S of Mammoth, Wyoming",
+        "time": 1747384587480,
+        "updated": 1747404735320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108491",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108491.geojson",
+        "title": "M 1.4 - 31 km S of Mammoth, Wyoming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.679333333333,
+          44.698,
+          7.9
         ]
       }
     },
@@ -872,6 +1072,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.56,
+        "place": "16 km NW of Emery, Utah",
+        "time": 1747382487830,
+        "updated": 1747405178040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108486",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108486.geojson",
+        "title": "M 1.6 - 16 km NW of Emery, Utah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.387666666667,
+          39.031,
+          -3.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.75,
         "place": "5 km NNW of The Geysers, CA",
         "time": 1747381678370,
@@ -906,6 +1126,86 @@
           -152.9006,
           59.3691,
           69.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "8 km NE of West Yellowstone, Montana",
+        "time": 1747379922930,
+        "updated": 1747405337990,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108481",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108481.geojson",
+        "title": "M 0.7 - 8 km NE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.039166666667,
+          44.718,
+          6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.89,
+        "place": "32 km S of Mammoth, Wyoming",
+        "time": 1747379901630,
+        "updated": 1747405661860,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003333",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003333.geojson",
+        "title": "M 0.9 - 32 km S of Mammoth, Wyoming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.676666666667,
+          44.6888333333333,
+          5.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.79,
+        "place": "8 km NE of West Yellowstone, Montana",
+        "time": 1747379791450,
+        "updated": 1747405586810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108476",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108476.geojson",
+        "title": "M 0.8 - 8 km NE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.041333333333,
+          44.7225,
+          6.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.35,
+        "place": "8 km NE of West Yellowstone, Montana",
+        "time": 1747379214160,
+        "updated": 1747406200840,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108466",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108466.geojson",
+        "title": "M 1.4 - 8 km NE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0425,
+          44.7211666666667,
+          7.37
         ]
       }
     },
@@ -1146,6 +1446,26 @@
           -116.7281667,
           33.535,
           4.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.08,
+        "place": "8 km NE of West Yellowstone, Montana",
+        "time": 1747375474490,
+        "updated": 1747406447770,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108461",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108461.geojson",
+        "title": "M 2.1 - 8 km NE of West Yellowstone, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.041,
+          44.7233333333333,
+          7.92
         ]
       }
     },
@@ -1572,6 +1892,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.93,
+        "place": "26 km NW of Stanley, Idaho",
+        "time": 1747363725810,
+        "updated": 1747405230290,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086298",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086298.geojson",
+        "title": "M 1.9 - 26 km NW of Stanley, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2,
+          44.3653333333333,
+          5.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.42,
         "place": "16 km NNE of Ridgecrest, CA",
         "time": 1747363423530,
@@ -1595,7 +1935,7 @@
         "mag": 3.1,
         "place": "25 km NW of Stanley, Idaho",
         "time": 1747362823716,
-        "updated": 1747385919019,
+        "updated": 1747404366530,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzid",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzid.geojson",
         "title": "M 3.1 - 25 km NW of Stanley, Idaho"
@@ -2715,7 +3055,7 @@
         "mag": 5,
         "place": "South Sandwich Islands region",
         "time": 1747338464964,
-        "updated": 1747339585040,
+        "updated": 1747405836360,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzg9",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzg9.geojson",
         "title": "M 5.0 - South Sandwich Islands region"
@@ -2866,6 +3206,26 @@
           -117.9068333,
           36.1155,
           2.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.25,
+        "place": "23 km WNW of Stanley, Idaho",
+        "time": 1747334755990,
+        "updated": 1747405988640,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085978",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085978.geojson",
+        "title": "M 1.3 - 23 km WNW of Stanley, Idaho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.193666666667,
+          44.325,
+          7.16
         ]
       }
     },
@@ -3386,126 +3746,6 @@
           -122.88200378418,
           38.8346672058105,
           2.32999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "2 km S of Tyonek, Alaska",
-        "time": 1747319954002,
-        "updated": 1747320020491,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567i4b54",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567i4b54.geojson",
-        "title": "M 2.2 - 2 km S of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.1291,
-          61.0488,
-          27
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.38,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747319822770,
-        "updated": 1747344945038,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182437",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182437.geojson",
-        "title": "M 0.4 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.822333333333,
-          38.8183333333333,
-          2.73
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "36 km NNW of Valdez, Alaska",
-        "time": 1747318500911,
-        "updated": 1747318649536,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567hz4y3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567hz4y3.geojson",
-        "title": "M 1.8 - 36 km NNW of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.6414,
-          61.4313,
-          16.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "107 km W of Adak, Alaska",
-        "time": 1747318109950,
-        "updated": 1747348670430,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041744",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041744.geojson",
-        "title": "M 0.9 - 107 km W of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -178.174166666667,
-          51.7553333333333,
-          15.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "33 km E of McKinney Acres, Texas",
-        "time": 1747318090888,
-        "updated": 1747321452579,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jlxv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jlxv.geojson",
-        "title": "M 1.2 - 33 km E of McKinney Acres, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.175,
-          32.361,
-          7.8857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.03,
-        "place": "5 km NNW of The Geysers, CA",
-        "time": 1747317746920,
-        "updated": 1747320136919,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182432",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182432.geojson",
-        "title": "M 1.0 - 5 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.787666320801,
-          38.8188323974609,
-          0.25
         ]
       }
     }
