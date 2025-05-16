@@ -1,51 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747382604000,
+    "generated": 1747386177000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.75,
-        "place": "5 km NNW of The Geysers, CA",
-        "time": 1747381678370,
-        "updated": 1747381772812,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182752",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182752.geojson",
-        "title": "M 0.8 - 5 km NNW of The Geysers, CA"
+        "mag": 1.4,
+        "place": "12 km SSE of Elmendorf Air Force Base, Alaska",
+        "time": 1747384296961,
+        "updated": 1747384453842,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256921e1r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256921e1r.geojson",
+        "title": "M 1.4 - 12 km SSE of Elmendorf Air Force Base, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.79467010498,
-          38.8133316040039,
-          3.16000008583069
+          -149.517,
+          61.1568,
+          35.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "55 km W of Nanwalek, Alaska",
-        "time": 1747380230388,
-        "updated": 1747380390743,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025691e9r2",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025691e9r2.geojson",
-        "title": "M 2.1 - 55 km W of Nanwalek, Alaska"
+        "mag": 1.2,
+        "place": "34 km NW of Indian Springs, Nevada",
+        "time": 1747383433286,
+        "updated": 1747383557088,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897683",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897683.geojson",
+        "title": "M 1.2 - 34 km NW of Indian Springs, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.9006,
-          59.3691,
-          69.9
+          -115.9705,
+          36.7622,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.87,
+        "place": "5 km NW of Cobb, CA",
+        "time": 1747383254890,
+        "updated": 1747385837182,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182757",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182757.geojson",
+        "title": "M 0.9 - 5 km NW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.774002075195,
+          38.8436660766602,
+          4.03999996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1747383166310,
+        "updated": 1747383707074,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154128",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154128.geojson",
+        "title": "M 0.7 - 5 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7251667,
+          33.5355,
+          4.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.84,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1747383036880,
+        "updated": 1747383404462,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154112",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154112.geojson",
+        "title": "M 0.8 - 5 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7256667,
+          33.5348333,
+          3.88
         ]
       }
     }
