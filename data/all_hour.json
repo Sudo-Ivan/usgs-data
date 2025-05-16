@@ -1,131 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747350130000,
+    "generated": 1747354211000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 11
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.6034521460533142,
-        "place": "3 km WNW of Yacolt, Washington",
-        "time": 1747349600990,
-        "updated": 1747349777980,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101307",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101307.geojson",
-        "title": "M 1.6 - 3 km WNW of Yacolt, Washington"
+        "mag": 0.77,
+        "place": "3 km NNW of The Geysers, CA",
+        "time": 1747353395950,
+        "updated": 1747353492315,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182607",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182607.geojson",
+        "title": "M 0.8 - 3 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.44750213623047,
-          45.874000549316406,
-          -0.280000001192093
+          -122.772499084473,
+          38.8016662597656,
+          1.39999997615814
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.43,
-        "place": "45 km NE of Holtville, CA",
-        "time": 1747348929870,
-        "updated": 1747349344694,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153832.geojson",
-        "title": "M 1.4 - 45 km NE of Holtville, CA"
+        "mag": 1.75,
+        "place": "4 km NNW of Huntington Beach, CA",
+        "time": 1747353320780,
+        "updated": 1747353662227,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153880",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153880.geojson",
+        "title": "M 1.8 - 4 km NNW of Huntington Beach, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.9955,
-          33.057,
-          2.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "48 km SSE of Nelchina, Alaska",
-        "time": 1747348687689,
-        "updated": 1747348792589,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567mvjs0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567mvjs0.geojson",
-        "title": "M 1.6 - 48 km SSE of Nelchina, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.317,
-          61.617,
-          31.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "15 km ENE of Yerington, Nevada",
-        "time": 1747348481090,
-        "updated": 1747348625343,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897670",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897670.geojson",
-        "title": "M 2.1 - 15 km ENE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0087,
-          39.0519,
-          3.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "15 km S of Anza, CA",
-        "time": 1747347903020,
-        "updated": 1747348545140,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153816.geojson",
-        "title": "M 1.3 - 15 km S of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6586667,
-          33.424,
-          4.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.23,
-        "place": "2 km ESE of Loma Linda, CA",
-        "time": 1747347336030,
-        "updated": 1747347977390,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153800",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153800.geojson",
-        "title": "M 1.2 - 2 km ESE of Loma Linda, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2353333,
-          34.0425,
-          13.44
+          -118.0181667,
+          33.7248333,
+          13.82
         ]
       }
     },
@@ -133,19 +53,39 @@
       "type": "Feature",
       "properties": {
         "mag": 1.9,
-        "place": "48 km N of Petersville, Alaska",
-        "time": 1747347154062,
-        "updated": 1747347239383,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567mq172",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567mq172.geojson",
-        "title": "M 1.9 - 48 km N of Petersville, Alaska"
+        "place": "25 km NNE of Valdez, Alaska",
+        "time": 1747352849693,
+        "updated": 1747352980662,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567niyix",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567niyix.geojson",
+        "title": "M 1.9 - 25 km NNE of Valdez, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.787,
-          62.9305,
-          28.3
+          -146.1371,
+          61.3406,
+          25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "14 km SE of Point Possession, Alaska",
+        "time": 1747352816582,
+        "updated": 1747352929342,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567nisvu",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567nisvu.geojson",
+        "title": "M 1.8 - 14 km SE of Point Possession, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.4966,
+          60.8379,
+          32.1
         ]
       }
     },
@@ -153,39 +93,139 @@
       "type": "Feature",
       "properties": {
         "mag": 1.03,
-        "place": "15 km E of Ocotillo Wells, CA",
-        "time": 1747346718280,
-        "updated": 1747346930691,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153792",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153792.geojson",
-        "title": "M 1.0 - 15 km E of Ocotillo Wells, CA"
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1747352756120,
+        "updated": 1747354039673,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182602",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182602.geojson",
+        "title": "M 1.0 - 8 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.9745,
-          33.162,
-          8.82
+          -122.812164306641,
+          38.8300018310547,
+          1.32000005245209
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "56 km S of Kingston, Nevada",
-        "time": 1747346717972,
-        "updated": 1747346892927,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897668",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897668.geojson",
-        "title": "M 2.1 - 56 km S of Kingston, Nevada"
+        "mag": 4.2,
+        "place": "7 km SW of Santa María Tonameca, Mexico",
+        "time": 1747352608403,
+        "updated": 1747353969040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzhs",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzhs.geojson",
+        "title": "M 4.2 - 7 km SW of Santa María Tonameca, Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1945,
-          38.7101,
-          16
+          -96.5887,
+          15.6908,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747352528840,
+        "updated": 1747353437719,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182597",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182597.geojson",
+        "title": "M 1.1 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.821334838867,
+          38.8098335266113,
+          2.71000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "19 km SW of Simmler, CA",
+        "time": 1747351096180,
+        "updated": 1747351309145,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153864",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153864.geojson",
+        "title": "M 1.2 - 19 km SW of Simmler, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.143,
+          35.2323333,
+          6.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "42 km N of Valdez, Alaska",
+        "time": 1747350952918,
+        "updated": 1747351045853,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567nc5ej",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567nc5ej.geojson",
+        "title": "M 1.8 - 42 km N of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.4823,
+          61.5086,
+          30.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.01,
+        "place": "155 km W of Adak, Alaska",
+        "time": 1747350767260,
+        "updated": 1747354131410,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93607646",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93607646.geojson",
+        "title": "M 1.0 - 155 km W of Adak, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.881833333333,
+          51.8048333333333,
+          4.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "32 km NNE of Chickaloon, Alaska",
+        "time": 1747350724722,
+        "updated": 1747350828650,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567nbejc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567nbejc.geojson",
+        "title": "M 1.9 - 32 km NNE of Chickaloon, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.2949,
+          62.079,
+          33.4
         ]
       }
     }
