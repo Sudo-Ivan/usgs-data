@@ -1,21 +1,61 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747378972000,
+    "generated": 1747382572000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 205
+    "count": 198
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.75,
+        "place": "5 km NNW of The Geysers, CA",
+        "time": 1747381678370,
+        "updated": 1747381772812,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182752",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182752.geojson",
+        "title": "M 0.8 - 5 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79467010498,
+          38.8133316040039,
+          3.16000008583069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "55 km W of Nanwalek, Alaska",
+        "time": 1747380230388,
+        "updated": 1747380390743,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025691e9r2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025691e9r2.geojson",
+        "title": "M 2.1 - 55 km W of Nanwalek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.9006,
+          59.3691,
+          69.9
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.94,
         "place": "8 km NNW of The Geysers, CA",
         "time": 1747378680340,
-        "updated": 1747378777492,
+        "updated": 1747381040670,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182742",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182742.geojson",
         "title": "M 0.9 - 8 km NNW of The Geysers, CA"
@@ -52,10 +92,30 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.48,
+        "place": "3 km SW of Guánica, Puerto Rico",
+        "time": 1747378283670,
+        "updated": 1747379043030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482528",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482528.geojson",
+        "title": "M 2.5 - 3 km SW of Guánica, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9253333333333,
+          17.9495,
+          7.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.72,
         "place": "9 km WNW of Cobb, CA",
         "time": 1747378167460,
-        "updated": 1747378262277,
+        "updated": 1747380139570,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182737",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182737.geojson",
         "title": "M 0.7 - 9 km WNW of Cobb, CA"
@@ -75,7 +135,7 @@
         "mag": 2.31,
         "place": "5 km NE of Windsor, CA",
         "time": 1747377451540,
-        "updated": 1747378238079,
+        "updated": 1747381339707,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182727",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182727.geojson",
         "title": "M 2.3 - 5 km NE of Windsor, CA"
@@ -115,7 +175,7 @@
         "mag": 1.04,
         "place": "2 km NNE of The Geysers, CA",
         "time": 1747377355840,
-        "updated": 1747377453082,
+        "updated": 1747380437600,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182722",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182722.geojson",
         "title": "M 1.0 - 2 km NNE of The Geysers, CA"
@@ -855,7 +915,7 @@
         "mag": 2.87,
         "place": "6 km SW of Alamo, CA",
         "time": 1747357844480,
-        "updated": 1747378896791,
+        "updated": 1747381414510,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182637",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182637.geojson",
         "title": "M 2.9 - 6 km SW of Alamo, CA"
@@ -3595,7 +3655,7 @@
         "mag": 2.79,
         "place": "23 km SSE of Waimea, Hawaii",
         "time": 1747300114570,
-        "updated": 1747301638590,
+        "updated": 1747381088040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673562",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673562.geojson",
         "title": "M 2.8 - 23 km SSE of Waimea, Hawaii"
@@ -3906,206 +3966,6 @@
           -101.733,
           32.438,
           8.4229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "40 km NNW of Paxson, Alaska",
-        "time": 1747295789169,
-        "updated": 1747295926699,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02567e1y90",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02567e1y90.geojson",
-        "title": "M 1.2 - 40 km NNW of Paxson, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -145.9413,
-          63.4179,
-          10.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747295365670,
-        "updated": 1747299439660,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182292",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182292.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.789833068848,
-          38.8368339538574,
-          1.95000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.79,
-        "place": "8 km WNW of Anza, CA",
-        "time": 1747295137820,
-        "updated": 1747295354064,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153272",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153272.geojson",
-        "title": "M 0.8 - 8 km WNW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7555,
-          33.5843333,
-          12.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.69,
-        "place": "4 km WSW of San Francisco Zoo, CA",
-        "time": 1747294550180,
-        "updated": 1747297040400,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182287",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182287.geojson",
-        "title": "M 1.7 - 4 km WSW of San Francisco Zoo, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.543830871582,
-          37.7171669006348,
-          8.15999984741211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.96,
-        "place": "4 km WSW of Clinton, Washington",
-        "time": 1747294414460,
-        "updated": 1747349995040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62100922",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62100922.geojson",
-        "title": "M 1.0 - 4 km WSW of Clinton, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.41816666666666,
-          47.965833333333336,
-          28.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.32,
-        "place": "9 km SSW of Volcano, Hawaii",
-        "time": 1747293775870,
-        "updated": 1747294280040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74673477",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74673477.geojson",
-        "title": "M 2.3 - 9 km SSW of Volcano, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.279159545898,
-          19.3641662597656,
-          34.6100006103516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "15 km ESE of Kelly, Wyoming",
-        "time": 1747293482770,
-        "updated": 1747323186380,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085863",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085863.geojson",
-        "title": "M 2.4 - 15 km ESE of Kelly, Wyoming"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.443166666667,
-          43.5748333333333,
-          0.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.5,
-        "place": "54 km NE of Valmy, Nevada",
-        "time": 1747292894218,
-        "updated": 1747321161483,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897639",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897639.geojson",
-        "title": "M 3.5 - 54 km NE of Valmy, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7329,
-          41.1864,
-          6.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.8,
-        "place": "59 km NE of Valmy, Nevada",
-        "time": 1747292794184,
-        "updated": 1747343497554,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897636",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897636.geojson",
-        "title": "M 3.8 - 59 km NE of Valmy, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7282,
-          41.2382,
-          5.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.86,
-        "place": "7 km NNW of Challis, Idaho",
-        "time": 1747292708960,
-        "updated": 1747321719710,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90085858",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90085858.geojson",
-        "title": "M 1.9 - 7 km NNW of Challis, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.278833333333,
-          44.5658333333333,
-          4.47
         ]
       }
     }

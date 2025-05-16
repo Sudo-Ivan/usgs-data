@@ -1,231 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747378944000,
+    "generated": 1747382604000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 11
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.94,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1747378680340,
-        "updated": 1747378777492,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182742",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182742.geojson",
-        "title": "M 0.9 - 8 km NNW of The Geysers, CA"
+        "mag": 0.75,
+        "place": "5 km NNW of The Geysers, CA",
+        "time": 1747381678370,
+        "updated": 1747381772812,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182752",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182752.geojson",
+        "title": "M 0.8 - 5 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.816329956055,
-          38.8325004577637,
-          1.3400000333786
+          -122.79467010498,
+          38.8133316040039,
+          3.16000008583069
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "44 km W of Petersville, Alaska",
-        "time": 1747378644619,
-        "updated": 1747378768853,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02569102i5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02569102i5.geojson",
-        "title": "M 1.7 - 44 km W of Petersville, Alaska"
+        "mag": 2.1,
+        "place": "55 km W of Nanwalek, Alaska",
+        "time": 1747380230388,
+        "updated": 1747380390743,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak025691e9r2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak025691e9r2.geojson",
+        "title": "M 2.1 - 55 km W of Nanwalek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.6271,
-          62.5353,
-          13.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747378167460,
-        "updated": 1747378262277,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182737",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182737.geojson",
-        "title": "M 0.7 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.82266998291,
-          38.8388328552246,
-          1.64999997615814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.31,
-        "place": "5 km NE of Windsor, CA",
-        "time": 1747377451540,
-        "updated": 1747378238079,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182727",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182727.geojson",
-        "title": "M 2.3 - 5 km NE of Windsor, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.78450012207,
-          38.5881652832031,
-          6.17999982833862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.32,
-        "place": "7 km S of Idyllwild, CA",
-        "time": 1747377361470,
-        "updated": 1747377589839,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154088",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154088.geojson",
-        "title": "M 0.3 - 7 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7268333,
-          33.681,
-          15.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.04,
-        "place": "2 km NNE of The Geysers, CA",
-        "time": 1747377355840,
-        "updated": 1747377453082,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182722",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182722.geojson",
-        "title": "M 1.0 - 2 km NNE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.754997253418,
-          38.7919998168945,
-          0.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.83,
-        "place": "23 km ESE of Maneadero, B.C., MX",
-        "time": 1747376853230,
-        "updated": 1747377068742,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154080",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154080.geojson",
-        "title": "M 2.8 - 23 km ESE of Maneadero, B.C., MX"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3533333,
-          31.6245,
-          15.63
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1747376411940,
-        "updated": 1747376620739,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154072",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154072.geojson",
-        "title": "M 0.7 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7265,
-          33.5341667,
-          4.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.65,
-        "place": "8 km NNE of Borrego Springs, CA",
-        "time": 1747375605840,
-        "updated": 1747375887654,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154064",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154064.geojson",
-        "title": "M 0.7 - 8 km NNE of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3518333,
-          33.3281667,
-          10.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.43,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1747375547010,
-        "updated": 1747375751638,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154056",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154056.geojson",
-        "title": "M 0.4 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7233333,
-          33.5431667,
-          4.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.68,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747375503610,
-        "updated": 1747375715309,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154048",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154048.geojson",
-        "title": "M 0.7 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7281667,
-          33.535,
-          4.42
+          -152.9006,
+          59.3691,
+          69.9
         ]
       }
     }
