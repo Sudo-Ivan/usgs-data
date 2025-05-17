@@ -1,21 +1,161 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747451873000,
+    "generated": 1747454577000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 238
+    "count": 240
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "56 km W of Petrolia, CA",
+        "time": 1747453996700,
+        "updated": 1747454092381,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183262",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183262.geojson",
+        "title": "M 2.3 - 56 km W of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.948669433594,
+          40.3073348999023,
+          0.300000011920929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.61,
+        "place": "12 km WSW of Greenfield, CA",
+        "time": 1747453620000,
+        "updated": 1747453717397,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183257",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183257.geojson",
+        "title": "M 1.6 - 12 km WSW of Greenfield, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36799621582,
+          36.2789993286133,
+          12.460000038147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "14 km NE of Susitna North, Alaska",
+        "time": 1747453510111,
+        "updated": 1747453618805,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256amoigz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256amoigz.geojson",
+        "title": "M 1.7 - 14 km NE of Susitna North, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6521,
+          62.2556,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3,
+        "place": "32 km W of Petrolia, CA",
+        "time": 1747453148740,
+        "updated": 1747453697040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183252",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183252.geojson",
+        "title": "M 3.0 - 32 km W of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.655502319336,
+          40.2958335876465,
+          6.65000009536743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "75 km N of Isabela, Puerto Rico",
+        "time": 1747452257803,
+        "updated": 1747453910348,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzs0",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzs0.geojson",
+        "title": "M 4.2 - 75 km N of Isabela, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1115,
+          19.1804,
+          25.479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.78,
+        "place": "15 km W of Johannesburg, CA",
+        "time": 1747452190830,
+        "updated": 1747452401915,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154816",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154816.geojson",
+        "title": "M 0.8 - 15 km W of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7978333,
+          35.348,
+          6.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "9 km WNW of Cobb, CA",
+        "time": 1747451218300,
+        "updated": 1747453271638,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183227",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183227.geojson",
+        "title": "M 0.8 - 9 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.822998046875,
+          38.8373336791992,
+          1.94000005722046
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.47,
         "place": "1 km SE of Maria Antonia, Puerto Rico",
         "time": 1747450590980,
-        "updated": 1747451497850,
+        "updated": 1747453426866,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482598",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482598.geojson",
         "title": "M 2.5 - 1 km SE of Maria Antonia, Puerto Rico"
@@ -55,7 +195,7 @@
         "mag": 1.62,
         "place": "7 km WNW of Cobb, CA",
         "time": 1747449596220,
-        "updated": 1747450644399,
+        "updated": 1747453936757,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183217",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183217.geojson",
         "title": "M 1.6 - 7 km WNW of Cobb, CA"
@@ -75,7 +215,7 @@
         "mag": 1.99,
         "place": "9 km NE of Round Valley, CA",
         "time": 1747448420120,
-        "updated": 1747449140217,
+        "updated": 1747452437595,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183212",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183212.geojson",
         "title": "M 2.0 - 9 km NE of Round Valley, CA"
@@ -292,20 +432,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.1,
-        "place": "31 km NNW of Valdez, Alaska",
-        "time": 1747438677810,
-        "updated": 1747440196040,
+        "mag": 3,
+        "place": "30 km NNW of Valdez, Alaska",
+        "time": 1747438679005,
+        "updated": 1747454278106,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02569b082v",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02569b082v.geojson",
-        "title": "M 3.1 - 31 km NNW of Valdez, Alaska"
+        "title": "M 3.0 - 30 km NNW of Valdez, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.5012,
-          61.4066,
-          8.8
+          -146.6485,
+          61.3684,
+          16.6
         ]
       }
     },
@@ -1375,7 +1515,7 @@
         "mag": 2.7,
         "place": "8 km NW of Howell, Utah",
         "time": 1747420384171,
-        "updated": 1747422868040,
+        "updated": 1747452465850,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzp8",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzp8.geojson",
         "title": "M 2.7 - 8 km NW of Howell, Utah"
@@ -4052,6 +4192,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.51,
+        "place": "38 km NNE of Amboy, Washington",
+        "time": 1747378153920,
+        "updated": 1747453727960,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101492",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101492.geojson",
+        "title": "M 0.5 - 38 km NNE of Amboy, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18783333333333,
+          46.205333333333336,
+          -1.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": -0.32,
         "place": "6 km WSW of Park City, Utah",
         "time": 1747378119910,
@@ -4646,126 +4806,6 @@
           -117.4655,
           34.1108333,
           2.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "45 km S of Adak, Alaska",
-        "time": 1747368143478,
-        "updated": 1747417521651,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02568zheta",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02568zheta.geojson",
-        "title": "M 2.2 - 45 km S of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -176.5614,
-          51.4708,
-          26.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.03,
-        "place": "7 km S of Idyllwild, CA",
-        "time": 1747367935530,
-        "updated": 1747422215409,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153960",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153960.geojson",
-        "title": "M 1.0 - 7 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7238333,
-          33.6806667,
-          16.26
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "74 km WSW of Covenant Life, Alaska",
-        "time": 1747367888105,
-        "updated": 1747417521428,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02568z7y4o",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02568z7y4o.geojson",
-        "title": "M 2.1 - 74 km WSW of Covenant Life, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -137.2671,
-          59.1944,
-          3.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747366801470,
-        "updated": 1747368441248,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182692",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182692.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.817497253418,
-          38.8143348693848,
-          1.50999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.84,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747366773370,
-        "updated": 1747370239466,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182687",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182687.geojson",
-        "title": "M 1.8 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.814666748047,
-          38.8133316040039,
-          1.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747365836710,
-        "updated": 1747368740281,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75182682",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75182682.geojson",
-        "title": "M 1.1 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.801330566406,
-          38.8274993896484,
-          2.00999999046326
         ]
       }
     }
