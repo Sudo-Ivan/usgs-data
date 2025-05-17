@@ -1,191 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747519342000,
+    "generated": 1747522942000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.69,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747522590000,
+        "updated": 1747522685291,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183692",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183692.geojson",
+        "title": "M 0.7 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.818496704102,
+          38.8143348693848,
+          2.9300000667572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.44,
+        "place": "9 km E of Pāhala, Hawaii",
+        "time": 1747521355830,
+        "updated": 1747521973040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675052",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675052.geojson",
+        "title": "M 2.4 - 9 km E of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.391006469727,
+          19.2014999389648,
+          31.5799999237061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.01,
+        "place": "18 km SE of Pāhala, Hawaii",
+        "time": 1747520658580,
+        "updated": 1747521176040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675047",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675047.geojson",
+        "title": "M 3.0 - 18 km SE of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.356994628906,
+          19.0773334503174,
+          33.1699981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.16,
+        "place": "20 km SE of Pāhala, Hawaii",
+        "time": 1747520080160,
+        "updated": 1747520294350,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675042",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675042.geojson",
+        "title": "M 2.2 - 20 km SE of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.350173950195,
+          19.0653324127197,
+          31.4200000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.32,
+        "place": "20 km SE of Pāhala, Hawaii",
+        "time": 1747519884370,
+        "updated": 1747520077060,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675037",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675037.geojson",
+        "title": "M 2.3 - 20 km SE of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.354339599609,
+          19.0550003051758,
+          31.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.35,
+        "place": "5 km WSW of Guánica, Puerto Rico",
+        "time": 1747519671880,
+        "updated": 1747520330800,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482723",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482723.geojson",
+        "title": "M 2.4 - 5 km WSW of Guánica, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9571666666667,
+          17.9546666666667,
+          13.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.7,
-        "place": "3 km NNW of Willow, Alaska",
-        "time": 1747517957459,
-        "updated": 1747518086887,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256axd1mp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256axd1mp.geojson",
-        "title": "M 1.7 - 3 km NNW of Willow, Alaska"
+        "place": "19 km NW of Toyah, Texas",
+        "time": 1747519368394,
+        "updated": 1747519877489,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqeb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqeb.geojson",
+        "title": "M 1.7 - 19 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.057,
-          61.7749,
-          32.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1747517477610,
-        "updated": 1747518735927,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183672",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183672.geojson",
-        "title": "M 1.1 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.784332275391,
-          38.7936668395996,
-          3.33999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.85,
-        "place": "16 km ESE of Lake Isabella, CA",
-        "time": 1747517458190,
-        "updated": 1747517693412,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155272",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155272.geojson",
-        "title": "M 1.9 - 16 km ESE of Lake Isabella, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3226667,
-          35.5441667,
-          4.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "30 km WNW of Anderson, Alaska",
-        "time": 1747517143906,
-        "updated": 1747517249918,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256axa3na",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256axa3na.geojson",
-        "title": "M 1.1 - 30 km WNW of Anderson, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.8048,
-          64.4116,
-          20
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.98,
-        "place": "16 km N of Pāhala, Hawaii",
-        "time": 1747517097460,
-        "updated": 1747517305940,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675027",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675027.geojson",
-        "title": "M 2.0 - 16 km N of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.467163085938,
-          19.3484992980957,
-          7.30999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "30 km NNW of Four Mile Road, Alaska",
-        "time": 1747517031243,
-        "updated": 1747517131150,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ax9os4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ax9os4.geojson",
-        "title": "M 1.0 - 30 km NNW of Four Mile Road, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.4056,
-          64.8511,
-          16.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "40 km WNW of Sinabang, Indonesia",
-        "time": 1747516815068,
-        "updated": 1747517797040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzwb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzwb.geojson",
-        "title": "M 4.9 - 40 km WNW of Sinabang, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.0257,
-          2.5791,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3,
-        "place": "256 km WNW of Bandon, Oregon",
-        "time": 1747516722841,
-        "updated": 1747518313040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzwa",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzwa.geojson",
-        "title": "M 3.0 - 256 km WNW of Bandon, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -127.4944,
-          43.6177,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.43,
-        "place": "3 km SE of Santa Rosa, CA",
-        "time": 1747516318400,
-        "updated": 1747516642832,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183662",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183662.geojson",
-        "title": "M 2.4 - 3 km SE of Santa Rosa, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.676834106445,
-          38.4291648864746,
-          4.34000015258789
+          -103.909,
+          31.463,
+          4.7784
         ]
       }
     }
