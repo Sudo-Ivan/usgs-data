@@ -1,71 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747476120000,
+    "generated": 1747479720000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 10
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
-        "place": "47 km NW of Petersville, Alaska",
-        "time": 1747474162569,
-        "updated": 1747474314281,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aq5pls",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aq5pls.geojson",
-        "title": "M 2.0 - 47 km NW of Petersville, Alaska"
+        "mag": 1.63,
+        "place": "9 km WSW of Calimesa, CA",
+        "time": 1747479126850,
+        "updated": 1747479345384,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154960",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154960.geojson",
+        "title": "M 1.6 - 9 km WSW of Calimesa, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.4703,
-          62.7773,
-          249.6
+          -117.1426667,
+          33.9611667,
+          15.22
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.87,
-        "place": "3 km SE of La Parguera, Puerto Rico",
-        "time": 1747473807790,
-        "updated": 1747474660880,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482638",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482638.geojson",
-        "title": "M 1.9 - 3 km SE of La Parguera, Puerto Rico"
+        "mag": 3.9,
+        "place": "39 km SE of Fox River, Alaska",
+        "time": 1747478814325,
+        "updated": 1747479605459,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aquus7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aquus7.geojson",
+        "title": "M 3.9 - 39 km SE of Fox River, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.0191666666667,
-          17.9541666666667,
-          9.16
+          -150.4679,
+          59.5992,
+          38.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "10 km SSW of Funny River, Alaska",
-        "time": 1747473410693,
-        "updated": 1747473621486,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aq2zgt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aq2zgt.geojson",
-        "title": "M 1.4 - 10 km SSW of Funny River, Alaska"
+        "mag": 0.96,
+        "place": "16 km WSW of Johannesburg, CA",
+        "time": 1747478706930,
+        "updated": 1747478910344,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154952",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154952.geojson",
+        "title": "M 1.0 - 16 km WSW of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.8257,
-          60.4153,
-          64.7
+          -117.8096667,
+          35.3436667,
+          7.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.02,
+        "place": "2 km NNW of The Geysers, CA",
+        "time": 1747478076700,
+        "updated": 1747478172592,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183402",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183402.geojson",
+        "title": "M 1.0 - 2 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.769836425781,
+          38.7921676635742,
+          3.51999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "10 km ENE of Coso Junction, CA",
+        "time": 1747478029030,
+        "updated": 1747478246280,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154936",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154936.geojson",
+        "title": "M 1.5 - 10 km ENE of Coso Junction, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.843,
+          36.075,
+          1.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.18,
+        "place": "2 km SSW of Pāhala, Hawaii",
+        "time": 1747477474710,
+        "updated": 1747477691050,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674672",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674672.geojson",
+        "title": "M 2.2 - 2 km SSW of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.490829467773,
+          19.1849994659424,
+          29.7700004577637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6,
+        "place": "6 km W of San Pedro, Peru",
+        "time": 1747477333042,
+        "updated": 1747479525716,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pztw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pztw.geojson",
+        "title": "M 6.0 - 6 km W of San Pedro, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1584,
+          -14.7708,
+          92.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.52,
+        "place": "11 km NNW of Kettleman City, CA",
+        "time": 1747477030940,
+        "updated": 1747478537541,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183392",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183392.geojson",
+        "title": "M 1.5 - 11 km NNW of Kettleman City, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.022003173828,
+          36.0960006713867,
+          6.69000005722046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.46000004,
+        "place": "3 km SSW of Pāhala, Hawaii",
+        "time": 1747476381250,
+        "updated": 1747476623920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674657",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674657.geojson",
+        "title": "M 2.5 - 3 km SSW of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.490661621094,
+          19.1713333129883,
+          31.1399993896484
         ]
       }
     },
@@ -73,59 +193,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "24 km S of Skwentna, Alaska",
-        "time": 1747472983051,
-        "updated": 1747473142062,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aq1gv5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aq1gv5.geojson",
-        "title": "M 1.6 - 24 km S of Skwentna, Alaska"
+        "place": "24 km NW of Westbrook, Texas",
+        "time": 1747476253339,
+        "updated": 1747476929689,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jpgj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jpgj.geojson",
+        "title": "M 1.6 - 24 km NW of Westbrook, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.4316,
-          61.7737,
-          77.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.45000005,
-        "place": "29 km S of Morton, Washington",
-        "time": 1747472869650,
-        "updated": 1747473021280,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101827",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101827.geojson",
-        "title": "M 1.5 - 29 km S of Morton, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.23683166503906,
-          46.29133224487305,
-          12.4300003051758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "59 km SE of Ugashik, Alaska",
-        "time": 1747472599334,
-        "updated": 1747472698210,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aq04ql",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aq04ql.geojson",
-        "title": "M 1.8 - 59 km SE of Ugashik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.6538,
-          57.1672,
-          85.9
+          -101.17,
+          32.536,
+          3.9394
         ]
       }
     }
