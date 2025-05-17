@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747449006000,
+    "generated": 1747451873000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 241
+    "count": 238
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.47,
+        "place": "1 km SE of Maria Antonia, Puerto Rico",
+        "time": 1747450590980,
+        "updated": 1747451497850,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482598",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482598.geojson",
+        "title": "M 2.5 - 1 km SE of Maria Antonia, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8765,
+          17.9691666666667,
+          11.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.22,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747450399430,
+        "updated": 1747451839529,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183222",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183222.geojson",
+        "title": "M 0.2 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807830810547,
+          38.836498260498,
+          1.6599999666214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.62,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747449596220,
+        "updated": 1747450644399,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183217",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183217.geojson",
+        "title": "M 1.6 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807830810547,
+          38.835334777832,
+          1.76999998092651
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.99,
         "place": "9 km NE of Round Valley, CA",
         "time": 1747448420120,
-        "updated": 1747448517637,
+        "updated": 1747449140217,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183212",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183212.geojson",
         "title": "M 2.0 - 9 km NE of Round Valley, CA"
@@ -75,7 +135,7 @@
         "mag": 1.22,
         "place": "3 km SW of Ridgemark, CA",
         "time": 1747445835600,
-        "updated": 1747446735949,
+        "updated": 1747449738289,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183197",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183197.geojson",
         "title": "M 1.2 - 3 km SW of Ridgemark, CA"
@@ -4706,126 +4766,6 @@
           -122.801330566406,
           38.8274993896484,
           2.00999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.23,
-        "place": "3 km W of Anza, CA",
-        "time": 1747365258760,
-        "updated": 1747416944907,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153936",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153936.geojson",
-        "title": "M 0.2 - 3 km W of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7096667,
-          33.5555,
-          2.59
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "13 km NNW of Stagecoach, Nevada",
-        "time": 1747365156753,
-        "updated": 1747365304361,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897675",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897675.geojson",
-        "title": "M 1.7 - 13 km NNW of Stagecoach, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4547,
-          39.4826,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "Bonin Islands, Japan region",
-        "time": 1747364572208,
-        "updated": 1747365496040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzig",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzig.geojson",
-        "title": "M 4.3 - Bonin Islands, Japan region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8743,
-          27.646,
-          482.732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.93,
-        "place": "26 km NW of Stanley, Idaho",
-        "time": 1747363725810,
-        "updated": 1747405230290,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086298",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086298.geojson",
-        "title": "M 1.9 - 26 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.2,
-          44.3653333333333,
-          5.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "15 km W of Johannesburg, CA",
-        "time": 1747363420030,
-        "updated": 1747416858661,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41153928",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41153928.geojson",
-        "title": "M 1.0 - 15 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8015,
-          35.359,
-          8.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.1,
-        "place": "25 km NW of Stanley, Idaho",
-        "time": 1747362823716,
-        "updated": 1747404366530,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzid",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzid.geojson",
-        "title": "M 3.1 - 25 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.1587,
-          44.3859,
-          10
         ]
       }
     }

@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747449042000,
+    "generated": 1747451904000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 4
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.47,
+        "place": "1 km SE of Maria Antonia, Puerto Rico",
+        "time": 1747450590980,
+        "updated": 1747451497850,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482598",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482598.geojson",
+        "title": "M 2.5 - 1 km SE of Maria Antonia, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8765,
+          17.9691666666667,
+          11.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.22,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1747450399430,
+        "updated": 1747451839529,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183222",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183222.geojson",
+        "title": "M 0.2 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807830810547,
+          38.836498260498,
+          1.6599999666214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.62,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747449596220,
+        "updated": 1747450644399,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183217",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183217.geojson",
+        "title": "M 1.6 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807830810547,
+          38.835334777832,
+          1.76999998092651
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.99,
         "place": "9 km NE of Round Valley, CA",
         "time": 1747448420120,
-        "updated": 1747448517637,
+        "updated": 1747449140217,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183212",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183212.geojson",
         "title": "M 2.0 - 9 km NE of Round Valley, CA"
@@ -26,86 +86,6 @@
           -118.535499572754,
           37.4776649475098,
           12.0200004577637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.31,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747447654810,
-        "updated": 1747448837179,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183207",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183207.geojson",
-        "title": "M 0.3 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.822334289551,
-          38.8106651306152,
-          3.02999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "7 km NNW of Cabazon, CA",
-        "time": 1747447411570,
-        "updated": 1747447622926,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154784",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154784.geojson",
-        "title": "M 0.8 - 7 km NNW of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.824,
-          33.9713333,
-          16.24
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.22,
-        "place": "3 km SW of Ridgemark, CA",
-        "time": 1747445835600,
-        "updated": 1747446735949,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183197",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183197.geojson",
-        "title": "M 1.2 - 3 km SW of Ridgemark, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.391334533691,
-          36.7918319702148,
-          5.26999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "18 km ENE of Nikiski, Alaska",
-        "time": 1747445508466,
-        "updated": 1747445621485,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aleq72",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aleq72.geojson",
-        "title": "M 1.3 - 18 km ENE of Nikiski, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.9966,
-          60.7742,
-          22.2
         ]
       }
     }
