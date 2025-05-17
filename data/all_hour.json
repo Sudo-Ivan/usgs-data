@@ -1,171 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747508509000,
+    "generated": 1747512120000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
-        "place": "38 km W of Tatitlek, Alaska",
-        "time": 1747508276824,
-        "updated": 1747508396895,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256avooqq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256avooqq.geojson",
-        "title": "M 2.0 - 38 km W of Tatitlek, Alaska"
+        "mag": 1,
+        "place": "35 km SW of Los Ybanez, Texas",
+        "time": 1747509939331,
+        "updated": 1747510603811,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jpyz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jpyz.geojson",
+        "title": "M 1.0 - 35 km SW of Los Ybanez, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.3727,
-          60.9126,
-          19.2
+          -102.134,
+          32.453,
+          4.0436
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.76,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747507868480,
-        "updated": 1747507963599,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183627",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183627.geojson",
-        "title": "M 0.8 - 9 km WNW of Cobb, CA"
+        "mag": 0.9,
+        "place": "30 km WNW of Anderson, Alaska",
+        "time": 1747509471209,
+        "updated": 1747509657359,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aw1j9s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aw1j9s.geojson",
+        "title": "M 0.9 - 30 km WNW of Anderson, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.828002929688,
-          38.8451652526855,
-          2.21000003814697
+          -149.8048,
+          64.4136,
+          22.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "10 km NNW of Indian Springs, Nevada",
-        "time": 1747507715087,
-        "updated": 1747507949419,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897724",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897724.geojson",
-        "title": "M 2.6 - 10 km NNW of Indian Springs, Nevada"
+        "mag": 1.5,
+        "place": "25 km N of Petersville, Alaska",
+        "time": 1747508873941,
+        "updated": 1747509012751,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256avzebm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256avzebm.geojson",
+        "title": "M 1.5 - 25 km N of Petersville, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.7362,
-          36.6511,
-          8.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "58 km WNW of Ninilchik, Alaska",
-        "time": 1747507660294,
-        "updated": 1747507754620,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256avmib1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256avmib1.geojson",
-        "title": "M 1.2 - 58 km WNW of Ninilchik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6486,
-          60.2452,
-          110.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "59 km NNE of Chase, Alaska",
-        "time": 1747507612226,
-        "updated": 1747507732625,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256avmbhj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256avmbhj.geojson",
-        "title": "M 2.1 - 59 km NNE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.7013,
-          62.9551,
-          63.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "9 km NNW of Indian Springs, Nevada",
-        "time": 1747507298536,
-        "updated": 1747507423797,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897722",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897722.geojson",
-        "title": "M 1.1 - 9 km NNW of Indian Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.7195,
-          36.6476,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.22,
-        "place": "9 km ENE of Kernville, CA",
-        "time": 1747506490490,
-        "updated": 1747506855834,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155192.geojson",
-        "title": "M 1.2 - 9 km ENE of Kernville, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3326667,
-          35.7711667,
-          3.35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.08,
-        "place": "2 km NNW of Tallaboa, Puerto Rico",
-        "time": 1747505508720,
-        "updated": 1747508077729,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482708",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482708.geojson",
-        "title": "M 3.1 - 2 km NNW of Tallaboa, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.728,
-          18.0186666666667,
-          11.22
+          -150.671,
+          62.7249,
+          82.5
         ]
       }
     }
