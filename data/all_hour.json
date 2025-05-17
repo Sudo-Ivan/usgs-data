@@ -1,111 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747487205000,
+    "generated": 1747490509000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.45,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1747487005930,
-        "updated": 1747487149202,
+        "mag": 1.26,
+        "place": "5 km WNW of Cobb, CA",
+        "time": 1747489892840,
+        "updated": 1747489989261,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183487",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183487.geojson",
+        "title": "M 1.3 - 5 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.781829833984,
+          38.8363342285156,
+          1.58000004291534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.41,
+        "place": "9 km WNW of Cobb, CA",
+        "time": 1747488033620,
+        "updated": 1747489936759,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183472",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183472.geojson",
+        "title": "M 1.4 - 9 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.824501037598,
+          38.8406677246094,
+          1.95000004768372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.12,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747487006100,
+        "updated": 1747487215752,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155016",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155016.geojson",
-        "title": "M 1.5 - 16 km WSW of Johannesburg, CA"
+        "title": "M 1.1 - 17 km WSW of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7991638,
-          35.3354988,
-          9.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "11 km NE of Running Springs, CA",
-        "time": 1747486055550,
-        "updated": 1747486262081,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155000",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155000.geojson",
-        "title": "M 0.8 - 11 km NE of Running Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.027,
-          34.2788333,
-          7.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.99,
-        "place": "7 km SE of Redlands, CA",
-        "time": 1747485745630,
-        "updated": 1747485957030,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41154992",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41154992.geojson",
-        "title": "M 1.0 - 7 km SE of Redlands, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1361667,
-          34.0085,
-          17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.95,
-        "place": "2 km NNW of The Geysers, CA",
-        "time": 1747485650450,
-        "updated": 1747487171598,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183462",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183462.geojson",
-        "title": "M 3.0 - 2 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.766502380371,
-          38.7923316955566,
-          3.57999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "15 km NNW of Point Possession, Alaska",
-        "time": 1747483617631,
-        "updated": 1747483719820,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256art5nn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256art5nn.geojson",
-        "title": "M 1.4 - 15 km NNW of Point Possession, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.8,
-          61.0479,
-          45
+          -117.811,
+          35.3323333,
+          7.58
         ]
       }
     }
