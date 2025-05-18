@@ -1,111 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747591350000,
+    "generated": 1747594950000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.43,
+        "place": "1 km NNE of Rialto, CA",
+        "time": 1747594713450,
+        "updated": 1747594923826,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155776",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155776.geojson",
+        "title": "M 1.4 - 1 km NNE of Rialto, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.367,
+          34.1113333,
+          25.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Volcano Islands, Japan region",
+        "time": 1747593427774,
+        "updated": 1747594351040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q01y",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q01y.geojson",
+        "title": "M 4.7 - Volcano Islands, Japan region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3711,
+          25.4292,
+          97.977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.88,
+        "place": "2 km NW of Tallaboa, Puerto Rico",
+        "time": 1747593023840,
+        "updated": 1747594072290,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482803",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482803.geojson",
+        "title": "M 2.9 - 2 km NW of Tallaboa, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.73,
+          18.012,
+          12.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "1 km ENE of The Geysers, CA",
+        "time": 1747592842060,
+        "updated": 1747592937685,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184112",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184112.geojson",
+        "title": "M 0.7 - 1 km ENE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74333190918,
+          38.781665802002,
+          0.759999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.5,
-        "place": "30 km WNW of Valdez, Alaska",
-        "time": 1747591171419,
-        "updated": 1747591311333,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cimz3p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cimz3p.geojson",
-        "title": "M 1.5 - 30 km WNW of Valdez, Alaska"
+        "place": "18 km ESE of Kasilof, Alaska",
+        "time": 1747592181082,
+        "updated": 1747592348563,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ciz64c",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ciz64c.geojson",
+        "title": "M 1.5 - 18 km ESE of Kasilof, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.8352,
-          61.2723,
-          20.4
+          -150.9481,
+          60.2966,
+          36.3
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747590970468,
-        "updated": 1747591348970,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrrk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrrk.geojson",
-        "title": "M 1.4 - 13 km WSW of Stanton, Texas"
+        "mag": 1.37,
+        "place": "1 km ENE of The Geysers, CA",
+        "time": 1747591973760,
+        "updated": 1747594339295,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184107",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184107.geojson",
+        "title": "M 1.4 - 1 km ENE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.927,
-          32.104,
-          4.574
+          -122.744331359863,
+          38.7825012207031,
+          0.740000009536743
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.87,
-        "place": "9 km WSW of Idyllwild, CA",
-        "time": 1747590679050,
-        "updated": 1747590891517,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155736",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155736.geojson",
-        "title": "M 0.9 - 9 km WSW of Idyllwild, CA"
+        "mag": 1.23,
+        "place": "19 km WSW of Toms Place, CA",
+        "time": 1747591864190,
+        "updated": 1747593737232,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184102",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184102.geojson",
+        "title": "M 1.2 - 19 km WSW of Toms Place, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.8028333,
-          33.7006667,
-          16.57
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747590341170,
-        "updated": 1747590438346,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184082",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184082.geojson",
-        "title": "M 0.8 - 10 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.838996887207,
-          38.8411674499512,
-          1.72000002861023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "4 km E of Lindsay, Texas",
-        "time": 1747589179935,
-        "updated": 1747589665393,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrql",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrql.geojson",
-        "title": "M 1.5 - 4 km E of Lindsay, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.486,
-          31.366,
-          2.3366
+          -118.850997924805,
+          37.4635009765625,
+          4.55999994277954
         ]
       }
     }
