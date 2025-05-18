@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747580519000,
+    "generated": 1747584188000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 235
+    "count": 228
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "2 km N of Universal City, CA",
+        "time": 1747583862810,
+        "updated": 1747584110778,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155656",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155656.geojson",
+        "title": "M 1.3 - 2 km N of Universal City, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3566667,
+          34.157,
+          16.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "34 km NNW of Toyah, Texas",
+        "time": 1747581699596,
+        "updated": 1747582443834,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrmi",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrmi.geojson",
+        "title": "M 1.6 - 34 km NNW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.96,
+          31.596,
+          6.7906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.39,
+        "place": "23 km SSE of Pāhala, Hawaii",
+        "time": 1747581091420,
+        "updated": 1747581330370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675532",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675532.geojson",
+        "title": "M 2.4 - 23 km SSE of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.355163574219,
+          19.02516746521,
+          15.4700002670288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "33 km SE of Mina, Nevada",
+        "time": 1747581078913,
+        "updated": 1747581248856,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897740",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897740.geojson",
+        "title": "M 1.9 - 33 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8075,
+          38.2016,
+          1.3
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,6 +106,26 @@
           -151.3362,
           63.1925,
           0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "94 km SSW of Masachapa, Nicaragua",
+        "time": 1747579360409,
+        "updated": 1747581775040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q016",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q016.geojson",
+        "title": "M 4.4 - 94 km SSW of Masachapa, Nicaragua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7098,
+          10.9537,
+          10
         ]
       }
     },
@@ -75,7 +175,7 @@
         "mag": 0.82,
         "place": "7 km NW of The Geysers, CA",
         "time": 1747576670070,
-        "updated": 1747577840459,
+        "updated": 1747581137815,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184057",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184057.geojson",
         "title": "M 0.8 - 7 km NW of The Geysers, CA"
@@ -4372,20 +4472,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.73,
+        "mag": 0.71,
         "place": "2 km N of Palomar Observatory, CA",
-        "time": 1747499854610,
-        "updated": 1747500120609,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155152",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155152.geojson",
+        "time": 1747499854540,
+        "updated": 1747582624793,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155144",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155144.geojson",
         "title": "M 0.7 - 2 km N of Palomar Observatory, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.8621667,
-          33.3728333,
-          8.18
+          -116.8595,
+          33.3768333,
+          8.54
         ]
       }
     },
@@ -4466,246 +4566,6 @@
           -152.4432,
           62.0206,
           0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747497391320,
-        "updated": 1747499238787,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183567",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183567.geojson",
-        "title": "M 1.1 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.841667175293,
-          38.8194999694824,
-          1.94000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.2,
-        "place": "21 km SSW of Kyaukse, Burma (Myanmar)",
-        "time": 1747497287317,
-        "updated": 1747541495022,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzv3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzv3.geojson",
-        "title": "M 5.2 - 21 km SSW of Kyaukse, Burma (Myanmar)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.0541,
-          21.4274,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.32,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1747496594670,
-        "updated": 1747528939083,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183562",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183562.geojson",
-        "title": "M 0.3 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.781666666667,
-          38.7965,
-          3.42
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.53,
-        "place": "2 km ESE of Indios, Puerto Rico",
-        "time": 1747496435810,
-        "updated": 1747497798740,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482693",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482693.geojson",
-        "title": "M 1.5 - 2 km ESE of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8003333333333,
-          17.9845,
-          15.11
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747496375460,
-        "updated": 1747498038672,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183557",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183557.geojson",
-        "title": "M 0.8 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.846168518066,
-          38.8181648254395,
-          5.05000019073486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "22 km E of Little Lake, CA",
-        "time": 1747495202630,
-        "updated": 1747576746889,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155104",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155104.geojson",
-        "title": "M 0.8 - 22 km E of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6678333,
-          35.9463333,
-          6.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "11 km SSW of Idyllwild, CA",
-        "time": 1747495011020,
-        "updated": 1747576846180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155088",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155088.geojson",
-        "title": "M 2.0 - 11 km SSW of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7758333,
-          33.654,
-          12.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "32 km NNW of Beluga, Alaska",
-        "time": 1747494910077,
-        "updated": 1747497307040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256atna8v",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256atna8v.geojson",
-        "title": "M 2.3 - 32 km NNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.2279,
-          61.421,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "132 km SSE of Sand Point, Alaska",
-        "time": 1747494568025,
-        "updated": 1747496111164,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzuw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzuw.geojson",
-        "title": "M 4.9 - 132 km SSE of Sand Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.8746,
-          54.1995,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.41,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747494475950,
-        "updated": 1747526587963,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183532",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183532.geojson",
-        "title": "M 0.4 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7975,
-          38.8356666666667,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "11 km E of Pāhala, Hawaii",
-        "time": 1747494351820,
-        "updated": 1747494570440,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674807",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674807.geojson",
-        "title": "M 2.0 - 11 km E of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.372833251953,
-          19.2108325958252,
-          30.0300006866455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "24 km NW of Stanley, Idaho",
-        "time": 1747494213860,
-        "updated": 1747500449020,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086628",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086628.geojson",
-        "title": "M 1.1 - 24 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.179833333333,
-          44.3471666666667,
-          3.81
         ]
       }
     }
