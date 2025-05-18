@@ -1,131 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747555399000,
+    "generated": 1747558903000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.72,
+        "mag": 0.9,
+        "place": "24 km SW of Whitestone, Alaska",
+        "time": 1747558153338,
+        "updated": 1747558240365,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cd7w3p",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cd7w3p.geojson",
+        "title": "M 0.9 - 24 km SW of Whitestone, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3076,
+          64.0156,
+          16.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.58,
         "place": "6 km WNW of Cobb, CA",
-        "time": 1747554926540,
-        "updated": 1747555021870,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183917",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183917.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
+        "time": 1747557830340,
+        "updated": 1747557926104,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183927",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183927.geojson",
+        "title": "M 0.6 - 6 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.791000366211,
-          38.8346672058105,
-          1.72000002861023
+          -122.793502807617,
+          38.833667755127,
+          -0.819999992847443
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1,
-        "place": "44 km NNW of Karluk, Alaska",
-        "time": 1747554851640,
-        "updated": 1747554928777,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccniy4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccniy4.geojson",
-        "title": "M 1.0 - 44 km NNW of Karluk, Alaska"
+        "mag": 1.11,
+        "place": "20 km SSW of La Quinta, CA",
+        "time": 1747557671440,
+        "updated": 1747557914869,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155472",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155472.geojson",
+        "title": "M 1.1 - 20 km SSW of La Quinta, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -154.8612,
-          57.907,
-          62.9
+          -116.3991667,
+          33.4966667,
+          5.25
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.3,
-        "place": "33 km SW of Cantwell, Alaska",
-        "time": 1747553524414,
-        "updated": 1747553663978,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccismx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccismx.geojson",
-        "title": "M 1.3 - 33 km SW of Cantwell, Alaska"
+        "mag": 1.19,
+        "place": "3 km ESE of Lake Henshaw, CA",
+        "time": 1747557657260,
+        "updated": 1747557859848,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155464",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155464.geojson",
+        "title": "M 1.2 - 3 km ESE of Lake Henshaw, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.4556,
-          63.1969,
-          90.6
+          -116.7378333,
+          33.2303333,
+          11.52
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "35 km NNW of Petersville, Alaska",
-        "time": 1747553368687,
-        "updated": 1747553459547,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cci7d0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cci7d0.geojson",
-        "title": "M 1.4 - 35 km NNW of Petersville, Alaska"
+        "mag": 1.9,
+        "place": "56 km S of Whites City, New Mexico",
+        "time": 1747556393515,
+        "updated": 1747556970305,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqyk",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqyk.geojson",
+        "title": "M 1.9 - 56 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.0805,
-          62.7812,
-          94.9
+          -104.365,
+          31.666,
+          4.4738
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.7,
-        "place": "74 km ESE of Kuanda, Russia",
-        "time": 1747553189622,
-        "updated": 1747554635040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzzf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzzf.geojson",
-        "title": "M 4.7 - 74 km ESE of Kuanda, Russia"
+        "mag": 1.5,
+        "place": "40 km NW of Valdez, Alaska",
+        "time": 1747555713612,
+        "updated": 1747555840836,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccz5b5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccz5b5.geojson",
+        "title": "M 1.5 - 40 km NW of Valdez, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.2397,
-          56.1443,
-          10
+          -146.9126,
+          61.3776,
+          25.6
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1,
-        "place": "9 km NNW of Big Lake, Alaska",
-        "time": 1747552260759,
-        "updated": 1747552338985,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cceabf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cceabf.geojson",
-        "title": "M 1.0 - 9 km NNW of Big Lake, Alaska"
+        "mag": 2.1,
+        "place": "56 km S of Whites City, New Mexico",
+        "time": 1747555699165,
+        "updated": 1747556271194,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqyb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqyb.geojson",
+        "title": "M 2.1 - 56 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.0166,
-          61.5994,
-          39
+          -104.366,
+          31.668,
+          4.087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.49,
+        "place": "15 km WSW of Johannesburg, CA",
+        "time": 1747555641900,
+        "updated": 1747555851643,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155456",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155456.geojson",
+        "title": "M 1.5 - 15 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.797,
+          35.3405,
+          6.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "56 km S of Whites City, New Mexico",
+        "time": 1747555303054,
+        "updated": 1747557098040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqxw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqxw.geojson",
+        "title": "M 2.1 - 56 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.366,
+          31.666,
+          4.2658
         ]
       }
     }
