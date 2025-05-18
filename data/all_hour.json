@@ -1,131 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747605750000,
+    "generated": 1747609303000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "58 km S of Whites City, New Mexico",
-        "time": 1747605311103,
-        "updated": 1747605719367,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrzh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrzh.geojson",
-        "title": "M 1.5 - 58 km S of Whites City, New Mexico"
+        "mag": 2.6,
+        "place": "14 km W of Toms Place, CA",
+        "time": 1747608998890,
+        "updated": 1747609245480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184147",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184147.geojson",
+        "title": "M 2.6 - 14 km W of Toms Place, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.405,
-          31.649,
-          5.0033
+          -118.828330993652,
+          37.5216674804688,
+          4.28999996185303
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.6,
-        "place": "60 km S of Whites City, New Mexico",
-        "time": 1747605138876,
-        "updated": 1747605717434,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrzf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrzf.geojson",
-        "title": "M 1.6 - 60 km S of Whites City, New Mexico"
+        "mag": 2.48,
+        "place": "3 km W of Fuig, Puerto Rico",
+        "time": 1747606883540,
+        "updated": 1747607570550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482828",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482828.geojson",
+        "title": "M 2.5 - 3 km W of Fuig, Puerto Rico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.403,
-          31.627,
-          3.4171
+          -66.9511666666667,
+          17.992,
+          11.1
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "93 km NW of Yakutat, Alaska",
-        "time": 1747604831271,
-        "updated": 1747604954249,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cky3dj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cky3dj.geojson",
-        "title": "M 1.2 - 93 km NW of Yakutat, Alaska"
+        "mag": 0.81,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747606474510,
+        "updated": 1747608441878,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184142",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184142.geojson",
+        "title": "M 0.8 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -140.8939,
-          60.1502,
-          8.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "79 km ESE of Denali Park, Alaska",
-        "time": 1747604034656,
-        "updated": 1747604150749,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ckv6p5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ckv6p5.geojson",
-        "title": "M 1.1 - 79 km ESE of Denali Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.3536,
-          63.5756,
-          51.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.2,
-        "place": "28 km NNE of Dorado, Puerto Rico",
-        "time": 1747604029840,
-        "updated": 1747605237750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482818",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482818.geojson",
-        "title": "M 3.2 - 28 km NNE of Dorado, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.2045,
-          18.7061666666667,
-          40.76
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "15 km ESE of Clam Gulch, Alaska",
-        "time": 1747602446740,
-        "updated": 1747602578544,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ckpjxe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ckpjxe.geojson",
-        "title": "M 1.1 - 15 km ESE of Clam Gulch, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.1221,
-          60.2041,
-          53.6
+          -122.852500915527,
+          38.8216667175293,
+          2.52999997138977
         ]
       }
     }
