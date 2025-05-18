@@ -1,21 +1,81 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747598548000,
+    "generated": 1747602148000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 229
+    "count": 222
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.36,
+        "place": "2 km SE of North Hollywood, CA",
+        "time": 1747600802930,
+        "updated": 1747601009900,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155832",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155832.geojson",
+        "title": "M 1.4 - 2 km SE of North Hollywood, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.361,
+          34.1575,
+          16.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.85,
+        "place": "12 km SW of Searles Valley, CA",
+        "time": 1747599615020,
+        "updated": 1747599828843,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155824",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155824.geojson",
+        "title": "M 0.9 - 12 km SW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5068333,
+          35.6956667,
+          4.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.04,
+        "place": "11 km NW of Avenal, CA",
+        "time": 1747598886640,
+        "updated": 1747601839135,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184127",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184127.geojson",
+        "title": "M 1.0 - 11 km NW of Avenal, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.223167419434,
+          36.0643348693848,
+          5.19000005722046
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.95,
         "place": "9 km NW of The Geysers, CA",
         "time": 1747598373860,
-        "updated": 1747598468342,
+        "updated": 1747600339978,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184122",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184122.geojson",
         "title": "M 1.0 - 9 km NW of The Geysers, CA"
@@ -26,6 +86,26 @@
           -122.842330932617,
           38.8196678161621,
           2.3199999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "35 km SW of Sola, Vanuatu",
+        "time": 1747598346710,
+        "updated": 1747599273040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q02c",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q02c.geojson",
+        "title": "M 4.7 - 35 km SW of Sola, Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.3017,
+          -14.0896,
+          191.34
         ]
       }
     },
@@ -355,7 +435,7 @@
         "mag": 0.87,
         "place": "9 km WSW of Idyllwild, CA",
         "time": 1747590679050,
-        "updated": 1747590891517,
+        "updated": 1747599036757,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155736",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155736.geojson",
         "title": "M 0.9 - 9 km WSW of Idyllwild, CA"
@@ -635,7 +715,7 @@
         "mag": 1.08,
         "place": "4 km S of Loma Linda, CA",
         "time": 1747584651050,
-        "updated": 1747584874056,
+        "updated": 1747599055077,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155680",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155680.geojson",
         "title": "M 1.1 - 4 km S of Loma Linda, CA"
@@ -655,7 +735,7 @@
         "mag": 1.31,
         "place": "4 km SSW of Coso Junction, CA",
         "time": 1747584418670,
-        "updated": 1747584628808,
+        "updated": 1747599071359,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155664",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155664.geojson",
         "title": "M 1.3 - 4 km SSW of Coso Junction, CA"
@@ -1792,10 +1872,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.77,
+        "mag": 0.76,
         "place": "12 km NNE of Borrego Springs, CA",
-        "time": 1747562900460,
-        "updated": 1747563110398,
+        "time": 1747562900410,
+        "updated": 1747598974071,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155488",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155488.geojson",
         "title": "M 0.8 - 12 km NNE of Borrego Springs, CA"
@@ -1803,9 +1883,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.3435,
-          33.3576667,
-          11.28
+          -116.3448333,
+          33.357,
+          11.92
         ]
       }
     },
@@ -4366,226 +4446,6 @@
           -122.676834106445,
           38.4291648864746,
           4.34000015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.02,
-        "place": "26 km N of Hatillo, Puerto Rico",
-        "time": 1747515510140,
-        "updated": 1747517915025,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482718",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482718.geojson",
-        "title": "M 3.0 - 26 km N of Hatillo, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.7806666666667,
-          18.7205,
-          9.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "125 km NNW of Neiafu, Tonga",
-        "time": 1747515379429,
-        "updated": 1747516508040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzw8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzw8.geojson",
-        "title": "M 4.7 - 125 km NNW of Neiafu, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.3942,
-          -17.5867,
-          93.421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "10 km W of Forsan, Texas",
-        "time": 1747514840229,
-        "updated": 1747515480878,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqbp",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqbp.geojson",
-        "title": "M 1.3 - 10 km W of Forsan, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.481,
-          32.112,
-          4.1601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.67,
-        "place": "15 km ESE of Little Lake, CA",
-        "time": 1747514550280,
-        "updated": 1747592732267,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155256",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155256.geojson",
-        "title": "M 0.7 - 15 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7406667,
-          35.9016667,
-          9.78
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.34,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747514478720,
-        "updated": 1747519637035,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183652",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183652.geojson",
-        "title": "M 1.3 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.806663513184,
-          38.8361663818359,
-          1.75999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "60 km ESE of Pedro Bay, Alaska",
-        "time": 1747514196526,
-        "updated": 1747514314665,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256awr0ck",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256awr0ck.geojson",
-        "title": "M 1.7 - 60 km ESE of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.1104,
-          59.587,
-          106.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.65,
-        "place": "7 km ESE of Santa Clarita, CA",
-        "time": 1747514163970,
-        "updated": 1747592506564,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155240",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155240.geojson",
-        "title": "M 1.7 - 7 km ESE of Santa Clarita, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4353333,
-          34.3983333,
-          7.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "53 km S of Whites City, New Mexico",
-        "time": 1747514011569,
-        "updated": 1747514350173,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqbe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqbe.geojson",
-        "title": "M 2.4 - 53 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.393,
-          31.69,
-          9.5596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "37 km NW of Beluga, Alaska",
-        "time": 1747513518244,
-        "updated": 1747513602024,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256awom28",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256awom28.geojson",
-        "title": "M 1.0 - 37 km NW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.5239,
-          61.3964,
-          71.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.95,
-        "place": "3 km SW of Anderson Springs, CA",
-        "time": 1747512777400,
-        "updated": 1747514840521,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183637",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183637.geojson",
-        "title": "M 1.0 - 3 km SW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.709831237793,
-          38.7518348693848,
-          0.810000002384186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "37 km NNW of Petersville, Alaska",
-        "time": 1747512647576,
-        "updated": 1747512784024,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256awlgl1",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256awlgl1.geojson",
-        "title": "M 1.2 - 37 km NNW of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.9695,
-          62.8232,
-          77.6
         ]
       }
     }
