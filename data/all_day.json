@@ -1,14 +1,214 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747584188000,
+    "generated": 1747587719000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 228
+    "count": 231
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "88 km NW of Yakutat, Alaska",
+        "time": 1747587227594,
+        "updated": 1747587384047,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ci0ag7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ci0ag7.geojson",
+        "title": "M 1.5 - 88 km NW of Yakutat, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.8778,
+          60.0964,
+          17.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "22 km ESE of Nenana, Alaska",
+        "time": 1747587039070,
+        "updated": 1747587146005,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256chzmn7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256chzmn7.geojson",
+        "title": "M 1.2 - 22 km ESE of Nenana, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.6575,
+          64.4984,
+          5.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "24 km ESE of Nenana, Alaska",
+        "time": 1747587024466,
+        "updated": 1747587141595,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256chzlim",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256chzlim.geojson",
+        "title": "M 1.1 - 24 km ESE of Nenana, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.6699,
+          64.4489,
+          27.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "30 km WNW of Valdez, Alaska",
+        "time": 1747586735058,
+        "updated": 1747586861141,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256chyjr5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256chyjr5.geojson",
+        "title": "M 2.0 - 30 km WNW of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.8606,
+          61.257,
+          18.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "31 km SSW of Los Ybanez, Texas",
+        "time": 1747586353333,
+        "updated": 1747586759058,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrow",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrow.geojson",
+        "title": "M 1.8 - 31 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.045,
+          32.461,
+          4.5009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "73 km ENE of Lime Village, Alaska",
+        "time": 1747586321361,
+        "updated": 1747586440652,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256chx288",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256chx288.geojson",
+        "title": "M 1.2 - 73 km ENE of Lime Village, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.1112,
+          61.5399,
+          18.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.76,
+        "place": "6 km N of Borrego Springs, CA",
+        "time": 1747585805110,
+        "updated": 1747586016372,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155688",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155688.geojson",
+        "title": "M 0.8 - 6 km N of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3731667,
+          33.3061667,
+          11.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747584823440,
+        "updated": 1747587437511,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184077",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184077.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.800331115723,
+          38.8371658325195,
+          1.46000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "4 km S of Loma Linda, CA",
+        "time": 1747584651050,
+        "updated": 1747584874056,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155680",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155680.geojson",
+        "title": "M 1.1 - 4 km S of Loma Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2615,
+          34.0076667,
+          11.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.31,
+        "place": "4 km SSW of Coso Junction, CA",
+        "time": 1747584418670,
+        "updated": 1747584628808,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155664",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155664.geojson",
+        "title": "M 1.3 - 4 km SSW of Coso Junction, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96,
+          36.0098333,
+          7.13
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,6 +226,26 @@
           -118.3566667,
           34.157,
           16.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.9,
+        "place": "62 km S of Cantwell, Alaska",
+        "time": 1747582759233,
+        "updated": 1747585105040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256chbsmr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256chbsmr.geojson",
+        "title": "M 2.9 - 62 km S of Cantwell, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8031,
+          62.8341,
+          97.5
         ]
       }
     },
@@ -86,6 +306,26 @@
           -117.8075,
           38.2016,
           1.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "45 km ENE of Pedro Bay, Alaska",
+        "time": 1747580999471,
+        "updated": 1747584361789,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ch5g97",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ch5g97.geojson",
+        "title": "M 1.7 - 45 km ENE of Pedro Bay, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3908,
+          59.9851,
+          121.9
         ]
       }
     },
@@ -4386,186 +4626,6 @@
           -121.047836303711,
           36.5904998779297,
           13.4200000762939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.63,
-        "place": "7 km ENE of Pinnacles, CA",
-        "time": 1747501169650,
-        "updated": 1747503138235,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183592",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183592.geojson",
-        "title": "M 1.6 - 7 km ENE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.073501586914,
-          36.5648345947266,
-          8.25
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "65 km NNW of Karluk, Alaska",
-        "time": 1747500556682,
-        "updated": 1747500701063,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aug0pg",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aug0pg.geojson",
-        "title": "M 0.8 - 65 km NNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.8232,
-          58.123,
-          43
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "7 km W of Aguanga, CA",
-        "time": 1747500224060,
-        "updated": 1747576728572,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155160",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155160.geojson",
-        "title": "M 0.7 - 7 km W of Aguanga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9451667,
-          33.4458333,
-          9.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "15 km ESE of Susitna, Alaska",
-        "time": 1747499965021,
-        "updated": 1747500045863,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256audw6u",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256audw6u.geojson",
-        "title": "M 1.3 - 15 km ESE of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.245,
-          61.4929,
-          39.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "2 km N of Palomar Observatory, CA",
-        "time": 1747499854540,
-        "updated": 1747582624793,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155144",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155144.geojson",
-        "title": "M 0.7 - 2 km N of Palomar Observatory, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8595,
-          33.3768333,
-          8.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.89,
-        "place": "2 km NNW of Palomar Observatory, CA",
-        "time": 1747498602050,
-        "updated": 1747498815888,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155128",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155128.geojson",
-        "title": "M 0.9 - 2 km NNW of Palomar Observatory, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8696667,
-          33.3766667,
-          8.52
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.29,
-        "place": "10 km ENE of Pāhala, Hawaii",
-        "time": 1747498421860,
-        "updated": 1747501335040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674827",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674827.geojson",
-        "title": "M 2.3 - 10 km ENE of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.383163452148,
-          19.2351665496826,
-          33.1100006103516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "10 km S of Big Bear City, CA",
-        "time": 1747498308410,
-        "updated": 1747498518436,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155120",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155120.geojson",
-        "title": "M 1.0 - 10 km S of Big Bear City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8241667,
-          34.1731667,
-          8.38
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "54 km W of Skwentna, Alaska",
-        "time": 1747498259976,
-        "updated": 1747498467420,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256au7r4d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256au7r4d.geojson",
-        "title": "M 1.7 - 54 km W of Skwentna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.4432,
-          62.0206,
-          0
         ]
       }
     }
