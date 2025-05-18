@@ -1,231 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747576901000,
+    "generated": 1747580550000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 11
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.82,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747576670070,
-        "updated": 1747576768714,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184057",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184057.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+        "mag": 1.6,
+        "place": "43 km SSE of Denali National Park, Alaska",
+        "time": 1747579446493,
+        "updated": 1747579558144,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cgremh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cgremh.geojson",
+        "title": "M 1.6 - 43 km SSE of Denali National Park, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.832336425781,
-          38.8068351745605,
-          3.73000001907349
+          -151.3362,
+          63.1925,
+          0.1
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.7,
-        "place": "3 km SSW of Salcha, Alaska",
-        "time": 1747576394060,
-        "updated": 1747576524443,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cg7x1q",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cg7x1q.geojson",
-        "title": "M 0.7 - 3 km SSW of Salcha, Alaska"
+        "mag": 1.7,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1747578058340,
+        "updated": 1747579468475,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrki",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrki.geojson",
+        "title": "M 1.7 - 58 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.9258,
-          64.4956,
-          8.4
+          -104.458,
+          31.651,
+          8.8857
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747575202178,
-        "updated": 1747575913439,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrix",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrix.geojson",
-        "title": "M 1.5 - 13 km WSW of Stanton, Texas"
+        "mag": 1,
+        "place": "29 km SSE of Mina, Nevada",
+        "time": 1747577519199,
+        "updated": 1747577675317,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897739",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897739.geojson",
+        "title": "M 1.0 - 29 km SSE of Mina, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.929,
-          32.101,
-          5.1535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.94,
-        "place": "1 km SE of View Park-Windsor Hills, CA",
-        "time": 1747575011000,
-        "updated": 1747575942365,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155576",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155576.geojson",
-        "title": "M 1.9 - 1 km SE of View Park-Windsor Hills, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.339,
-          33.9855,
-          10.35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "1 km NE of The Geysers, CA",
-        "time": 1747574871980,
-        "updated": 1747576636330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184052",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184052.geojson",
-        "title": "M 0.8 - 1 km NE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.749496459961,
-          38.7838325500488,
-          0.400000005960464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.75,
-        "place": "2 km NNW of Santa Isabel, Puerto Rico",
-        "time": 1747574551150,
-        "updated": 1747575451710,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482778",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482778.geojson",
-        "title": "M 2.8 - 2 km NNW of Santa Isabel, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.413,
-          17.9853333333333,
-          6.16
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "55 km WNW of Tatitlek, Alaska",
-        "time": 1747574356205,
-        "updated": 1747574468278,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cg0mv8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cg0mv8.geojson",
-        "title": "M 2.4 - 55 km WNW of Tatitlek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -147.6629,
-          61.0025,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747573836460,
-        "updated": 1747575739215,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184047",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184047.geojson",
-        "title": "M 0.3 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797500610352,
-          38.832332611084,
-          2.20000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.2,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747573828630,
-        "updated": 1747575137144,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184042",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184042.geojson",
-        "title": "M 0.2 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795166015625,
-          38.8346672058105,
-          2.39000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "28 km ENE of Knik River, Alaska",
-        "time": 1747573808870,
-        "updated": 1747573933437,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfyouv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfyouv.geojson",
-        "title": "M 2.0 - 28 km ENE of Knik River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.4078,
-          61.5415,
-          14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.92,
-        "place": "21 km NE of San Lucas, CA",
-        "time": 1747573391360,
-        "updated": 1747574535092,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184037",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184037.geojson",
-        "title": "M 1.9 - 21 km NE of San Lucas, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.856834411621,
-          36.2703323364258,
-          6.65000009536743
+          -117.9624,
+          38.1489,
+          1.7
         ]
       }
     }
