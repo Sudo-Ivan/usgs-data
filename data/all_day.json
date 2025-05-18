@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747594919000,
+    "generated": 1747598548000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 228
+    "count": 229
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.95,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747598373860,
+        "updated": 1747598468342,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184122",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184122.geojson",
+        "title": "M 1.0 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.842330932617,
+          38.8196678161621,
+          2.3199999332428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "14 km ESE of Pleasant Valley, Alaska",
+        "time": 1747597780151,
+        "updated": 1747597926731,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cjrptr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cjrptr.geojson",
+        "title": "M 0.9 - 14 km ESE of Pleasant Valley, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.5948,
+          64.8247,
+          29.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.11,
+        "place": "4 km NW of Ocotillo, CA",
+        "time": 1747595871060,
+        "updated": 1747596085062,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155800",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155800.geojson",
+        "title": "M 1.1 - 4 km NW of Ocotillo, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0233333,
+          32.7595,
+          7.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.1,
+        "place": "134 km SSE of Sittwe, Burma (Myanmar)",
+        "time": 1747595721197,
+        "updated": 1747596708040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q025",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q025.geojson",
+        "title": "M 5.1 - 134 km SSE of Sittwe, Burma (Myanmar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3524,
+          19.0069,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.27,
+        "place": "18 km SW of Little Lake, CA",
+        "time": 1747595713160,
+        "updated": 1747595918940,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155784",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155784.geojson",
+        "title": "M 1.3 - 18 km SW of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0411667,
+          35.816,
+          7.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "13 km NNW of Fox River, Alaska",
+        "time": 1747595673203,
+        "updated": 1747595803406,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cjk788",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cjk788.geojson",
+        "title": "M 1.2 - 13 km NNW of Fox River, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0205,
+          59.9744,
+          36.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.43,
         "place": "1 km NNE of Rialto, CA",
         "time": 1747594713450,
-        "updated": 1747594917678,
+        "updated": 1747594923826,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155776",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155776.geojson",
         "title": "M 1.4 - 1 km NNE of Rialto, CA"
@@ -26,6 +146,26 @@
           -117.367,
           34.1113333,
           25.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "13 km WSW of Stanton, Texas",
+        "time": 1747594616626,
+        "updated": 1747595082810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrtl",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrtl.geojson",
+        "title": "M 1.1 - 13 km WSW of Stanton, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.932,
+          32.099,
+          3.7876
         ]
       }
     },
@@ -75,7 +215,7 @@
         "mag": 0.72,
         "place": "1 km ENE of The Geysers, CA",
         "time": 1747592842060,
-        "updated": 1747592937685,
+        "updated": 1747595236391,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184112",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184112.geojson",
         "title": "M 0.7 - 1 km ENE of The Geysers, CA"
@@ -115,7 +255,7 @@
         "mag": 1.37,
         "place": "1 km ENE of The Geysers, CA",
         "time": 1747591973760,
-        "updated": 1747594339295,
+        "updated": 1747597640670,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184107",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184107.geojson",
         "title": "M 1.4 - 1 km ENE of The Geysers, CA"
@@ -135,7 +275,7 @@
         "mag": 1.23,
         "place": "19 km WSW of Toms Place, CA",
         "time": 1747591864190,
-        "updated": 1747593737232,
+        "updated": 1747596137502,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184102",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184102.geojson",
         "title": "M 1.2 - 19 km WSW of Toms Place, CA"
@@ -1772,10 +1912,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.09,
+        "mag": 1.07,
         "place": "21 km SW of Ocotillo, CA",
-        "time": 1747560916180,
-        "updated": 1747561126940,
+        "time": 1747560916170,
+        "updated": 1747598518682,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155480",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155480.geojson",
         "title": "M 1.1 - 21 km SW of Ocotillo, CA"
@@ -1783,8 +1923,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.1175,
-          32.5806667,
+          -116.1198333,
+          32.5826667,
           8.49
         ]
       }
@@ -1932,30 +2072,30 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.11,
-        "place": "20 km SSW of La Quinta, CA",
-        "time": 1747557671440,
-        "updated": 1747557914869,
+        "mag": 1.03,
+        "place": "21 km SSW of La Quinta, CA",
+        "time": 1747557671480,
+        "updated": 1747598246216,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155472",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155472.geojson",
-        "title": "M 1.1 - 20 km SSW of La Quinta, CA"
+        "title": "M 1.0 - 21 km SSW of La Quinta, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.3991667,
-          33.4966667,
-          5.25
+          -116.4025,
+          33.4946667,
+          6.28
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.19,
+        "mag": 1.24,
         "place": "3 km ESE of Lake Henshaw, CA",
-        "time": 1747557657260,
-        "updated": 1747557859848,
+        "time": 1747557657250,
+        "updated": 1747597776680,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155464",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155464.geojson",
         "title": "M 1.2 - 3 km ESE of Lake Henshaw, CA"
@@ -1963,9 +2103,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7378333,
-          33.2303333,
-          11.52
+          -116.7365,
+          33.2311667,
+          11.4
         ]
       }
     },
@@ -2392,10 +2532,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.36,
+        "mag": 0.44,
         "place": "6 km WSW of Anza, CA",
-        "time": 1747549867380,
-        "updated": 1747550078764,
+        "time": 1747549867280,
+        "updated": 1747596939045,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155440",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155440.geojson",
         "title": "M 0.4 - 6 km WSW of Anza, CA"
@@ -2403,9 +2543,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7318333,
-          33.53,
-          5.41
+          -116.7335,
+          33.5268333,
+          6.12
         ]
       }
     },
@@ -3552,6 +3692,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.22,
+        "place": "66 km NW of Ninilchik, Alaska",
+        "time": 1747527408150,
+        "updated": 1747596134360,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93609821",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93609821.geojson",
+        "title": "M 0.2 - 66 km NW of Ninilchik, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.540333333333,
+          60.4668333333333,
+          15.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 4.5,
         "place": "38 km E of Tobobe, Panama",
         "time": 1747527030586,
@@ -4426,146 +4586,6 @@
           -150.9695,
           62.8232,
           77.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1747511971081,
-        "updated": 1747512812930,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqaa",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqaa.geojson",
-        "title": "M 2.0 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.398,
-          31.668,
-          3.9463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "7 km NNW of El Moro, Colorado",
-        "time": 1747511574205,
-        "updated": 1747517138957,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzvz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzvz.geojson",
-        "title": "M 2.5 - 7 km NNW of El Moro, Colorado"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.5088,
-          37.2794,
-          6.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "10 km ENE of Marysville, Montana",
-        "time": 1747511286130,
-        "updated": 1747578485340,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086688",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086688.geojson",
-        "title": "M 1.3 - 10 km ENE of Marysville, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.186666666667,
-          46.8008333333333,
-          7.87
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.53,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1747510562410,
-        "updated": 1747527131484,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183632",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183632.geojson",
-        "title": "M 0.5 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.8035,
-          38.8235,
-          2.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "35 km SW of Los Ybanez, Texas",
-        "time": 1747509939331,
-        "updated": 1747510603811,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jpyz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jpyz.geojson",
-        "title": "M 1.0 - 35 km SW of Los Ybanez, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.134,
-          32.453,
-          4.0436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "30 km WNW of Anderson, Alaska",
-        "time": 1747509471209,
-        "updated": 1747509657359,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256aw1j9s",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256aw1j9s.geojson",
-        "title": "M 0.9 - 30 km WNW of Anderson, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.8048,
-          64.4136,
-          22.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "25 km N of Petersville, Alaska",
-        "time": 1747508873941,
-        "updated": 1747509012751,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256avzebm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256avzebm.geojson",
-        "title": "M 1.5 - 25 km N of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.671,
-          62.7249,
-          82.5
         ]
       }
     }
