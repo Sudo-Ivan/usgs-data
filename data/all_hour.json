@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747602103000,
+    "generated": 1747605750000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.36,
-        "place": "2 km SE of North Hollywood, CA",
-        "time": 1747600802930,
-        "updated": 1747601009900,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155832.geojson",
-        "title": "M 1.4 - 2 km SE of North Hollywood, CA"
+        "mag": 1.5,
+        "place": "58 km S of Whites City, New Mexico",
+        "time": 1747605311103,
+        "updated": 1747605719367,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrzh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrzh.geojson",
+        "title": "M 1.5 - 58 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.361,
-          34.1575,
-          16.59
+          -104.405,
+          31.649,
+          5.0033
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.85,
-        "place": "12 km SW of Searles Valley, CA",
-        "time": 1747599615020,
-        "updated": 1747599828843,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155824",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155824.geojson",
-        "title": "M 0.9 - 12 km SW of Searles Valley, CA"
+        "mag": 1.6,
+        "place": "60 km S of Whites City, New Mexico",
+        "time": 1747605138876,
+        "updated": 1747605717434,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrzf",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrzf.geojson",
+        "title": "M 1.6 - 60 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.5068333,
-          35.6956667,
-          4.75
+          -104.403,
+          31.627,
+          3.4171
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.04,
-        "place": "11 km NW of Avenal, CA",
-        "time": 1747598886640,
-        "updated": 1747601839135,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184127",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184127.geojson",
-        "title": "M 1.0 - 11 km NW of Avenal, CA"
+        "mag": 1.2,
+        "place": "93 km NW of Yakutat, Alaska",
+        "time": 1747604831271,
+        "updated": 1747604954249,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cky3dj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cky3dj.geojson",
+        "title": "M 1.2 - 93 km NW of Yakutat, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.223167419434,
-          36.0643348693848,
-          5.19000005722046
+          -140.8939,
+          60.1502,
+          8.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "79 km ESE of Denali Park, Alaska",
+        "time": 1747604034656,
+        "updated": 1747604150749,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ckv6p5",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ckv6p5.geojson",
+        "title": "M 1.1 - 79 km ESE of Denali Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3536,
+          63.5756,
+          51.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.2,
+        "place": "28 km NNE of Dorado, Puerto Rico",
+        "time": 1747604029840,
+        "updated": 1747605237750,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482818",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482818.geojson",
+        "title": "M 3.2 - 28 km NNE of Dorado, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2045,
+          18.7061666666667,
+          40.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "15 km ESE of Clam Gulch, Alaska",
+        "time": 1747602446740,
+        "updated": 1747602578544,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ckpjxe",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ckpjxe.geojson",
+        "title": "M 1.1 - 15 km ESE of Clam Gulch, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1221,
+          60.2041,
+          53.6
         ]
       }
     }
