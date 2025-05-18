@@ -1,21 +1,221 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747573663000,
+    "generated": 1747576901000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 11
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.82,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747576670070,
+        "updated": 1747576768714,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184057",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184057.geojson",
+        "title": "M 0.8 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.832336425781,
+          38.8068351745605,
+          3.73000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "3 km SSW of Salcha, Alaska",
+        "time": 1747576394060,
+        "updated": 1747576524443,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cg7x1q",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cg7x1q.geojson",
+        "title": "M 0.7 - 3 km SSW of Salcha, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.9258,
+          64.4956,
+          8.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "13 km WSW of Stanton, Texas",
+        "time": 1747575202178,
+        "updated": 1747575913439,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrix",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrix.geojson",
+        "title": "M 1.5 - 13 km WSW of Stanton, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.929,
+          32.101,
+          5.1535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.94,
+        "place": "1 km SE of View Park-Windsor Hills, CA",
+        "time": 1747575011000,
+        "updated": 1747575942365,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155576",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155576.geojson",
+        "title": "M 1.9 - 1 km SE of View Park-Windsor Hills, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.339,
+          33.9855,
+          10.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "1 km NE of The Geysers, CA",
+        "time": 1747574871980,
+        "updated": 1747576636330,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184052",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184052.geojson",
+        "title": "M 0.8 - 1 km NE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.749496459961,
+          38.7838325500488,
+          0.400000005960464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.75,
+        "place": "2 km NNW of Santa Isabel, Puerto Rico",
+        "time": 1747574551150,
+        "updated": 1747575451710,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482778",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482778.geojson",
+        "title": "M 2.8 - 2 km NNW of Santa Isabel, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.413,
+          17.9853333333333,
+          6.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.4,
+        "place": "55 km WNW of Tatitlek, Alaska",
+        "time": 1747574356205,
+        "updated": 1747574468278,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cg0mv8",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cg0mv8.geojson",
+        "title": "M 2.4 - 55 km WNW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6629,
+          61.0025,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.29,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747573836460,
+        "updated": 1747575739215,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184047",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184047.geojson",
+        "title": "M 0.3 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797500610352,
+          38.832332611084,
+          2.20000004768372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.2,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747573828630,
+        "updated": 1747575137144,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184042",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184042.geojson",
+        "title": "M 0.2 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795166015625,
+          38.8346672058105,
+          2.39000010490417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "28 km ENE of Knik River, Alaska",
+        "time": 1747573808870,
+        "updated": 1747573933437,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfyouv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfyouv.geojson",
+        "title": "M 2.0 - 28 km ENE of Knik River, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.4078,
+          61.5415,
+          14
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.92,
         "place": "21 km NE of San Lucas, CA",
         "time": 1747573391360,
-        "updated": 1747573487630,
+        "updated": 1747574535092,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184037",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184037.geojson",
         "title": "M 1.9 - 21 km NE of San Lucas, CA"
@@ -26,186 +226,6 @@
           -120.856834411621,
           36.2703323364258,
           6.65000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "6 km NNW of San Jacinto, CA",
-        "time": 1747573159640,
-        "updated": 1747573364465,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155568",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155568.geojson",
-        "title": "M 1.2 - 6 km NNW of San Jacinto, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9848333,
-          33.8378333,
-          9.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "9 km SE of Valle Vista, CA",
-        "time": 1747572741580,
-        "updated": 1747572983418,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155560",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155560.geojson",
-        "title": "M 1.1 - 9 km SE of Valle Vista, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8143333,
-          33.7,
-          13.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "31 km SE of Minto, Alaska",
-        "time": 1747572374966,
-        "updated": 1747572479437,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfkzi0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfkzi0.geojson",
-        "title": "M 1.6 - 31 km SE of Minto, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.9639,
-          64.9178,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "2 km WNW of Anderson Springs, CA",
-        "time": 1747572012870,
-        "updated": 1747573638000,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184032",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184032.geojson",
-        "title": "M 1.0 - 2 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.718330383301,
-          38.7789993286133,
-          1.92999994754791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.58,
-        "place": "10 km NE of Aguanga, CA",
-        "time": 1747571876750,
-        "updated": 1747572089336,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155552",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155552.geojson",
-        "title": "M 0.6 - 10 km NE of Aguanga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.781,
-          33.494,
-          7.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747571437930,
-        "updated": 1747571646810,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155536",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155536.geojson",
-        "title": "M 0.4 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7323333,
-          33.53,
-          5.59
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.93,
-        "place": "4 km W of Lucien, Oklahoma",
-        "time": 1747571150669,
-        "updated": 1747571594201,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jrgn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jrgn.geojson",
-        "title": "M 1.9 - 4 km W of Lucien, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.50601196,
-          36.27330399,
-          5.030465126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "53 km WNW of Cantwell, Alaska",
-        "time": 1747570079959,
-        "updated": 1747570204114,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfcq1n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfcq1n.geojson",
-        "title": "M 1.2 - 53 km WNW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9766,
-          63.5445,
-          84.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.05,
-        "place": "16 km ENE of Santa Cruz de El Seibo, Dominican Republic",
-        "time": 1747570069390,
-        "updated": 1747572458933,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025138000",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025138000.geojson",
-        "title": "M 4.1 - 16 km ENE of Santa Cruz de El Seibo, Dominican Republic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.8965,
-          18.8161,
-          164
         ]
       }
     }
