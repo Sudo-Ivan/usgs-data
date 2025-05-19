@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747609303000,
+    "generated": 1747613424000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "14 km W of Toms Place, CA",
-        "time": 1747608998890,
-        "updated": 1747609245480,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184147",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184147.geojson",
-        "title": "M 2.6 - 14 km W of Toms Place, CA"
+        "mag": 1.71,
+        "place": "3 km SSE of Duarte, CA",
+        "time": 1747613197180,
+        "updated": 1747613415838,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155928",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155928.geojson",
+        "title": "M 1.7 - 3 km SSE of Duarte, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.828330993652,
-          37.5216674804688,
-          4.28999996185303
+          -117.9671667,
+          34.1148333,
+          10.89
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.48,
-        "place": "3 km W of Fuig, Puerto Rico",
-        "time": 1747606883540,
-        "updated": 1747607570550,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482828",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482828.geojson",
-        "title": "M 2.5 - 3 km W of Fuig, Puerto Rico"
+        "mag": 0.7,
+        "place": "33 km SE of Minto, Alaska",
+        "time": 1747613142223,
+        "updated": 1747613238404,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dvqeha",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dvqeha.geojson",
+        "title": "M 0.7 - 33 km SE of Minto, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.9511666666667,
-          17.992,
-          11.1
+          -148.9118,
+          64.9126,
+          0
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.81,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747606474510,
-        "updated": 1747608441878,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184142",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184142.geojson",
-        "title": "M 0.8 - 10 km NW of The Geysers, CA"
+        "mag": 0.67,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747612500150,
+        "updated": 1747612594211,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184167",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184167.geojson",
+        "title": "M 0.7 - 9 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.852500915527,
-          38.8216667175293,
-          2.52999997138977
+          -122.84400177002,
+          38.8188323974609,
+          1.58000004291534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.43,
+        "place": "3 km NW of The Geysers, CA",
+        "time": 1747611672360,
+        "updated": 1747612644355,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184157",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184157.geojson",
+        "title": "M 0.4 - 3 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.779663085938,
+          38.7938346862793,
+          3.34999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.66,
+        "place": "4 km NNW of Boron, CA",
+        "time": 1747610655060,
+        "updated": 1747610867571,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155896",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155896.geojson",
+        "title": "M 1.7 - 4 km NNW of Boron, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6735,
+          35.0318333,
+          -0.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "88 km ENE of Lime Village, Alaska",
+        "time": 1747610498970,
+        "updated": 1747610622087,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256clzg3t",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256clzg3t.geojson",
+        "title": "M 1.2 - 88 km ENE of Lime Village, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.9177,
+          61.6854,
+          0
         ]
       }
     }
