@@ -1,71 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747674156000,
+    "generated": 1747677820000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.78,
-        "place": "0 km NNW of The Geysers, CA",
-        "time": 1747672999780,
-        "updated": 1747673094383,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184477",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184477.geojson",
-        "title": "M 0.8 - 0 km NNW of The Geysers, CA"
+        "mag": 2.3,
+        "place": "100 km SE of Perryville, Alaska",
+        "time": 1747677163689,
+        "updated": 1747677327963,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e64uj4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e64uj4.geojson",
+        "title": "M 2.3 - 100 km SE of Perryville, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.758666992188,
-          38.7793350219727,
-          1.36000001430511
+          -158.1099,
+          55.2238,
+          7.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.6,
-        "place": "50 km ESE of Beatty, Nevada",
-        "time": 1747672924361,
-        "updated": 1747673022055,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897751",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897751.geojson",
-        "title": "M 0.6 - 50 km ESE of Beatty, Nevada"
+        "mag": 1.14,
+        "place": "14 km SW of Searles Valley, CA",
+        "time": 1747676547530,
+        "updated": 1747676757528,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156488",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156488.geojson",
+        "title": "M 1.1 - 14 km SW of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.2697,
-          36.6765,
-          9.4
+          -117.5286636,
+          35.6948318,
+          4.38
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.72,
-        "place": "8 km S of Hemet, CA",
-        "time": 1747672084200,
-        "updated": 1747672302124,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156432",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156432.geojson",
-        "title": "M 0.7 - 8 km S of Hemet, CA"
+        "mag": 0.76,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1747676313080,
+        "updated": 1747676409787,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184502",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184502.geojson",
+        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.968,
-          33.6743333,
-          14.93
+          -122.814331054688,
+          38.8241653442383,
+          2.02999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.49,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747676301470,
+        "updated": 1747676399833,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184497",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184497.geojson",
+        "title": "M 0.5 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.839332580566,
+          38.8203315734863,
+          2.24000000953674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.96,
+        "place": "17 km SE of Pinnacles, CA",
+        "time": 1747676179850,
+        "updated": 1747676275722,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184492",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184492.geojson",
+        "title": "M 2.0 - 17 km SE of Pinnacles, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.995002746582,
+          36.4365005493164,
+          0.970000028610229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "55 km ENE of Chenega, Alaska",
+        "time": 1747676174817,
+        "updated": 1747676293093,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e61cuh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e61cuh.geojson",
+        "title": "M 1.7 - 55 km ENE of Chenega, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.1426,
+          60.3156,
+          15
         ]
       }
     }
