@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747634645000,
+    "generated": 1747638149000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 191
+    "count": 187
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.74,
+        "place": "5 km SSW of Loyola, CA",
+        "time": 1747637253200,
+        "updated": 1747637349458,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184272",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184272.geojson",
+        "title": "M 0.7 - 5 km SSW of Loyola, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.106163024902,
+          37.3059997558594,
+          10.2799997329712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.42,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747636108610,
+        "updated": 1747636763480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156096",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156096.geojson",
+        "title": "M 1.4 - 17 km WSW of Johannesburg, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8126667,
+          35.3315,
+          7.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.99,
+        "place": "4 km NNW of The Geysers, CA",
+        "time": 1747635496100,
+        "updated": 1747637536153,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184262",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184262.geojson",
+        "title": "M 1.0 - 4 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.781997680664,
+          38.8033332824707,
+          -0.0799999982118607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "57 km E of Pedro Bay, Alaska",
+        "time": 1747634572128,
+        "updated": 1747634662427,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dzadqr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dzadqr.geojson",
+        "title": "M 1.9 - 57 km E of Pedro Bay, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.0908,
+          59.7528,
+          100.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "60 km WSW of Gunungsitoli, Indonesia",
+        "time": 1747634370546,
+        "updated": 1747637610040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q044",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q044.geojson",
+        "title": "M 4.7 - 60 km WSW of Gunungsitoli, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.1362,
+          1.0269,
+          16.942
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -46,6 +146,26 @@
           -116.728,
           33.5316667,
           4.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "Kermadec Islands, New Zealand",
+        "time": 1747633711702,
+        "updated": 1747635360040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q040",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q040.geojson",
+        "title": "M 5.3 - Kermadec Islands, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.2789,
+          -30.1691,
+          10
         ]
       }
     },
@@ -255,7 +375,7 @@
         "mag": 4.9,
         "place": "1 km SSE of Pagsabangan, Philippines",
         "time": 1747626089227,
-        "updated": 1747629172857,
+        "updated": 1747634999796,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03f",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03f.geojson",
         "title": "M 4.9 - 1 km SSE of Pagsabangan, Philippines"
@@ -475,7 +595,7 @@
         "mag": 1.16,
         "place": "5 km NE of Round Valley, CA",
         "time": 1747622044350,
-        "updated": 1747633038660,
+        "updated": 1747635737950,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184202",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184202.geojson",
         "title": "M 1.2 - 5 km NE of Round Valley, CA"
@@ -3626,206 +3746,6 @@
           -150.0166,
           61.5994,
           39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.65,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747551656270,
-        "updated": 1747555935024,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183902",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183902.geojson",
-        "title": "M 0.7 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.813499450684,
-          38.8091659545898,
-          3.07999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "4 km E of Prokópi, Greece",
-        "time": 1747551405351,
-        "updated": 1747617495230,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzzb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzzb.geojson",
-        "title": "M 4.4 - 4 km E of Prokópi, Greece"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.5474,
-          38.737,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1747551045220,
-        "updated": 1747554439854,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183897",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183897.geojson",
-        "title": "M 0.7 - 5 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.785331726074,
-          38.8281669616699,
-          1.36000001430511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "54 km S of Silver Peak, Nevada",
-        "time": 1747550701687,
-        "updated": 1747550854444,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897729",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897729.geojson",
-        "title": "M 1.3 - 54 km S of Silver Peak, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.658,
-          37.2657,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "19 km SW of Susitna, Alaska",
-        "time": 1747550008299,
-        "updated": 1747550120199,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cbxml9",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cbxml9.geojson",
-        "title": "M 1.3 - 19 km SW of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.7856,
-          61.4277,
-          61.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747549867280,
-        "updated": 1747596939045,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155440",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155440.geojson",
-        "title": "M 0.4 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7335,
-          33.5268333,
-          6.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "75 km E of Ugashik, Alaska",
-        "time": 1747549552887,
-        "updated": 1747549743479,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cbvyrc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cbvyrc.geojson",
-        "title": "M 1.8 - 75 km E of Ugashik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.1549,
-          57.6215,
-          92.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "43 km W of Nanwalek, Alaska",
-        "time": 1747548808847,
-        "updated": 1747548892941,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cbtcb8",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cbtcb8.geojson",
-        "title": "M 1.3 - 43 km W of Nanwalek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6888,
-          59.3212,
-          73.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "35 km S of Jurm, Afghanistan",
-        "time": 1747548797014,
-        "updated": 1747549763040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzz5",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzz5.geojson",
-        "title": "M 4.4 - 35 km S of Jurm, Afghanistan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.7716,
-          36.5497,
-          214.261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "55 km S of Whites City, New Mexico",
-        "time": 1747548692231,
-        "updated": 1747549376377,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqun",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqun.geojson",
-        "title": "M 1.7 - 55 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.404,
-          31.672,
-          5.7167
         ]
       }
     }
