@@ -1,91 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747670550000,
+    "generated": 1747674156000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.82,
-        "place": "10 km ENE of Julian, CA",
-        "time": 1747670267630,
-        "updated": 1747670502877,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156424",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156424.geojson",
-        "title": "M 0.8 - 10 km ENE of Julian, CA"
+        "mag": 0.78,
+        "place": "0 km NNW of The Geysers, CA",
+        "time": 1747672999780,
+        "updated": 1747673094383,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184477",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184477.geojson",
+        "title": "M 0.8 - 0 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.5106667,
-          33.119,
-          13.57
+          -122.758666992188,
+          38.7793350219727,
+          1.36000001430511
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "26 km W of Anchor Point, Alaska",
-        "time": 1747669918610,
-        "updated": 1747670040315,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e4xsr9",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e4xsr9.geojson",
-        "title": "M 1.4 - 26 km W of Anchor Point, Alaska"
+        "mag": 0.6,
+        "place": "50 km ESE of Beatty, Nevada",
+        "time": 1747672924361,
+        "updated": 1747673022055,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897751",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897751.geojson",
+        "title": "M 0.6 - 50 km ESE of Beatty, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.2954,
-          59.7677,
-          88.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "47 km NNE of Yakutat, Alaska",
-        "time": 1747669395300,
-        "updated": 1747669503951,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e4vzoq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e4vzoq.geojson",
-        "title": "M 1.6 - 47 km NNE of Yakutat, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -139.5529,
-          59.9664,
-          0.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.1,
-        "place": "south of Tonga",
-        "time": 1747668251695,
-        "updated": 1747669630040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q05q",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q05q.geojson",
-        "title": "M 5.1 - south of Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.9693,
-          -24.6147,
-          10
+          -116.2697,
+          36.6765,
+          9.4
         ]
       }
     },
@@ -93,79 +53,19 @@
       "type": "Feature",
       "properties": {
         "mag": 0.72,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1747668248430,
-        "updated": 1747669640799,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184452",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184452.geojson",
-        "title": "M 0.7 - 3 km NNW of The Geysers, CA"
+        "place": "8 km S of Hemet, CA",
+        "time": 1747672084200,
+        "updated": 1747672302124,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156432",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156432.geojson",
+        "title": "M 0.7 - 8 km S of Hemet, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.783500671387,
-          38.7986679077148,
-          3.02999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.7,
-        "place": "92 km SSE of King Cove, Alaska",
-        "time": 1747667936537,
-        "updated": 1747669869835,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e4qpyz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e4qpyz.geojson",
-        "title": "M 3.7 - 92 km SSE of King Cove, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -161.6796,
-          54.3137,
-          0.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "60 km S of Whites City, New Mexico",
-        "time": 1747667871309,
-        "updated": 1747668471649,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jths",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jths.geojson",
-        "title": "M 1.8 - 60 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.452,
-          31.634,
-          5.0311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.47,
-        "place": "1 km ESE of The Geysers, CA",
-        "time": 1747667681610,
-        "updated": 1747669037720,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184447",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184447.geojson",
-        "title": "M 0.5 - 1 km ESE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.742332458496,
-          38.772834777832,
-          1.78999996185303
+          -116.968,
+          33.6743333,
+          14.93
         ]
       }
     }
