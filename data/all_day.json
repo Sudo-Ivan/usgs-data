@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747638149000,
+    "generated": 1747641809000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 187
+    "count": 182
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.73,
+        "place": "9 km NW of Avenal, CA",
+        "time": 1747640805270,
+        "updated": 1747640904011,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184277",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184277.geojson",
+        "title": "M 1.7 - 9 km NW of Avenal, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.214836120605,
+          36.0485000610352,
+          7.59000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "11 km N of Cabazon, CA",
+        "time": 1747640153930,
+        "updated": 1747640360769,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156120",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156120.geojson",
+        "title": "M 1.1 - 11 km N of Cabazon, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7778333,
+          34.0163333,
+          15.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.9,
+        "place": "9 km NW of Anza, CA",
+        "time": 1747639931330,
+        "updated": 1747640162882,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156112",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156112.geojson",
+        "title": "M 0.9 - 9 km NW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7346667,
+          33.6178333,
+          15.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.93,
+        "place": "15 km NE of Little Lake, CA",
+        "time": 1747639059660,
+        "updated": 1747639286669,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156104",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156104.geojson",
+        "title": "M 0.9 - 15 km NE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7756667,
+          36.0203333,
+          1.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "21 km NNE of Yerington, Nevada",
+        "time": 1747638700898,
+        "updated": 1747638849636,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897746",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897746.geojson",
+        "title": "M 1.2 - 21 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0554,
+          39.1615,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "36 km NW of Toyah, Texas",
+        "time": 1747638364273,
+        "updated": 1747639025594,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jsrm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jsrm.geojson",
+        "title": "M 1.9 - 36 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.02,
+          31.582,
+          6.3975
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.74,
         "place": "5 km SSW of Loyola, CA",
         "time": 1747637253200,
-        "updated": 1747637349458,
+        "updated": 1747640239431,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184272",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184272.geojson",
         "title": "M 0.7 - 5 km SSW of Loyola, CA"
@@ -795,7 +915,7 @@
         "mag": 4.5,
         "place": "8 km E of Prokópi, Greece",
         "time": 1747614212368,
-        "updated": 1747632415023,
+        "updated": 1747641523917,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q02x",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q02x.geojson",
         "title": "M 4.5 - 8 km E of Prokópi, Greece"
@@ -3526,226 +3646,6 @@
           -117.797,
           35.3405,
           6.84
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1747555303054,
-        "updated": 1747557098040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqxw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqxw.geojson",
-        "title": "M 2.1 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.366,
-          31.666,
-          4.2658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "65 km WNW of Nanwalek, Alaska",
-        "time": 1747555246890,
-        "updated": 1747555404341,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccxglt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccxglt.geojson",
-        "title": "M 1.4 - 65 km WNW of Nanwalek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.0154,
-          59.5563,
-          96.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.72,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747554926540,
-        "updated": 1747557438219,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183917",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183917.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.791000366211,
-          38.8346672058105,
-          1.72000002861023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "130 km NNW of Neiafu, Tonga",
-        "time": 1747554873466,
-        "updated": 1747555940040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzzj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzzj.geojson",
-        "title": "M 4.9 - 130 km NNW of Neiafu, Tonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.506,
-          -17.5835,
-          76.047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "44 km NNW of Karluk, Alaska",
-        "time": 1747554851640,
-        "updated": 1747554928777,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccniy4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccniy4.geojson",
-        "title": "M 1.0 - 44 km NNW of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.8612,
-          57.907,
-          62.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.15,
-        "place": "80 km NW of San Antonio, Puerto Rico",
-        "time": 1747553574030,
-        "updated": 1747557836400,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482743",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482743.geojson",
-        "title": "M 3.2 - 80 km NW of San Antonio, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.6073333333333,
-          19.0333333333333,
-          5.02
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "33 km SW of Cantwell, Alaska",
-        "time": 1747553524414,
-        "updated": 1747553663978,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ccismx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ccismx.geojson",
-        "title": "M 1.3 - 33 km SW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.4556,
-          63.1969,
-          90.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.1,
-        "place": "12 km SE of Lárdos, Greece",
-        "time": 1747553392951,
-        "updated": 1747572033315,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzze",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzze.geojson",
-        "title": "M 4.1 - 12 km SE of Lárdos, Greece"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.1025,
-          36.0079,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "35 km NNW of Petersville, Alaska",
-        "time": 1747553368687,
-        "updated": 1747553459547,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cci7d0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cci7d0.geojson",
-        "title": "M 1.4 - 35 km NNW of Petersville, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.0805,
-          62.7812,
-          94.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "74 km ESE of Kuanda, Russia",
-        "time": 1747553189622,
-        "updated": 1747554635040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzzf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzzf.geojson",
-        "title": "M 4.7 - 74 km ESE of Kuanda, Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.2397,
-          56.1443,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "9 km NNW of Big Lake, Alaska",
-        "time": 1747552260759,
-        "updated": 1747552338985,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cceabf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cceabf.geojson",
-        "title": "M 1.0 - 9 km NNW of Big Lake, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.0166,
-          61.5994,
-          39
         ]
       }
     }
