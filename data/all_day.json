@@ -1,14 +1,134 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747656276000,
+    "generated": 1747660270000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 173
+    "count": 167
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.62,
+        "place": "7 km NW of Anza, CA",
+        "time": 1747659335590,
+        "updated": 1747659546588,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156256",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156256.geojson",
+        "title": "M 0.6 - 7 km NW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7278333,
+          33.5958333,
+          12.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.86,
+        "place": "5 km NW of Parkfield, CA",
+        "time": 1747659042880,
+        "updated": 1747659225070,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184387",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184387.geojson",
+        "title": "M 1.9 - 5 km NW of Parkfield, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.47883605957,
+          35.9230003356934,
+          9.23999977111816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "22 km ESE of Elmendorf Air Force Base, Alaska",
+        "time": 1747658586956,
+        "updated": 1747658684094,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e33o87",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e33o87.geojson",
+        "title": "M 1.5 - 22 km ESE of Elmendorf Air Force Base, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2532,
+          61.169,
+          22.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "87 km WNW of Yakutat, Alaska",
+        "time": 1747658411975,
+        "updated": 1747658540607,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e331gt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e331gt.geojson",
+        "title": "M 1.4 - 87 km WNW of Yakutat, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.0679,
+          59.9515,
+          19.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "7 km NW of The Geysers, CA",
+        "time": 1747658019460,
+        "updated": 1747660039779,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184367",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184367.geojson",
+        "title": "M 1.1 - 7 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.820831298828,
+          38.8131675720215,
+          2.24000000953674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "14 km SE of Susitna North, Alaska",
+        "time": 1747656478186,
+        "updated": 1747656686426,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256e2w2ei",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256e2w2ei.geojson",
+        "title": "M 1.4 - 14 km SE of Susitna North, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6494,
+          62.0755,
+          39.2
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -35,7 +155,7 @@
         "mag": 0.76,
         "place": "7 km NW of The Geysers, CA",
         "time": 1747655226490,
-        "updated": 1747655324018,
+        "updated": 1747658237492,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184362",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184362.geojson",
         "title": "M 0.8 - 7 km NW of The Geysers, CA"
@@ -112,10 +232,30 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.6,
+        "place": "27 km S of Palca, Peru",
+        "time": 1747653428077,
+        "updated": 1747659324040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q050",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q050.geojson",
+        "title": "M 4.6 - 27 km S of Palca, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9229,
+          -18.0225,
+          116.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 5.4,
         "place": "southeast of Easter Island",
         "time": 1747653421917,
-        "updated": 1747655450843,
+        "updated": 1747658230040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q053",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q053.geojson",
         "title": "M 5.4 - southeast of Easter Island"
@@ -153,19 +293,19 @@
       "type": "Feature",
       "properties": {
         "mag": 2.2,
-        "place": "36 km NW of Toyah, Texas",
-        "time": 1747652010687,
-        "updated": 1747652340171,
+        "place": "37 km NW of Toyah, Texas",
+        "time": 1747652010929,
+        "updated": 1747660151330,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jsyz",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jsyz.geojson",
-        "title": "M 2.2 - 36 km NW of Toyah, Texas"
+        "title": "M 2.2 - 37 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.018,
-          31.581,
-          6.6238
+          -104.023,
+          31.585,
+          7.0099
         ]
       }
     },
@@ -235,7 +375,7 @@
         "mag": 1.58,
         "place": "1 km SW of Ridgemark, CA",
         "time": 1747650788560,
-        "updated": 1747653736020,
+        "updated": 1747656738334,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184352",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184352.geojson",
         "title": "M 1.6 - 1 km SW of Ridgemark, CA"
@@ -446,6 +586,26 @@
           -155.9089,
           58.2263,
           15.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "52 km SW of Poopó, Bolivia",
+        "time": 1747647930980,
+        "updated": 1747659322040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q04n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q04n.geojson",
+        "title": "M 4.3 - 52 km SW of Poopó, Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.33,
+          -18.7067,
+          264.309
         ]
       }
     },
@@ -975,7 +1135,7 @@
         "mag": 5.3,
         "place": "Kermadec Islands, New Zealand",
         "time": 1747633711702,
-        "updated": 1747635360040,
+        "updated": 1747657863040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q040",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q040.geojson",
         "title": "M 5.3 - Kermadec Islands, New Zealand"
@@ -1655,7 +1815,7 @@
         "mag": 4.5,
         "place": "8 km E of Prokópi, Greece",
         "time": 1747614212368,
-        "updated": 1747656235561,
+        "updated": 1747658103159,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q02x",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q02x.geojson",
         "title": "M 4.5 - 8 km E of Prokópi, Greece"
@@ -2333,19 +2493,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.1,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747594616626,
-        "updated": 1747595082810,
+        "place": "14 km WSW of Stanton, Texas",
+        "time": 1747594617017,
+        "updated": 1747658377991,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrtl",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrtl.geojson",
-        "title": "M 1.1 - 13 km WSW of Stanton, Texas"
+        "title": "M 1.1 - 14 km WSW of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.932,
-          32.099,
-          3.7876
+          -101.934,
+          32.104,
+          7.666
         ]
       }
     },
@@ -2513,19 +2673,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.4,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747590970468,
-        "updated": 1747591542382,
+        "place": "13 km W of Stanton, Texas",
+        "time": 1747590971078,
+        "updated": 1747657027200,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrrk",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrrk.geojson",
-        "title": "M 1.4 - 13 km WSW of Stanton, Texas"
+        "title": "M 1.4 - 13 km W of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.927,
-          32.104,
-          4.574
+          -101.926,
+          32.108,
+          6.7627
         ]
       }
     },
@@ -2732,20 +2892,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
+        "mag": 1.9,
         "place": "31 km SSW of Los Ybanez, Texas",
-        "time": 1747586353333,
-        "updated": 1747586759058,
+        "time": 1747586353853,
+        "updated": 1747656781210,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrow",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrow.geojson",
-        "title": "M 1.8 - 31 km SSW of Los Ybanez, Texas"
+        "title": "M 1.9 - 31 km SSW of Los Ybanez, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.045,
-          32.461,
-          4.5009
+          -102.042,
+          32.46,
+          7.6416
         ]
       }
     },
@@ -3093,19 +3253,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.5,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747575202178,
-        "updated": 1747575913439,
+        "place": "13 km W of Stanton, Texas",
+        "time": 1747575202965,
+        "updated": 1747656429246,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jrix",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jrix.geojson",
-        "title": "M 1.5 - 13 km WSW of Stanton, Texas"
+        "title": "M 1.5 - 13 km W of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.929,
-          32.101,
-          5.1535
+          -101.928,
+          32.108,
+          6.4209
         ]
       }
     },
@@ -3186,286 +3346,6 @@
           -147.6629,
           61.0025,
           0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747573836460,
-        "updated": 1747575739215,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184047",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184047.geojson",
-        "title": "M 0.3 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797500610352,
-          38.832332611084,
-          2.20000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.2,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747573828630,
-        "updated": 1747578438520,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184042",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184042.geojson",
-        "title": "M 0.2 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795166015625,
-          38.8346672058105,
-          2.39000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "28 km ENE of Knik River, Alaska",
-        "time": 1747573808870,
-        "updated": 1747608841317,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfyouv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfyouv.geojson",
-        "title": "M 2.0 - 28 km ENE of Knik River, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.4078,
-          61.5415,
-          14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.92,
-        "place": "21 km NE of San Lucas, CA",
-        "time": 1747573391360,
-        "updated": 1747577238396,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184037",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184037.geojson",
-        "title": "M 1.9 - 21 km NE of San Lucas, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.856834411621,
-          36.2703323364258,
-          6.65000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "6 km NNW of San Jacinto, CA",
-        "time": 1747573159640,
-        "updated": 1747573364465,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155568",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155568.geojson",
-        "title": "M 1.2 - 6 km NNW of San Jacinto, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9848333,
-          33.8378333,
-          9.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "9 km SE of Valle Vista, CA",
-        "time": 1747572741580,
-        "updated": 1747575973640,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155560",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155560.geojson",
-        "title": "M 1.1 - 9 km SE of Valle Vista, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8143333,
-          33.7,
-          13.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "31 km SE of Minto, Alaska",
-        "time": 1747572374966,
-        "updated": 1747572479437,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfkzi0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfkzi0.geojson",
-        "title": "M 1.6 - 31 km SE of Minto, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.9639,
-          64.9178,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "2 km WNW of Anderson Springs, CA",
-        "time": 1747572012870,
-        "updated": 1747573638000,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184032",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184032.geojson",
-        "title": "M 1.0 - 2 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.718330383301,
-          38.7789993286133,
-          1.92999994754791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.58,
-        "place": "10 km NE of Aguanga, CA",
-        "time": 1747571876750,
-        "updated": 1747575940750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155552",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155552.geojson",
-        "title": "M 0.6 - 10 km NE of Aguanga, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.781,
-          33.494,
-          7.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747571437930,
-        "updated": 1747575945750,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155536",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155536.geojson",
-        "title": "M 0.4 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7323333,
-          33.53,
-          5.59
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.78,
-        "place": "4 km W of Lucien, Oklahoma",
-        "time": 1747571150829,
-        "updated": 1747656331801,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jrgn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jrgn.geojson",
-        "title": "M 1.8 - 4 km W of Lucien, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.50283333,
-          36.275,
-          7.67
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "53 km WNW of Cantwell, Alaska",
-        "time": 1747570079959,
-        "updated": 1747570204114,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256cfcq1n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256cfcq1n.geojson",
-        "title": "M 1.2 - 53 km WNW of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9766,
-          63.5445,
-          84.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.05,
-        "place": "16 km ENE of Santa Cruz de El Seibo, Dominican Republic",
-        "time": 1747570069390,
-        "updated": 1747572458933,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2025138000",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2025138000.geojson",
-        "title": "M 4.1 - 16 km ENE of Santa Cruz de El Seibo, Dominican Republic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.8965,
-          18.8161,
-          164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.75,
-        "place": "11 km N of Pittsburg, CA",
-        "time": 1747570037890,
-        "updated": 1747575436176,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184017",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184017.geojson",
-        "title": "M 1.8 - 11 km N of Pittsburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.895668029785,
-          38.1226654052734,
-          22.3299999237061
         ]
       }
     }
