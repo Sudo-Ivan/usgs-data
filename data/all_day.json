@@ -1,14 +1,174 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747621993000,
+    "generated": 1747625054000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 200
+    "count": 195
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.5,
+        "place": "4 km WSW of Anza, CA",
+        "time": 1747624409970,
+        "updated": 1747624622816,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156048",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156048.geojson",
+        "title": "M 0.5 - 4 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7135,
+          33.5365,
+          4.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.44,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747624092690,
+        "updated": 1747624188812,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184232",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184232.geojson",
+        "title": "M 0.4 - 9 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.845497131348,
+          38.8235015869141,
+          2.09999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "6 km WNW of Cobb, CA",
+        "time": 1747623990530,
+        "updated": 1747624088755,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184227",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184227.geojson",
+        "title": "M 1.1 - 6 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.789329528809,
+          38.8354988098145,
+          1.80999994277954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.74,
+        "place": "69 km WNW of Petrolia, CA",
+        "time": 1747623785700,
+        "updated": 1747624338662,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184217",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184217.geojson",
+        "title": "M 2.7 - 69 km WNW of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.101165771484,
+          40.3713340759277,
+          0.330000013113022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "11 km WSW of Corona, CA",
+        "time": 1747623703670,
+        "updated": 1747624032996,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156032",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156032.geojson",
+        "title": "M 1.1 - 11 km WSW of Corona, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6791667,
+          33.8438333,
+          9.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "9 km SSW of Big Spring, Texas",
+        "time": 1747623658868,
+        "updated": 1747623890239,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jsjl",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jsjl.geojson",
+        "title": "M 1.0 - 9 km SSW of Big Spring, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5,
+          32.167,
+          4.0439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.13,
+        "place": "5 km ENE of Calimesa, CA",
+        "time": 1747623586580,
+        "updated": 1747624225410,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156024",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156024.geojson",
+        "title": "M 2.1 - 5 km ENE of Calimesa, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9991667,
+          34.0001667,
+          10.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.84,
+        "place": "18 km WSW of Toms Place, CA",
+        "time": 1747622443880,
+        "updated": 1747624039626,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184207",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184207.geojson",
+        "title": "M 1.8 - 18 km WSW of Toms Place, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.830169677734,
+          37.4571647644043,
+          1.96000003814697
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -3492,6 +3652,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.96,
+        "place": "8 km ESE of Ashford, Washington",
+        "time": 1747544319790,
+        "updated": 1747623831920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62102402",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62102402.geojson",
+        "title": "M 2.0 - 8 km ESE of Ashford, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93033333333334,
+          46.738166666666665,
+          8.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 4.9,
         "place": "149 km S of Lembar, Indonesia",
         "time": 1747544040421,
@@ -3726,286 +3906,6 @@
           -122.804832458496,
           38.8361663818359,
           1.48000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.2,
-        "place": "80 km WNW of Ollagüe, Chile",
-        "time": 1747538643832,
-        "updated": 1747540131040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzyb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzyb.geojson",
-        "title": "M 4.2 - 80 km WNW of Ollagüe, Chile"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.9681,
-          -20.9349,
-          109.406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "9 km SSE of McKinney Acres, Texas",
-        "time": 1747538408916,
-        "updated": 1747538923507,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqpe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqpe.geojson",
-        "title": "M 1.6 - 9 km SSE of McKinney Acres, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.485,
-          32.224,
-          1.7633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "57 km S of Whites City, New Mexico",
-        "time": 1747538363511,
-        "updated": 1747538984535,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqou",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqou.geojson",
-        "title": "M 1.7 - 57 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.329,
-          31.659,
-          4.7121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.84,
-        "place": "3 km WNW of Anderson Springs, CA",
-        "time": 1747538255020,
-        "updated": 1747541239448,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183842",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183842.geojson",
-        "title": "M 0.8 - 3 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.722503662109,
-          38.7758331298828,
-          -0.140000000596046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.14,
-        "place": "3 km WNW of Anderson Springs, CA",
-        "time": 1747538228330,
-        "updated": 1747544839778,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183837",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183837.geojson",
-        "title": "M 1.1 - 3 km WNW of Anderson Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.72233581543,
-          38.775333404541,
-          -0.170000001788139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.96,
-        "place": "6 km ENE of Pinnacles, CA",
-        "time": 1747537626710,
-        "updated": 1747537725401,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183827",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183827.geojson",
-        "title": "M 1.0 - 6 km ENE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.085830688477,
-          36.5536651611328,
-          2.63000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.89,
-        "place": "8 km NW of The Geysers, CA",
-        "time": 1747537593300,
-        "updated": 1747540039255,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183822",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183822.geojson",
-        "title": "M 0.9 - 8 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.82250213623,
-          38.8219985961914,
-          1.8400000333786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "76 km NNE of Aleneva, Alaska",
-        "time": 1747537567370,
-        "updated": 1747537694978,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c9zhtt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c9zhtt.geojson",
-        "title": "M 1.8 - 76 km NNE of Aleneva, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.2812,
-          58.6618,
-          2.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747536980800,
-        "updated": 1747539436187,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183817",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183817.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.801498413086,
-          38.835334777832,
-          2.22000002861023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "55 km S of Whites City, New Mexico",
-        "time": 1747536744424,
-        "updated": 1747537468372,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqnr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqnr.geojson",
-        "title": "M 1.5 - 55 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.41,
-          31.676,
-          4.1873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "10 km SSE of Point Possession, Alaska",
-        "time": 1747536591121,
-        "updated": 1747536792104,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c9nde0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c9nde0.geojson",
-        "title": "M 1.2 - 10 km SSE of Point Possession, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.6206,
-          60.8361,
-          31.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.84,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1747536041360,
-        "updated": 1747541841447,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183807",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183807.geojson",
-        "title": "M 1.8 - 8 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.814666748047,
-          38.8281669616699,
-          2.07999992370605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "South Atlantic Ocean",
-        "time": 1747536031812,
-        "updated": 1747537860040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzy6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzy6.geojson",
-        "title": "M 4.9 - South Atlantic Ocean"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.2618,
-          -53.0303,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "11 km S of Idyllwild, CA",
-        "time": 1747536000210,
-        "updated": 1747576120768,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155368",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155368.geojson",
-        "title": "M 0.7 - 11 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7181667,
-          33.6438333,
-          13.08
         ]
       }
     }
