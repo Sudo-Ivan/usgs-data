@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747625064000,
+    "generated": 1747627644000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 8
+    "count": 6
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "3 km SSE of Rudna, Poland",
+        "time": 1747626416007,
+        "updated": 1747627510040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03g",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03g.geojson",
+        "title": "M 4.1 - 3 km SSE of Rudna, Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2838,
+          51.4766,
+          9.307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "1 km SSE of Pagsabangan, Philippines",
+        "time": 1747626089227,
+        "updated": 1747627613416,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03f",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03f.geojson",
+        "title": "M 4.9 - 1 km SSE of Pagsabangan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7568,
+          7.467,
+          62.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747625473670,
+        "updated": 1747627037954,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184237",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184237.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797996520996,
+          38.8381652832031,
+          2.77999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "39 km ESE of Tomioka, Japan",
+        "time": 1747624480682,
+        "updated": 1747625698040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03c",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03c.geojson",
+        "title": "M 4.6 - 39 km ESE of Tomioka, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4316,
+          37.2086,
+          10
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -35,7 +115,7 @@
         "mag": 0.44,
         "place": "9 km NW of The Geysers, CA",
         "time": 1747624092690,
-        "updated": 1747624188812,
+        "updated": 1747626439893,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184232",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184232.geojson",
         "title": "M 0.4 - 9 km NW of The Geysers, CA"
@@ -46,126 +126,6 @@
           -122.845497131348,
           38.8235015869141,
           2.09999990463257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747623990530,
-        "updated": 1747624088755,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184227",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184227.geojson",
-        "title": "M 1.1 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.789329528809,
-          38.8354988098145,
-          1.80999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.74,
-        "place": "69 km WNW of Petrolia, CA",
-        "time": 1747623785700,
-        "updated": 1747624338662,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184217",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184217.geojson",
-        "title": "M 2.7 - 69 km WNW of Petrolia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -125.101165771484,
-          40.3713340759277,
-          0.330000013113022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "11 km WSW of Corona, CA",
-        "time": 1747623703670,
-        "updated": 1747624032996,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156032",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156032.geojson",
-        "title": "M 1.1 - 11 km WSW of Corona, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6791667,
-          33.8438333,
-          9.18
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "9 km SSW of Big Spring, Texas",
-        "time": 1747623658868,
-        "updated": 1747623890239,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jsjl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jsjl.geojson",
-        "title": "M 1.0 - 9 km SSW of Big Spring, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.5,
-          32.167,
-          4.0439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.13,
-        "place": "5 km ENE of Calimesa, CA",
-        "time": 1747623586580,
-        "updated": 1747624225410,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156024",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156024.geojson",
-        "title": "M 2.1 - 5 km ENE of Calimesa, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9991667,
-          34.0001667,
-          10.01
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.84,
-        "place": "18 km WSW of Toms Place, CA",
-        "time": 1747622443880,
-        "updated": 1747624039626,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184207",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184207.geojson",
-        "title": "M 1.8 - 18 km WSW of Toms Place, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.830169677734,
-          37.4571647644043,
-          1.96000003814697
         ]
       }
     }
