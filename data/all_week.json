@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747630972000,
+    "generated": 1747634612000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1791
+    "count": 1792
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.12,
+        "place": "5 km ENE of Honaunau-Napoopoo, Hawaii",
+        "time": 1747633806620,
+        "updated": 1747634002020,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675987",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675987.geojson",
+        "title": "M 2.1 - 5 km ENE of Honaunau-Napoopoo, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.821334838867,
+          19.4825000762939,
+          4.84000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.46,
+        "place": "6 km WSW of Anza, CA",
+        "time": 1747633743290,
+        "updated": 1747633970812,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156080",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156080.geojson",
+        "title": "M 0.5 - 6 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.728,
+          33.5316667,
+          4.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.99,
+        "place": "1 km NNW of Lake View Terrace, CA",
+        "time": 1747633309340,
+        "updated": 1747633926430,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156064",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156064.geojson",
+        "title": "M 2.0 - 1 km NNW of Lake View Terrace, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3666667,
+          34.2793333,
+          8.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.19,
+        "place": "3 km NE of Pacoima, CA",
+        "time": 1747633308960,
+        "updated": 1747633989270,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156072",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156072.geojson",
+        "title": "M 2.2 - 3 km NE of Pacoima, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4011688,
+          34.2840004,
+          8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "37 km NW of Rampart, Alaska",
+        "time": 1747632563825,
+        "updated": 1747632696644,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dyuo9q",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dyuo9q.geojson",
+        "title": "M 1.1 - 37 km NW of Rampart, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.7707,
+          65.7276,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.8,
+        "place": "18 km NNW of Meadow Lakes, Alaska",
+        "time": 1747632233952,
+        "updated": 1747632365231,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dytgar",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dytgar.geojson",
+        "title": "M 2.8 - 18 km NNW of Meadow Lakes, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6734,
+          61.7864,
+          36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "28 km SW of Petersville, Alaska",
+        "time": 1747631259096,
+        "updated": 1747631448076,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dypzp1",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dypzp1.geojson",
+        "title": "M 2.1 - 28 km SW of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0725,
+          62.287,
+          42
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -55,7 +195,7 @@
         "mag": 2.03,
         "place": "2 km SW of Ridgemark, CA",
         "time": 1747628017890,
-        "updated": 1747628837168,
+        "updated": 1747631245451,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184247",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184247.geojson",
         "title": "M 2.0 - 2 km SW of Ridgemark, CA"
@@ -332,6 +472,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.16,
+        "place": "5 km NE of Round Valley, CA",
+        "time": 1747622044350,
+        "updated": 1747633038660,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184202",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184202.geojson",
+        "title": "M 1.2 - 5 km NE of Round Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.573166666667,
+          37.4588333333333,
+          11.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.68,
         "place": "3 km NE of Vincent, CA",
         "time": 1747621219360,
@@ -515,7 +675,7 @@
         "mag": 4.5,
         "place": "8 km E of Prokópi, Greece",
         "time": 1747614212368,
-        "updated": 1747629111178,
+        "updated": 1747632415023,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q02x",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q02x.geojson",
         "title": "M 4.5 - 8 km E of Prokópi, Greece"
@@ -35686,146 +35846,6 @@
           -152.1254,
           59.7681,
           64.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "8 km N of Nash, Oklahoma",
-        "time": 1747028733880,
-        "updated": 1747058814627,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jfuh",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jfuh.geojson",
-        "title": "M 1.5 - 8 km N of Nash, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.03233333,
-          36.744,
-          7.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747028647200,
-        "updated": 1747032138586,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180111",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180111.geojson",
-        "title": "M 0.3 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.808166503906,
-          38.8388328552246,
-          1.91999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.59,
-        "place": "13 km SE of Anza, CA",
-        "time": 1747028635780,
-        "updated": 1747059056870,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41151280",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41151280.geojson",
-        "title": "M 0.6 - 13 km SE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5701667,
-          33.4726667,
-          10.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.72,
-        "place": "5 km WSW of Mount Vernon, Washington",
-        "time": 1747028597630,
-        "updated": 1747089171023,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62097907",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62097907.geojson",
-        "title": "M 1.7 - 5 km WSW of Mount Vernon, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4015,
-          48.4095,
-          8.47
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "43 km SW of Beringovskiy, Russia",
-        "time": 1747028179088,
-        "updated": 1747057019040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyrx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyrx.geojson",
-        "title": "M 4.4 - 43 km SW of Beringovskiy, Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          178.635,
-          62.8438,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "6 km WNW of Cobb, CA",
-        "time": 1747027417220,
-        "updated": 1747028538197,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75180106",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75180106.geojson",
-        "title": "M 0.7 - 6 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.795166015625,
-          38.8371658325195,
-          1.83000004291534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "60 km NW of Toyah, Texas",
-        "time": 1747027260187,
-        "updated": 1747055630524,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jftm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jftm.geojson",
-        "title": "M 2.3 - 60 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.309,
-          31.631,
-          6.3306
         ]
       }
     }
