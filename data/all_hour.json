@@ -1,71 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747618230000,
+    "generated": 1747622004000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "12 km NNE of Balmorhea, Texas",
-        "time": 1747616302104,
-        "updated": 1747616714426,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jsfi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jsfi.geojson",
-        "title": "M 1.9 - 12 km NNE of Balmorhea, Texas"
+        "mag": 1.68,
+        "place": "3 km NE of Vincent, CA",
+        "time": 1747621219360,
+        "updated": 1747621873170,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155984",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155984.geojson",
+        "title": "M 1.7 - 3 km NE of Vincent, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.705,
-          31.094,
-          3.3526
+          -118.0976667,
+          34.5205,
+          8.71
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.98,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747615771930,
-        "updated": 1747616839817,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184187",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184187.geojson",
-        "title": "M 1.0 - 4 km NNW of The Geysers, CA"
+        "mag": 1.8,
+        "place": "11 km S of Fern Forest, Hawaii",
+        "time": 1747618482470,
+        "updated": 1747618667530,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675862",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675862.geojson",
+        "title": "M 1.8 - 11 km S of Fern Forest, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.78099822998,
-          38.8026657104492,
-          2.76999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "62 km WNW of Beluga, Alaska",
-        "time": 1747615007837,
-        "updated": 1747615124638,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dvx21c",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dvx21c.geojson",
-        "title": "M 2.4 - 62 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.1818,
-          61.3132,
-          0
+          -155.137664794922,
+          19.3623332977295,
+          3.96000003814697
         ]
       }
     }

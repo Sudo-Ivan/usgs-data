@@ -1,14 +1,94 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747618259000,
+    "generated": 1747621993000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 208
+    "count": 200
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.68,
+        "place": "3 km NE of Vincent, CA",
+        "time": 1747621219360,
+        "updated": 1747621873170,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155984",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155984.geojson",
+        "title": "M 1.7 - 3 km NE of Vincent, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0976667,
+          34.5205,
+          8.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "11 km S of Fern Forest, Hawaii",
+        "time": 1747618482470,
+        "updated": 1747618667530,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675862",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675862.geojson",
+        "title": "M 1.8 - 11 km S of Fern Forest, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.137664794922,
+          19.3623332977295,
+          3.96000003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.2,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747618334570,
+        "updated": 1747620738230,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184192",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184192.geojson",
+        "title": "M 0.2 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.798500061035,
+          38.8326683044434,
+          2.08999991416931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "Pulau Pulau Tanimbar, Indonesia",
+        "time": 1747618203880,
+        "updated": 1747619773040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q035",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q035.geojson",
+        "title": "M 4.5 - Pulau Pulau Tanimbar, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0664,
+          -7.7179,
+          27.371
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -55,7 +135,7 @@
         "mag": 2.4,
         "place": "62 km WNW of Beluga, Alaska",
         "time": 1747615007837,
-        "updated": 1747615124638,
+        "updated": 1747620236040,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256dvx21c",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256dvx21c.geojson",
         "title": "M 2.4 - 62 km WNW of Beluga, Alaska"
@@ -95,7 +175,7 @@
         "mag": 4.5,
         "place": "8 km E of Prokópi, Greece",
         "time": 1747614212368,
-        "updated": 1747617760088,
+        "updated": 1747619390311,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q02x",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q02x.geojson",
         "title": "M 4.5 - 8 km E of Prokópi, Greece"
@@ -3926,246 +4006,6 @@
           -116.7181667,
           33.6438333,
           13.08
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "11 km N of Coyanosa, Texas",
-        "time": 1747535411739,
-        "updated": 1747536040277,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jqmx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jqmx.geojson",
-        "title": "M 2.2 - 11 km N of Coyanosa, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.083,
-          31.347,
-          5.8674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "33 km NW of Beluga, Alaska",
-        "time": 1747535081189,
-        "updated": 1747535181257,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c9hzpy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c9hzpy.geojson",
-        "title": "M 0.8 - 33 km NW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.5735,
-          61.3238,
-          75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.36,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1747535068390,
-        "updated": 1747537638996,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183797",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183797.geojson",
-        "title": "M 0.4 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.803001403809,
-          38.8241653442383,
-          2.63000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1747534900580,
-        "updated": 1747535835810,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183787",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183787.geojson",
-        "title": "M 0.8 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.803833007812,
-          38.8238334655762,
-          2.38000011444092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.45,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1747534796640,
-        "updated": 1747538839213,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183782",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183782.geojson",
-        "title": "M 2.5 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.80233001709,
-          38.8226661682129,
-          2.84999990463257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "3 km SSW of Houston, Alaska",
-        "time": 1747534487800,
-        "updated": 1747534625567,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c9fv2k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c9fv2k.geojson",
-        "title": "M 1.4 - 3 km SSW of Houston, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.8378,
-          61.6045,
-          29.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.69,
-        "place": "2 km NNE of Enetai, Washington",
-        "time": 1747533876790,
-        "updated": 1747535283850,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62102267",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62102267.geojson",
-        "title": "M 1.7 - 2 km NNE of Enetai, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.58633333333333,
-          47.610166666666665,
-          25.39
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "16 km N of Borrego Springs, CA",
-        "time": 1747533150120,
-        "updated": 1747576135770,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155360",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155360.geojson",
-        "title": "M 1.1 - 16 km N of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.3736667,
-          33.395,
-          8.69
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "68 km SSE of Cantwell, Alaska",
-        "time": 1747532944996,
-        "updated": 1747608939237,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c91u83",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c91u83.geojson",
-        "title": "M 2.0 - 68 km SSE of Cantwell, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.3922,
-          62.833,
-          48.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747532913690,
-        "updated": 1747537938023,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183777",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183777.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.821662902832,
-          38.8199996948242,
-          1.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.37,
-        "place": "10 km ENE of Pāhala, Hawaii",
-        "time": 1747532506310,
-        "updated": 1747533045040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74675167",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74675167.geojson",
-        "title": "M 2.4 - 10 km ENE of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.387664794922,
-          19.2395000457764,
-          32.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "11 km NE of Susitna, Alaska",
-        "time": 1747532251565,
-        "updated": 1747532355868,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256c8zbok",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256c8zbok.geojson",
-        "title": "M 1.2 - 11 km NE of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.3501,
-          61.6183,
-          49.1
         ]
       }
     }
