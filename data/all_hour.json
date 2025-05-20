@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747746690000,
+    "generated": 1747749744000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 9
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.42,
+        "place": "12 km WNW of Calipatria, CA",
+        "time": 1747749569620,
+        "updated": 1747749696075,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157264",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157264.geojson",
+        "title": "M 1.4 - 12 km WNW of Calipatria, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6380005,
+          33.1674995,
+          2.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.17,
+        "place": "2 km W of Colton, CA",
+        "time": 1747749347180,
+        "updated": 1747749624318,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157248",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157248.geojson",
+        "title": "M 1.2 - 2 km W of Colton, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3355,
+          34.0765,
+          20.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.98,
+        "place": "12 km WNW of Calipatria, CA",
+        "time": 1747749241160,
+        "updated": 1747749659320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157256",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157256.geojson",
+        "title": "M 1.0 - 12 km WNW of Calipatria, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.634,
+          33.1676667,
+          3.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "9 km NNW of The Geysers, CA",
+        "time": 1747748666520,
+        "updated": 1747748761617,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184101",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184101.geojson",
+        "title": "M 1.1 - 9 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.829330444336,
+          38.8366661071777,
+          1.98000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "4 km NW of The Geysers, CA",
+        "time": 1747748178960,
+        "updated": 1747748271572,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184091",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184091.geojson",
+        "title": "M 1.4 - 4 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80249786377,
+          38.7944984436035,
+          12.710000038147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "49 km NW of Rachel, Nevada",
+        "time": 1747748022366,
+        "updated": 1747748163559,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897794",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897794.geojson",
+        "title": "M 1.5 - 49 km NW of Rachel, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2042,
+          37.9062,
+          1.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.5,
+        "place": "39 km SSE of Denali National Park, Alaska",
+        "time": 1747747743770,
+        "updated": 1747747855884,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fr5fxe",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fr5fxe.geojson",
+        "title": "M 3.5 - 39 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5459,
+          63.1991,
+          15.6
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -35,7 +175,7 @@
         "mag": 0.59,
         "place": "4 km NNW of The Geysers, CA",
         "time": 1747746163910,
-        "updated": 1747746260993,
+        "updated": 1747749139608,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184086",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184086.geojson",
         "title": "M 0.6 - 4 km NNW of The Geysers, CA"
@@ -46,166 +186,6 @@
           -122.78150177002,
           38.8071670532227,
           3.5699999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747746082160,
-        "updated": 1747746181174,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184081",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184081.geojson",
-        "title": "M 0.8 - 10 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.85383605957,
-          38.8216667175293,
-          2.50999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.46,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747746009250,
-        "updated": 1747746205490,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184076",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184076.geojson",
-        "title": "M 1.5 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.815170288086,
-          38.8009986877441,
-          2.64000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "10 km SSE of Salton City, CA",
-        "time": 1747745994610,
-        "updated": 1747746211985,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157208",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157208.geojson",
-        "title": "M 1.2 - 10 km SSE of Salton City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.9331667,
-          33.2141667,
-          7.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "22 km ENE of Chase, Alaska",
-        "time": 1747745924117,
-        "updated": 1747746067814,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fqqbbv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fqqbbv.geojson",
-        "title": "M 1.8 - 22 km ENE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.6764,
-          62.499,
-          11.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.22,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747745686730,
-        "updated": 1747745781323,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184071",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184071.geojson",
-        "title": "M 0.2 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818336486816,
-          38.848331451416,
-          0.589999973773956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "17 km NE of Coachella, CA",
-        "time": 1747745637400,
-        "updated": 1747745920959,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157200",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157200.geojson",
-        "title": "M 0.7 - 17 km NE of Coachella, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.0516667,
-          33.7988333,
-          9.65
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.11,
-        "place": "4 km ENE of Cabazon, CA",
-        "time": 1747743488120,
-        "updated": 1747743721108,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157192.geojson",
-        "title": "M 1.1 - 4 km ENE of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7446667,
-          33.9358333,
-          12.68
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747743388800,
-        "updated": 1747745838253,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184066",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184066.geojson",
-        "title": "M 0.7 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.817832946777,
-          38.8486671447754,
-          0.340000003576279
         ]
       }
     }
