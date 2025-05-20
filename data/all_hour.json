@@ -1,91 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747704624000,
+    "generated": 1747708284000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "45 km E of Pedro Bay, Alaska",
-        "time": 1747704373228,
-        "updated": 1747704447772,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fjzmdm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fjzmdm.geojson",
-        "title": "M 2.6 - 45 km E of Pedro Bay, Alaska"
+        "mag": 1.9,
+        "place": "54 km E of Port Alsworth, Alaska",
+        "time": 1747707757651,
+        "updated": 1747707918972,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fkk9sv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fkk9sv.geojson",
+        "title": "M 1.9 - 54 km E of Port Alsworth, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.3029,
-          59.8554,
-          126.1
+          -153.34,
+          60.1924,
+          161.2
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.98,
-        "place": "5 km SSW of Redlands, CA",
-        "time": 1747703573220,
-        "updated": 1747703794864,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156832",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156832.geojson",
-        "title": "M 1.0 - 5 km SSW of Redlands, CA"
+        "mag": 3.41,
+        "place": "58 km N of Isabela, Puerto Rico",
+        "time": 1747707085370,
+        "updated": 1747707918870,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482893",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482893.geojson",
+        "title": "M 3.4 - 58 km N of Isabela, Puerto Rico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2005,
-          34.0128333,
-          12.04
+          -67.0603333333333,
+          19.0236666666667,
+          48.63
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.29,
-        "place": "5 km W of Cobb, CA",
-        "time": 1747702689990,
-        "updated": 1747702788982,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183901",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183901.geojson",
-        "title": "M 0.3 - 5 km W of Cobb, CA"
+        "mag": 1.49,
+        "place": "17 km WSW of Johannesburg, CA",
+        "time": 1747706604340,
+        "updated": 1747706816754,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156864",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156864.geojson",
+        "title": "M 1.5 - 17 km WSW of Johannesburg, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.777000427246,
-          38.8213348388672,
-          7.96000003814697
+          -117.809,
+          35.3206667,
+          7.21
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.08,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747701285970,
-        "updated": 1747703538442,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183896",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183896.geojson",
-        "title": "M 1.1 - 7 km NW of The Geysers, CA"
+        "mag": 2.31,
+        "place": "5 km WSW of Guánica, Puerto Rico",
+        "time": 1747706076460,
+        "updated": 1747706715250,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482883",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482883.geojson",
+        "title": "M 2.3 - 5 km WSW of Guánica, Puerto Rico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.823333740234,
-          38.8151664733887,
-          2.4300000667572
+          -66.9543333333333,
+          17.9496666666667,
+          11.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.67,
+        "place": "8 km WSW of Niland, CA",
+        "time": 1747705852520,
+        "updated": 1747706491370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156848",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156848.geojson",
+        "title": "M 1.7 - 8 km WSW of Niland, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5915,
+          33.2006667,
+          3.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.05,
+        "place": "1 km NW of The Geysers, CA",
+        "time": 1747704713810,
+        "updated": 1747705938720,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183911",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183911.geojson",
+        "title": "M 1.1 - 1 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.768333435059,
+          38.7861671447754,
+          2.55999994277954
         ]
       }
     }
