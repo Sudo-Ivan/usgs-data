@@ -1,71 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747749744000,
+    "generated": 1747753350000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 9
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.42,
-        "place": "12 km WNW of Calipatria, CA",
-        "time": 1747749569620,
-        "updated": 1747749696075,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157264",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157264.geojson",
-        "title": "M 1.4 - 12 km WNW of Calipatria, CA"
+        "mag": 1.7,
+        "place": "15 km ENE of Yerington, Nevada",
+        "time": 1747752410413,
+        "updated": 1747752534344,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897802",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897802.geojson",
+        "title": "M 1.7 - 15 km ENE of Yerington, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.6380005,
-          33.1674995,
-          2.13
+          -118.9992,
+          39.0397,
+          1.8
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.17,
-        "place": "2 km W of Colton, CA",
-        "time": 1747749347180,
-        "updated": 1747749624318,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157248",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157248.geojson",
-        "title": "M 1.2 - 2 km W of Colton, CA"
+        "mag": 1.38,
+        "place": "2 km NNW of Brea, CA",
+        "time": 1747752333860,
+        "updated": 1747752619112,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157304",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157304.geojson",
+        "title": "M 1.4 - 2 km NNW of Brea, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.3355,
-          34.0765,
-          20.32
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.98,
-        "place": "12 km WNW of Calipatria, CA",
-        "time": 1747749241160,
-        "updated": 1747749659320,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157256",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157256.geojson",
-        "title": "M 1.0 - 12 km WNW of Calipatria, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.634,
-          33.1676667,
-          3.13
+          -117.9053333,
+          33.9366667,
+          8.52
         ]
       }
     },
@@ -73,119 +53,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.07,
-        "place": "9 km NNW of The Geysers, CA",
-        "time": 1747748666520,
-        "updated": 1747748761617,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184101",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184101.geojson",
-        "title": "M 1.1 - 9 km NNW of The Geysers, CA"
+        "place": "20 km ESE of Little Lake, CA",
+        "time": 1747752258980,
+        "updated": 1747752465976,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157296",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157296.geojson",
+        "title": "M 1.1 - 20 km ESE of Little Lake, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.829330444336,
-          38.8366661071777,
-          1.98000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "4 km NW of The Geysers, CA",
-        "time": 1747748178960,
-        "updated": 1747748271572,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184091",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184091.geojson",
-        "title": "M 1.4 - 4 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.80249786377,
-          38.7944984436035,
-          12.710000038147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "49 km NW of Rachel, Nevada",
-        "time": 1747748022366,
-        "updated": 1747748163559,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897794",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897794.geojson",
-        "title": "M 1.5 - 49 km NW of Rachel, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2042,
-          37.9062,
-          1.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.5,
-        "place": "39 km SSE of Denali National Park, Alaska",
-        "time": 1747747743770,
-        "updated": 1747747855884,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fr5fxe",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fr5fxe.geojson",
-        "title": "M 3.5 - 39 km SSE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.5459,
-          63.1991,
-          15.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.03,
-        "place": "9 km ENE of Julian, CA",
-        "time": 1747746298590,
-        "updated": 1747746508290,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157216",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157216.geojson",
-        "title": "M 1.0 - 9 km ENE of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.52,
-          33.1181667,
-          13.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.59,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747746163910,
-        "updated": 1747749139608,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184086",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184086.geojson",
-        "title": "M 0.6 - 4 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.78150177002,
-          38.8071670532227,
-          3.5699999332428
+          -117.7035,
+          35.8768333,
+          7.26
         ]
       }
     }
