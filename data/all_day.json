@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747711182000,
+    "generated": 1747713813000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 235
+    "count": 236
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "5 km WNW of Tanaina, Alaska",
+        "time": 1747712992154,
+        "updated": 1747713084839,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256flbi27",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256flbi27.geojson",
+        "title": "M 1.1 - 5 km WNW of Tanaina, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5091,
+          61.6518,
+          38.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "54 km SE of Pope-Vannoy Landing, Alaska",
+        "time": 1747712647123,
+        "updated": 1747712813891,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256flac08",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256flac08.geojson",
+        "title": "M 1.8 - 54 km SE of Pope-Vannoy Landing, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.6962,
+          59.289,
+          104.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "12 km SE of Middletown, CA",
+        "time": 1747712202070,
+        "updated": 1747713139540,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183931",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183931.geojson",
+        "title": "M 1.6 - 12 km SE of Middletown, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.501831054688,
+          38.6879997253418,
+          6.17000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "6 km SE of Point MacKenzie, Alaska",
+        "time": 1747712090498,
+        "updated": 1747713620040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fl8a6x",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fl8a6x.geojson",
+        "title": "M 2.5 - 6 km SE of Point MacKenzie, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8825,
+          61.3217,
+          26.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "29 km WNW of Ollagüe, Chile",
+        "time": 1747710781838,
+        "updated": 1747712601040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q09n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q09n.geojson",
+        "title": "M 4.3 - 29 km WNW of Ollagüe, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5154,
+          -21.1128,
+          129.671
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.09,
         "place": "3 km SW of Cobb, CA",
         "time": 1747709965110,
-        "updated": 1747710437236,
+        "updated": 1747712537464,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183921",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183921.geojson",
         "title": "M 2.1 - 3 km SW of Cobb, CA"
@@ -4626,86 +4726,6 @@
           -121.379669189453,
           36.8033332824707,
           6.19999980926514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.1,
-        "place": "3 km SSE of Rudna, Poland",
-        "time": 1747626416007,
-        "updated": 1747627510040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03g",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03g.geojson",
-        "title": "M 4.1 - 3 km SSE of Rudna, Poland"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.2838,
-          51.4766,
-          9.307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "1 km SSE of Pagsabangan, Philippines",
-        "time": 1747626089227,
-        "updated": 1747647229801,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q03f",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q03f.geojson",
-        "title": "M 4.9 - 1 km SSE of Pagsabangan, Philippines"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.7568,
-          7.467,
-          62.974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.07,
-        "place": "11 km NNW of Howell, Utah",
-        "time": 1747625975970,
-        "updated": 1747685643780,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108721",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108721.geojson",
-        "title": "M 2.1 - 11 km NNW of Howell, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.4895,
-          41.8936666666667,
-          5.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747625473670,
-        "updated": 1747628836168,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184237",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184237.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797996520996,
-          38.8381652832031,
-          2.77999997138977
         ]
       }
     }

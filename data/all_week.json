@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747711237000,
+    "generated": 1747713848000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1878
+    "count": 1877
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "5 km WNW of Tanaina, Alaska",
+        "time": 1747712992154,
+        "updated": 1747713084839,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256flbi27",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256flbi27.geojson",
+        "title": "M 1.1 - 5 km WNW of Tanaina, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5091,
+          61.6518,
+          38.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "54 km SE of Pope-Vannoy Landing, Alaska",
+        "time": 1747712647123,
+        "updated": 1747712813891,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256flac08",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256flac08.geojson",
+        "title": "M 1.8 - 54 km SE of Pope-Vannoy Landing, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.6962,
+          59.289,
+          104.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.56,
+        "place": "12 km SE of Middletown, CA",
+        "time": 1747712202070,
+        "updated": 1747713139540,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183931",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183931.geojson",
+        "title": "M 1.6 - 12 km SE of Middletown, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.501831054688,
+          38.6879997253418,
+          6.17000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "6 km SE of Point MacKenzie, Alaska",
+        "time": 1747712090498,
+        "updated": 1747713620040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fl8a6x",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fl8a6x.geojson",
+        "title": "M 2.5 - 6 km SE of Point MacKenzie, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8825,
+          61.3217,
+          26.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "29 km WNW of Ollagüe, Chile",
+        "time": 1747710781838,
+        "updated": 1747712601040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q09n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q09n.geojson",
+        "title": "M 4.3 - 29 km WNW of Ollagüe, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5154,
+          -21.1128,
+          129.671
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.09,
         "place": "3 km SW of Cobb, CA",
         "time": 1747709965110,
-        "updated": 1747710437236,
+        "updated": 1747712537464,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183921",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183921.geojson",
         "title": "M 2.1 - 3 km SW of Cobb, CA"
@@ -37446,126 +37546,6 @@
           -121.91316666666667,
           46.8545,
           9.62
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "48 km N of Norðurþing, Iceland",
-        "time": 1747108924416,
-        "updated": 1747206446381,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pyxt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pyxt.geojson",
-        "title": "M 4.7 - 48 km N of Norðurþing, Iceland"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.4323,
-          66.478,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "3 km NNW of The Geysers, CA",
-        "time": 1747108599830,
-        "updated": 1747111637714,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181357",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181357.geojson",
-        "title": "M 0.8 - 3 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.778999328613,
-          38.8030014038086,
-          3.28999996185303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.32,
-        "place": "3 km W of Orinda, CA",
-        "time": 1747108553520,
-        "updated": 1747139130822,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75181352",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75181352.geojson",
-        "title": "M 2.3 - 3 km W of Orinda, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.216331481934,
-          37.8753318786621,
-          7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.32,
-        "place": "4 km SSE of Devore, CA",
-        "time": 1747108453980,
-        "updated": 1747108689581,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152032",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152032.geojson",
-        "title": "M 1.3 - 4 km SSE of Devore, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3811667,
-          34.1876667,
-          12.82
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.41,
-        "place": "16 km W of Johannesburg, CA",
-        "time": 1747106709580,
-        "updated": 1747106916389,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41152016",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41152016.geojson",
-        "title": "M 1.4 - 16 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8093333,
-          35.356,
-          8.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.54,
-        "place": "62 km ESE of Egegik, Alaska",
-        "time": 1747106438900,
-        "updated": 1747162132130,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93605161",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93605161.geojson",
-        "title": "M 0.5 - 62 km ESE of Egegik, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.341166666667,
-          58.1098333333333,
-          3.5
         ]
       }
     }
