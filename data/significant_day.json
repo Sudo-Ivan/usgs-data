@@ -1,12 +1,33 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747753340000,
+    "generated": 1747756959000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson",
     "title": "USGS Significant Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 0
+    "count": 1
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.4,
+        "place": "81 km ENE of Angoram, Papua New Guinea",
+        "time": 1747753558710,
+        "updated": 1747755551989,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0bm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0bm.geojson",
+        "title": "M 6.4 - 81 km ENE of Angoram, Papua New Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7662,
+          -3.8503,
+          10
+        ]
+      }
+    }
+  ]
 }
