@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747810964000,
+    "generated": 1747814566000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 208
+    "count": 202
   },
   "features": [
     {
@@ -72,6 +72,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.7,
+        "place": "Kermadec Islands, New Zealand",
+        "time": 1747809253789,
+        "updated": 1747811892040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0i2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0i2.geojson",
+        "title": "M 4.7 - Kermadec Islands, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.7672,
+          -30.6338,
+          131.007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.2,
         "place": "35 km WSW of Ackerly, Texas",
         "time": 1747809154777,
@@ -95,7 +115,7 @@
         "mag": 0.7,
         "place": "6 km WNW of Cobb, CA",
         "time": 1747809059600,
-        "updated": 1747810338300,
+        "updated": 1747813639700,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184386",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184386.geojson",
         "title": "M 0.7 - 6 km WNW of Cobb, CA"
@@ -2292,6 +2312,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.53,
+        "place": "4 km SSE of Lytle Creek, CA",
+        "time": 1747760035470,
+        "updated": 1747760691430,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157384",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157384.geojson",
+        "title": "M 2.5 - 4 km SSE of Lytle Creek, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4746667,
+          34.2238333,
+          11.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.65,
         "place": "12 km ENE of Ridgecrest, CA",
         "time": 1747759152930,
@@ -2732,20 +2772,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.98,
+        "mag": 1.12,
         "place": "12 km WNW of Calipatria, CA",
-        "time": 1747749241160,
-        "updated": 1747749659320,
+        "time": 1747749241140,
+        "updated": 1747760714985,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157256",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157256.geojson",
-        "title": "M 1.0 - 12 km WNW of Calipatria, CA"
+        "title": "M 1.1 - 12 km WNW of Calipatria, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.634,
-          33.1676667,
-          3.13
+          -115.64,
+          33.1583333,
+          2.49
         ]
       }
     },
@@ -3052,10 +3092,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.73,
+        "mag": 0.74,
         "place": "17 km NE of Coachella, CA",
-        "time": 1747745637400,
-        "updated": 1747745920959,
+        "time": 1747745637390,
+        "updated": 1747760492616,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157200",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157200.geojson",
         "title": "M 0.7 - 17 km NE of Coachella, CA"
@@ -3063,9 +3103,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.0516667,
-          33.7988333,
-          9.65
+          -116.0503333,
+          33.7976667,
+          10.28
         ]
       }
     },
@@ -3572,20 +3612,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.32,
-        "place": "9 km SSW of Holtville, CA",
-        "time": 1747735202520,
-        "updated": 1747735415899,
+        "mag": 1.31,
+        "place": "10 km SSW of Holtville, CA",
+        "time": 1747735202540,
+        "updated": 1747759340707,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157096",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157096.geojson",
-        "title": "M 1.3 - 9 km SSW of Holtville, CA"
+        "title": "M 1.3 - 10 km SSW of Holtville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.4173333,
-          32.7323333,
-          11.98
+          -115.42,
+          32.7328333,
+          11.12
         ]
       }
     },
@@ -3632,20 +3672,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.45,
+        "mag": 2.59,
         "place": "8 km ESE of Stovepipe Wells, CA",
-        "time": 1747734407830,
+        "time": 1747734407840,
         "updated": 1747785270679,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157088",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157088.geojson",
-        "title": "M 2.5 - 8 km ESE of Stovepipe Wells, CA"
+        "title": "M 2.6 - 8 km ESE of Stovepipe Wells, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0678333,
-          36.5685,
-          0.64
+          -117.066,
+          36.5675,
+          1.38
         ]
       }
     },
@@ -3672,20 +3712,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.68,
+        "mag": 1.38,
         "place": "9 km SSW of Holtville, CA",
-        "time": 1747734230360,
-        "updated": 1747734449708,
+        "time": 1747734230280,
+        "updated": 1747758580939,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157072",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157072.geojson",
-        "title": "M 1.7 - 9 km SSW of Holtville, CA"
+        "title": "M 1.4 - 9 km SSW of Holtville, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.4191667,
-          32.734,
-          11.01
+          -115.425,
+          32.7376667,
+          11.43
         ]
       }
     },
@@ -3792,6 +3832,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.6,
+        "place": "48 km E of Fort Bidwell, California",
+        "time": 1747732273667,
+        "updated": 1747759017993,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897814",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897814.geojson",
+        "title": "M 1.6 - 48 km E of Fort Bidwell, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5696,
+          41.8797,
+          2.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1,
         "place": "19 km SSW of Ocotillo Wells, CA",
         "time": 1747732190050,
@@ -3866,6 +3926,26 @@
           -178.423333333333,
           51.618,
           8.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.68,
+        "place": "0 km SE of Huntsville, Utah",
+        "time": 1747730364270,
+        "updated": 1747760036760,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003383",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003383.geojson",
+        "title": "M 0.7 - 0 km SE of Huntsville, Utah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.765666666667,
+          41.256,
+          12.69
         ]
       }
     },
@@ -3952,220 +4032,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.66,
-        "place": "6 km SE of Loma Linda, CA",
-        "time": 1747728018220,
-        "updated": 1747746768284,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157000",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157000.geojson",
-        "title": "M 0.7 - 6 km SE of Loma Linda, CA"
+        "mag": 0.92,
+        "place": "18 km NW of Marysvale, Utah",
+        "time": 1747728275110,
+        "updated": 1747758696980,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80003388",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80003388.geojson",
+        "title": "M 0.9 - 18 km NW of Marysvale, Utah"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2186667,
-          34.0055,
-          15.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.33,
-        "place": "3 km SW of Indios, Puerto Rico",
-        "time": 1747727767670,
-        "updated": 1747728385840,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482928",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482928.geojson",
-        "title": "M 2.3 - 3 km SW of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8441666666667,
-          17.9753333333333,
-          13.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "39 km NNE of Beatty, Nevada",
-        "time": 1747726753099,
-        "updated": 1747750194248,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897785",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897785.geojson",
-        "title": "M 0.6 - 39 km NNE of Beatty, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.5148,
-          37.21,
-          8.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.17,
-        "place": "3 km WNW of Cobb, CA",
-        "time": 1747726425310,
-        "updated": 1747732337735,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184011",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184011.geojson",
-        "title": "M 1.2 - 3 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.763000488281,
-          38.8223342895508,
-          2.08999991416931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.59,
-        "place": "16 km WSW of Johannesburg, CA",
-        "time": 1747726386790,
-        "updated": 1747747122069,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41156992",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41156992.geojson",
-        "title": "M 1.6 - 16 km WSW of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8021667,
-          35.34,
-          6.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "15 km WNW of Seldovia, Alaska",
-        "time": 1747726309382,
-        "updated": 1747726447962,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fnlddm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fnlddm.geojson",
-        "title": "M 1.6 - 15 km WNW of Seldovia, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.9485,
-          59.5139,
-          45.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "48 km WNW of Anchor Point, Alaska",
-        "time": 1747726108184,
-        "updated": 1747726217544,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fnkole",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fnkole.geojson",
-        "title": "M 1.4 - 48 km WNW of Anchor Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.6222,
-          59.9434,
-          95.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.6,
-        "place": "40 km W of Salamatof, Alaska",
-        "time": 1747725595512,
-        "updated": 1747765390229,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fnit68",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fnit68.geojson",
-        "title": "M 2.6 - 40 km W of Salamatof, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.056,
-          60.6182,
-          91.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "36 km NNW of Toyah, Texas",
-        "time": 1747725544792,
-        "updated": 1747749280187,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025junq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025junq.geojson",
-        "title": "M 1.6 - 36 km NNW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.971,
-          31.609,
-          7.5995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.67,
-        "place": "16 km SSE of Pinnacles, CA",
-        "time": 1747725311650,
-        "updated": 1747729937442,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184001",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184001.geojson",
-        "title": "M 1.7 - 16 km SSE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.035331726074,
-          36.4168319702148,
-          -0.340000003576279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.12,
-        "place": "25 km N of Ivanof Bay, Alaska",
-        "time": 1747725306870,
-        "updated": 1747794679570,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93612971",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93612971.geojson",
-        "title": "M -0.1 - 25 km N of Ivanof Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.488833333333,
-          56.1275,
-          9.53
+          -112.401333333333,
+          38.5425,
+          6.31
         ]
       }
     }
