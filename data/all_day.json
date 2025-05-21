@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747829015000,
+    "generated": 1747833095000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 194
+    "count": 188
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.5,
+        "place": "56 km S of Whites City, New Mexico",
+        "time": 1747831672277,
+        "updated": 1747831940687,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwty",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwty.geojson",
+        "title": "M 2.5 - 56 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.397,
+          31.664,
+          4.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "12 km S of Gabbs, Nevada",
+        "time": 1747830873435,
+        "updated": 1747831011500,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897826",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897826.geojson",
+        "title": "M 2.0 - 12 km S of Gabbs, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9481,
+          38.7545,
+          14.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "51 km SSE of Denali National Park, Alaska",
+        "time": 1747830263458,
+        "updated": 1747830380824,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256he2bvt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256he2bvt.geojson",
+        "title": "M 1.4 - 51 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3444,
+          63.1099,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "15 km S of Ackerly, Texas",
+        "time": 1747830223427,
+        "updated": 1747830405398,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwtd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwtd.geojson",
+        "title": "M 1.0 - 15 km S of Ackerly, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.734,
+          32.388,
+          4.2737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.01,
+        "place": "6 km WNW of Fern Forest, Hawaii",
+        "time": 1747829921330,
+        "updated": 1747831371798,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677507",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677507.geojson",
+        "title": "M 2.0 - 6 km WNW of Fern Forest, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.185501098633,
+          19.4966659545898,
+          3.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.05,
+        "place": "22 km NW of Puako, Hawaii",
+        "time": 1747829898270,
+        "updated": 1747831906843,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677512",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677512.geojson",
+        "title": "M 3.1 - 22 km NW of Puako, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.003494262695,
+          20.0990009307861,
+          15.8000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "34 km WSW of Ackerly, Texas",
+        "time": 1747829424721,
+        "updated": 1747829969317,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwss",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwss.geojson",
+        "title": "M 1.7 - 34 km WSW of Ackerly, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.065,
+          32.429,
+          4.4342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.01,
+        "place": "9 km ENE of Borrego Springs, CA",
+        "time": 1747829360470,
+        "updated": 1747832543520,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971951",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971951.geojson",
+        "title": "M 1.0 - 9 km ENE of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2816667,
+          33.2866667,
+          4.46
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.08,
         "place": "5 km WNW of Cobb, CA",
         "time": 1747828631130,
-        "updated": 1747828728993,
+        "updated": 1747831641694,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184481",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184481.geojson",
         "title": "M 1.1 - 5 km WNW of Cobb, CA"
@@ -26,6 +186,26 @@
           -122.78116607666,
           38.8388328552246,
           2.26999998092651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "Izu Islands, Japan region",
+        "time": 1747827161960,
+        "updated": 1747832186040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0in",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0in.geojson",
+        "title": "M 4.6 - Izu Islands, Japan region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0092,
+          31.2952,
+          53.51
         ]
       }
     },
@@ -115,7 +295,7 @@
         "mag": 1.17,
         "place": "2 km SE of North Hollywood, CA",
         "time": 1747821823890,
-        "updated": 1747822068161,
+        "updated": 1747832490775,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971927",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971927.geojson",
         "title": "M 1.2 - 2 km SE of North Hollywood, CA"
@@ -295,7 +475,7 @@
         "mag": 0.31,
         "place": "9 km SSW of Idyllwild, CA",
         "time": 1747819208690,
-        "updated": 1747819441091,
+        "updated": 1747832504644,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971903",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971903.geojson",
         "title": "M 0.3 - 9 km SSW of Idyllwild, CA"
@@ -555,7 +735,7 @@
         "mag": 1.02,
         "place": "10 km SSW of Idyllwild, CA",
         "time": 1747816099470,
-        "updated": 1747816305416,
+        "updated": 1747832549510,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971871",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971871.geojson",
         "title": "M 1.0 - 10 km SSW of Idyllwild, CA"
@@ -575,7 +755,7 @@
         "mag": 1.64,
         "place": "10 km SSW of Idyllwild, CA",
         "time": 1747816011900,
-        "updated": 1747816662460,
+        "updated": 1747832613450,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971863",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971863.geojson",
         "title": "M 1.6 - 10 km SSW of Idyllwild, CA"
@@ -675,7 +855,7 @@
         "mag": 0.98,
         "place": "8 km ENE of Julian, CA",
         "time": 1747814720410,
-        "updated": 1747815394110,
+        "updated": 1747832617130,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971847",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971847.geojson",
         "title": "M 1.0 - 8 km ENE of Julian, CA"
@@ -935,7 +1115,7 @@
         "mag": 0.77,
         "place": "12 km SSE of Anza, CA",
         "time": 1747803961640,
-        "updated": 1747804226739,
+        "updated": 1747832620710,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971799",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971799.geojson",
         "title": "M 0.8 - 12 km SSE of Anza, CA"
@@ -1152,20 +1332,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2,
+        "mag": 1.9,
         "place": "27 km NW of Toyah, Texas",
-        "time": 1747797921302,
-        "updated": 1747798258080,
+        "time": 1747797921336,
+        "updated": 1747830535409,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwbt",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwbt.geojson",
-        "title": "M 2.0 - 27 km NW of Toyah, Texas"
+        "title": "M 1.9 - 27 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.985,
-          31.502,
-          5.016
+          -103.99,
+          31.494,
+          2.511
         ]
       }
     },
@@ -1233,19 +1413,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.2,
-        "place": "13 km S of Forsan, Texas",
-        "time": 1747796551666,
-        "updated": 1747800918450,
+        "place": "11 km S of Forsan, Texas",
+        "time": 1747796551774,
+        "updated": 1747830106353,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwaz",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwaz.geojson",
-        "title": "M 1.2 - 13 km S of Forsan, Texas"
+        "title": "M 1.2 - 11 km S of Forsan, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.372,
-          31.991,
-          3.3402
+          -101.36,
+          32.006,
+          11.499
         ]
       }
     },
@@ -1335,7 +1515,7 @@
         "mag": 1.36,
         "place": "14 km ESE of Little Lake, CA",
         "time": 1747794694670,
-        "updated": 1747794905112,
+        "updated": 1747832595382,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971647",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971647.geojson",
         "title": "M 1.4 - 14 km ESE of Little Lake, CA"
@@ -1735,7 +1915,7 @@
         "mag": 1.3,
         "place": "4 km SSE of Lytle Creek, CA",
         "time": 1747781813490,
-        "updated": 1747782045299,
+        "updated": 1747832597546,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971487",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971487.geojson",
         "title": "M 1.3 - 4 km SSE of Lytle Creek, CA"
@@ -1855,7 +2035,7 @@
         "mag": 1.1,
         "place": "12 km SSE of Anza, CA",
         "time": 1747778942710,
-        "updated": 1747779183740,
+        "updated": 1747832644958,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971455",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971455.geojson",
         "title": "M 1.1 - 12 km SSE of Anza, CA"
@@ -1866,26 +2046,6 @@
           -116.6145,
           33.462,
           9.15
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "17 km NW of Midland, Texas",
-        "time": 1747778383908,
-        "updated": 1747778709007,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jvqv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jvqv.geojson",
-        "title": "M 1.0 - 17 km NW of Midland, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.188,
-          32.119,
-          7.8659
         ]
       }
     },
@@ -2133,19 +2293,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "19 km NW of Sterling City, Texas",
-        "time": 1747773523108,
-        "updated": 1747796329755,
+        "place": "20 km NW of Sterling City, Texas",
+        "time": 1747773523459,
+        "updated": 1747829151664,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jvod",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jvod.geojson",
-        "title": "M 1.6 - 19 km NW of Sterling City, Texas"
+        "title": "M 1.6 - 20 km NW of Sterling City, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.131,
-          31.964,
-          2.5291
+          -101.129,
+          31.969,
+          3.9307
         ]
       }
     },
@@ -2992,26 +3152,6 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.53,
-        "place": "4 km SSE of Lytle Creek, CA",
-        "time": 1747760035470,
-        "updated": 1747760691430,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157384",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157384.geojson",
-        "title": "M 2.5 - 4 km SSE of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4746667,
-          34.2238333,
-          11.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "mag": 0.65,
         "place": "12 km ENE of Ridgecrest, CA",
         "time": 1747759152930,
@@ -3452,20 +3592,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.12,
+        "mag": 0.98,
         "place": "12 km WNW of Calipatria, CA",
-        "time": 1747749241140,
-        "updated": 1747760714985,
+        "time": 1747749241160,
+        "updated": 1747749659320,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157256",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157256.geojson",
-        "title": "M 1.1 - 12 km WNW of Calipatria, CA"
+        "title": "M 1.0 - 12 km WNW of Calipatria, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.64,
-          33.1583333,
-          2.49
+          -115.634,
+          33.1676667,
+          3.13
         ]
       }
     },
@@ -3626,266 +3766,6 @@
           -152.241333333333,
           61.3281666666667,
           2.25
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.03,
-        "place": "9 km ENE of Julian, CA",
-        "time": 1747746298590,
-        "updated": 1747746508290,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157216",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157216.geojson",
-        "title": "M 1.0 - 9 km ENE of Julian, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.52,
-          33.1181667,
-          13.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.59,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747746163910,
-        "updated": 1747750938821,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184086",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184086.geojson",
-        "title": "M 0.6 - 4 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.78150177002,
-          38.8071670532227,
-          3.5699999332428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747746082160,
-        "updated": 1747748537549,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184081",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184081.geojson",
-        "title": "M 0.8 - 10 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.85383605957,
-          38.8216667175293,
-          2.50999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.46,
-        "place": "6 km NW of The Geysers, CA",
-        "time": 1747746009250,
-        "updated": 1747749438648,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184076",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184076.geojson",
-        "title": "M 1.5 - 6 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.815170288086,
-          38.8009986877441,
-          2.64000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.17,
-        "place": "9 km SSE of Salton City, CA",
-        "time": 1747745994500,
-        "updated": 1747786374527,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157208",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157208.geojson",
-        "title": "M 1.2 - 9 km SSE of Salton City, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.935,
-          33.2176667,
-          7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "22 km ENE of Chase, Alaska",
-        "time": 1747745924117,
-        "updated": 1747746067814,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fqqbbv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fqqbbv.geojson",
-        "title": "M 1.8 - 22 km ENE of Chase, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.6764,
-          62.499,
-          11.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.22,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747745686730,
-        "updated": 1747747939481,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184071",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184071.geojson",
-        "title": "M 0.2 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.818336486816,
-          38.848331451416,
-          0.589999973773956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "17 km NE of Coachella, CA",
-        "time": 1747745637390,
-        "updated": 1747760492616,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157200",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157200.geojson",
-        "title": "M 0.7 - 17 km NE of Coachella, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.0503333,
-          33.7976667,
-          10.28
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "south of the Fiji Islands",
-        "time": 1747745581218,
-        "updated": 1747746825040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0bb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0bb.geojson",
-        "title": "M 4.7 - south of the Fiji Islands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -179.9541,
-          -23.3039,
-          539.507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.61,
-        "place": "8 km NE of Manhattan, Montana",
-        "time": 1747744841430,
-        "updated": 1747780384360,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088063",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088063.geojson",
-        "title": "M 0.6 - 8 km NE of Manhattan, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.251,
-          45.9025,
-          9.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.12,
-        "place": "5 km ENE of Cabazon, CA",
-        "time": 1747743487830,
-        "updated": 1747784891672,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157192",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157192.geojson",
-        "title": "M 1.1 - 5 km ENE of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7383333,
-          33.9361667,
-          14.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "6 km ENE of Cabazon, CA",
-        "time": 1747743486270,
-        "updated": 1747784953739,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37726252",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37726252.geojson",
-        "title": "M 1.3 - 6 km ENE of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7231667,
-          33.9391667,
-          16.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "9 km WNW of Cobb, CA",
-        "time": 1747743388800,
-        "updated": 1747745838253,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184066",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184066.geojson",
-        "title": "M 0.7 - 9 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.817832946777,
-          38.8486671447754,
-          0.340000003576279
         ]
       }
     }

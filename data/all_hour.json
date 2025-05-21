@@ -1,31 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747829030000,
+    "generated": 1747833050000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 1
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.08,
-        "place": "5 km WNW of Cobb, CA",
-        "time": 1747828631130,
-        "updated": 1747828728993,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184481",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184481.geojson",
-        "title": "M 1.1 - 5 km WNW of Cobb, CA"
+        "mag": 2.5,
+        "place": "56 km S of Whites City, New Mexico",
+        "time": 1747831672277,
+        "updated": 1747831940687,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwty",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwty.geojson",
+        "title": "M 2.5 - 56 km S of Whites City, New Mexico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.78116607666,
-          38.8388328552246,
-          2.26999998092651
+          -104.397,
+          31.664,
+          4.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2,
+        "place": "12 km S of Gabbs, Nevada",
+        "time": 1747830873435,
+        "updated": 1747831011500,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897826",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897826.geojson",
+        "title": "M 2.0 - 12 km S of Gabbs, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9481,
+          38.7545,
+          14.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "51 km SSE of Denali National Park, Alaska",
+        "time": 1747830263458,
+        "updated": 1747830380824,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256he2bvt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256he2bvt.geojson",
+        "title": "M 1.4 - 51 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3444,
+          63.1099,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "15 km S of Ackerly, Texas",
+        "time": 1747830223427,
+        "updated": 1747830405398,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwtd",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwtd.geojson",
+        "title": "M 1.0 - 15 km S of Ackerly, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.734,
+          32.388,
+          4.2737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.01,
+        "place": "6 km WNW of Fern Forest, Hawaii",
+        "time": 1747829921330,
+        "updated": 1747831371798,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677507",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677507.geojson",
+        "title": "M 2.0 - 6 km WNW of Fern Forest, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.185501098633,
+          19.4966659545898,
+          3.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.05,
+        "place": "22 km NW of Puako, Hawaii",
+        "time": 1747829898270,
+        "updated": 1747831906843,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677512",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677512.geojson",
+        "title": "M 3.1 - 22 km NW of Puako, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.003494262695,
+          20.0990009307861,
+          15.8000001907349
         ]
       }
     }
