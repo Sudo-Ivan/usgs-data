@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747839762000,
+    "generated": 1747843364000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 200
+    "count": 202
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "11 km ESE of Coyanosa, Texas",
+        "time": 1747842664834,
+        "updated": 1747843114537,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxal",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxal.geojson",
+        "title": "M 1.6 - 11 km ESE of Coyanosa, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.958,
+          31.201,
+          7.3578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "15 km W of Kalifornsky, Alaska",
+        "time": 1747842619171,
+        "updated": 1747842774091,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hg06zh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hg06zh.geojson",
+        "title": "M 1.3 - 15 km W of Kalifornsky, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5724,
+          60.4302,
+          52.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "9 km N of Point Possession, Alaska",
+        "time": 1747842175004,
+        "updated": 1747842267750,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hfyk0s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hfyk0s.geojson",
+        "title": "M 1.5 - 9 km N of Point Possession, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.7171,
+          61.007,
+          17.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.86,
+        "place": "3 km ESE of Yorba Linda, CA",
+        "time": 1747841816830,
+        "updated": 1747842468240,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972071",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972071.geojson",
+        "title": "M 1.9 - 3 km ESE of Yorba Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7815,
+          33.8773333,
+          10.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "9 km NE of Calexico, CA",
+        "time": 1747841607680,
+        "updated": 1747841821225,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972055",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972055.geojson",
+        "title": "M 1.5 - 9 km NE of Calexico, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.425,
+          32.7298333,
+          13.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.3,
+        "place": "54 km NW of Yakutat, Alaska",
+        "time": 1747841318434,
+        "updated": 1747841456679,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hfvipv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hfvipv.geojson",
+        "title": "M 2.3 - 54 km NW of Yakutat, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.3013,
+          59.9432,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "52 km SW of Hihifo, Tonga",
+        "time": 1747840764115,
+        "updated": 1747841993040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0jj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0jj.geojson",
+        "title": "M 4.6 - 52 km SW of Hihifo, Tonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.1856,
+          -16.2404,
+          115.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "27 km SW of Garden City, Texas",
+        "time": 1747840670016,
+        "updated": 1747842843505,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwzh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwzh.geojson",
+        "title": "M 2.7 - 27 km SW of Garden City, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.704,
+          31.707,
+          9.1797
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.43,
         "place": "10 km NW of The Geysers, CA",
         "time": 1747839163040,
-        "updated": 1747839258906,
+        "updated": 1747842736920,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184521",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184521.geojson",
         "title": "M 0.4 - 10 km NW of The Geysers, CA"
@@ -75,7 +235,7 @@
         "mag": 1.08,
         "place": "3 km SSW of Cobb, CA",
         "time": 1747837091870,
-        "updated": 1747838841478,
+        "updated": 1747841237749,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184506",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184506.geojson",
         "title": "M 1.1 - 3 km SSW of Cobb, CA"
@@ -115,7 +275,7 @@
         "mag": 1.66,
         "place": "4 km E of Santa Rosa, CA",
         "time": 1747836476280,
-        "updated": 1747837936382,
+        "updated": 1747840037617,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184496",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184496.geojson",
         "title": "M 1.7 - 4 km E of Santa Rosa, CA"
@@ -314,8 +474,8 @@
       "properties": {
         "mag": 2.5,
         "place": "56 km S of Whites City, New Mexico",
-        "time": 1747831672277,
-        "updated": 1747831940687,
+        "time": 1747831671944,
+        "updated": 1747841159842,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwty",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwty.geojson",
         "title": "M 2.5 - 56 km S of Whites City, New Mexico"
@@ -323,9 +483,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.397,
-          31.664,
-          4.2231
+          -104.399,
+          31.671,
+          7.2791
         ]
       }
     },
@@ -435,7 +595,7 @@
         "mag": 3.05,
         "place": "22 km NW of Puako, Hawaii",
         "time": 1747829898270,
-        "updated": 1747837501823,
+        "updated": 1747842765933,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677512",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677512.geojson",
         "title": "M 3.1 - 22 km NW of Puako, Hawaii"
@@ -2432,6 +2592,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.1,
+        "place": "19 km E of Finley Point, Montana",
+        "time": 1747780572750,
+        "updated": 1747843201490,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088073",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088073.geojson",
+        "title": "M -0.1 - 19 km E of Finley Point, Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.812166666667,
+          47.7125,
+          6.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.06,
         "place": "19 km ESE of Little Lake, CA",
         "time": 1747780203270,
@@ -3275,7 +3455,7 @@
         "mag": 2,
         "place": "2 km WNW of New Britain, Connecticut",
         "time": 1747765806397,
-        "updated": 1747839288483,
+        "updated": 1747842002381,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0gv",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0gv.geojson",
         "title": "M 2.0 - 2 km WNW of New Britain, Connecticut"
@@ -3672,6 +3852,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.47,
+        "place": "5 km SSE of Lytle Creek, CA",
+        "time": 1747760035440,
+        "updated": 1747843136140,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157384",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157384.geojson",
+        "title": "M 2.5 - 5 km SSE of Lytle Creek, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4751667,
+          34.223,
+          11.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.65,
         "place": "12 km ENE of Ridgecrest, CA",
         "time": 1747759152930,
@@ -3832,10 +4032,10 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.43,
+        "mag": 1.44,
         "place": "3 km NE of Colton, CA",
-        "time": 1747757067500,
-        "updated": 1747757734370,
+        "time": 1747757067460,
+        "updated": 1747840414660,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41157344",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41157344.geojson",
         "title": "M 1.4 - 3 km NE of Colton, CA"
@@ -3843,169 +4043,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2903333,
-          34.09,
-          13.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.1,
-        "place": "4 km NNW of Willow, Alaska",
-        "time": 1747756284042,
-        "updated": 1747771333934,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fsh2di",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fsh2di.geojson",
-        "title": "M 3.1 - 4 km NNW of Willow, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.0715,
-          61.7858,
-          24.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1747756112670,
-        "updated": 1747759039679,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184121",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184121.geojson",
-        "title": "M 0.8 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797164916992,
-          38.8224983215332,
-          2.64000010490417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.47,
-        "place": "3 km NW of Dover, Oklahoma",
-        "time": 1747755825070,
-        "updated": 1747833963982,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jveb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jveb.geojson",
-        "title": "M 1.5 - 3 km NW of Dover, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.93483333,
-          36.00283333,
-          4.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.32,
-        "place": "11 km SW of Atka, Alaska",
-        "time": 1747755418950,
-        "updated": 1747799673010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93613241",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93613241.geojson",
-        "title": "M 2.3 - 11 km SW of Atka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.3365,
-          52.1331666666667,
-          8.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "10 km NW of Willow, Alaska",
-        "time": 1747754193569,
-        "updated": 1747754301863,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fs9l98",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fs9l98.geojson",
-        "title": "M 1.3 - 10 km NW of Willow, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.1859,
-          61.8118,
-          11.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.86,
-        "place": "63 km WNW of Tyonek, Alaska",
-        "time": 1747753919570,
-        "updated": 1747799487050,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93042159",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93042159.geojson",
-        "title": "M -0.9 - 63 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.237,
-          61.277,
-          2.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "36 km NW of Nikiski, Alaska",
-        "time": 1747753850907,
-        "updated": 1747753984077,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256fs8caq",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256fs8caq.geojson",
-        "title": "M 1.0 - 36 km NW of Nikiski, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.8356,
-          60.8726,
-          79
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 6.4,
-        "place": "81 km ENE of Angoram, Papua New Guinea",
-        "time": 1747753558710,
-        "updated": 1747801305081,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0bm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0bm.geojson",
-        "title": "M 6.4 - 81 km ENE of Angoram, Papua New Guinea"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.7662,
-          -3.8503,
-          10
+          -117.2901667,
+          34.0908333,
+          12.75
         ]
       }
     }
