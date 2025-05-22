@@ -1,191 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747868510000,
+    "generated": 1747872600000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 15
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.55,
-        "place": "17 km N of Indio, CA",
-        "time": 1747868315830,
-        "updated": 1747868458366,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972479",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972479.geojson",
-        "title": "M 1.6 - 17 km N of Indio, CA"
+        "mag": 1.1,
+        "place": "8 km SSW of Minto, Alaska",
+        "time": 1747871344066,
+        "updated": 1747871470504,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hkrexy",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hkrexy.geojson",
+        "title": "M 1.1 - 8 km SSW of Minto, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.1906662,
-          33.8731651,
-          7.05
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "27 km SW of Garden City, Texas",
-        "time": 1747867778363,
-        "updated": 1747868466235,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxoi",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxoi.geojson",
-        "title": "M 1.8 - 27 km SW of Garden City, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.707,
-          31.706,
-          3.708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.2,
-        "place": "82 km NW of San Antonio, Puerto Rico",
-        "time": 1747867640184,
-        "updated": 1747868025040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0ng",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0ng.geojson",
-        "title": "M 3.2 - 82 km NW of San Antonio, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.6088,
-          19.057,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.87,
-        "place": "10 km S of Idyllwild, CA",
-        "time": 1747867063860,
-        "updated": 1747867281236,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972463",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972463.geojson",
-        "title": "M 0.9 - 10 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7103333,
-          33.6525,
-          14.69
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "10 km S of Idyllwild, CA",
-        "time": 1747866971550,
-        "updated": 1747867180223,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972447",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972447.geojson",
-        "title": "M 0.9 - 10 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.713,
-          33.654,
-          14.89
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "11 km SSE of Luling, Texas",
-        "time": 1747866938916,
-        "updated": 1747867253079,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxnw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxnw.geojson",
-        "title": "M 1.6 - 11 km SSE of Luling, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.608,
-          29.586,
-          5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.4,
-        "place": "57 km NW of Abra Pampa, Argentina",
-        "time": 1747866834343,
-        "updated": 1747867739040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0nf",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0nf.geojson",
-        "title": "M 4.4 - 57 km NW of Abra Pampa, Argentina"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.1564,
-          -22.4304,
-          267.124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.31,
-        "place": "9 km NNW of The Geysers, CA",
-        "time": 1747866466870,
-        "updated": 1747866565312,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184666",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184666.geojson",
-        "title": "M 0.3 - 9 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.824996948242,
-          38.8380012512207,
-          1.99000000953674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "27 km SW of Garden City, Texas",
-        "time": 1747866440424,
-        "updated": 1747866790024,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxni",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxni.geojson",
-        "title": "M 2.1 - 27 km SW of Garden City, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.704,
-          31.71,
-          3.3689
+          -149.4058,
+          65.0785,
+          30
         ]
       }
     },
@@ -193,119 +33,79 @@
       "type": "Feature",
       "properties": {
         "mag": 1.94,
-        "place": "7 km E of Pinnacles, CA",
-        "time": 1747866392960,
-        "updated": 1747866490132,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184661",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184661.geojson",
-        "title": "M 1.9 - 7 km E of Pinnacles, CA"
+        "place": "17 km W of Volcano, Hawaii",
+        "time": 1747870837300,
+        "updated": 1747871027920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678007",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678007.geojson",
+        "title": "M 1.9 - 17 km W of Volcano, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.061668395996,
-          36.5353317260742,
-          9.39000034332275
+          -155.401672363281,
+          19.4160003662109,
+          5.07000017166138
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.86,
-        "place": "8 km E of Pinnacles, CA",
-        "time": 1747866344490,
-        "updated": 1747866445393,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184656",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184656.geojson",
-        "title": "M 1.9 - 8 km E of Pinnacles, CA"
+        "mag": 1.74,
+        "place": "19 km SE of Pinnacles, CA",
+        "time": 1747869428740,
+        "updated": 1747872442241,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184676",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184676.geojson",
+        "title": "M 1.7 - 19 km SE of Pinnacles, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.057998657227,
-          36.5343322753906,
-          9.77000045776367
+          -120.973999023438,
+          36.4243316650391,
+          11.539999961853
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1,
-        "place": "27 km SW of Garden City, Texas",
-        "time": 1747866097222,
-        "updated": 1747866648739,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxmz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxmz.geojson",
-        "title": "M 1.0 - 27 km SW of Garden City, Texas"
+        "mag": 1.2,
+        "place": "4 km NW of Farmers Loop, Alaska",
+        "time": 1747869092122,
+        "updated": 1747869217208,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hkjbwc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hkjbwc.geojson",
+        "title": "M 1.2 - 4 km NW of Farmers Loop, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.707,
-          31.702,
-          3.0863
+          -147.7622,
+          64.935,
+          0
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.3,
-        "place": "27 km SW of Garden City, Texas",
-        "time": 1747865827209,
-        "updated": 1747866066592,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxmu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxmu.geojson",
-        "title": "M 2.3 - 27 km SW of Garden City, Texas"
+        "mag": 0.81,
+        "place": "10 km S of Idyllwild, CA",
+        "time": 1747869069780,
+        "updated": 1747869281550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972487",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972487.geojson",
+        "title": "M 0.8 - 10 km S of Idyllwild, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.708,
-          31.71,
-          2.6467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "17 km ESE of Livengood, Alaska",
-        "time": 1747865825789,
-        "updated": 1747865905886,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hjz4k2",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hjz4k2.geojson",
-        "title": "M 1.0 - 17 km ESE of Livengood, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.216,
-          65.4438,
-          10.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.4,
-        "place": "101 km S of Lowell Point, Alaska",
-        "time": 1747865250446,
-        "updated": 1747865389354,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hjx1as",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hjx1as.geojson",
-        "title": "M 2.4 - 101 km S of Lowell Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.4653,
-          59.1576,
-          11.1
+          -116.7123333,
+          33.6525,
+          14.75
         ]
       }
     }
