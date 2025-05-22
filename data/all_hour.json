@@ -1,111 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747872600000,
+    "generated": 1747877424000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.32,
+        "place": "2 km SSE of Maria Antonia, Puerto Rico",
+        "time": 1747876395020,
+        "updated": 1747877040540,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483168",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483168.geojson",
+        "title": "M 2.3 - 2 km SSE of Maria Antonia, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8821666666667,
+          17.9525,
+          16.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.1,
-        "place": "8 km SSW of Minto, Alaska",
-        "time": 1747871344066,
-        "updated": 1747871470504,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hkrexy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hkrexy.geojson",
-        "title": "M 1.1 - 8 km SSW of Minto, Alaska"
+        "place": "17 km ESE of Livengood, Alaska",
+        "time": 1747875417058,
+        "updated": 1747875532896,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iunemh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iunemh.geojson",
+        "title": "M 1.1 - 17 km ESE of Livengood, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.4058,
-          65.0785,
-          30
+          -148.2246,
+          65.4423,
+          9.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.94,
-        "place": "17 km W of Volcano, Hawaii",
-        "time": 1747870837300,
-        "updated": 1747871027920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678007",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678007.geojson",
-        "title": "M 1.9 - 17 km W of Volcano, Hawaii"
+        "mag": 1.3,
+        "place": "9 km NW of The Geysers, CA",
+        "time": 1747875393790,
+        "updated": 1747876639699,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184686",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184686.geojson",
+        "title": "M 1.3 - 9 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.401672363281,
-          19.4160003662109,
-          5.07000017166138
+          -122.842163085938,
+          38.8188323974609,
+          2.41000008583069
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.74,
-        "place": "19 km SE of Pinnacles, CA",
-        "time": 1747869428740,
-        "updated": 1747872442241,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184676",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184676.geojson",
-        "title": "M 1.7 - 19 km SE of Pinnacles, CA"
+        "mag": 4.5,
+        "place": "174 km ESE of Wainui, New Zealand",
+        "time": 1747874867824,
+        "updated": 1747876059040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0p6",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0p6.geojson",
+        "title": "M 4.5 - 174 km ESE of Wainui, New Zealand"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.973999023438,
-          36.4243316650391,
-          11.539999961853
+          179.9208,
+          -39.3033,
+          12.66
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "4 km NW of Farmers Loop, Alaska",
-        "time": 1747869092122,
-        "updated": 1747869217208,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256hkjbwc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256hkjbwc.geojson",
-        "title": "M 1.2 - 4 km NW of Farmers Loop, Alaska"
+        "mag": 0.9,
+        "place": "18 km ENE of Healy, Alaska",
+        "time": 1747874833123,
+        "updated": 1747874956713,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iuldsg",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iuldsg.geojson",
+        "title": "M 0.9 - 18 km ENE of Healy, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.7622,
-          64.935,
-          0
+          -148.6037,
+          63.8921,
+          12.1
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.81,
-        "place": "10 km S of Idyllwild, CA",
-        "time": 1747869069780,
-        "updated": 1747869281550,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972487",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972487.geojson",
-        "title": "M 0.8 - 10 km S of Idyllwild, CA"
+        "mag": 2.2,
+        "place": "12 km WSW of Stanton, Texas",
+        "time": 1747874677501,
+        "updated": 1747875073753,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxrs",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxrs.geojson",
+        "title": "M 2.2 - 12 km WSW of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7123333,
-          33.6525,
-          14.75
+          -101.921,
+          32.103,
+          4.5139
         ]
       }
     }
