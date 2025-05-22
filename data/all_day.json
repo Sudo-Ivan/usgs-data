@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747915446000,
+    "generated": 1747919466000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 222
+    "count": 216
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.77,
+        "place": "5 km WNW of Cobb, CA",
+        "time": 1747919188460,
+        "updated": 1747919286584,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184931",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184931.geojson",
+        "title": "M 0.8 - 5 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.779502868652,
+          38.8343315124512,
+          1.88999998569489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "18 km NW of Parkfield, CA",
+        "time": 1747918682770,
+        "updated": 1747918780578,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184916",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184916.geojson",
+        "title": "M 1.3 - 18 km NW of Parkfield, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.606163024902,
+          35.9751663208008,
+          1.73000001907349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "33 km NW of Valdez, Alaska",
+        "time": 1747918447197,
+        "updated": 1747918664494,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j1s2lr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j1s2lr.geojson",
+        "title": "M 1.5 - 33 km NW of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.7548,
+          61.3564,
+          29.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "8 km S of Banning, CA",
+        "time": 1747916857330,
+        "updated": 1747917068327,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972743",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972743.geojson",
+        "title": "M 0.7 - 8 km S of Banning, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8731667,
+          33.8538333,
+          9.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.53,
+        "place": "5 km NE of Lompoc, CA",
+        "time": 1747916824740,
+        "updated": 1747919010625,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972735",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972735.geojson",
+        "title": "M 2.5 - 5 km NE of Lompoc, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4126667,
+          34.6686667,
+          11.05
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -226,6 +326,26 @@
           -150.7533,
           63.0899,
           103.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.89,
+        "place": "9 km E of Chickasha, Oklahoma",
+        "time": 1747908717329,
+        "updated": 1747917735636,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jykb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jykb.geojson",
+        "title": "M 0.9 - 9 km E of Chickasha, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82883333,
+          35.05033333,
+          7.77
         ]
       }
     },
@@ -1215,7 +1335,7 @@
         "mag": 4.2,
         "place": "off the coast of Oregon",
         "time": 1747890691286,
-        "updated": 1747912894009,
+        "updated": 1747918548215,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0qi",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0qi.geojson",
         "title": "M 4.2 - off the coast of Oregon"
@@ -1595,7 +1715,7 @@
         "mag": 6.2,
         "place": "61 km NNE of Eloúnda, Greece",
         "time": 1747883975341,
-        "updated": 1747913110104,
+        "updated": 1747919353118,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0pq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0pq.geojson",
         "title": "M 6.2 - 61 km NNE of Eloúnda, Greece"
@@ -1726,6 +1846,26 @@
           -66.7333333333333,
           18.6038333333333,
           10.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.93,
+        "place": "10 km E of Chickasha, Oklahoma",
+        "time": 1747880100610,
+        "updated": 1747917195671,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jxuj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jxuj.geojson",
+        "title": "M 0.9 - 10 km E of Chickasha, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82116667,
+          35.06466667,
+          14.97
         ]
       }
     },
@@ -3532,6 +3672,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.64,
+        "place": "11 km W of Davis, Oklahoma",
+        "time": 1747843797140,
+        "updated": 1747918986716,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jxal",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jxal.geojson",
+        "title": "M 1.6 Quarry Blast - 11 km W of Davis, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2455,
+          34.4965,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.3,
         "place": "9 km NW of The Geysers, CA",
         "time": 1747843557430,
@@ -4166,286 +4326,6 @@
           -148.2195,
           65.4471,
           0.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "56 km S of Whites City, New Mexico",
-        "time": 1747831671944,
-        "updated": 1747886897040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwty",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwty.geojson",
-        "title": "M 2.5 - 56 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.399,
-          31.671,
-          7.2791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.42,
-        "place": "26 km E of Clayton, Idaho",
-        "time": 1747831159470,
-        "updated": 1747849055560,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088238",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088238.geojson",
-        "title": "M 0.4 - 26 km E of Clayton, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.063,
-          44.2666666666667,
-          6.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "12 km S of Gabbs, Nevada",
-        "time": 1747830873435,
-        "updated": 1747831011500,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897826",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897826.geojson",
-        "title": "M 2.0 - 12 km S of Gabbs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9481,
-          38.7545,
-          14.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.41,
-        "place": "16 km WNW of Emery, Utah",
-        "time": 1747830677310,
-        "updated": 1747835576270,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108821",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108821.geojson",
-        "title": "M 1.4 - 16 km WNW of Emery, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.411833333333,
-          39.0066666666667,
-          -0.94
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.6,
-        "place": "84 km NW of Fef, Indonesia",
-        "time": 1747830445037,
-        "updated": 1747886728040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0iv",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0iv.geojson",
-        "title": "M 4.6 - 84 km NW of Fef, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.8692,
-          -0.301,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "51 km SSE of Denali National Park, Alaska",
-        "time": 1747830263458,
-        "updated": 1747830380824,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256he2bvt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256he2bvt.geojson",
-        "title": "M 1.4 - 51 km SSE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.3444,
-          63.1099,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.1,
-        "place": "15 km S of Ackerly, Texas",
-        "time": 1747830223733,
-        "updated": 1747836299544,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwtd",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwtd.geojson",
-        "title": "M 1.1 - 15 km S of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.733,
-          32.389,
-          5.7861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.81,
-        "place": "59 km SW of Adak, Alaska",
-        "time": 1747830087650,
-        "updated": 1747871464860,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93613876",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93613876.geojson",
-        "title": "M 1.8 - 59 km SW of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.24,
-          51.4993333333333,
-          14.58
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.01,
-        "place": "6 km WNW of Fern Forest, Hawaii",
-        "time": 1747829921330,
-        "updated": 1747837297732,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677507",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677507.geojson",
-        "title": "M 2.0 - 6 km WNW of Fern Forest, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.185501098633,
-          19.4966659545898,
-          3.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.22,
-        "place": "22 km WSW of Hāwī, Hawaii",
-        "time": 1747829897910,
-        "updated": 1747904637818,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74677512",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74677512.geojson",
-        "title": "M 3.2 - 22 km WSW of Hāwī, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.0155,
-          20.1285,
-          21.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.8,
-        "place": "34 km WSW of Ackerly, Texas",
-        "time": 1747829425118,
-        "updated": 1747834136136,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jwss",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jwss.geojson",
-        "title": "M 1.8 - 34 km WSW of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.068,
-          32.429,
-          8.9111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "9 km ENE of Borrego Springs, CA",
-        "time": 1747829360470,
-        "updated": 1747832543520,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40971951",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40971951.geojson",
-        "title": "M 1.0 - 9 km ENE of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.2816667,
-          33.2866667,
-          4.46
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.84,
-        "place": "57 km WNW of Tyonek, Alaska",
-        "time": 1747829308870,
-        "updated": 1747871143180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93613861",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93613861.geojson",
-        "title": "M -0.8 - 57 km WNW of Tyonek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.14,
-          61.2485,
-          7.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.43,
-        "place": "1 km NNE of Garden Home-Whitford, Oregon",
-        "time": 1747829174870,
-        "updated": 1747856231640,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62113766",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62113766.geojson",
-        "title": "M 1.4 - 1 km NNE of Garden Home-Whitford, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.75433333333334,
-          45.47266666666667,
-          26.04
         ]
       }
     }
