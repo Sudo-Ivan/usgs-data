@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747944161000,
+    "generated": 1747947763000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
@@ -9,6 +9,146 @@
     "count": 226
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.91,
+        "place": "17 km NE of Borrego Springs, CA",
+        "time": 1747947046980,
+        "updated": 1747947256072,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973143",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973143.geojson",
+        "title": "M 0.9 - 17 km NE of Borrego Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2641667,
+          33.3751667,
+          11.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.27,
+        "place": "9 km WSW of Corona, CA",
+        "time": 1747946716940,
+        "updated": 1747946929997,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973135",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973135.geojson",
+        "title": "M 1.3 - 9 km WSW of Corona, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6573333,
+          33.848,
+          9.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "43 km SSE of Denali National Park, Alaska",
+        "time": 1747946709421,
+        "updated": 1747946840049,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j6hm66",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j6hm66.geojson",
+        "title": "M 1.3 - 43 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3308,
+          63.1904,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "21 km NW of Dadeldhurā, Nepal",
+        "time": 1747944230857,
+        "updated": 1747945998385,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0xq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0xq.geojson",
+        "title": "M 4.6 - 21 km NW of Dadeldhurā, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4502,
+          29.4591,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.81,
+        "place": "1 km ENE of Las Marías, Puerto Rico",
+        "time": 1747944040870,
+        "updated": 1747945084900,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483338",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483338.geojson",
+        "title": "M 2.8 - 1 km ENE of Las Marías, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9786666666667,
+          18.2546666666667,
+          17.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.1,
+        "place": "7 km NE of Yuyapichis, Peru",
+        "time": 1747943856246,
+        "updated": 1747945379040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0wc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0wc.geojson",
+        "title": "M 5.1 - 7 km NE of Yuyapichis, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9246,
+          -9.5803,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.7,
+        "place": "22 km S of Bengkulu, Indonesia",
+        "time": 1747943559084,
+        "updated": 1747945765206,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0w7",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0w7.geojson",
+        "title": "M 5.7 - 22 km S of Bengkulu, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2903,
+          -4.0046,
+          68.077
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -95,7 +235,7 @@
         "mag": 1.17,
         "place": "2 km SE of The Geysers, CA",
         "time": 1747940959260,
-        "updated": 1747942639004,
+        "updated": 1747945637347,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185021",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185021.geojson",
         "title": "M 1.2 - 2 km SE of The Geysers, CA"
@@ -115,7 +255,7 @@
         "mag": 0.96,
         "place": "3 km SW of Anderson Springs, CA",
         "time": 1747940881750,
-        "updated": 1747942037062,
+        "updated": 1747944437205,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185016",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185016.geojson",
         "title": "M 1.0 - 3 km SW of Anderson Springs, CA"
@@ -155,7 +295,7 @@
         "mag": 1.9926397800445557,
         "place": "9 km SSW of Seabeck, Washington",
         "time": 1747940463070,
-        "updated": 1747940687010,
+        "updated": 1747945428123,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114306",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114306.geojson",
         "title": "M 2.0 - 9 km SSW of Seabeck, Washington"
@@ -275,7 +415,7 @@
         "mag": 5,
         "place": "40 km S of Puerto El Triunfo, El Salvador",
         "time": 1747938722394,
-        "updated": 1747940343090,
+        "updated": 1747947429635,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0vi",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0vi.geojson",
         "title": "M 5.0 - 40 km S of Puerto El Triunfo, El Salvador"
@@ -332,20 +472,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.51,
-        "place": "4 km E of Moreno Valley, CA",
-        "time": 1747936791520,
-        "updated": 1747937005863,
+        "mag": 1.38,
+        "place": "3 km E of Moreno Valley, CA",
+        "time": 1747936791360,
+        "updated": 1747946529050,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973023",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973023.geojson",
-        "title": "M 1.5 - 4 km E of Moreno Valley, CA"
+        "title": "M 1.4 - 3 km E of Moreno Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1905,
-          33.9285,
-          11.9
+          -117.1925,
+          33.9271667,
+          14.01
         ]
       }
     },
@@ -832,6 +972,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.08,
+        "place": "32 km WSW of False Pass, Alaska",
+        "time": 1747926341850,
+        "updated": 1747944933740,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93614716",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93614716.geojson",
+        "title": "M 1.1 - 32 km WSW of False Pass, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.879833333333,
+          54.7526666666667,
+          32.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.9,
         "place": "8 km E of Chickasha, Oklahoma",
         "time": 1747925567409,
@@ -946,6 +1106,26 @@
           -122.745666503906,
           38.7848320007324,
           1.47000002861023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.29,
+        "place": "67 km WNW of Beluga, Alaska",
+        "time": 1747923567970,
+        "updated": 1747944630910,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93614701",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93614701.geojson",
+        "title": "M -0.3 - 67 km WNW of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.275,
+          61.3321666666667,
+          1.18
         ]
       }
     },
@@ -2955,7 +3135,7 @@
         "mag": 6.2,
         "place": "61 km NNE of Eloúnda, Greece",
         "time": 1747883975341,
-        "updated": 1747942157707,
+        "updated": 1747947567620,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0pq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0pq.geojson",
         "title": "M 6.2 - 61 km NNE of Eloúnda, Greece"
@@ -3126,6 +3306,26 @@
           -97.82116667,
           35.06466667,
           14.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": -0.95,
+        "place": "64 km WNW of Tyonek, Alaska",
+        "time": 1747879652630,
+        "updated": 1747947701420,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93042319",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93042319.geojson",
+        "title": "M -1.0 - 64 km WNW of Tyonek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.251666666667,
+          61.2846666666667,
+          3.82
         ]
       }
     },
@@ -4326,206 +4526,6 @@
           -64.8295,
           19.2303,
           37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.33,
-        "place": "20 km E of Little Lake, CA",
-        "time": 1747861312750,
-        "updated": 1747864369894,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37544461",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37544461.geojson",
-        "title": "M 0.3 - 20 km E of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6925,
-          35.9105,
-          8.32
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.76,
-        "place": "14 km SSW of Olancha, CA",
-        "time": 1747861258860,
-        "updated": 1747863972841,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972335",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972335.geojson",
-        "title": "M 1.8 - 14 km SSW of Olancha, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0596667,
-          36.1678333,
-          1.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "24 km SW of Jal, New Mexico",
-        "time": 1747860882105,
-        "updated": 1747925980084,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxke",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxke.geojson",
-        "title": "M 2.1 - 24 km SW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.368,
-          31.955,
-          7.3303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "7 km NW of The Geysers, CA",
-        "time": 1747860789340,
-        "updated": 1747862242085,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184626",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184626.geojson",
-        "title": "M 0.8 - 7 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.81950378418,
-          38.8151664733887,
-          1.45000004768372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "23 km SW of Jal, New Mexico",
-        "time": 1747860128028,
-        "updated": 1747927796467,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxjt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxjt.geojson",
-        "title": "M 1.7 - 23 km SW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.366,
-          31.955,
-          7.1381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "23 km SW of Jal, New Mexico",
-        "time": 1747859570565,
-        "updated": 1747920867994,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxjk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxjk.geojson",
-        "title": "M 2.1 - 23 km SW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.365,
-          31.957,
-          6.9202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "23 km SW of Jal, New Mexico",
-        "time": 1747859570494,
-        "updated": 1747923784407,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jxjl",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jxjl.geojson",
-        "title": "M 2.1 - 23 km SW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.365,
-          31.955,
-          6.9714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "269 km NE of Saipan, Northern Mariana Islands",
-        "time": 1747858271912,
-        "updated": 1747859766040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0m6",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0m6.geojson",
-        "title": "M 4.7 - 269 km NE of Saipan, Northern Mariana Islands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.1652,
-          17.2273,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.16,
-        "place": "28 km SE of Virginia City, Montana",
-        "time": 1747857988970,
-        "updated": 1747922352540,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088303",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088303.geojson",
-        "title": "M 1.2 Quarry Blast - 28 km SE of Virginia City, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.7205,
-          45.089,
-          -2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.29,
-        "place": "6 km W of Cobb, CA",
-        "time": 1747857801240,
-        "updated": 1747860440886,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184616",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184616.geojson",
-        "title": "M 0.3 - 6 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.787666320801,
-          38.8219985961914,
-          1.44000005722046
         ]
       }
     }
