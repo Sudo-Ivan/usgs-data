@@ -1,21 +1,181 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747940530000,
+    "generated": 1747944161000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 221
+    "count": 226
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "21 km ESE of Little Lake, CA",
+        "time": 1747942261390,
+        "updated": 1747942469080,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973071",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973071.geojson",
+        "title": "M 1.4 - 21 km ESE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6896667,
+          35.8663333,
+          8.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "28 km SE of Point Possession, Alaska",
+        "time": 1747941950966,
+        "updated": 1747942082588,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j5rzg8",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j5rzg8.geojson",
+        "title": "M 1.4 - 28 km SE of Point Possession, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.3824,
+          60.718,
+          40.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "12 km S of Anchorage, Alaska",
+        "time": 1747941688643,
+        "updated": 1747941799197,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j5r2v4",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j5r2v4.geojson",
+        "title": "M 1.6 - 12 km S of Anchorage, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9156,
+          61.1062,
+          31.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.54,
+        "place": "11 km NNW of Warner Springs, CA",
+        "time": 1747941619630,
+        "updated": 1747941827636,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973055",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973055.geojson",
+        "title": "M 0.5 - 11 km NNW of Warner Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6918333,
+          33.3663333,
+          14.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.17,
+        "place": "2 km SE of The Geysers, CA",
+        "time": 1747940959260,
+        "updated": 1747942639004,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185021",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185021.geojson",
+        "title": "M 1.2 - 2 km SE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.737503051758,
+          38.7686653137207,
+          2.32999992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "3 km SW of Anderson Springs, CA",
+        "time": 1747940881750,
+        "updated": 1747942037062,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185016",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185016.geojson",
+        "title": "M 1.0 - 3 km SW of Anderson Springs, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.706832885742,
+          38.7491683959961,
+          1.22000002861023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "34 km E of McKinney Acres, Texas",
+        "time": 1747940785320,
+        "updated": 1747944102554,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzbt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzbt.geojson",
+        "title": "M 1.9 - 34 km E of McKinney Acres, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.169,
+          32.361,
+          3.8893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9926397800445557,
+        "place": "9 km SSW of Seabeck, Washington",
+        "time": 1747940463070,
+        "updated": 1747940687010,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114306",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114306.geojson",
+        "title": "M 2.0 - 9 km SSW of Seabeck, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87433624267578,
+          47.55866622924805,
+          23.5900001525879
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.9,
         "place": "42 km WSW of Skwentna, Alaska",
         "time": 1747940037718,
-        "updated": 1747940137245,
+        "updated": 1747940773250,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j5ckez",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j5ckez.geojson",
         "title": "M 0.9 - 42 km WSW of Skwentna, Alaska"
@@ -32,20 +192,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.27999997,
-        "place": "15 km S of Volcano, Hawaii",
-        "time": 1747939896560,
-        "updated": 1747940094840,
+        "mag": 2.48,
+        "place": "14 km S of Volcano, Hawaii",
+        "time": 1747939896630,
+        "updated": 1747941567930,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678522",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678522.geojson",
-        "title": "M 2.3 - 15 km S of Volcano, Hawaii"
+        "title": "M 2.5 - 14 km S of Volcano, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.211334228516,
-          19.3064994812012,
-          6.6100001335144
+          -155.216333333333,
+          19.3131666666667,
+          6.96
         ]
       }
     },
@@ -372,6 +532,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.72,
+        "place": "4 km WSW of Mount Vernon, Washington",
+        "time": 1747930668240,
+        "updated": 1747941624376,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114211",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114211.geojson",
+        "title": "M 1.7 - 4 km WSW of Mount Vernon, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39,
+          48.400166666666664,
+          11.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.38,
         "place": "10 km NW of The Geysers, CA",
         "time": 1747929982120,
@@ -426,6 +606,26 @@
           -155.011166666667,
           19.3923333333333,
           7.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "17 km WSW of Dutch Harbor, Alaska",
+        "time": 1747929410480,
+        "updated": 1747942269700,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93614771",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93614771.geojson",
+        "title": "M 0.7 - 17 km WSW of Dutch Harbor, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.796166666667,
+          53.8491666666667,
+          8.47
         ]
       }
     },
@@ -592,6 +792,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 1.47,
+        "place": "9 km E of Orcas, Washington",
+        "time": 1747926614040,
+        "updated": 1747941276360,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114171",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114171.geojson",
+        "title": "M 1.5 - 9 km E of Orcas, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81183333333334,
+          48.606833333333334,
+          17.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.36,
         "place": "6 km S of Harrison, Montana",
         "time": 1747926532300,
@@ -666,6 +886,26 @@
           -116.2556667,
           33.9063333,
           7.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.15,
+        "place": "10 km E of Orcas, Washington",
+        "time": 1747924469650,
+        "updated": 1747940567730,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114156",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114156.geojson",
+        "title": "M 0.2 - 10 km E of Orcas, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79933333333334,
+          48.6095,
+          16.77
         ]
       }
     },
@@ -1412,20 +1652,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.95,
+        "mag": 1.64,
         "place": "14 km S of Fern Forest, Hawaii",
-        "time": 1747905356680,
-        "updated": 1747905553490,
+        "time": 1747905356620,
+        "updated": 1747943669860,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678382",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678382.geojson",
-        "title": "M 2.0 - 14 km S of Fern Forest, Hawaii"
+        "title": "M 1.6 - 14 km S of Fern Forest, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.141494750977,
-          19.3328342437744,
-          4.48000001907349
+          -155.142333333333,
+          19.335,
+          6.11
         ]
       }
     },
@@ -2272,6 +2512,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 2.09,
+        "place": "9 km E of Waikoloa, Hawaii",
+        "time": 1747891516810,
+        "updated": 1747943906130,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678287",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678287.geojson",
+        "title": "M 2.1 - 9 km E of Waikoloa, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6995,
+          19.9231666666667,
+          -0.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.85,
         "place": "12 km SE of Borrego Springs, CA",
         "time": 1747890967810,
@@ -2695,7 +2955,7 @@
         "mag": 6.2,
         "place": "61 km NNE of Eloúnda, Greece",
         "time": 1747883975341,
-        "updated": 1747939339540,
+        "updated": 1747942157707,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0pq",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0pq.geojson",
         "title": "M 6.2 - 61 km NNE of Eloúnda, Greece"
@@ -4266,166 +4526,6 @@
           -122.787666320801,
           38.8219985961914,
           1.44000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.85,
-        "place": "6 km SSW of Idyllwild, CA",
-        "time": 1747857102100,
-        "updated": 1747860255472,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972295",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972295.geojson",
-        "title": "M 0.9 - 6 km SSW of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.737,
-          33.687,
-          16.11
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.62,
-        "place": "12 km E of Greenwater, Washington",
-        "time": 1747856629270,
-        "updated": 1747864498280,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62113966",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62113966.geojson",
-        "title": "M 1.6 - 12 km E of Greenwater, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.49066666666667,
-          47.17216666666667,
-          9.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747856250790,
-        "updated": 1747858039606,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184611",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184611.geojson",
-        "title": "M 1.4 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797668457031,
-          38.8354988098145,
-          1.91999995708466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.2,
-        "place": "South Sandwich Islands region",
-        "time": 1747856171460,
-        "updated": 1747858143040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0m0",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0m0.geojson",
-        "title": "M 5.2 - South Sandwich Islands region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.6599,
-          -56.8127,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "4 km NW of The Geysers, CA",
-        "time": 1747855251500,
-        "updated": 1747855349764,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184601",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184601.geojson",
-        "title": "M 0.8 - 4 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.800331115723,
-          38.7971649169922,
-          3.77999997138977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.98,
-        "place": "14 km W of Johannesburg, CA",
-        "time": 1747855206970,
-        "updated": 1747859583406,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972247",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972247.geojson",
-        "title": "M 2.0 - 14 km W of Johannesburg, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7906667,
-          35.3498333,
-          6.44
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.31,
-        "place": "5 km SSW of Coquille, Oregon",
-        "time": 1747854227180,
-        "updated": 1747870382580,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62113941",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62113941.geojson",
-        "title": "M 1.3 Explosion - 5 km SSW of Coquille, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.22283333333333,
-          43.133833333333335,
-          -0.51
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "5 km E of Butte, Montana",
-        "time": 1747854169820,
-        "updated": 1747856238100,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088293",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088293.geojson",
-        "title": "M 1.5 Quarry Blast - 5 km E of Butte, Montana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.467666666667,
-          45.9998333333333,
-          -2
         ]
       }
     }
