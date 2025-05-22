@@ -1,171 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747929770000,
+    "generated": 1747933320000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 10
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.15,
-        "place": "12 km SW of Leilani Estates, Hawaii",
-        "time": 1747929415750,
-        "updated": 1747929601150,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678447",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678447.geojson",
-        "title": "M 2.2 - 12 km SW of Leilani Estates, Hawaii"
+        "mag": 0.98,
+        "place": "2 km ESE of Lake Henshaw, CA",
+        "time": 1747932713020,
+        "updated": 1747932923308,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972879",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972879.geojson",
+        "title": "M 1.0 - 2 km ESE of Lake Henshaw, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -154.995834350586,
-          19.3833332061768,
-          5.03000020980835
+          -116.7385,
+          33.2346667,
+          11.37
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.53,
-        "place": "10 km NW of The Geysers, CA",
-        "time": 1747929246200,
-        "updated": 1747929341024,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184986",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184986.geojson",
-        "title": "M 0.5 - 10 km NW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "38 km NW of Stanton, Texas",
+        "time": 1747931163174,
+        "updated": 1747931679204,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jywl",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jywl.geojson",
+        "title": "M 1.1 - 38 km NW of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.840835571289,
-          38.8428344726562,
-          2.1800000667572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "66 km WNW of Beluga, Alaska",
-        "time": 1747929150982,
-        "updated": 1747929271994,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j3jztm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j3jztm.geojson",
-        "title": "M 1.4 - 66 km WNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.2723,
-          61.3121,
-          1.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "10 km ESE of Susitna, Alaska",
-        "time": 1747929013383,
-        "updated": 1747929130401,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j3jj16",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j3jj16.geojson",
-        "title": "M 1.9 - 10 km ESE of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.3138,
-          61.523,
-          28.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.53,
-        "place": "11 km WNW of Cobb, CA",
-        "time": 1747927848730,
-        "updated": 1747929437637,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184981",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184981.geojson",
-        "title": "M 0.5 - 11 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.840835571289,
-          38.8461685180664,
-          2.03999996185303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.24,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1747927726460,
-        "updated": 1747928839653,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184976",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184976.geojson",
-        "title": "M 1.2 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.799163818359,
-          38.8148345947266,
-          3.1800000667572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.14,
-        "place": "7 km S of Lytle Creek, CA",
-        "time": 1747927587970,
-        "updated": 1747927809703,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972831",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972831.geojson",
-        "title": "M 1.1 - 7 km S of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4851667,
-          34.1991667,
-          3.73
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.47,
-        "place": "10 km E of Chickasha, Oklahoma",
-        "time": 1747927483039,
-        "updated": 1747928912632,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025jyul",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025jyul.geojson",
-        "title": "M 1.5 - 10 km E of Chickasha, Oklahoma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.82383333,
-          35.04266667,
-          7.59
+          -102.092,
+          32.363,
+          8.5088
         ]
       }
     },
@@ -173,39 +53,39 @@
       "type": "Feature",
       "properties": {
         "mag": 0.38,
-        "place": "19 km SSE of Swan Lake, Montana",
-        "time": 1747927320540,
-        "updated": 1747929716820,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088548",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088548.geojson",
-        "title": "M 0.4 - 19 km SSE of Swan Lake, Montana"
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1747929982120,
+        "updated": 1747932136901,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184991",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184991.geojson",
+        "title": "M 0.4 - 10 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.734166666667,
-          47.7678333333333,
-          7.86
+          -122.842330932617,
+          38.8413314819336,
+          4.51999998092651
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.36,
-        "place": "6 km S of Harrison, Montana",
-        "time": 1747926532300,
-        "updated": 1747928470880,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90088513",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90088513.geojson",
-        "title": "M 0.4 - 6 km S of Harrison, Montana"
+        "mag": 0.66,
+        "place": "2 km ENE of Lake Arrowhead, CA",
+        "time": 1747929970700,
+        "updated": 1747930182150,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972863",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972863.geojson",
+        "title": "M 0.7 - 2 km ENE of Lake Arrowhead, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.794666666667,
-          45.6413333333333,
-          3.91
+          -117.1713333,
+          34.2535,
+          3.49
         ]
       }
     }
