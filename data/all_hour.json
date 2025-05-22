@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747919484000,
+    "generated": 1747922520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 3
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.82,
+        "place": "5 km WNW of Cobb, CA",
+        "time": 1747920032410,
+        "updated": 1747920737679,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184941",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184941.geojson",
+        "title": "M 0.8 - 5 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.775665283203,
+          38.8368339538574,
+          8.36999988555908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.98,
+        "place": "4 km W of Cobb, CA",
+        "time": 1747919979160,
+        "updated": 1747921937804,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184936",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184936.geojson",
+        "title": "M 2.0 - 4 km W of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.765830993652,
+          38.8213348388672,
+          1.80999994277954
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,86 +66,6 @@
           -122.779502868652,
           38.8343315124512,
           1.88999998569489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "18 km NW of Parkfield, CA",
-        "time": 1747918682770,
-        "updated": 1747918780578,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184916",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184916.geojson",
-        "title": "M 1.3 - 18 km NW of Parkfield, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.606163024902,
-          35.9751663208008,
-          1.73000001907349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "33 km NW of Valdez, Alaska",
-        "time": 1747918447197,
-        "updated": 1747918664494,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j1s2lr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j1s2lr.geojson",
-        "title": "M 1.5 - 33 km NW of Valdez, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.7548,
-          61.3564,
-          29.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "8 km S of Banning, CA",
-        "time": 1747916857330,
-        "updated": 1747917068327,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972743",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972743.geojson",
-        "title": "M 0.7 - 8 km S of Banning, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8731667,
-          33.8538333,
-          9.42
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.53,
-        "place": "5 km NE of Lompoc, CA",
-        "time": 1747916824740,
-        "updated": 1747919010625,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972735",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972735.geojson",
-        "title": "M 2.5 - 5 km NE of Lompoc, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.4126667,
-          34.6686667,
-          11.05
         ]
       }
     }
