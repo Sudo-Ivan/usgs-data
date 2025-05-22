@@ -1,231 +1,131 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747897344000,
+    "generated": 1747900970000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 11
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.2,
-        "place": "11 km SSW of Gateway, Alaska",
-        "time": 1747897189500,
-        "updated": 1747897306018,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iy8mti",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iy8mti.geojson",
-        "title": "M 1.2 - 11 km SSW of Gateway, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.2979,
-          61.4719,
-          31.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.47,
-        "place": "6 km WSW of Anza, CA",
-        "time": 1747896511340,
-        "updated": 1747896728785,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972655",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972655.geojson",
-        "title": "M 0.5 - 6 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7326667,
-          33.529,
-          4.74
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "85 km N of Karluk, Alaska",
-        "time": 1747896373668,
-        "updated": 1747896474244,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iy5rqu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iy5rqu.geojson",
-        "title": "M 2.1 - 85 km N of Karluk, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.649,
-          58.3331,
-          9.7
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.93,
-        "place": "17 km ESE of Little Lake, CA",
-        "time": 1747896102450,
-        "updated": 1747896318687,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972647",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972647.geojson",
-        "title": "M 0.9 - 17 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.724,
-          35.8875,
-          3.88
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "13 km WSW of Stanton, Texas",
-        "time": 1747896093091,
-        "updated": 1747896847378,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jydn",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jydn.geojson",
-        "title": "M 1.2 - 13 km WSW of Stanton, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.926,
-          32.102,
-          3.6258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "49 km WSW of Longyearbyen, Svalbard and Jan Mayen",
-        "time": 1747896039142,
-        "updated": 1747896921040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0qy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0qy.geojson",
-        "title": "M 4.5 - 49 km WSW of Longyearbyen, Svalbard and Jan Mayen"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7956,
-          77.998,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "18 km ENE of Little Lake, CA",
-        "time": 1747895482760,
-        "updated": 1747895694457,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972639",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972639.geojson",
-        "title": "M 0.8 - 18 km ENE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7285,
-          36.0161667,
-          1.38
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.13,
-        "place": "2 km ENE of Río Cañas Abajo, Puerto Rico",
-        "time": 1747895307670,
-        "updated": 1747896243490,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483213",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483213.geojson",
-        "title": "M 2.1 - 2 km ENE of Río Cañas Abajo, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.4453333333333,
-          18.044,
-          16.88
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.71,
-        "place": "11 km NE of Cabazon, CA",
-        "time": 1747895219880,
-        "updated": 1747895424424,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972631",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972631.geojson",
-        "title": "M 0.7 - 11 km NE of Cabazon, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6926667,
-          33.9828333,
-          17.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "mag": 0.83,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747895048770,
-        "updated": 1747896136915,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184796",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184796.geojson",
-        "title": "M 0.8 - 9 km NW of The Geysers, CA"
+        "place": "11 km S of Big Bear City, CA",
+        "time": 1747900310180,
+        "updated": 1747900529129,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972671",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972671.geojson",
+        "title": "M 0.8 - 11 km S of Big Bear City, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.842666625977,
-          38.8230018615723,
-          2.15000009536743
+          -116.839,
+          34.1653333,
+          5.32
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.63,
-        "place": "8 km SSW of Idyllwild, CA",
-        "time": 1747893883600,
-        "updated": 1747894156283,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972615",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972615.geojson",
-        "title": "M 0.6 - 8 km SSW of Idyllwild, CA"
+        "mag": 1.1,
+        "place": "33 km N of Searles Valley, CA",
+        "time": 1747899867800,
+        "updated": 1747900073553,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40972663",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40972663.geojson",
+        "title": "M 1.1 - 33 km N of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.7483333,
-          33.6701667,
-          15.86
+          -117.3775,
+          36.0613333,
+          -0.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "30 km SSE of Midland, Texas",
+        "time": 1747899830860,
+        "updated": 1747900453883,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jyfw",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jyfw.geojson",
+        "title": "M 1.0 - 30 km SSE of Midland, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.945,
+          31.746,
+          6.5073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.8,
+        "place": "26 km WNW of Valdez, Alaska",
+        "time": 1747898929999,
+        "updated": 1747899112973,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iynf9j",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iynf9j.geojson",
+        "title": "M 1.8 - 26 km WNW of Valdez, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.8176,
+          61.2097,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "7 km NNE of Beluga, Alaska",
+        "time": 1747897510745,
+        "updated": 1747897642314,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256iyierm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256iyierm.geojson",
+        "title": "M 1.3 - 7 km NNE of Beluga, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0265,
+          61.2024,
+          62.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.07,
+        "place": "4 km NNW of The Geysers, CA",
+        "time": 1747897413760,
+        "updated": 1747897925377,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75184811",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75184811.geojson",
+        "title": "M 1.1 - 4 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77466583252,
+          38.8106651306152,
+          1.47000002861023
         ]
       }
     }
