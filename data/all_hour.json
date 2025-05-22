@@ -1,111 +1,51 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747951370000,
+    "generated": 1747954944000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 2
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.85,
-        "place": "4 km  of The Geysers, CA",
-        "time": 1747950840290,
-        "updated": 1747950936460,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185076",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185076.geojson",
-        "title": "M 0.9 - 4 km  of The Geysers, CA"
+        "mag": 1.5,
+        "place": "40 km N of Valdez, Alaska",
+        "time": 1747953126231,
+        "updated": 1747953234937,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j7lotr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j7lotr.geojson",
+        "title": "M 1.5 - 40 km N of Valdez, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.773170471191,
-          38.8096656799316,
-          1.04999995231628
+          -146.443,
+          61.4888,
+          30.2
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.2,
-        "place": "55 km SE of King Salmon, Alaska",
-        "time": 1747950147255,
-        "updated": 1747951013566,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j72g05",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j72g05.geojson",
-        "title": "M 3.2 - 55 km SE of King Salmon, Alaska"
+        "mag": 0.72,
+        "place": "13 km E of Cloverdale, CA",
+        "time": 1747952035680,
+        "updated": 1747952130340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185081",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185081.geojson",
+        "title": "M 0.7 - 13 km E of Cloverdale, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.9719,
-          58.3422,
-          2.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "4 km ENE of Rancho San Diego, CA",
-        "time": 1747949416210,
-        "updated": 1747950040990,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973199",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973199.geojson",
-        "title": "M 1.5 - 4 km ENE of Rancho San Diego, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.9018333,
-          32.766,
-          3.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.4,
-        "place": "34 km SSW of Urakawa, Japan",
-        "time": 1747949281572,
-        "updated": 1747951123474,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0yk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0yk.geojson",
-        "title": "M 5.4 - 34 km SSW of Urakawa, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.5587,
-          41.8988,
-          59.039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.64,
-        "place": "23 km NNW of Borrego Springs, CA",
-        "time": 1747948304840,
-        "updated": 1747949369405,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973167",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973167.geojson",
-        "title": "M 0.6 - 23 km NNW of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4278333,
-          33.4598333,
-          5.15
+          -122.87833404541,
+          38.8409996032715,
+          2.21000003814697
         ]
       }
     }
