@@ -1,71 +1,111 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747963770000,
+    "generated": 1747967497000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 5
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.57,
-        "place": "11 km NNW of Warner Springs, CA",
-        "time": 1747962588900,
-        "updated": 1747962798788,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973279",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973279.geojson",
-        "title": "M 0.6 - 11 km NNW of Warner Springs, CA"
+        "mag": 1.9,
+        "place": "31 km NW of Toyah, Texas",
+        "time": 1747967169321,
+        "updated": 1747967388895,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzqt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzqt.geojson",
+        "title": "M 1.9 - 31 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.6865,
-          33.374,
-          11.5
+          -104.042,
+          31.5,
+          3.9208
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.8,
-        "place": "11 km ENE of Fritz Creek, Alaska",
-        "time": 1747961006623,
-        "updated": 1747961170933,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ki3wgm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ki3wgm.geojson",
-        "title": "M 1.8 - 11 km ENE of Fritz Creek, Alaska"
+        "mag": 1.36,
+        "place": "7 km WSW of Petrolia, CA",
+        "time": 1747967100610,
+        "updated": 1747967196251,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185156",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185156.geojson",
+        "title": "M 1.4 - 7 km WSW of Petrolia, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.0924,
-          59.7667,
-          46.9
+          -124.354331970215,
+          40.2960014343262,
+          7.01999998092651
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "15 km S of Knik River, Alaska",
-        "time": 1747960497844,
-        "updated": 1747960626818,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ki21fc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ki21fc.geojson",
-        "title": "M 1.7 - 15 km S of Knik River, Alaska"
+        "mag": 1.19,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1747965255840,
+        "updated": 1747965351149,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185136",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185136.geojson",
+        "title": "M 1.2 - 8 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.9605,
-          61.3227,
-          23.5
+          -122.817665100098,
+          38.8296661376953,
+          1.85000002384186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "39 km SSE of Denali National Park, Alaska",
+        "time": 1747964889875,
+        "updated": 1747965003824,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kiqdcr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kiqdcr.geojson",
+        "title": "M 2.1 - 39 km SSE of Denali National Park, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.2919,
+          63.2434,
+          6.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.51,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1747964740950,
+        "updated": 1747966338714,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185126",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185126.geojson",
+        "title": "M 0.5 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.799667358398,
+          38.8191680908203,
+          4.28999996185303
         ]
       }
     }
