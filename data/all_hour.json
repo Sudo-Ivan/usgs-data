@@ -1,51 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747959024000,
+    "generated": 1747963770000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 2
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "15 km ENE of Midland, Texas",
-        "time": 1747957738296,
-        "updated": 1747958293296,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzlc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzlc.geojson",
-        "title": "M 1.4 - 15 km ENE of Midland, Texas"
+        "mag": 0.57,
+        "place": "11 km NNW of Warner Springs, CA",
+        "time": 1747962588900,
+        "updated": 1747962798788,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973279",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973279.geojson",
+        "title": "M 0.6 - 11 km NNW of Warner Springs, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.937,
-          32.065,
-          3.9442
+          -116.6865,
+          33.374,
+          11.5
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "4 km SE of Clam Gulch, Alaska",
-        "time": 1747956258766,
-        "updated": 1747956372932,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j85fo4",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j85fo4.geojson",
-        "title": "M 1.5 - 4 km SE of Clam Gulch, Alaska"
+        "mag": 1.8,
+        "place": "11 km ENE of Fritz Creek, Alaska",
+        "time": 1747961006623,
+        "updated": 1747961170933,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ki3wgm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ki3wgm.geojson",
+        "title": "M 1.8 - 11 km ENE of Fritz Creek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.3398,
-          60.1989,
-          69
+          -151.0924,
+          59.7667,
+          46.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "15 km S of Knik River, Alaska",
+        "time": 1747960497844,
+        "updated": 1747960626818,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ki21fc",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ki21fc.geojson",
+        "title": "M 1.7 - 15 km S of Knik River, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9605,
+          61.3227,
+          23.5
         ]
       }
     }
