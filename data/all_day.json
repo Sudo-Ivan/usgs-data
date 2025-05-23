@@ -1,14 +1,154 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748034117000,
+    "generated": 1748037741000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 228
+    "count": 233
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "27 km ENE of Crane, Texas",
+        "time": 1748037059758,
+        "updated": 1748037616884,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kbcv",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kbcv.geojson",
+        "title": "M 1.1 - 27 km ENE of Crane, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.096,
+          31.522,
+          9.0081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "57 km S of Whites City, New Mexico",
+        "time": 1748036514509,
+        "updated": 1748037659833,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kbci",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kbci.geojson",
+        "title": "M 1.6 - 57 km S of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.373,
+          31.655,
+          4.8411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.65,
+        "place": "5 km SE of Home Gardens, CA",
+        "time": 1748036384780,
+        "updated": 1748037048560,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974079",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974079.geojson",
+        "title": "M 1.7 - 5 km SE of Home Gardens, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4886667,
+          33.843,
+          2.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.06,
+        "place": "11 km WNW of Dunnigan, CA",
+        "time": 1748035921910,
+        "updated": 1748037390018,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185631",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185631.geojson",
+        "title": "M 3.1 - 11 km WNW of Dunnigan, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.083831787109,
+          38.9174995422363,
+          0.389999985694885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "54 km E of Port Alsworth, Alaska",
+        "time": 1748034779341,
+        "updated": 1748034910162,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kuffhq",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kuffhq.geojson",
+        "title": "M 1.9 - 54 km E of Port Alsworth, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3402,
+          60.2197,
+          155.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.6,
+        "place": "12 km SSE of Anza, CA",
+        "time": 1748034304430,
+        "updated": 1748034552699,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974031",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974031.geojson",
+        "title": "M 0.6 - 12 km SSE of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6123333,
+          33.4595,
+          10.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.93,
+        "place": "8 km WNW of Cobb, CA",
+        "time": 1748034034190,
+        "updated": 1748035040238,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185621",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185621.geojson",
+        "title": "M 0.9 - 8 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.810501098633,
+          38.8386650085449,
+          1.88999998569489
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -32,20 +172,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.37,
-        "place": "12 km NW of Pawnee, Oklahoma",
-        "time": 1748032356396,
-        "updated": 1748033756048,
+        "mag": 3.18,
+        "place": "11 km NW of Pawnee, Oklahoma",
+        "time": 1748032355880,
+        "updated": 1748034595148,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025kbac",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025kbac.geojson",
-        "title": "M 3.4 - 12 km NW of Pawnee, Oklahoma"
+        "title": "M 3.2 - 11 km NW of Pawnee, Oklahoma"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.88963318,
-          36.42129517,
-          1.540768623
+          -96.8875,
+          36.42133333,
+          7.34
         ]
       }
     },
@@ -132,6 +272,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.8,
+        "place": "49 km E of Caucete, Argentina",
+        "time": 1748031019991,
+        "updated": 1748036922040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q16k",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q16k.geojson",
+        "title": "M 4.8 - 49 km E of Caucete, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7688,
+          -31.5866,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.9,
         "place": "17 km NW of Wink, Texas",
         "time": 1748030635548,
@@ -152,10 +312,30 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.7,
+        "place": "35 km WNW of Hihifo, Tonga",
+        "time": 1748029434673,
+        "updated": 1748037661040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q16g",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q16g.geojson",
+        "title": "M 4.7 - 35 km WNW of Hihifo, Tonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.1137,
+          -15.8631,
+          153.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.29,
         "place": "10 km NW of The Geysers, CA",
         "time": 1748029328890,
-        "updated": 1748031738853,
+        "updated": 1748034737200,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185601",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185601.geojson",
         "title": "M 1.3 - 10 km NW of The Geysers, CA"
@@ -692,20 +872,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5638294219970703,
-        "place": "2 km NE of Humptulips, Washington",
-        "time": 1748019724470,
-        "updated": 1748019857970,
+        "mag": 1.62,
+        "place": "2 km ENE of Humptulips, Washington",
+        "time": 1748019724720,
+        "updated": 1748035351270,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114796",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114796.geojson",
-        "title": "M 1.6 - 2 km NE of Humptulips, Washington"
+        "title": "M 1.6 - 2 km ENE of Humptulips, Washington"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.93233489990234,
-          47.24516677856445,
-          0.720000028610229
+          -123.92933333333333,
+          47.24316666666667,
+          -0.17
         ]
       }
     },
@@ -755,7 +935,7 @@
         "mag": 5.3,
         "place": "87 km N of Nyngan, Australia",
         "time": 1748018173790,
-        "updated": 1748033401531,
+        "updated": 1748036892080,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q14n",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q14n.geojson",
         "title": "M 5.3 - 87 km N of Nyngan, Australia"
@@ -1272,6 +1452,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": -0.2,
+        "place": "35 km WNW of Indian Springs, Nevada",
+        "time": 1748009505826,
+        "updated": 1748036356770,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897903",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897903.geojson",
+        "title": "M -0.2 - 35 km WNW of Indian Springs, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9989,
+          36.7429,
+          8.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 1.45,
         "place": "5 km NNE of Windsor, CA",
         "time": 1748009003030,
@@ -1395,7 +1595,7 @@
         "mag": 3.8,
         "place": "18 km WSW of Fairview, Wyoming",
         "time": 1748005695731,
-        "updated": 1748033042295,
+        "updated": 1748037006632,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q128",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q128.geojson",
         "title": "M 3.8 - 18 km WSW of Fairview, Wyoming"
@@ -1612,6 +1812,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.38,
+        "place": "23 km ENE of Ashford, Washington",
+        "time": 1748001472930,
+        "updated": 1748035585120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114736",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114736.geojson",
+        "title": "M 0.4 - 23 km ENE of Ashford, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76016666666666,
+          46.85,
+          0.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 2.6,
         "place": "23 km SW of Jal, New Mexico",
         "time": 1748001440141,
@@ -1692,20 +1912,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.33000004,
+        "mag": 0.98,
         "place": "23 km ENE of Ashford, Washington",
-        "time": 1748001156630,
-        "updated": 1748001273400,
+        "time": 1748001156610,
+        "updated": 1748037711600,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114721",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114721.geojson",
-        "title": "M 1.3 - 23 km ENE of Ashford, Washington"
+        "title": "M 1.0 - 23 km ENE of Ashford, Washington"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75566864013672,
-          46.84783172607422,
-          -1.55999994277954
+          -121.76133333333334,
+          46.851166666666664,
+          -1.75
         ]
       }
     },
@@ -3552,6 +3772,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.8,
+        "place": "18 km SSW of Kingvale, California",
+        "time": 1747972859975,
+        "updated": 1748037644644,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897906",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897906.geojson",
+        "title": "M 0.8 - 18 km SSW of Kingvale, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5409,
+          39.1837,
+          14.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 4.4,
         "place": "132 km N of Lobuche, Nepal",
         "time": 1747972644233,
@@ -3566,6 +3806,26 @@
           86.8525,
           29.1469,
           10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "13 km WSW of Verdi, California",
+        "time": 1747972589658,
+        "updated": 1748037458667,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897905",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897905.geojson",
+        "title": "M 0.8 - 13 km WSW of Verdi, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1671,
+          39.4895,
+          8.9
         ]
       }
     },
@@ -4406,166 +4666,6 @@
           -122.87833404541,
           38.8409996032715,
           2.21000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.46,
-        "place": "2 km SSE of New Hope, Oregon",
-        "time": 1747951046560,
-        "updated": 1747955113660,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114446",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114446.geojson",
-        "title": "M 1.5 Explosion - 2 km SSE of New Hope, Oregon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.35483333333333,
-          42.347,
-          -0.71
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.97,
-        "place": "166 km W of Adak, Alaska",
-        "time": 1747951014140,
-        "updated": 1747971200010,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93614966",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93614966.geojson",
-        "title": "M 2.0 - 166 km W of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -179.042666666667,
-          51.7978333333333,
-          9.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.85,
-        "place": "4 km  of The Geysers, CA",
-        "time": 1747950840290,
-        "updated": 1747952838220,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185076",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185076.geojson",
-        "title": "M 0.9 - 4 km  of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.773170471191,
-          38.8096656799316,
-          1.04999995231628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.2,
-        "place": "55 km SE of King Salmon, Alaska",
-        "time": 1747950147255,
-        "updated": 1747971024070,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256j72g05",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256j72g05.geojson",
-        "title": "M 3.2 - 55 km SE of King Salmon, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.9719,
-          58.3422,
-          2.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.43,
-        "place": "5 km ESE of Bostonia, CA",
-        "time": 1747949415930,
-        "updated": 1747956848210,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973199",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973199.geojson",
-        "title": "M 1.4 Quarry Blast - 5 km ESE of Bostonia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.8901667,
-          32.7821667,
-          -0.26
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.4,
-        "place": "34 km SSW of Urakawa, Japan",
-        "time": 1747949281572,
-        "updated": 1748027141040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0yk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0yk.geojson",
-        "title": "M 5.4 - 34 km SSW of Urakawa, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.5587,
-          41.8988,
-          59.039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 3.3,
-        "place": "6 km NW of Sabana de la Mar, Dominican Republic",
-        "time": 1747948922704,
-        "updated": 1747966191040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0yj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q0yj.geojson",
-        "title": "M 3.3 - 6 km NW of Sabana de la Mar, Dominican Republic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.4315,
-          19.1053,
-          10.042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.64,
-        "place": "23 km NNW of Borrego Springs, CA",
-        "time": 1747948304850,
-        "updated": 1747957024807,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973167",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973167.geojson",
-        "title": "M 0.6 - 23 km NNW of Borrego Springs, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.4278333,
-          33.4588333,
-          5.78
         ]
       }
     }
