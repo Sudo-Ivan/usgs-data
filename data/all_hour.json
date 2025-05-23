@@ -1,91 +1,151 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747976568000,
+    "generated": 1747980180000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 7
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.47,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1747975249430,
-        "updated": 1747975346438,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185191",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185191.geojson",
-        "title": "M 1.5 - 3 km NW of The Geysers, CA"
+        "mag": 0.81,
+        "place": "1 km NW of The Geysers, CA",
+        "time": 1747979436420,
+        "updated": 1747979531906,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185211",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185211.geojson",
+        "title": "M 0.8 - 1 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.78483581543,
-          38.7973327636719,
-          3.27999997138977
+          -122.764999389648,
+          38.7804985046387,
+          3.75
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.77,
-        "place": "2 km  of The Geysers, CA",
-        "time": 1747974967580,
-        "updated": 1747975065928,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185186",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185186.geojson",
-        "title": "M 0.8 - 2 km  of The Geysers, CA"
+        "mag": 1.85000002,
+        "place": "5 km SSW of Pāhala, Hawaii",
+        "time": 1747979015660,
+        "updated": 1747979334790,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678887",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678887.geojson",
+        "title": "M 1.9 - 5 km SSW of Pāhala, Hawaii"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.765167236328,
-          38.7970008850098,
-          12.5900001525879
+          -155.500335693359,
+          19.1580009460449,
+          32.2200012207031
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.08,
-        "place": "4 km NNW of The Geysers, CA",
-        "time": 1747974950280,
-        "updated": 1747975939726,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185181",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185181.geojson",
-        "title": "M 1.1 - 4 km NNW of The Geysers, CA"
+        "mag": 0.74,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1747978885470,
+        "updated": 1747978981661,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185206",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185206.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.780502319336,
-          38.8035011291504,
-          2.99000000953674
+          -122.800498962402,
+          38.837833404541,
+          1.63999998569489
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.16,
-        "place": "10 km SSW of Bodfish, CA",
-        "time": 1747974753330,
-        "updated": 1747974963121,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973351",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973351.geojson",
-        "title": "M 1.2 - 10 km SSW of Bodfish, CA"
+        "mag": 0.8,
+        "place": "21 km NNE of Yerington, Nevada",
+        "time": 1747978792177,
+        "updated": 1747978915876,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897880",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897880.geojson",
+        "title": "M 0.8 - 21 km NNE of Yerington, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.5265,
-          35.5026667,
-          3.91
+          -119.0495,
+          39.154,
+          7.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "30 km NE of Chenega, Alaska",
+        "time": 1747977438592,
+        "updated": 1747977561719,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kkxh8z",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kkxh8z.geojson",
+        "title": "M 1.9 - 30 km NE of Chenega, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6795,
+          60.284,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "31 km SW of Petersville, Alaska",
+        "time": 1747976925908,
+        "updated": 1747977188040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kkvlwo",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kkvlwo.geojson",
+        "title": "M 2.2 - 31 km SW of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1894,
+          62.2941,
+          86.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "152 km SSW of Leava, Wallis and Futuna",
+        "time": 1747976780772,
+        "updated": 1747977660040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q10l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q10l.geojson",
+        "title": "M 4.6 - 152 km SSW of Leava, Wallis and Futuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.7274,
+          -15.5557,
+          422.364
         ]
       }
     }
