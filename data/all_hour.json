@@ -1,131 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748005824000,
+    "generated": 1748008950000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.79,
-        "place": "8 km NW of The Geysers, CA",
-        "time": 1748004936590,
-        "updated": 1748005034962,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185441",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185441.geojson",
-        "title": "M 0.8 - 8 km NW of The Geysers, CA"
+        "mag": 0.25,
+        "place": "23 km WNW of Searles Valley, CA",
+        "time": 1748008116780,
+        "updated": 1748008323671,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973575",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973575.geojson",
+        "title": "M 0.3 - 23 km WNW of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.841003417969,
-          38.8089981079102,
-          6.32999992370605
+          -117.6316667,
+          35.8686667,
+          8.29
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.24,
-        "place": "3 km ESE of Vincent, CA",
-        "time": 1748004480870,
-        "updated": 1748004705411,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973543",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973543.geojson",
-        "title": "M 1.2 - 3 km ESE of Vincent, CA"
+        "mag": 0.67,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1748007886270,
+        "updated": 1748007983989,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185456",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185456.geojson",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0826667,
-          34.4871667,
-          9.44
+          -122.803337097168,
+          38.8293342590332,
+          1.44000005722046
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "37 km NNW of Toyah, Texas",
-        "time": 1748004033528,
-        "updated": 1748004276922,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kalb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kalb.geojson",
-        "title": "M 1.7 - 37 km NNW of Toyah, Texas"
+        "mag": 1.41,
+        "place": "24 km WNW of Searles Valley, CA",
+        "time": 1748007078000,
+        "updated": 1748007288571,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973567",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973567.geojson",
+        "title": "M 1.4 - 24 km WNW of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.99,
-          31.611,
-          4.7721
+          -117.6495,
+          35.8623333,
+          4.99
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.4,
-        "place": "29 km ENE of Skwentna, Alaska",
-        "time": 1748004001542,
-        "updated": 1748004135044,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kp8emy",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kp8emy.geojson",
-        "title": "M 1.4 - 29 km ENE of Skwentna, Alaska"
+        "mag": 3.8,
+        "place": "18 km WSW of Fairview, Wyoming",
+        "time": 1748005695731,
+        "updated": 1748008380597,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q128",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q128.geojson",
+        "title": "M 3.8 - 18 km WSW of Fairview, Wyoming"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.8987,
-          62.1105,
-          62.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.98,
-        "place": "45 km WNW of Puako, Hawaii",
-        "time": 1748003494010,
-        "updated": 1748003959920,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74679052",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74679052.geojson",
-        "title": "M 3.0 - 45 km WNW of Puako, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.259338378906,
-          20.0821666717529,
-          11.4499998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "62 km S of Whites City, New Mexico",
-        "time": 1748002770543,
-        "updated": 1748005241061,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kakk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kakk.geojson",
-        "title": "M 1.6 - 62 km S of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.493,
-          31.618,
-          3.3609
+          -111.2016,
+          42.6468,
+          11.779
         ]
       }
     }
