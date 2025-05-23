@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747970388000,
+    "generated": 1747973028000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 3
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "26 km SW of Garden City, Texas",
+        "time": 1747972474319,
+        "updated": 1747972725137,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzts",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzts.geojson",
+        "title": "M 1.7 - 26 km SW of Garden City, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.697,
+          31.713,
+          3.1388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "28 km NNE of Four Mile Road, Alaska",
+        "time": 1747972112901,
+        "updated": 1747972232985,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kjxaca",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kjxaca.geojson",
+        "title": "M 1.1 - 28 km NNE of Four Mile Road, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9087,
+          64.8446,
+          10.8
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,66 +66,6 @@
           -155.9997,
           68.0995,
           0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.2,
-        "place": "121 km SE of Akutan, Alaska",
-        "time": 1747967440720,
-        "updated": 1747969845307,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q103",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q103.geojson",
-        "title": "M 5.2 - 121 km SE of Akutan, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.5136,
-          53.3451,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "56 km SSW of Whites City, New Mexico",
-        "time": 1747967156644,
-        "updated": 1747969708099,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzqt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzqt.geojson",
-        "title": "M 0.8 - 56 km SSW of Whites City, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.56,
-          31.687,
-          4.7018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.36,
-        "place": "7 km WSW of Petrolia, CA",
-        "time": 1747967100610,
-        "updated": 1747969037921,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185156",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185156.geojson",
-        "title": "M 1.4 - 7 km WSW of Petrolia, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.354331970215,
-          40.2960014343262,
-          7.01999998092651
         ]
       }
     }
