@@ -1,71 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747973028000,
+    "generated": 1747976568000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 3
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.7,
-        "place": "26 km SW of Garden City, Texas",
-        "time": 1747972474319,
-        "updated": 1747972725137,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzts",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzts.geojson",
-        "title": "M 1.7 - 26 km SW of Garden City, Texas"
+        "mag": 1.47,
+        "place": "3 km NW of The Geysers, CA",
+        "time": 1747975249430,
+        "updated": 1747975346438,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185191",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185191.geojson",
+        "title": "M 1.5 - 3 km NW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.697,
-          31.713,
-          3.1388
+          -122.78483581543,
+          38.7973327636719,
+          3.27999997138977
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.1,
-        "place": "28 km NNE of Four Mile Road, Alaska",
-        "time": 1747972112901,
-        "updated": 1747972232985,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kjxaca",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kjxaca.geojson",
-        "title": "M 1.1 - 28 km NNE of Four Mile Road, Alaska"
+        "mag": 0.77,
+        "place": "2 km  of The Geysers, CA",
+        "time": 1747974967580,
+        "updated": 1747975065928,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185186",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185186.geojson",
+        "title": "M 0.8 - 2 km  of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.9087,
-          64.8446,
-          10.8
+          -122.765167236328,
+          38.7970008850098,
+          12.5900001525879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.2,
-        "place": "137 km NE of Ambler, Alaska",
-        "time": 1747970178902,
-        "updated": 1747970366539,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kjqeck",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kjqeck.geojson",
-        "title": "M 2.2 - 137 km NE of Ambler, Alaska"
+        "mag": 1.08,
+        "place": "4 km NNW of The Geysers, CA",
+        "time": 1747974950280,
+        "updated": 1747975939726,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185181",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185181.geojson",
+        "title": "M 1.1 - 4 km NNW of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.9997,
-          68.0995,
-          0
+          -122.780502319336,
+          38.8035011291504,
+          2.99000000953674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.16,
+        "place": "10 km SSW of Bodfish, CA",
+        "time": 1747974753330,
+        "updated": 1747974963121,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973351",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973351.geojson",
+        "title": "M 1.2 - 10 km SSW of Bodfish, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5265,
+          35.5026667,
+          3.91
         ]
       }
     }
