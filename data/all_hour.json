@@ -1,91 +1,191 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748008950000,
+    "generated": 1748012544000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 4
+    "count": 9
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.25,
-        "place": "23 km WNW of Searles Valley, CA",
-        "time": 1748008116780,
-        "updated": 1748008323671,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973575",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973575.geojson",
-        "title": "M 0.3 - 23 km WNW of Searles Valley, CA"
+        "mag": 1.3,
+        "place": "18 km SSW of Stanton, Texas",
+        "time": 1748011608914,
+        "updated": 1748011810456,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kapj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kapj.geojson",
+        "title": "M 1.3 - 18 km SSW of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6316667,
-          35.8686667,
-          8.29
+          -101.829,
+          31.966,
+          5
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.67,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1748007886270,
-        "updated": 1748007983989,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185456",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185456.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+        "mag": 1.01,
+        "place": "1 km SE of The Geysers, CA",
+        "time": 1748011538900,
+        "updated": 1748011634688,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185476",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185476.geojson",
+        "title": "M 1.0 - 1 km SE of The Geysers, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.803337097168,
-          38.8293342590332,
-          1.44000005722046
+          -122.74333190918,
+          38.772834777832,
+          1.62999999523163
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.41,
+        "mag": 0.62,
         "place": "24 km WNW of Searles Valley, CA",
-        "time": 1748007078000,
-        "updated": 1748007288571,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973567",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973567.geojson",
-        "title": "M 1.4 - 24 km WNW of Searles Valley, CA"
+        "time": 1748011482390,
+        "updated": 1748011688013,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973631",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973631.geojson",
+        "title": "M 0.6 - 24 km WNW of Searles Valley, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6495,
-          35.8623333,
-          4.99
+          -117.6403333,
+          35.8686667,
+          7.01
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.8,
-        "place": "18 km WSW of Fairview, Wyoming",
-        "time": 1748005695731,
-        "updated": 1748008380597,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q128",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q128.geojson",
-        "title": "M 3.8 - 18 km WSW of Fairview, Wyoming"
+        "mag": 2,
+        "place": "4 km ESE of Moapa Town, Nevada",
+        "time": 1748011255385,
+        "updated": 1748011419204,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897890",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897890.geojson",
+        "title": "M 2.0 - 4 km ESE of Moapa Town, Nevada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.2016,
-          42.6468,
-          11.779
+          -114.5503,
+          36.6694,
+          16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.71,
+        "place": "24 km ESE of Little Lake, CA",
+        "time": 1748010866330,
+        "updated": 1748011074076,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973607",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973607.geojson",
+        "title": "M 0.7 - 24 km ESE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6575,
+          35.8665,
+          4.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.69,
+        "place": "7 km NNW of The Geysers, CA",
+        "time": 1748010720510,
+        "updated": 1748011639557,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185471",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185471.geojson",
+        "title": "M 0.7 - 7 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.805168151855,
+          38.8235015869141,
+          1.67999994754791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.3,
+        "place": "20 km NNE of Yerington, Nevada",
+        "time": 1748010706122,
+        "updated": 1748010837350,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897888",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897888.geojson",
+        "title": "M 1.3 - 20 km NNE of Yerington, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0546,
+          39.1546,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "17 km ESE of Kasilof, Alaska",
+        "time": 1748010069044,
+        "updated": 1748010141582,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kqb7tk",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kqb7tk.geojson",
+        "title": "M 1.5 - 17 km ESE of Kasilof, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.9919,
+          60.2735,
+          68.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.45,
+        "place": "5 km NNE of Windsor, CA",
+        "time": 1748009003030,
+        "updated": 1748010136385,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185461",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185461.geojson",
+        "title": "M 1.5 - 5 km NNE of Windsor, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.792663574219,
+          38.5923347473145,
+          7.57000017166138
         ]
       }
     }
