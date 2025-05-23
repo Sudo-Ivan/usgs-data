@@ -1,71 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748016150000,
+    "generated": 1748019770000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 10
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.5,
-        "place": "10 km WNW of Anchor Point, Alaska",
-        "time": 1748014703873,
-        "updated": 1748014848599,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kr0bqr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kr0bqr.geojson",
-        "title": "M 1.5 - 10 km WNW of Anchor Point, Alaska"
+        "mag": 1.78,
+        "place": "8 km SW of Lytle Creek, CA",
+        "time": 1748019132430,
+        "updated": 1748019349444,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973759",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973759.geojson",
+        "title": "M 1.8 - 8 km SW of Lytle Creek, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.99,
-          59.8281,
-          34.3
+          -117.549,
+          34.204,
+          9.42
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.14,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1748014025600,
-        "updated": 1748015239946,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185501",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185501.geojson",
-        "title": "M 1.1 - 7 km WNW of Cobb, CA"
+        "mag": 1.52,
+        "place": "10 km WSW of Westmorland, CA",
+        "time": 1748018923610,
+        "updated": 1748019147408,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973735",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973735.geojson",
+        "title": "M 1.5 - 10 km WSW of Westmorland, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.796333312988,
-          38.8349990844727,
-          1.9099999666214
+          -115.7178333,
+          33.0068333,
+          23.71
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.15,
-        "place": "12 km NW of Pawnee, Oklahoma",
-        "time": 1748014000570,
-        "updated": 1748015794296,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2025kapz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2025kapz.geojson",
-        "title": "M 2.2 - 12 km NW of Pawnee, Oklahoma"
+        "mag": 5.3,
+        "place": "87 km N of Nyngan, Australia",
+        "time": 1748018173790,
+        "updated": 1748019345040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q14n",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q14n.geojson",
+        "title": "M 5.3 - 87 km N of Nyngan, Australia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.89166667,
-          36.421,
-          7.38
+          147.3602,
+          -30.7885,
+          8.348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.1,
+        "place": "west of Macquarie Island",
+        "time": 1748018006491,
+        "updated": 1748019482785,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q14k",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q14k.geojson",
+        "title": "M 6.1 - west of Macquarie Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5272,
+          -56.4944,
+          10
         ]
       }
     },
@@ -73,39 +93,19 @@
       "type": "Feature",
       "properties": {
         "mag": 1.6,
-        "place": "57 km S of Whites City, New Mexico",
-        "time": 1748013757203,
-        "updated": 1748014011752,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kaqo",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kaqo.geojson",
-        "title": "M 1.6 - 57 km S of Whites City, New Mexico"
+        "place": "55 km WNW of Toyah, Texas",
+        "time": 1748017937515,
+        "updated": 1748018146546,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasx",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasx.geojson",
+        "title": "M 1.6 - 55 km WNW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.339,
-          31.658,
-          4.1131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.27,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1748013604440,
-        "updated": 1748014637868,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185491",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185491.geojson",
-        "title": "M 0.3 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.811668395996,
-          38.824333190918,
-          1.99000000953674
+          -104.276,
+          31.592,
+          3.8997
         ]
       }
     },
@@ -113,19 +113,99 @@
       "type": "Feature",
       "properties": {
         "mag": 0.8,
-        "place": "17 km ESE of Livengood, Alaska",
-        "time": 1748012624351,
-        "updated": 1748012757780,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kqsv9f",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kqsv9f.geojson",
-        "title": "M 0.8 - 17 km ESE of Livengood, Alaska"
+        "place": "34 km NNE of Four Mile Road, Alaska",
+        "time": 1748017393673,
+        "updated": 1748017482092,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kriitj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kriitj.geojson",
+        "title": "M 0.8 - 34 km NNE of Four Mile Road, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.2296,
-          65.4418,
-          10.2
+          -148.7746,
+          64.8732,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.55,
+        "place": "6 km NW of Lake Henshaw, CA",
+        "time": 1748017113450,
+        "updated": 1748017314186,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973703",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973703.geojson",
+        "title": "M 0.6 - 6 km NW of Lake Henshaw, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.799,
+          33.2823333,
+          15.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "22 km NW of Toyah, Texas",
+        "time": 1748016966495,
+        "updated": 1748017547630,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasm",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasm.geojson",
+        "title": "M 1.6 - 22 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.93,
+          31.485,
+          4.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.8,
+        "place": "23 km SW of Jal, New Mexico",
+        "time": 1748016378298,
+        "updated": 1748019761189,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasb.geojson",
+        "title": "M 2.8 - 23 km SW of Jal, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.363,
+          31.955,
+          8.9197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "10 km NNE of Ackerly, Texas",
+        "time": 1748016236292,
+        "updated": 1748016567201,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025karz",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025karz.geojson",
+        "title": "M 1.7 - 10 km NNE of Ackerly, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.663,
+          32.605,
+          5
         ]
       }
     }
