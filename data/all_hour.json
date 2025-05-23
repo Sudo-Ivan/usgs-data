@@ -1,91 +1,31 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747980180000,
+    "generated": 1747983772000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 7
+    "count": 8
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.81,
-        "place": "1 km NW of The Geysers, CA",
-        "time": 1747979436420,
-        "updated": 1747979531906,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185211",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185211.geojson",
-        "title": "M 0.8 - 1 km NW of The Geysers, CA"
+        "mag": 1.1,
+        "place": "22 km NNE of Gardendale, Texas",
+        "time": 1747983380919,
+        "updated": 1747983509682,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzzr",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzzr.geojson",
+        "title": "M 1.1 - 22 km NNE of Gardendale, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.764999389648,
-          38.7804985046387,
-          3.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.85000002,
-        "place": "5 km SSW of Pāhala, Hawaii",
-        "time": 1747979015660,
-        "updated": 1747979334790,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678887",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678887.geojson",
-        "title": "M 1.9 - 5 km SSW of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.500335693359,
-          19.1580009460449,
-          32.2200012207031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.74,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747978885470,
-        "updated": 1747978981661,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185206",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185206.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.800498962402,
-          38.837833404541,
-          1.63999998569489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "21 km NNE of Yerington, Nevada",
-        "time": 1747978792177,
-        "updated": 1747978915876,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897880",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897880.geojson",
-        "title": "M 0.8 - 21 km NNE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0495,
-          39.154,
-          7.8
+          -102.302,
+          32.209,
+          10.3289
         ]
       }
     },
@@ -93,19 +33,59 @@
       "type": "Feature",
       "properties": {
         "mag": 1.9,
-        "place": "30 km NE of Chenega, Alaska",
-        "time": 1747977438592,
-        "updated": 1747977561719,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kkxh8z",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kkxh8z.geojson",
-        "title": "M 1.9 - 30 km NE of Chenega, Alaska"
+        "place": "60 km NNE of Petersville, Alaska",
+        "time": 1747983129871,
+        "updated": 1747983264099,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256klqe8r",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256klqe8r.geojson",
+        "title": "M 1.9 - 60 km NNE of Petersville, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.6795,
-          60.284,
-          36.2
+          -150.4139,
+          63.0161,
+          106.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.99,
+        "place": "6 km SSW of Pāhala, Hawaii",
+        "time": 1747982218570,
+        "updated": 1747982413560,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74678907",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74678907.geojson",
+        "title": "M 2.0 - 6 km SSW of Pāhala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.501495361328,
+          19.1508331298828,
+          32.3699989318848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "49 km W of Salamatof, Alaska",
+        "time": 1747982040580,
+        "updated": 1747982178721,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256klmimy",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256klmimy.geojson",
+        "title": "M 1.5 - 49 km W of Salamatof, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2279,
+          60.6074,
+          84.5
         ]
       }
     },
@@ -113,39 +93,79 @@
       "type": "Feature",
       "properties": {
         "mag": 2.2,
-        "place": "31 km SW of Petersville, Alaska",
-        "time": 1747976925908,
-        "updated": 1747977188040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kkvlwo",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kkvlwo.geojson",
-        "title": "M 2.2 - 31 km SW of Petersville, Alaska"
+        "place": "47 km SSW of Nanwalek, Alaska",
+        "time": 1747981921817,
+        "updated": 1747982941040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256klm3at",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256klm3at.geojson",
+        "title": "M 2.2 - 47 km SSW of Nanwalek, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.1894,
-          62.2941,
-          86.5
+          -152.3288,
+          58.9892,
+          34.9
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.6,
-        "place": "152 km SSW of Leava, Wallis and Futuna",
-        "time": 1747976780772,
-        "updated": 1747977660040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q10l",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q10l.geojson",
-        "title": "M 4.6 - 152 km SSW of Leava, Wallis and Futuna"
+        "mag": 1.7,
+        "place": "4 km N of Willow, Alaska",
+        "time": 1747981539744,
+        "updated": 1747981673996,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256klko7q",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256klko7q.geojson",
+        "title": "M 1.7 - 4 km N of Willow, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -178.7274,
-          -15.5557,
-          422.364
+          -150.0438,
+          61.7882,
+          29.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.27,
+        "place": "8 km NNW of The Geysers, CA",
+        "time": 1747981048820,
+        "updated": 1747982239328,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185221",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185221.geojson",
+        "title": "M 0.3 - 8 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.814002990723,
+          38.8315010070801,
+          2.34999990463257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.46,
+        "place": "6 km WSW of Anza, CA",
+        "time": 1747981030610,
+        "updated": 1747981262822,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973399",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973399.geojson",
+        "title": "M 0.5 - 6 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.731,
+          33.5293333,
+          4.61
         ]
       }
     }
