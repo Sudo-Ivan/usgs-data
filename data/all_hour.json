@@ -1,31 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1747967497000,
+    "generated": 1747970388000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 4
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.9,
-        "place": "31 km NW of Toyah, Texas",
-        "time": 1747967169321,
-        "updated": 1747967388895,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzqt",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzqt.geojson",
-        "title": "M 1.9 - 31 km NW of Toyah, Texas"
+        "mag": 2.2,
+        "place": "137 km NE of Ambler, Alaska",
+        "time": 1747970178902,
+        "updated": 1747970366539,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kjqeck",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kjqeck.geojson",
+        "title": "M 2.2 - 137 km NE of Ambler, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.042,
-          31.5,
-          3.9208
+          -155.9997,
+          68.0995,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "121 km SE of Akutan, Alaska",
+        "time": 1747967440720,
+        "updated": 1747969845307,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q103",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q103.geojson",
+        "title": "M 5.2 - 121 km SE of Akutan, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.5136,
+          53.3451,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "56 km SSW of Whites City, New Mexico",
+        "time": 1747967156644,
+        "updated": 1747969708099,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025jzqt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025jzqt.geojson",
+        "title": "M 0.8 - 56 km SSW of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.56,
+          31.687,
+          4.7018
         ]
       }
     },
@@ -35,7 +75,7 @@
         "mag": 1.36,
         "place": "7 km WSW of Petrolia, CA",
         "time": 1747967100610,
-        "updated": 1747967196251,
+        "updated": 1747969037921,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185156",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185156.geojson",
         "title": "M 1.4 - 7 km WSW of Petrolia, CA"
@@ -46,66 +86,6 @@
           -124.354331970215,
           40.2960014343262,
           7.01999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "8 km NNW of The Geysers, CA",
-        "time": 1747965255840,
-        "updated": 1747965351149,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185136",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185136.geojson",
-        "title": "M 1.2 - 8 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.817665100098,
-          38.8296661376953,
-          1.85000002384186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.1,
-        "place": "39 km SSE of Denali National Park, Alaska",
-        "time": 1747964889875,
-        "updated": 1747965003824,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kiqdcr",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kiqdcr.geojson",
-        "title": "M 2.1 - 39 km SSE of Denali National Park, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.2919,
-          63.2434,
-          6.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.51,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1747964740950,
-        "updated": 1747966338714,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185126",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185126.geojson",
-        "title": "M 0.5 - 6 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.799667358398,
-          38.8191680908203,
-          4.28999996185303
         ]
       }
     }
