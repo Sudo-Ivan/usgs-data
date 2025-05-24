@@ -1,14 +1,174 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748106143000,
+    "generated": 1748109733000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1945
+    "count": 1942
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.69,
+        "place": "32 km W of Petrolia, CA",
+        "time": 1748109492640,
+        "updated": 1748109597340,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185946",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185946.geojson",
+        "title": "M 2.7 - 32 km W of Petrolia, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.650497436523,
+          40.2589988708496,
+          -0.28999999165535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.58,
+        "place": "6 km S of Huntington Beach, CA",
+        "time": 1748108910610,
+        "updated": 1748109552660,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40975055",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40975055.geojson",
+        "title": "M 1.6 - 6 km S of Huntington Beach, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0043333,
+          33.6361667,
+          15.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.58,
+        "place": "24 km N of Ridgecrest, CA",
+        "time": 1748108428630,
+        "updated": 1748108634522,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40975031",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40975031.geojson",
+        "title": "M 0.6 - 24 km N of Ridgecrest, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6685,
+          35.8336667,
+          9.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.28,
+        "place": "10 km NW of The Geysers, CA",
+        "time": 1748107843290,
+        "updated": 1748107942065,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185941",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185941.geojson",
+        "title": "M 0.3 - 10 km NW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.852165222168,
+          38.8264999389648,
+          2.58999991416931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.64,
+        "place": "20 km SW of La Quinta, CA",
+        "time": 1748107693030,
+        "updated": 1748107900413,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40975023",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40975023.geojson",
+        "title": "M 0.6 - 20 km SW of La Quinta, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4536667,
+          33.5285,
+          2.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "3 km SE of The Geysers, CA",
+        "time": 1748107573180,
+        "updated": 1748109137383,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185936",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185936.geojson",
+        "title": "M 1.0 - 3 km SE of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.726501464844,
+          38.7576675415039,
+          2.35999989509583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.87,
+        "place": "24 km N of Ridgecrest, CA",
+        "time": 1748107288480,
+        "updated": 1748107497487,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40975007",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40975007.geojson",
+        "title": "M 0.9 - 24 km N of Ridgecrest, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.671,
+          35.8323333,
+          7.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "State of Chuuk, Federated States of Micronesia",
+        "time": 1748105160148,
+        "updated": 1748106631040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1aj",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1aj.geojson",
+        "title": "M 4.9 - State of Chuuk, Federated States of Micronesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0711,
+          6.7655,
+          10
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -952,6 +1112,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 0.81,
+        "place": "18 km WSW of Toms Place, CA",
+        "time": 1748085003430,
+        "updated": 1748107941250,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185866",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185866.geojson",
+        "title": "M 0.8 - 18 km WSW of Toms Place, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.832,
+          37.451,
+          4.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.96,
         "place": "2 km NNW of Pinnacles, CA",
         "time": 1748084939730,
@@ -1086,6 +1266,26 @@
           -104.276,
           31.644,
           4.2104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.72,
+        "place": "8 km S of Toms Place, CA",
+        "time": 1748081113770,
+        "updated": 1748107638219,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185846",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185846.geojson",
+        "title": "M 0.7 - 8 km S of Toms Place, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.674,
+          37.4878333333333,
+          11.6
         ]
       }
     },
@@ -38646,266 +38846,6 @@
           -66.728,
           18.0186666666667,
           11.22
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.84,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747504869470,
-        "updated": 1747508844862,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183617",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183617.geojson",
-        "title": "M 0.8 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.808670043945,
-          38.836498260498,
-          2.40000009536743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.48,
-        "place": "20 km WSW of La Grande, Washington",
-        "time": 1747504641660,
-        "updated": 1747888914530,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101947",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101947.geojson",
-        "title": "M 1.5 - 20 km WSW of La Grande, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.538,
-          46.7345,
-          19.35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.33,
-        "place": "38 km NE of Adak, Alaska",
-        "time": 1747504489680,
-        "updated": 1747599026360,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93041959",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93041959.geojson",
-        "title": "M 0.3 - 38 km NE of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -176.1965,
-          52.0838333333333,
-          7.31
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.77,
-        "place": "11 km S of Idyllwild, CA",
-        "time": 1747504271210,
-        "updated": 1747576186775,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155176",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155176.geojson",
-        "title": "M 0.8 - 11 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.716,
-          33.6448333,
-          12.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "39 km WSW of Akhiok, Alaska",
-        "time": 1747503953540,
-        "updated": 1748010544447,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256av0oae",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256av0oae.geojson",
-        "title": "M 1.6 - 39 km WSW of Akhiok, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -154.7977,
-          56.8602,
-          14.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.36,
-        "place": "16 km SE of Holden, Utah",
-        "time": 1747503932360,
-        "updated": 1747679022600,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108586",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108586.geojson",
-        "title": "M 1.4 - 16 km SE of Holden, Utah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.115,
-          39.0075,
-          16.06
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.44,
-        "place": "8 km WNW of Cobb, CA",
-        "time": 1747503830660,
-        "updated": 1747505239453,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183612",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183612.geojson",
-        "title": "M 0.4 - 8 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.808166503906,
-          38.8363342285156,
-          1.55999994277954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "South Sandwich Islands region",
-        "time": 1747503682546,
-        "updated": 1747753832040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzvj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzvj.geojson",
-        "title": "M 4.9 - South Sandwich Islands region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -26.1133,
-          -59.2601,
-          121.602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.4,
-        "place": "14 km SW of Willow, Alaska",
-        "time": 1747503471793,
-        "updated": 1747964388249,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256auyydc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256auyydc.geojson",
-        "title": "M 1.4 - 14 km SW of Willow, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.2296,
-          61.6505,
-          45.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.05,
-        "place": "38 km WSW of False Pass, Alaska",
-        "time": 1747502612400,
-        "updated": 1747512329400,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93609451",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93609451.geojson",
-        "title": "M -0.1 - 38 km WSW of False Pass, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -163.9835,
-          54.754,
-          7.04
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.81,
-        "place": "6 km SSE of Guánica, Puerto Rico",
-        "time": 1747502461830,
-        "updated": 1747503431180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482698",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482698.geojson",
-        "title": "M 2.8 - 6 km SSE of Guánica, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8783333333333,
-          17.9175,
-          11.89
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.78,
-        "place": "2 km NE of The Geysers, CA",
-        "time": 1747502348860,
-        "updated": 1747506140555,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183602",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183602.geojson",
-        "title": "M 0.8 - 2 km NE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.74666595459,
-          38.7893333435059,
-          1.9099999666214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.98,
-        "place": "11 km ENE of Pinnacles, CA",
-        "time": 1747502198840,
-        "updated": 1747504637395,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183597",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183597.geojson",
-        "title": "M 1.0 - 11 km ENE of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.047836303711,
-          36.5904998779297,
-          13.4200000762939
         ]
       }
     }
