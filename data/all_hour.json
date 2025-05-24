@@ -1,14 +1,114 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748056705000,
+    "generated": 1748059350000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 6
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.9,
+        "place": "16 km NNW of Midland, Texas",
+        "time": 1748058642729,
+        "updated": 1748058922370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kboo",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kboo.geojson",
+        "title": "M 1.9 - 16 km NNW of Midland, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.149,
+          32.135,
+          0.1706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 3.3,
+        "place": "55 km SSW of Whites City, New Mexico",
+        "time": 1748058578886,
+        "updated": 1748059191040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q18i",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q18i.geojson",
+        "title": "M 3.3 - 55 km SSW of Whites City, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5089,
+          31.684,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.7,
+        "place": "24 km SW of Jal, New Mexico",
+        "time": 1748058046919,
+        "updated": 1748058762199,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kbof",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kbof.geojson",
+        "title": "M 1.7 - 24 km SW of Jal, New Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.364,
+          31.95,
+          6.5195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "15 km W of Four Mile Road, Alaska",
+        "time": 1748057747470,
+        "updated": 1748057844135,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256m7dvnf",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256m7dvnf.geojson",
+        "title": "M 0.7 - 15 km W of Four Mile Road, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4367,
+          64.6139,
+          17.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.42,
+        "place": "1 km NNW of Parcelas Peñuelas, Puerto Rico",
+        "time": 1748056817730,
+        "updated": 1748057481470,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483443",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483443.geojson",
+        "title": "M 2.4 - 1 km NNW of Parcelas Peñuelas, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3453333333333,
+          18.01,
+          14.53
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -26,86 +126,6 @@
           -117.6695,
           35.8736667,
           6.82
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.2,
-        "place": "10 km NW of San Fernando, Philippines",
-        "time": 1748054170490,
-        "updated": 1748056534497,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q18d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q18d.geojson",
-        "title": "M 5.2 - 10 km NW of San Fernando, Philippines"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.2396,
-          16.6772,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "8 km SW of Forsan, Texas",
-        "time": 1748054138803,
-        "updated": 1748055618673,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kbmc",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kbmc.geojson",
-        "title": "M 1.5 - 8 km SW of Forsan, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.445,
-          32.065,
-          5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.62,
-        "place": "12 km SW of Searles Valley, CA",
-        "time": 1748053879400,
-        "updated": 1748055938040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974239",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974239.geojson",
-        "title": "M 2.6 - 12 km SW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5043333,
-          35.7006667,
-          7.27
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.2,
-        "place": "14 km N of Big Spring, Texas",
-        "time": 1748053301496,
-        "updated": 1748053436384,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kbls",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kbls.geojson",
-        "title": "M 1.2 - 14 km N of Big Spring, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.471,
-          32.377,
-          5
         ]
       }
     }
