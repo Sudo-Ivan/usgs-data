@@ -1,21 +1,121 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748095343000,
+    "generated": 1748098943000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 221
+    "count": 215
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.6,
+        "place": "4 km NNW of Lytle Creek, CA",
+        "time": 1748097266850,
+        "updated": 1748098923040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974791",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974791.geojson",
+        "title": "M 2.6 - 4 km NNW of Lytle Creek, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.524,
+          34.2936667,
+          9.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "31 km SW of Sandgerði, Iceland",
+        "time": 1748096512296,
+        "updated": 1748098648282,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1a9",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1a9.geojson",
+        "title": "M 4.9 - 31 km SW of Sandgerði, Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.0731,
+          63.8068,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.44,
+        "place": "5 km WSW of Anza, CA",
+        "time": 1748096509510,
+        "updated": 1748096761312,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974775",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974775.geojson",
+        "title": "M 0.4 - 5 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7226667,
+          33.538,
+          3.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "9 km WSW of Trapper Creek, Alaska",
+        "time": 1748095578300,
+        "updated": 1748095689833,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256mdrdae",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256mdrdae.geojson",
+        "title": "M 1.0 - 9 km WSW of Trapper Creek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.4077,
+          62.2822,
+          28.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "98 km NW of Yakutat, Alaska",
+        "time": 1748095406380,
+        "updated": 1748095501667,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256mdqqri",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256mdqqri.geojson",
+        "title": "M 1.4 - 98 km NW of Yakutat, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.9272,
+          60.1953,
+          18.1
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 0.86,
         "place": "14 km W of Toms Place, CA",
         "time": 1748095122630,
-        "updated": 1748095216661,
+        "updated": 1748096837021,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185901",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185901.geojson",
         "title": "M 0.9 - 14 km W of Toms Place, CA"
@@ -232,6 +332,26 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 4.6,
+        "place": "24 km E of Port-Olry, Vanuatu",
+        "time": 1748091679508,
+        "updated": 1748098688040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1a2",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1a2.geojson",
+        "title": "M 4.6 - 24 km E of Port-Olry, Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.2961,
+          -15.0442,
+          119.672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "mag": 0.9,
         "place": "13 km SE of Anza, CA",
         "time": 1748091045640,
@@ -275,7 +395,7 @@
         "mag": 3.07,
         "place": "9 km NNE of Scipio, Utah",
         "time": 1748090109210,
-        "updated": 1748094044407,
+        "updated": 1748098351312,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80108946",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80108946.geojson",
         "title": "M 3.1 - 9 km NNE of Scipio, Utah"
@@ -3195,7 +3315,7 @@
         "mag": 3.1,
         "place": "114 km S of Gulf Shores, Alabama",
         "time": 1748029289773,
-        "updated": 1748065837333,
+        "updated": 1748098363720,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q16f",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q16f.geojson",
         "title": "M 3.1 - 114 km S of Gulf Shores, Alabama"
@@ -4186,246 +4306,6 @@
           -148.2296,
           65.4418,
           10.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "18 km SSW of Stanton, Texas",
-        "time": 1748011608914,
-        "updated": 1748011810456,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kapj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kapj.geojson",
-        "title": "M 1.3 - 18 km SSW of Stanton, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.829,
-          31.966,
-          5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.01,
-        "place": "1 km SE of The Geysers, CA",
-        "time": 1748011538900,
-        "updated": 1748015838018,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185476",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185476.geojson",
-        "title": "M 1.0 - 1 km SE of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.74333190918,
-          38.772834777832,
-          1.62999999523163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.6,
-        "place": "24 km WNW of Searles Valley, CA",
-        "time": 1748011482390,
-        "updated": 1748022102562,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973631",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973631.geojson",
-        "title": "M 0.6 - 24 km WNW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6416667,
-          35.87,
-          7.09
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.05,
-        "place": "23 km WNW of Searles Valley, CA",
-        "time": 1748011453120,
-        "updated": 1748022267998,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37544517",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37544517.geojson",
-        "title": "M 0.1 - 23 km WNW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6203333,
-          35.8773333,
-          10.12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.7,
-        "place": "32 km S of Scenic, Arizona",
-        "time": 1748011247544,
-        "updated": 1748066612031,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897890",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897890.geojson",
-        "title": "M 2.7 - 32 km S of Scenic, Arizona"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.9641,
-          36.5025,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.66,
-        "place": "24 km WNW of Searles Valley, CA",
-        "time": 1748010866150,
-        "updated": 1748021919119,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973607",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973607.geojson",
-        "title": "M 0.7 - 24 km WNW of Searles Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6441667,
-          35.869,
-          7.07
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.69,
-        "place": "7 km NNW of The Geysers, CA",
-        "time": 1748010720510,
-        "updated": 1748014338840,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185471",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185471.geojson",
-        "title": "M 0.7 - 7 km NNW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.805168151855,
-          38.8235015869141,
-          1.67999994754791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.3,
-        "place": "20 km NNE of Yerington, Nevada",
-        "time": 1748010706122,
-        "updated": 1748010837350,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897888",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897888.geojson",
-        "title": "M 1.3 - 20 km NNE of Yerington, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.0546,
-          39.1546,
-          7.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.5700000000000001,
-        "place": "8 km ESE of Ashford, Washington",
-        "time": 1748010491180,
-        "updated": 1748012833950,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114766",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114766.geojson",
-        "title": "M 0.6 - 8 km ESE of Ashford, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.937,
-          46.721333333333334,
-          -0.21
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "17 km ESE of Kasilof, Alaska",
-        "time": 1748010069044,
-        "updated": 1748010141582,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kqb7tk",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kqb7tk.geojson",
-        "title": "M 1.5 - 17 km ESE of Kasilof, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.9919,
-          60.2735,
-          68.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.2,
-        "place": "35 km WNW of Indian Springs, Nevada",
-        "time": 1748009505826,
-        "updated": 1748036356770,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897903",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897903.geojson",
-        "title": "M -0.2 - 35 km WNW of Indian Springs, Nevada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.9989,
-          36.7429,
-          8.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.45,
-        "place": "5 km NNE of Windsor, CA",
-        "time": 1748009003030,
-        "updated": 1748012840685,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185461",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185461.geojson",
-        "title": "M 1.5 - 5 km NNE of Windsor, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.792663574219,
-          38.5923347473145,
-          7.57000017166138
         ]
       }
     }
