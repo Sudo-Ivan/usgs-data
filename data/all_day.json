@@ -1,21 +1,101 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748102543000,
+    "generated": 1748106143000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 212
+    "count": 205
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.34,
+        "place": "21 km E of Julian, CA",
+        "time": 1748104904150,
+        "updated": 1748105546360,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974863",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974863.geojson",
+        "title": "M 2.3 - 21 km E of Julian, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3818333,
+          33.0543333,
+          13.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.21,
+        "place": "6 km WSW of Anza, CA",
+        "time": 1748104122080,
+        "updated": 1748104779960,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974855",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974855.geojson",
+        "title": "M 1.2 - 6 km WSW of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.733,
+          33.5266667,
+          4.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "25 km ESE of Little Lake, CA",
+        "time": 1748103923630,
+        "updated": 1748104128929,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974847",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974847.geojson",
+        "title": "M 0.7 - 25 km ESE of Little Lake, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6478333,
+          35.8673333,
+          5.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.46,
+        "place": "13 km ESE of Anza, CA",
+        "time": 1748103201680,
+        "updated": 1748103408059,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974839",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974839.geojson",
+        "title": "M 0.5 - 13 km ESE of Anza, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5511667,
+          33.4903333,
+          6.71
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 1.08,
         "place": "7 km WNW of Cobb, CA",
         "time": 1748101753520,
-        "updated": 1748101852767,
+        "updated": 1748103738795,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185916",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185916.geojson",
         "title": "M 1.1 - 7 km WNW of Cobb, CA"
@@ -26,6 +106,26 @@
           -122.797500610352,
           38.8381652832031,
           2.27999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "5 km SW of Reykjanesbær, Iceland",
+        "time": 1748101352850,
+        "updated": 1748104609248,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1ae",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1ae.geojson",
+        "title": "M 4.3 - 5 km SW of Reykjanesbær, Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6476,
+          63.9682,
+          10
         ]
       }
     },
@@ -155,7 +255,7 @@
         "mag": 4.9,
         "place": "31 km SW of Sandgerði, Iceland",
         "time": 1748096512296,
-        "updated": 1748098648282,
+        "updated": 1748104851930,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1a9",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1a9.geojson",
         "title": "M 4.9 - 31 km SW of Sandgerði, Iceland"
@@ -3415,7 +3515,7 @@
         "mag": 3.1,
         "place": "114 km S of Gulf Shores, Alabama",
         "time": 1748029289773,
-        "updated": 1748101731419,
+        "updated": 1748105510247,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q16f",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q16f.geojson",
         "title": "M 3.1 - 114 km S of Gulf Shores, Alabama"
@@ -4006,246 +4106,6 @@
           -153.438833333333,
           59.3565,
           -0.18
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.62,
-        "place": "2 km ENE of Humptulips, Washington",
-        "time": 1748019724720,
-        "updated": 1748035351270,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62114796",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62114796.geojson",
-        "title": "M 1.6 - 2 km ENE of Humptulips, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.92933333333333,
-          47.24316666666667,
-          -0.17
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.82,
-        "place": "8 km SW of Lytle Creek, CA",
-        "time": 1748019132340,
-        "updated": 1748026407110,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973759",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973759.geojson",
-        "title": "M 1.8 - 8 km SW of Lytle Creek, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5476667,
-          34.2021667,
-          9.83
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.07,
-        "place": "8 km WSW of Niland, CA",
-        "time": 1748018930110,
-        "updated": 1748024970823,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973735",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973735.geojson",
-        "title": "M 1.1 - 8 km WSW of Niland, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.5908333,
-          33.1998333,
-          3.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.3,
-        "place": "87 km N of Nyngan, Australia",
-        "time": 1748018173790,
-        "updated": 1748086355689,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q14n",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q14n.geojson",
-        "title": "M 5.3 - 87 km N of Nyngan, Australia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.3602,
-          -30.7885,
-          8.348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 6.1,
-        "place": "west of Macquarie Island",
-        "time": 1748018006491,
-        "updated": 1748026645272,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q14k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q14k.geojson",
-        "title": "M 6.1 - west of Macquarie Island"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.5272,
-          -56.4944,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "55 km WNW of Toyah, Texas",
-        "time": 1748017937515,
-        "updated": 1748018146546,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasx",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasx.geojson",
-        "title": "M 1.6 - 55 km WNW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.276,
-          31.592,
-          3.8997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.8,
-        "place": "34 km NNE of Four Mile Road, Alaska",
-        "time": 1748017393673,
-        "updated": 1748017482092,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256kriitj",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256kriitj.geojson",
-        "title": "M 0.8 - 34 km NNE of Four Mile Road, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -148.7746,
-          64.8732,
-          15
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.54,
-        "place": "6 km NW of Lake Henshaw, CA",
-        "time": 1748017113440,
-        "updated": 1748023814944,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973703",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973703.geojson",
-        "title": "M 0.5 - 6 km NW of Lake Henshaw, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7973333,
-          33.2826667,
-          15.86
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.6,
-        "place": "22 km NW of Toyah, Texas",
-        "time": 1748016966495,
-        "updated": 1748017547630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasm",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasm.geojson",
-        "title": "M 1.6 - 22 km NW of Toyah, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.93,
-          31.485,
-          4.8819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.37,
-        "place": "7 km ENE of Anza, CA",
-        "time": 1748016435360,
-        "updated": 1748024154261,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973687",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973687.geojson",
-        "title": "M 0.4 - 7 km ENE of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.6065,
-          33.5831667,
-          12.53
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.8,
-        "place": "23 km SW of Jal, New Mexico",
-        "time": 1748016378298,
-        "updated": 1748019786775,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kasb",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kasb.geojson",
-        "title": "M 2.8 - 23 km SW of Jal, New Mexico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.363,
-          31.955,
-          8.9197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "10 km NNE of Ackerly, Texas",
-        "time": 1748016236292,
-        "updated": 1748016567201,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025karz",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025karz.geojson",
-        "title": "M 1.7 - 10 km NNE of Ackerly, Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.663,
-          32.605,
-          5
         ]
       }
     }
