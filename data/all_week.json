@@ -1,21 +1,141 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748098919000,
+    "generated": 1748102564000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
     "title": "USGS All Earthquakes, Past Week",
     "status": 200,
     "api": "1.14.1",
-    "count": 1969
+    "count": 1957
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.08,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1748101753520,
+        "updated": 1748101852767,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185916",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185916.geojson",
+        "title": "M 1.1 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797500610352,
+          38.8381652832031,
+          2.27999997138977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "4 km NE of Keflavík, Iceland",
+        "time": 1748101010254,
+        "updated": 1748102506396,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1ad",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1ad.geojson",
+        "title": "M 4.4 - 4 km NE of Keflavík, Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.511,
+          64.0368,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.4,
+        "place": "12 km W of Stanton, Texas",
+        "time": 1748100809447,
+        "updated": 1748101113474,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kclt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kclt.geojson",
+        "title": "M 1.4 - 12 km W of Stanton, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.916,
+          32.118,
+          4.5722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "18 km NW of Big Spring, Texas",
+        "time": 1748100602922,
+        "updated": 1748100762756,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kcls",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kcls.geojson",
+        "title": "M 1.2 - 18 km NW of Big Spring, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.609,
+          32.373,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "26 km NW of Stanton, Texas",
+        "time": 1748099722623,
+        "updated": 1748102435433,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kclh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kclh.geojson",
+        "title": "M 1.2 - 26 km NW of Stanton, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.969,
+          32.313,
+          0.3253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.27,
+        "place": "22 km NNW of Tehachapi, CA",
+        "time": 1748099143200,
+        "updated": 1748099508403,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974807",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974807.geojson",
+        "title": "M 1.3 - 22 km NNW of Tehachapi, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5198333,
+          35.3206667,
+          5
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "mag": 2.6,
         "place": "4 km NNW of Lytle Creek, CA",
         "time": 1748097266850,
-        "updated": 1748098138743,
+        "updated": 1748102215457,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974791",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974791.geojson",
         "title": "M 2.6 - 4 km NNW of Lytle Creek, CA"
@@ -186,26 +306,6 @@
           -116.831,
           33.7131667,
           16.98
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "31 km W of Cohoe, Alaska",
-        "time": 1748093752644,
-        "updated": 1748093831138,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256mdc83k",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256mdc83k.geojson",
-        "title": "M 0.9 - 31 km W of Cohoe, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.8729,
-          60.3835,
-          81.4
         ]
       }
     },
@@ -1872,20 +1972,20 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 3.7,
-        "place": "70 km SSW of Kaktovik, Alaska",
-        "time": 1748061368236,
-        "updated": 1748062110040,
+        "mag": 3.6,
+        "place": "75 km SSW of Kaktovik, Alaska",
+        "time": 1748061366938,
+        "updated": 1748101947675,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256m7zfw8",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256m7zfw8.geojson",
-        "title": "M 3.7 - 70 km SSW of Kaktovik, Alaska"
+        "title": "M 3.6 - 75 km SSW of Kaktovik, Alaska"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -144.0073,
-          69.5103,
-          0
+          -144.1571,
+          69.4799,
+          8.3
         ]
       }
     },
@@ -2115,7 +2215,7 @@
         "mag": 5.2,
         "place": "10 km NW of San Fernando, Philippines",
         "time": 1748054170490,
-        "updated": 1748089000990,
+        "updated": 1748102331593,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q18d",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q18d.geojson",
         "title": "M 5.2 - 10 km NW of San Fernando, Philippines"
@@ -3315,7 +3415,7 @@
         "mag": 3.1,
         "place": "114 km S of Gulf Shores, Alabama",
         "time": 1748029289773,
-        "updated": 1748098363720,
+        "updated": 1748101731419,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q16f",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q16f.geojson",
         "title": "M 3.1 - 114 km S of Gulf Shores, Alabama"
@@ -16635,7 +16735,7 @@
         "mag": 1.8,
         "place": "14 km SW of Packwood, Washington",
         "time": 1747806663870,
-        "updated": 1747855746596,
+        "updated": 1748101421870,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62113736",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62113736.geojson",
         "title": "M 1.8 - 14 km SW of Packwood, Washington"
@@ -39046,346 +39146,6 @@
           -167.5096,
           53.569,
           13.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747497391320,
-        "updated": 1747499238787,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183567",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183567.geojson",
-        "title": "M 1.1 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.841667175293,
-          38.8194999694824,
-          1.94000005722046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 5.1,
-        "place": "24 km SSW of Kyaukse, Burma (Myanmar)",
-        "time": 1747497287176,
-        "updated": 1747753055507,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzv3",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzv3.geojson",
-        "title": "M 5.1 - 24 km SSW of Kyaukse, Burma (Myanmar)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.0381,
-          21.3995,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.33,
-        "place": "59 km NW of Beluga, Alaska",
-        "time": 1747496859390,
-        "updated": 1747596204810,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93609386",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93609386.geojson",
-        "title": "M 0.3 - 59 km NW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.8985,
-          61.501,
-          8.79
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.32,
-        "place": "3 km NW of The Geysers, CA",
-        "time": 1747496594670,
-        "updated": 1747528939083,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183562",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183562.geojson",
-        "title": "M 0.3 - 3 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.781666666667,
-          38.7965,
-          3.42
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.53,
-        "place": "2 km ESE of Indios, Puerto Rico",
-        "time": 1747496435810,
-        "updated": 1747497798740,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71482693",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71482693.geojson",
-        "title": "M 1.5 - 2 km ESE of Indios, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.8003333333333,
-          17.9845,
-          15.11
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.76,
-        "place": "9 km NW of The Geysers, CA",
-        "time": 1747496375460,
-        "updated": 1747498038672,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183557",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183557.geojson",
-        "title": "M 0.8 - 9 km NW of The Geysers, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.846168518066,
-          38.8181648254395,
-          5.05000019073486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.3,
-        "place": "20 km NNE of Atka, Alaska",
-        "time": 1747495914448,
-        "updated": 1748010544245,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256atqt3a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256atqt3a.geojson",
-        "title": "M 2.3 - 20 km NNE of Atka, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.1064,
-          52.3724,
-          159.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.73,
-        "place": "17 km NE of Packwood, Washington",
-        "time": 1747495594330,
-        "updated": 1747589486080,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62101922",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw62101922.geojson",
-        "title": "M 0.7 - 17 km NE of Packwood, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.53,
-          46.73316666666667,
-          4.88
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.81,
-        "place": "22 km E of Little Lake, CA",
-        "time": 1747495202630,
-        "updated": 1747576746889,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155104",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155104.geojson",
-        "title": "M 0.8 - 22 km E of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6678333,
-          35.9463333,
-          6.97
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.23,
-        "place": "89 km W of Adak, Alaska",
-        "time": 1747495051100,
-        "updated": 1747595356620,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93609356",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93609356.geojson",
-        "title": "M -0.2 - 89 km W of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.935,
-          51.8731666666667,
-          7.36
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "11 km SSW of Idyllwild, CA",
-        "time": 1747495011020,
-        "updated": 1747576846180,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41155088",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41155088.geojson",
-        "title": "M 2.0 - 11 km SSW of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7758333,
-          33.654,
-          12.92
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.5,
-        "place": "35 km NNW of Beluga, Alaska",
-        "time": 1747494910003,
-        "updated": 1747964450919,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256atna8v",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256atna8v.geojson",
-        "title": "M 2.5 - 35 km NNW of Beluga, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.2212,
-          61.4555,
-          0.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.9,
-        "place": "133 km SSE of Sand Point, Alaska",
-        "time": 1747494568021,
-        "updated": 1748010543316,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pzuw",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pzuw.geojson",
-        "title": "M 4.9 - 133 km SSE of Sand Point, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -159.868,
-          54.1937,
-          35
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.41,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747494475950,
-        "updated": 1747526587963,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75183532",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75183532.geojson",
-        "title": "M 0.4 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.7975,
-          38.8356666666667,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.7,
-        "place": "127 km SSW of Adak, Alaska",
-        "time": 1747494439451,
-        "updated": 1747964393799,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256atll8p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256atll8p.geojson",
-        "title": "M 1.7 - 127 km SSW of Adak, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.2475,
-          50.7896,
-          4.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.99,
-        "place": "11 km E of Pāhala, Hawaii",
-        "time": 1747494351820,
-        "updated": 1747494570440,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74674807",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74674807.geojson",
-        "title": "M 2.0 - 11 km E of Pāhala, Hawaii"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.372833251953,
-          19.2108325958252,
-          30.0300006866455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.08,
-        "place": "24 km NW of Stanley, Idaho",
-        "time": 1747494213860,
-        "updated": 1747500449020,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90086628",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/mb90086628.geojson",
-        "title": "M 1.1 - 24 km NW of Stanley, Idaho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.179833333333,
-          44.3471666666667,
-          3.81
         ]
       }
     }

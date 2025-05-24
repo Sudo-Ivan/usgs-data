@@ -1,50 +1,50 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748098890000,
+    "generated": 1748102550000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 6
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.6,
-        "place": "4 km NNW of Lytle Creek, CA",
-        "time": 1748097266850,
-        "updated": 1748098138743,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974791",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974791.geojson",
-        "title": "M 2.6 - 4 km NNW of Lytle Creek, CA"
+        "mag": 1.08,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1748101753520,
+        "updated": 1748101852767,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185916",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185916.geojson",
+        "title": "M 1.1 - 7 km WNW of Cobb, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.524,
-          34.2936667,
-          9.52
+          -122.797500610352,
+          38.8381652832031,
+          2.27999997138977
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 4.9,
-        "place": "31 km SW of Sandgerði, Iceland",
-        "time": 1748096512296,
-        "updated": 1748098648282,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1a9",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1a9.geojson",
-        "title": "M 4.9 - 31 km SW of Sandgerði, Iceland"
+        "mag": 4.4,
+        "place": "4 km NE of Keflavík, Iceland",
+        "time": 1748101010254,
+        "updated": 1748102506396,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q1ad",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q1ad.geojson",
+        "title": "M 4.4 - 4 km NE of Keflavík, Iceland"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.0731,
-          63.8068,
+          -22.511,
+          64.0368,
           10
         ]
       }
@@ -52,60 +52,80 @@
     {
       "type": "Feature",
       "properties": {
-        "mag": 0.44,
-        "place": "5 km WSW of Anza, CA",
-        "time": 1748096509510,
-        "updated": 1748096761312,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974775",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974775.geojson",
-        "title": "M 0.4 - 5 km WSW of Anza, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7226667,
-          33.538,
-          3.65
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1,
-        "place": "9 km WSW of Trapper Creek, Alaska",
-        "time": 1748095578300,
-        "updated": 1748095689833,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256mdrdae",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256mdrdae.geojson",
-        "title": "M 1.0 - 9 km WSW of Trapper Creek, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.4077,
-          62.2822,
-          28.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "mag": 1.4,
-        "place": "98 km NW of Yakutat, Alaska",
-        "time": 1748095406380,
-        "updated": 1748095501667,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256mdqqri",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256mdqqri.geojson",
-        "title": "M 1.4 - 98 km NW of Yakutat, Alaska"
+        "place": "12 km W of Stanton, Texas",
+        "time": 1748100809447,
+        "updated": 1748101113474,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kclt",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kclt.geojson",
+        "title": "M 1.4 - 12 km W of Stanton, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -140.9272,
-          60.1953,
-          18.1
+          -101.916,
+          32.118,
+          4.5722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "18 km NW of Big Spring, Texas",
+        "time": 1748100602922,
+        "updated": 1748100762756,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kcls",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kcls.geojson",
+        "title": "M 1.2 - 18 km NW of Big Spring, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.609,
+          32.373,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "26 km NW of Stanton, Texas",
+        "time": 1748099722623,
+        "updated": 1748102435433,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kclh",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kclh.geojson",
+        "title": "M 1.2 - 26 km NW of Stanton, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.969,
+          32.313,
+          0.3253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.27,
+        "place": "22 km NNW of Tehachapi, CA",
+        "time": 1748099143200,
+        "updated": 1748099508403,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974807",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974807.geojson",
+        "title": "M 1.3 - 22 km NNW of Tehachapi, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5198333,
+          35.3206667,
+          5
         ]
       }
     }
