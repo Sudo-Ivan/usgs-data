@@ -1,31 +1,91 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748080934000,
+    "generated": 1748084520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
     "title": "USGS All Earthquakes, Past Day",
     "status": 200,
     "api": "1.14.1",
-    "count": 236
+    "count": 222
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.11,
-        "place": "2 km ESE of Loma Linda, CA",
-        "time": 1748080802070,
-        "updated": 1748080927547,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974455",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974455.geojson",
-        "title": "M 1.1 - 2 km ESE of Loma Linda, CA"
+        "mag": 0.6,
+        "place": "8 km NNW of Ocotillo Wells, CA",
+        "time": 1748082877240,
+        "updated": 1748083088800,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974471",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974471.geojson",
+        "title": "M 0.6 - 8 km NNW of Ocotillo Wells, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2368317,
-          34.0385017,
-          17.08
+          -116.1726667,
+          33.2025,
+          5.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.62,
+        "place": "14 km NW of Ludlow, CA",
+        "time": 1748081847250,
+        "updated": 1748082228465,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974463.geojson",
+        "title": "M 1.6 - 14 km NW of Ludlow, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2848333,
+          34.7965,
+          5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "58 km NW of Toyah, Texas",
+        "time": 1748081185184,
+        "updated": 1748084423095,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kcay",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kcay.geojson",
+        "title": "M 1.6 - 58 km NW of Toyah, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.276,
+          31.644,
+          4.2104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.96,
+        "place": "3 km SE of Loma Linda, CA",
+        "time": 1748080802170,
+        "updated": 1748081041311,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974455",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974455.geojson",
+        "title": "M 1.0 - 3 km SE of Loma Linda, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2406667,
+          34.0326667,
+          16.16
         ]
       }
     },
@@ -155,7 +215,7 @@
         "mag": 2.46,
         "place": "2 km NNW of Pinnacles, CA",
         "time": 1748077807060,
-        "updated": 1748080039231,
+        "updated": 1748083336588,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185821",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185821.geojson",
         "title": "M 2.5 - 2 km NNW of Pinnacles, CA"
@@ -235,7 +295,7 @@
         "mag": 1.12,
         "place": "5 km W of Cobb, CA",
         "time": 1748077382780,
-        "updated": 1748079736192,
+        "updated": 1748082439488,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185816",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185816.geojson",
         "title": "M 1.1 - 5 km W of Cobb, CA"
@@ -4386,346 +4446,6 @@
           -117.8021667,
           34.2803333,
           8.04
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.3,
-        "place": "16 km N of Taldykorgan, Kazakhstan",
-        "time": 1747997930133,
-        "updated": 1748000603040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q11r",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q11r.geojson",
-        "title": "M 4.3 - 16 km N of Taldykorgan, Kazakhstan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.3486,
-          45.1668,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.43,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747997875600,
-        "updated": 1748028009719,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185411",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185411.geojson",
-        "title": "M 0.4 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.798,
-          38.8345,
-          2.02
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.9,
-        "place": "8 km S of Idyllwild, CA",
-        "time": 1747997656660,
-        "updated": 1748019329860,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973471",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973471.geojson",
-        "title": "M 0.9 - 8 km S of Idyllwild, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.7276667,
-          33.6668333,
-          14.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.65,
-        "place": "24 km ESE of Little Lake, CA",
-        "time": 1747997140400,
-        "updated": 1748019334330,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973463",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973463.geojson",
-        "title": "M 0.7 - 24 km ESE of Little Lake, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6508333,
-          35.8678333,
-          5.37
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "48 km ESE of Pedro Bay, Alaska",
-        "time": 1747996865029,
-        "updated": 1748004435040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256ko1reu",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256ko1reu.geojson",
-        "title": "M 2.2 - 48 km ESE of Pedro Bay, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.2794,
-          59.6646,
-          112.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.02,
-        "place": "4 km ESE of Vincent, CA",
-        "time": 1747996760750,
-        "updated": 1748019340662,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973455",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973455.geojson",
-        "title": "M 1.0 - 4 km ESE of Vincent, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.079,
-          34.4883333,
-          9.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.04,
-        "place": "4 km ESE of Vincent, CA",
-        "time": 1747996651460,
-        "updated": 1748019341712,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40973447",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40973447.geojson",
-        "title": "M 1.0 - 4 km ESE of Vincent, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0805,
-          34.4851667,
-          9.6
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.5,
-        "place": "Fiji region",
-        "time": 1747996240856,
-        "updated": 1747998249040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q11p",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q11p.geojson",
-        "title": "M 4.5 - Fiji region"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.7942,
-          -18.5675,
-          576.043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.5,
-        "place": "8 km NNE of Ridgeway, Alaska",
-        "time": 1747996112672,
-        "updated": 1747996222785,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256knz18j",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256knz18j.geojson",
-        "title": "M 1.5 - 8 km NNE of Ridgeway, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.0431,
-          60.6019,
-          35.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": -0.07,
-        "place": "17 km SSW of Unalaska, Alaska",
-        "time": 1747995988670,
-        "updated": 1748044665520,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93042519",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/av93042519.geojson",
-        "title": "M -0.1 - 17 km SSW of Unalaska, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -166.6335,
-          53.7306666666667,
-          11.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.09,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747994998960,
-        "updated": 1747997837045,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185386",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185386.geojson",
-        "title": "M 1.1 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.796836853027,
-          38.8356666564941,
-          2.01999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2,
-        "place": "18 km N of Susitna, Alaska",
-        "time": 1747994851627,
-        "updated": 1747994993356,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256knuj4a",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256knuj4a.geojson",
-        "title": "M 2.0 - 18 km N of Susitna, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.4611,
-          61.7034,
-          57.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.7,
-        "place": "109 km E of Luganville, Vanuatu",
-        "time": 1747994826792,
-        "updated": 1747996041040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q11m",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q11m.geojson",
-        "title": "M 4.7 - 109 km E of Luganville, Vanuatu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          168.167,
-          -15.3565,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.33,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747994807690,
-        "updated": 1748000838384,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185381",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185381.geojson",
-        "title": "M 1.3 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.799163818359,
-          38.8320007324219,
-          1.57000005245209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.66,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747994798210,
-        "updated": 1747996639907,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185376",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185376.geojson",
-        "title": "M 0.7 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.797164916992,
-          38.8375015258789,
-          2.01999998092651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.9,
-        "place": "16 km SE of Anchorage, Alaska",
-        "time": 1747994797062,
-        "updated": 1747994917047,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0256knubso",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0256knubso.geojson",
-        "title": "M 1.9 - 16 km SE of Anchorage, Alaska"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.7064,
-          61.1053,
-          29.9
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.88,
-        "place": "7 km WNW of Cobb, CA",
-        "time": 1747994776830,
-        "updated": 1747995738800,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185371",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185371.geojson",
-        "title": "M 0.9 - 7 km WNW of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.796836853027,
-          38.8373336791992,
-          1.76999998092651
         ]
       }
     }

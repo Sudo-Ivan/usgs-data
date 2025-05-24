@@ -1,251 +1,71 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1748080950000,
+    "generated": 1748084520000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 12
+    "count": 3
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.11,
-        "place": "2 km ESE of Loma Linda, CA",
-        "time": 1748080802070,
-        "updated": 1748080940306,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974455",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974455.geojson",
-        "title": "M 1.1 - 2 km ESE of Loma Linda, CA"
+        "mag": 0.6,
+        "place": "8 km NNW of Ocotillo Wells, CA",
+        "time": 1748082877240,
+        "updated": 1748083088800,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974471",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974471.geojson",
+        "title": "M 0.6 - 8 km NNW of Ocotillo Wells, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.2368317,
-          34.0385017,
-          17.08
+          -116.1726667,
+          33.2025,
+          5.72
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 2.1,
-        "place": "1 km ENE of Jauca, Puerto Rico",
-        "time": 1748080225770,
-        "updated": 1748080782300,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483523",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483523.geojson",
-        "title": "M 2.1 - 1 km ENE of Jauca, Puerto Rico"
+        "mag": 1.62,
+        "place": "14 km NW of Ludlow, CA",
+        "time": 1748081847250,
+        "updated": 1748082228465,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974463",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974463.geojson",
+        "title": "M 1.6 - 14 km NW of Ludlow, CA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.3518333333333,
-          17.9718333333333,
-          16.89
+          -116.2848333,
+          34.7965,
+          5.66
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mag": 1.08,
-        "place": "6 km NNW of The Geysers, CA",
-        "time": 1748079322370,
-        "updated": 1748079514410,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185841",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185841.geojson",
-        "title": "M 1.1 - 6 km NNW of The Geysers, CA"
+        "mag": 1.6,
+        "place": "58 km NW of Toyah, Texas",
+        "time": 1748081185184,
+        "updated": 1748084423095,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025kcay",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025kcay.geojson",
+        "title": "M 1.6 - 58 km NW of Toyah, Texas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.799499511719,
-          38.8226661682129,
-          2.75999999046326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.29,
-        "place": "26 km ENE of Coso Junction, CA",
-        "time": 1748079075250,
-        "updated": 1748079286018,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974439",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974439.geojson",
-        "title": "M 1.3 - 26 km ENE of Coso Junction, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.661,
-          36.0933333,
-          1.61
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.27,
-        "place": "2 km ENE of Jauca, Puerto Rico",
-        "time": 1748078044560,
-        "updated": 1748080270630,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483513",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483513.geojson",
-        "title": "M 2.3 - 2 km ENE of Jauca, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.3488333333333,
-          17.9796666666667,
-          11.62
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.19,
-        "place": "2 km NNW of Pinnacles, CA",
-        "time": 1748077936510,
-        "updated": 1748080637415,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185831",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185831.geojson",
-        "title": "M 1.2 - 2 km NNW of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.153663635254,
-          36.5423316955566,
-          5.8600001335144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 4.6,
-        "place": "9 km E of Shūshtar, Iran",
-        "time": 1748077858667,
-        "updated": 1748079047040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q19d",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000q19d.geojson",
-        "title": "M 4.6 - 9 km E of Shūshtar, Iran"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.9497,
-          32.0635,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.46,
-        "place": "2 km NNW of Pinnacles, CA",
-        "time": 1748077807060,
-        "updated": 1748080039231,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185821",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185821.geojson",
-        "title": "M 2.5 - 2 km NNW of Pinnacles, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.151496887207,
-          36.5443344116211,
-          7.34000015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.56,
-        "place": "1 km WNW of Parcelas Peñuelas, Puerto Rico",
-        "time": 1748077762160,
-        "updated": 1748078640380,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483508",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483508.geojson",
-        "title": "M 2.6 - 1 km WNW of Parcelas Peñuelas, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.3505,
-          18.0038333333333,
-          16.58
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 0.7,
-        "place": "5 km ENE of Moreno Valley, CA",
-        "time": 1748077727540,
-        "updated": 1748078407505,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40974431",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40974431.geojson",
-        "title": "M 0.7 - 5 km ENE of Moreno Valley, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1833333,
-          33.9505,
-          13.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.46,
-        "place": "1 km WSW of Parcelas Peñuelas, Puerto Rico",
-        "time": 1748077621240,
-        "updated": 1748078168670,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71483498",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71483498.geojson",
-        "title": "M 2.5 - 1 km WSW of Parcelas Peñuelas, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.3541666666667,
-          17.9925,
-          15.19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 1.12,
-        "place": "5 km W of Cobb, CA",
-        "time": 1748077382780,
-        "updated": 1748079736192,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75185816",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75185816.geojson",
-        "title": "M 1.1 - 5 km W of Cobb, CA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.785331726074,
-          38.8208351135254,
-          -0.75
+          -104.276,
+          31.644,
+          4.2104
         ]
       }
     }
